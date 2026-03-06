@@ -10,13 +10,13 @@ shit 期刊官网：[shitjournal.org](https://shitjournal.org)
 
 # 新手下载方法
 
-## 1
+## 1.
 
 ---
 
 ![image-20260307013100885](https://assets.gokuscraper.com/images/2026/03/07/ed18f83b78ceaac1.webp)
 
-## 2
+## 2.
 
 ---
 
