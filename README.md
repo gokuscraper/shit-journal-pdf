@@ -4,7 +4,11 @@
 
 后续会不断更新，
 
-点个star，让我们一起 make shit great again ！！！
+
+
+**学术终会落后，被新知取代；而shit，却永远如初。**
+
+
 
 shit 期刊官网：[shitjournal.org](https://shitjournal.org)
 
