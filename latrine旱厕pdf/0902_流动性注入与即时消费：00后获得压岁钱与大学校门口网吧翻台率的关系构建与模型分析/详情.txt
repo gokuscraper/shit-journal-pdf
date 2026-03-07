@@ -1,0 +1,19 @@
+【标题】: 流动性注入与即时消费：00后获得压岁钱与大学校门口网吧翻台率的关系构建与模型分析
+【作者】: Dhh Hdgz
+【机构】: 马屁公园公共厕所
+【zone】: latrine
+【时间】: 2026-03-03T07:36:34.521217+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5ebbd6ef-3297-4834-b1d3-3abdb87bab45",
+    "manuscript_title": "流动性注入与即时消费：00后获得压岁钱与大学校门口网吧翻台率的关系构建与模型分析",
+    "author_name": "Dhh Hdgz",
+    "institution": "马屁公园公共厕所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:36:34.521217+00:00",
+    "avg_score": 0,
+    "pdf_path": "5ebbd6ef-3297-4834-b1d3-3abdb87bab45/Dhh_Hdgz_cheng_keyy_163_com.pdf",
+    "zone": "latrine"
+}

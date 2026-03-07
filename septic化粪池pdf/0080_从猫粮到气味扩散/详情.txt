@@ -1,0 +1,19 @@
+【标题】: 从猫粮到气味扩散
+【作者】: 大甜巧克力
+【机构】: Datian University
+【zone】: septic
+【时间】: 2026-03-02T23:26:56.414419+00:00
+【评分】: 平均 4.1891891891891895 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d66b0393-086f-4834-a535-7dfd546c96a7",
+    "manuscript_title": "从猫粮到气味扩散",
+    "author_name": "大甜巧克力",
+    "institution": "Datian University",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-02T23:26:56.414419+00:00",
+    "avg_score": 4.1891891891891895,
+    "pdf_path": "d66b0393-086f-4834-a535-7dfd546c96a7/______hichelsie18_gmail_com.pdf",
+    "zone": "septic"
+}

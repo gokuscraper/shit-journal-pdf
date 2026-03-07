@@ -1,0 +1,19 @@
+【标题】: 以游戏入三摩地，等持不二
+【作者】: 寂雨
+【机构】: 三界苦海
+【zone】: latrine
+【时间】: 2026-02-22T13:17:30.350526+00:00
+【评分】: 平均 2.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "52f0d3f2-7d63-4c1a-85fb-a15d47c2b34e",
+    "manuscript_title": "以游戏入三摩地，等持不二",
+    "author_name": "寂雨",
+    "institution": "三界苦海",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T13:17:30.350526+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "52f0d3f2-7d63-4c1a-85fb-a15d47c2b34e/paper.pdf",
+    "zone": "latrine"
+}

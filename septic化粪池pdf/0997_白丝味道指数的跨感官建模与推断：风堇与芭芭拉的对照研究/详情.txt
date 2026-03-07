@@ -1,0 +1,19 @@
+【标题】: 白丝味道指数的跨感官建模与推断：风堇与芭芭拉的对照研究
+【作者】: 雪蝶的冰凌
+【机构】: 哔哩哔哩大学
+【zone】: septic
+【时间】: 2026-02-28T15:52:24.389622+00:00
+【评分】: 平均 4.638297872340425 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "52651bfc-fcd1-4eaa-8da1-d8c591ff3718",
+    "manuscript_title": "白丝味道指数的跨感官建模与推断：风堇与芭芭拉的对照研究",
+    "author_name": "雪蝶的冰凌",
+    "institution": "哔哩哔哩大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T15:52:24.389622+00:00",
+    "avg_score": 4.638297872340425,
+    "pdf_path": "52651bfc-fcd1-4eaa-8da1-d8c591ff3718/______654172050_qq_com.pdf",
+    "zone": "septic"
+}

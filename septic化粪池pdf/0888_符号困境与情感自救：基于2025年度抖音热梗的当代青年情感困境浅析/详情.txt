@@ -1,0 +1,19 @@
+【标题】: 符号困境与情感自救：基于2025年度抖音热梗的当代青年情感困境浅析
+【作者】: 冈门·旋转拉式
+【机构】: LataMart University
+【zone】: septic
+【时间】: 2026-03-03T14:42:48.652682+00:00
+【评分】: 平均 4.2368421052631575 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "61c64fdf-b1f2-45e8-829e-2e20a5bd9264",
+    "manuscript_title": "符号困境与情感自救：基于2025年度抖音热梗的当代青年情感困境浅析",
+    "author_name": "冈门·旋转拉式",
+    "institution": "LataMart University",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T14:42:48.652682+00:00",
+    "avg_score": 4.2368421052631575,
+    "pdf_path": "61c64fdf-b1f2-45e8-829e-2e20a5bd9264/________2574962205_qq_com.pdf",
+    "zone": "septic"
+}

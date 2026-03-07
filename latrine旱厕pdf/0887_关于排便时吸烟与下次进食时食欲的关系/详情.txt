@@ -1,0 +1,19 @@
+【标题】: 关于排便时吸烟与下次进食时食欲的关系
+【作者】: DR.dickdick
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-22T11:28:08.055432+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "61cb9b61-4bfe-4ea6-9b25-f2baf995c2e8",
+    "manuscript_title": "关于排便时吸烟与下次进食时食欲的关系",
+    "author_name": "DR.dickdick",
+    "institution": "家里蹲大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T11:28:08.055432+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "61cb9b61-4bfe-4ea6-9b25-f2baf995c2e8/paper.pdf",
+    "zone": "latrine"
+}

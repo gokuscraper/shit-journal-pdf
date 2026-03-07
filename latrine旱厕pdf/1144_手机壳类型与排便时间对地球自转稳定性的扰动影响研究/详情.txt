@@ -1,0 +1,19 @@
+【标题】: 手机壳类型与排便时间对地球自转稳定性的扰动影响研究
+【作者】: 构势头子
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-03-03T10:01:10.04531+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3ce5d9f3-3c6c-4ae9-b1e2-8799ce9aaf10",
+    "manuscript_title": "手机壳类型与排便时间对地球自转稳定性的扰动影响研究",
+    "author_name": "构势头子",
+    "institution": "屎壳郎大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:01:10.04531+00:00",
+    "avg_score": 0,
+    "pdf_path": "3ce5d9f3-3c6c-4ae9-b1e2-8799ce9aaf10/_____18706381157_163_com.pdf",
+    "zone": "latrine"
+}

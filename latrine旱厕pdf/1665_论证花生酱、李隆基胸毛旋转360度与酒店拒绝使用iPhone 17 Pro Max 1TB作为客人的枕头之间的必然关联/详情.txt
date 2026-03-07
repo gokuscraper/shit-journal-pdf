@@ -1,0 +1,19 @@
+【标题】: 论证花生酱、李隆基胸毛旋转360度与酒店拒绝使用iPhone 17 Pro Max 1TB作为客人的枕头之间的必然关联
+【作者】: Athletictimer
+【机构】: 野兽先辈学院
+【zone】: latrine
+【时间】: 2026-02-25T08:36:02.496267+00:00
+【评分】: 平均 2.625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ebf5ac8d-17c1-4521-a772-ea2d12473615",
+    "manuscript_title": "论证花生酱、李隆基胸毛旋转360度与酒店拒绝使用iPhone 17 Pro Max 1TB作为客人的枕头之间的必然关联",
+    "author_name": "Athletictimer",
+    "institution": "野兽先辈学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:36:02.496267+00:00",
+    "avg_score": 2.625,
+    "pdf_path": "ebf5ac8d-17c1-4521-a772-ea2d12473615/Athletictimer_Athletictimer_outlook_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 屎与食物的同一性谜题
+【作者】: Jay
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-25T10:32:17.009751+00:00
+【评分】: 平均 4.318181818181818 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c2a1c4b0-dfce-4ef0-a50d-403050f2af7c",
+    "manuscript_title": "屎与食物的同一性谜题",
+    "author_name": "Jay",
+    "institution": "家里蹲大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:32:17.009751+00:00",
+    "avg_score": 4.318181818181818,
+    "pdf_path": "c2a1c4b0-dfce-4ef0-a50d-403050f2af7c/Jay_jaychong_snu_ac_kr.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论职场人在固定工时制度下的注意力资源最优配置与能量管理策略
+【作者】: M3shit
+【机构】: 土之国public toilet
+【zone】: latrine
+【时间】: 2026-03-03T08:44:55.024977+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7a86eb78-4667-49f6-abfb-e0eed954403b",
+    "manuscript_title": "论职场人在固定工时制度下的注意力资源最优配置与能量管理策略",
+    "author_name": "M3shit",
+    "institution": "土之国public toilet",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:44:55.024977+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "7a86eb78-4667-49f6-abfb-e0eed954403b/M3shit_1511411167_qq_com.pdf",
+    "zone": "latrine"
+}

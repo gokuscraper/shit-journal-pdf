@@ -1,0 +1,19 @@
+【标题】: 基于拓扑学焦虑与量子纠缠态的亲密关系动力学：一项关于"博士对象"能指滑动与承诺延迟的田野研究
+【作者】: 卑微主研PHDog
+【机构】: 清北浙复厦扯旦大学-牛马社会行为综合分析技术中心
+【zone】: latrine
+【时间】: 2026-03-03T11:56:42.412577+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "63edcdcc-7b13-4c01-b86b-e20ea62ab664",
+    "manuscript_title": "基于拓扑学焦虑与量子纠缠态的亲密关系动力学：一项关于\"博士对象\"能指滑动与承诺延迟的田野研究",
+    "author_name": "卑微主研PHDog",
+    "institution": "清北浙复厦扯旦大学-牛马社会行为综合分析技术中心",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:56:42.412577+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "63edcdcc-7b13-4c01-b86b-e20ea62ab664/____PHDog_chenqiansuaige_163_com.pdf",
+    "zone": "latrine"
+}

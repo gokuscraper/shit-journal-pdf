@@ -1,0 +1,19 @@
+【标题】: 括约肌赌局：肛门排泄物随机相变的贝叶斯决策 与最优止损模型
+【作者】: Abel Miao
+【机构】: 华西构石大学构石研究院509厕所
+【zone】: latrine
+【时间】: 2026-03-03T09:54:39.502457+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c615b8c9-9f5b-43d9-a5c4-0f6db69f28ba",
+    "manuscript_title": "括约肌赌局：肛门排泄物随机相变的贝叶斯决策 与最优止损模型",
+    "author_name": "Abel Miao",
+    "institution": "华西构石大学构石研究院509厕所",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T09:54:39.502457+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "c615b8c9-9f5b-43d9-a5c4-0f6db69f28ba/Abel_Miao_2952310350_qq_com.pdf",
+    "zone": "latrine"
+}

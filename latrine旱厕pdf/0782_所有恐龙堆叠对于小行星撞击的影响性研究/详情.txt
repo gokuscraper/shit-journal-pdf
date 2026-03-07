@@ -1,0 +1,19 @@
+【标题】: 所有恐龙堆叠对于小行星撞击的影响性研究
+【作者】: 米田共
+【机构】: 狗屁不通单位
+【zone】: latrine
+【时间】: 2026-02-27T04:26:14.173543+00:00
+【评分】: 平均 2.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "701a940d-62ce-4e47-94d2-4be20fffbf14",
+    "manuscript_title": "所有恐龙堆叠对于小行星撞击的影响性研究",
+    "author_name": "米田共",
+    "institution": "狗屁不通单位",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T04:26:14.173543+00:00",
+    "avg_score": 2.75,
+    "pdf_path": "701a940d-62ce-4e47-94d2-4be20fffbf14/____wjy114514000_qq_com.pdf",
+    "zone": "latrine"
+}

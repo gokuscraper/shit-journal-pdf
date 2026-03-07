@@ -1,0 +1,19 @@
+【标题】: 科研人员对统计显著性符号密度变化的情绪响应阈值研究
+【作者】: 阿九九九九九
+【机构】: Ten Thousand Flower Valley
+【zone】: latrine
+【时间】: 2026-02-27T22:25:32.414249+00:00
+【评分】: 平均 4.636363636363637 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ea35fb8a-b87d-4aed-814a-76689f75d5d9",
+    "manuscript_title": "科研人员对统计显著性符号密度变化的情绪响应阈值研究",
+    "author_name": "阿九九九九九",
+    "institution": "Ten Thousand Flower Valley",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T22:25:32.414249+00:00",
+    "avg_score": 4.636363636363637,
+    "pdf_path": "ea35fb8a-b87d-4aed-814a-76689f75d5d9/_______1002697915_qq_com.pdf",
+    "zone": "latrine"
+}

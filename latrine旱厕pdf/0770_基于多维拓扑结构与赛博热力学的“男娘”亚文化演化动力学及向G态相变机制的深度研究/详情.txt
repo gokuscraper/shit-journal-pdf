@@ -1,0 +1,19 @@
+【标题】: 基于多维拓扑结构与赛博热力学的“男娘”亚文化演化动力学及向G态相变机制的深度研究
+【作者】: 呆呆丸
+【机构】: CQR University
+【zone】: latrine
+【时间】: 2026-02-27T13:09:02.291544+00:00
+【评分】: 平均 4.0588235294117645 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "717d5166-c1c6-453e-af2d-4f192a8e3ba5",
+    "manuscript_title": "基于多维拓扑结构与赛博热力学的“男娘”亚文化演化动力学及向G态相变机制的深度研究",
+    "author_name": "呆呆丸",
+    "institution": "CQR University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T13:09:02.291544+00:00",
+    "avg_score": 4.0588235294117645,
+    "pdf_path": "717d5166-c1c6-453e-af2d-4f192a8e3ba5/____qrchen2006_gmail_com.pdf",
+    "zone": "latrine"
+}

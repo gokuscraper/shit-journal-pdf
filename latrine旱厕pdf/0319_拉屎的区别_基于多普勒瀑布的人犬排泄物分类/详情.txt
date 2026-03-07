@@ -1,0 +1,19 @@
+【标题】: 拉屎的区别:基于多普勒瀑布的人犬排泄物分类
+【作者】: 星芒
+【机构】: 家里蹲坑大学
+【zone】: latrine
+【时间】: 2026-02-27T12:12:10.387156+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b50ad797-82b9-42dc-a887-cfc90cdd3c4c",
+    "manuscript_title": "拉屎的区别:基于多普勒瀑布的人犬排泄物分类",
+    "author_name": "星芒",
+    "institution": "家里蹲坑大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T12:12:10.387156+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "b50ad797-82b9-42dc-a887-cfc90cdd3c4c/___3239638642_qq_com.pdf",
+    "zone": "latrine"
+}

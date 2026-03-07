@@ -1,0 +1,19 @@
+【标题】: 导师署名的热力学第零定律：论学术食物链中挂名权的传递性与不可逆性
+【作者】: Kin
+【机构】: Center for Banquet Dynamics
+【zone】: septic
+【时间】: 2026-03-03T18:07:51.976764+00:00
+【评分】: 平均 4.73469387755102 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a6e35f7d-ea70-4710-945a-fc23db44f6bd",
+    "manuscript_title": "导师署名的热力学第零定律：论学术食物链中挂名权的传递性与不可逆性",
+    "author_name": "Kin",
+    "institution": "Center for Banquet Dynamics",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T18:07:51.976764+00:00",
+    "avg_score": 4.73469387755102,
+    "pdf_path": "a6e35f7d-ea70-4710-945a-fc23db44f6bd/Kin_kin_shit_edu_cn.pdf",
+    "zone": "septic"
+}

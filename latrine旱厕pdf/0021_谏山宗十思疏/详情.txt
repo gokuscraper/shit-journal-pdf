@@ -1,0 +1,19 @@
+【标题】: 谏山宗十思疏
+【作者】: shanzong
+【机构】: 泌阳一高2318班摸鱼研究室
+【zone】: latrine
+【时间】: 2026-02-28T05:23:13.329178+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "dea216a0-ed8e-4157-ab95-659a7035c3f7",
+    "manuscript_title": "谏山宗十思疏",
+    "author_name": "shanzong",
+    "institution": "泌阳一高2318班摸鱼研究室",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T05:23:13.329178+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "dea216a0-ed8e-4157-ab95-659a7035c3f7/shanzong_3205542139_qq_com.pdf",
+    "zone": "latrine"
+}

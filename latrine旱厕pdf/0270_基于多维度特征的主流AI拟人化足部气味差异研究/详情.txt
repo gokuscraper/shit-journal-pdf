@@ -1,0 +1,19 @@
+【标题】: 基于多维度特征的主流AI拟人化足部气味差异研究
+【作者】: 莲足·P
+【机构】: DalianZuUniversity
+【zone】: latrine
+【时间】: 2026-02-28T06:04:12.039183+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ba916a84-0e4b-4bf0-b7cb-a05014b5d5b6",
+    "manuscript_title": "基于多维度特征的主流AI拟人化足部气味差异研究",
+    "author_name": "莲足·P",
+    "institution": "DalianZuUniversity",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:04:12.039183+00:00",
+    "avg_score": 0,
+    "pdf_path": "ba916a84-0e4b-4bf0-b7cb-a05014b5d5b6/___P_1465773235_qq_com.pdf",
+    "zone": "latrine"
+}

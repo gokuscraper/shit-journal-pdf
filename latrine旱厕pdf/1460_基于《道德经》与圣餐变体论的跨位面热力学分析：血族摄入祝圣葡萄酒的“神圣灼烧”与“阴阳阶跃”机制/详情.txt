@@ -1,0 +1,19 @@
+【标题】: 基于《道德经》与圣餐变体论的跨位面热力学分析：血族摄入祝圣葡萄酒的“神圣灼烧”与“阴阳阶跃”机制
+【作者】: nobug
+【机构】: Say What You Dream University（SWDU）
+【zone】: latrine
+【时间】: 2026-02-27T18:38:56.05754+00:00
+【评分】: 平均 3.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "11519b00-4671-4d7c-91fa-ba97b7100415",
+    "manuscript_title": "基于《道德经》与圣餐变体论的跨位面热力学分析：血族摄入祝圣葡萄酒的“神圣灼烧”与“阴阳阶跃”机制",
+    "author_name": "nobug",
+    "institution": "Say What You Dream University（SWDU）",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T18:38:56.05754+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "11519b00-4671-4d7c-91fa-ba97b7100415/nobug_notfined_404_com.pdf",
+    "zone": "latrine"
+}

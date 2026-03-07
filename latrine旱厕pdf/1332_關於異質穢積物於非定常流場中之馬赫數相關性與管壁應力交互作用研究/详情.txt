@@ -1,0 +1,19 @@
+【标题】: 關於異質穢積物於非定常流場中之馬赫數相關性與管壁應力交互作用研究
+【作者】: 異質多相穢積拓撲缺陷特徵介導暨非定常弛豫監察總署署長
+【机构】: IMTRD (Institute of Multiphase Topological Relaxation Dynamics)
+【zone】: latrine
+【时间】: 2026-02-25T08:27:05.03008+00:00
+【评分】: 平均 3.4545454545454546 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "22814c2e-2449-4266-ac83-48fecd8ba3b6",
+    "manuscript_title": "關於異質穢積物於非定常流場中之馬赫數相關性與管壁應力交互作用研究",
+    "author_name": "異質多相穢積拓撲缺陷特徵介導暨非定常弛豫監察總署署長",
+    "institution": "IMTRD (Institute of Multiphase Topological Relaxation Dynamics)",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:27:05.03008+00:00",
+    "avg_score": 3.4545454545454546,
+    "pdf_path": "22814c2e-2449-4266-ac83-48fecd8ba3b6/___________________________lyouxiang89_gmail_com.pdf",
+    "zone": "latrine"
+}

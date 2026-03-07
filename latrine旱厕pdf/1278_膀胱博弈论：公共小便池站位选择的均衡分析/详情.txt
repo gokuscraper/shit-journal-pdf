@@ -1,0 +1,19 @@
+【标题】: 膀胱博弈论：公共小便池站位选择的均衡分析
+【作者】: Colubrid_L
+【机构】: 圣甲虫大学
+【zone】: latrine
+【时间】: 2026-02-24T06:44:46.4326+00:00
+【评分】: 平均 4.25 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "294e27c7-2b52-45a0-bfe1-93024b9f597f",
+    "manuscript_title": "膀胱博弈论：公共小便池站位选择的均衡分析",
+    "author_name": "Colubrid_L",
+    "institution": "圣甲虫大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T06:44:46.4326+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "294e27c7-2b52-45a0-bfe1-93024b9f597f/paper.pdf",
+    "zone": "latrine"
+}

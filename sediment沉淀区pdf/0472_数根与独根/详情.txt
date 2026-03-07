@@ -1,0 +1,19 @@
+【标题】: 数根与独根
+【作者】: 数学酱
+【机构】: 数学可学大学
+【zone】: sediment
+【时间】: 2026-03-02T03:14:23.385855+00:00
+【评分】: 平均 3.7191011235955056 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "9ddee88e-a14b-44f1-94c6-fa07a1a32c92",
+    "manuscript_title": "数根与独根",
+    "author_name": "数学酱",
+    "institution": "数学可学大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T03:14:23.385855+00:00",
+    "avg_score": 3.7191011235955056,
+    "pdf_path": "9ddee88e-a14b-44f1-94c6-fa07a1a32c92/____2366350574_qq_com.pdf",
+    "zone": "sediment"
+}

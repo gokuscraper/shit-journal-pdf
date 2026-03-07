@@ -1,0 +1,19 @@
+【标题】: 西安市路边停车行为的序贯博弈分析：基于行政 预警、多空套利与“额贼”心理的建模探索
+【作者】: alien10086
+【机构】: 西安工业大道与凉皮研究中心
+【zone】: sediment
+【时间】: 2026-03-03T01:22:16.588779+00:00
+【评分】: 平均 3.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "0997b2c6-7add-47b7-af07-e5f8b9f62ae5",
+    "manuscript_title": "西安市路边停车行为的序贯博弈分析：基于行政 预警、多空套利与“额贼”心理的建模探索",
+    "author_name": "alien10086",
+    "institution": "西安工业大道与凉皮研究中心",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T01:22:16.588779+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "0997b2c6-7add-47b7-af07-e5f8b9f62ae5/alien10086_liguozheng10086_gmail_com.pdf",
+    "zone": "sediment"
+}

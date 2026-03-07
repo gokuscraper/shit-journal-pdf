@@ -1,0 +1,19 @@
+【标题】: 天气好坏与将要开学学生心情的相关性研究
+【作者】: 停停停，翻到上一页
+【机构】: Stay-at-home University
+【zone】: latrine
+【时间】: 2026-02-28T05:08:45.793031+00:00
+【评分】: 平均 4.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "41d76c1b-8fa5-40a8-bb65-6ecd08940d01",
+    "manuscript_title": "天气好坏与将要开学学生心情的相关性研究",
+    "author_name": "停停停，翻到上一页",
+    "institution": "Stay-at-home University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T05:08:45.793031+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "41d76c1b-8fa5-40a8-bb65-6ecd08940d01/__________2865756085_qq_com.pdf",
+    "zone": "latrine"
+}

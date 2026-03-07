@@ -1,0 +1,19 @@
+【标题】: 闹钟距离与关闭难易程度对人起床的影响
+【作者】: 王伍不加三
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-23T08:52:22.579681+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e2735c16-61ed-4848-8d29-6eaa7b8a2174",
+    "manuscript_title": "闹钟距离与关闭难易程度对人起床的影响",
+    "author_name": "王伍不加三",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:52:22.579681+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "e2735c16-61ed-4848-8d29-6eaa7b8a2174/paper.pdf",
+    "zone": "latrine"
+}

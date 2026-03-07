@@ -1,0 +1,19 @@
+【标题】: 论《明日方舟》与“玉足”之间的辩证关系 ——从服饰逻辑到亚文化符号的建构与扩散
+【作者】: Dr.龙村祈
+【机构】: 罗德岛办事处
+【zone】: latrine
+【时间】: 2026-02-28T08:53:45.441113+00:00
+【评分】: 平均 4.6 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f79fc8c8-f2dd-4670-96d8-8e9d635ef71e",
+    "manuscript_title": "论《明日方舟》与“玉足”之间的辩证关系 ——从服饰逻辑到亚文化符号的建构与扩散",
+    "author_name": "Dr.龙村祈",
+    "institution": "罗德岛办事处",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:53:45.441113+00:00",
+    "avg_score": 4.6,
+    "pdf_path": "f79fc8c8-f2dd-4670-96d8-8e9d635ef71e/Dr_____227900836_qq_com.pdf",
+    "zone": "latrine"
+}

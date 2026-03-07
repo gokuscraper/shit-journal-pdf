@@ -1,0 +1,19 @@
+【标题】: 梦的版权问题：梦中出现的陌生人是否拥有人格权
+【作者】: dr.jeff
+【机构】: 梦里什么都有研究所
+【zone】: septic
+【时间】: 2026-02-27T11:44:18.633409+00:00
+【评分】: 平均 4.535211267605634 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ff2eed45-0c51-4915-b3b4-9c83c082bfe9",
+    "manuscript_title": "梦的版权问题：梦中出现的陌生人是否拥有人格权",
+    "author_name": "dr.jeff",
+    "institution": "梦里什么都有研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T11:44:18.633409+00:00",
+    "avg_score": 4.535211267605634,
+    "pdf_path": "ff2eed45-0c51-4915-b3b4-9c83c082bfe9/dr_jeff_1876643293_qq_com.pdf",
+    "zone": "septic"
+}

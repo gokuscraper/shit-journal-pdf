@@ -1,0 +1,19 @@
+【标题】: 导师审稿意见的信息含量测定：基于香农熵的"这部分再想想"语义分析
+【作者】: Kin
+【机构】: 无效通信实验室
+【zone】: septic
+【时间】: 2026-03-03T18:50:37.044312+00:00
+【评分】: 平均 4.564102564102564 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fe6821b8-8d52-48e8-a119-c31b2717d880",
+    "manuscript_title": "导师审稿意见的信息含量测定：基于香农熵的\"这部分再想想\"语义分析",
+    "author_name": "Kin",
+    "institution": "无效通信实验室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T18:50:37.044312+00:00",
+    "avg_score": 4.564102564102564,
+    "pdf_path": "fe6821b8-8d52-48e8-a119-c31b2717d880/Kin_kin_phd_shit_cn.pdf",
+    "zone": "septic"
+}

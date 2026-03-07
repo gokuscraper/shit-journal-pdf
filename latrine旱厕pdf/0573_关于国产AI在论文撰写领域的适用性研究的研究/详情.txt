@@ -1,0 +1,19 @@
+【标题】: 关于国产AI在论文撰写领域的适用性研究的研究
+【作者】: Dr.TonyJ
+【机构】: TBs Future Science Research Institute
+【zone】: latrine
+【时间】: 2026-02-25T07:51:17.71239+00:00
+【评分】: 平均 3.9565217391304346 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8d98a496-6b60-44fd-a119-aadec5f3d84a",
+    "manuscript_title": "关于国产AI在论文撰写领域的适用性研究的研究",
+    "author_name": "Dr.TonyJ",
+    "institution": "TBs Future Science Research Institute",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:51:17.71239+00:00",
+    "avg_score": 3.9565217391304346,
+    "pdf_path": "8d98a496-6b60-44fd-a119-aadec5f3d84a/Dr_TonyJ_tjfs_gt_institute_163_com.pdf",
+    "zone": "latrine"
+}

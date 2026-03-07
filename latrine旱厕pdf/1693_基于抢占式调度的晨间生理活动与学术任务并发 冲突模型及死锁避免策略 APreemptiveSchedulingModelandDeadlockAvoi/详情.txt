@@ -1,0 +1,19 @@
+【标题】: 基于抢占式调度的晨间生理活动与学术任务并发 冲突模型及死锁避免策略 APreemptiveSchedulingModelandDeadlockAvoidanceStrategyforConcurrentConflictsbetween MorningPhysiologicalActivitiesandAcademicTasks
+【作者】: 拉屎大王
+【机构】: 粑粑国大学（DepartmentofAppliedBathroomEngineering）
+【zone】: latrine
+【时间】: 2026-03-03T06:20:32.528268+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f0c292c3-7506-42bb-b870-afaa562edfa3",
+    "manuscript_title": "基于抢占式调度的晨间生理活动与学术任务并发 冲突模型及死锁避免策略 APreemptiveSchedulingModelandDeadlockAvoidanceStrategyforConcurrentConflictsbetween MorningPhysiologicalActivitiesandAcademicTasks",
+    "author_name": "拉屎大王",
+    "institution": "粑粑国大学（DepartmentofAppliedBathroomEngineering）",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T06:20:32.528268+00:00",
+    "avg_score": 0,
+    "pdf_path": "f0c292c3-7506-42bb-b870-afaa562edfa3/_____3044354377mx_gmail_com.pdf",
+    "zone": "latrine"
+}

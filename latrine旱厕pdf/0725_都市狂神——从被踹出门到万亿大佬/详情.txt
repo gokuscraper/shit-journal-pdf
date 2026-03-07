@@ -1,0 +1,19 @@
+【标题】: 都市狂神——从被踹出门到万亿大佬
+【作者】: Prof. ISAACING
+【机构】: 番禺大学出版社
+【zone】: latrine
+【时间】: 2026-02-28T18:53:41.09465+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7805f76d-b68b-46bb-a2ab-a29ac40fbae4",
+    "manuscript_title": "都市狂神——从被踹出门到万亿大佬",
+    "author_name": "Prof. ISAACING",
+    "institution": "番禺大学出版社",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T18:53:41.09465+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "7805f76d-b68b-46bb-a2ab-a29ac40fbae4/Prof__ISAACING_prof_isaacing_163_com.pdf",
+    "zone": "latrine"
+}

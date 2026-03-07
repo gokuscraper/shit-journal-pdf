@@ -1,0 +1,19 @@
+【标题】: 基于成文法式起草与合规妥适性原则的 S.H.I.T 期刊平台治理草案：具实际交互性的人本去中心化学术评价方式与治理规则
+【作者】: 法式螺翔（Aether•Juris• Wilde THE Magician）
+【机构】: Haman Law School (HLS) 🌿💯
+【zone】: septic
+【时间】: 2026-02-27T06:55:09.788474+00:00
+【评分】: 平均 4.480769230769231 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f023e77c-054d-4fef-8ab6-c0afda723646",
+    "manuscript_title": "基于成文法式起草与合规妥适性原则的 S.H.I.T 期刊平台治理草案：具实际交互性的人本去中心化学术评价方式与治理规则",
+    "author_name": "法式螺翔（Aether•Juris• Wilde THE Magician）",
+    "institution": "Haman Law School (HLS) 🌿💯",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T06:55:09.788474+00:00",
+    "avg_score": 4.480769230769231,
+    "pdf_path": "f023e77c-054d-4fef-8ab6-c0afda723646/_____Aether_Juris__Wilde_THE_Magician__kujonastudio_gmail_com.pdf",
+    "zone": "septic"
+}

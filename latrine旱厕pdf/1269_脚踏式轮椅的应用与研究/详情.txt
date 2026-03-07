@@ -1,0 +1,19 @@
+【标题】: 脚踏式轮椅的应用与研究
+【作者】: 法克·谢特
+【机构】: 马德发可大学
+【zone】: latrine
+【时间】: 2026-02-22T10:31:05.314182+00:00
+【评分】: 平均 2.3333333333333335 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2a7dd709-5ef4-4860-995b-454c3b319c9c",
+    "manuscript_title": "脚踏式轮椅的应用与研究",
+    "author_name": "法克·谢特",
+    "institution": "马德发可大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T10:31:05.314182+00:00",
+    "avg_score": 2.3333333333333335,
+    "pdf_path": "2a7dd709-5ef4-4860-995b-454c3b319c9c/paper.pdf",
+    "zone": "latrine"
+}

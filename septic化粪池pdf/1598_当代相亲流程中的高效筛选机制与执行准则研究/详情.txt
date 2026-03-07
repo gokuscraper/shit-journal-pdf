@@ -1,0 +1,19 @@
+【标题】: 当代相亲流程中的高效筛选机制与执行准则研究
+【作者】: M77 Star Cloud King
+【机构】: Stay Home University
+【zone】: septic
+【时间】: 2026-03-02T06:27:57.593185+00:00
+【评分】: 平均 4.285714285714286 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e297358f-5de8-4d35-bfa5-59eb5e7b3343",
+    "manuscript_title": "当代相亲流程中的高效筛选机制与执行准则研究",
+    "author_name": "M77 Star Cloud King",
+    "institution": "Stay Home University",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T06:27:57.593185+00:00",
+    "avg_score": 4.285714285714286,
+    "pdf_path": "e297358f-5de8-4d35-bfa5-59eb5e7b3343/M77_Star_Cloud_King_lizhijian595_163_com.pdf",
+    "zone": "septic"
+}

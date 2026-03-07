@@ -1,0 +1,19 @@
+【标题】: 论阴间货币体系超发与托梦概率的相关性研究——基于焚烧祭祀与轮回通货膨胀的跨维度经济模型
+【作者】: Yunlk
+【机构】: 提瓦特大陆璃月港绯云坡往生堂
+【zone】: stone
+【时间】: 2026-02-25T23:24:00.350833+00:00
+【评分】: 平均 4.672839506172839 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fc2f47ab-e22d-4701-a44f-d34bdf7c843f",
+    "manuscript_title": "论阴间货币体系超发与托梦概率的相关性研究——基于焚烧祭祀与轮回通货膨胀的跨维度经济模型",
+    "author_name": "Yunlk",
+    "institution": "提瓦特大陆璃月港绯云坡往生堂",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T23:24:00.350833+00:00",
+    "avg_score": 4.672839506172839,
+    "pdf_path": "fc2f47ab-e22d-4701-a44f-d34bdf7c843f/Yunlk_consultant_yunlk_wangshengtang_ly.pdf",
+    "zone": "stone"
+}

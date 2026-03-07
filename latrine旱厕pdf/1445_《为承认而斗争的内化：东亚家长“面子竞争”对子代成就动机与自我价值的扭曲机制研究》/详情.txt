@@ -1,0 +1,19 @@
+【标题】: 《为承认而斗争的内化：东亚家长“面子竞争”对子代成就动机与自我价值的扭曲机制研究》
+【作者】: Zero & power shit
+【机构】: comfortable power university
+【zone】: latrine
+【时间】: 2026-03-03T06:05:16.40965+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1436ca70-8528-4c36-a82f-a06579a78941",
+    "manuscript_title": "《为承认而斗争的内化：东亚家长“面子竞争”对子代成就动机与自我价值的扭曲机制研究》",
+    "author_name": "Zero & power shit",
+    "institution": "comfortable power university",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T06:05:16.40965+00:00",
+    "avg_score": 0,
+    "pdf_path": "1436ca70-8528-4c36-a82f-a06579a78941/Zero___power_shit_1778954070_qq_com.pdf",
+    "zone": "latrine"
+}

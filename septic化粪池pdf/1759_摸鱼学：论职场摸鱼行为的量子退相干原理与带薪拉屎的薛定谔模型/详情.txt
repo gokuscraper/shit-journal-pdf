@@ -1,0 +1,19 @@
+【标题】: 摸鱼学：论职场摸鱼行为的量子退相干原理与带薪拉屎的薛定谔模型
+【作者】: The Logjam Liberation Front
+【机构】: 排便动力学实验室
+【zone】: septic
+【时间】: 2026-03-02T08:36:14.827362+00:00
+【评分】: 平均 3.945945945945946 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fb28fca2-f22c-4697-b516-0d1db6a79d97",
+    "manuscript_title": "摸鱼学：论职场摸鱼行为的量子退相干原理与带薪拉屎的薛定谔模型",
+    "author_name": "The Logjam Liberation Front",
+    "institution": "排便动力学实验室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T08:36:14.827362+00:00",
+    "avg_score": 3.945945945945946,
+    "pdf_path": "fb28fca2-f22c-4697-b516-0d1db6a79d97/The_Logjam_Liberation_Front_2337239079_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 关于屎的研究
+【作者】: 老八资深研究员
+【机构】: 北京拉屎大学
+【zone】: latrine
+【时间】: 2026-02-23T04:23:51.737083+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5443bc87-f6e7-40b2-99b5-e6d20f324c31",
+    "manuscript_title": "关于屎的研究",
+    "author_name": "老八资深研究员",
+    "institution": "北京拉屎大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T04:23:51.737083+00:00",
+    "avg_score": 0,
+    "pdf_path": "5443bc87-f6e7-40b2-99b5-e6d20f324c31/paper.pdf",
+    "zone": "latrine"
+}

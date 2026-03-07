@@ -1,0 +1,19 @@
+【标题】: 论捏Ta生图质量对Phigros的Rks的关联性函数建模
+【作者】: 艾汐rks不到16
+【机构】: 捏Ta学院
+【zone】: septic
+【时间】: 2026-03-01T11:40:10.045806+00:00
+【评分】: 平均 4.32258064516129 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ecdd517d-494f-4621-a4bf-88e5671a0bdf",
+    "manuscript_title": "论捏Ta生图质量对Phigros的Rks的关联性函数建模",
+    "author_name": "艾汐rks不到16",
+    "institution": "捏Ta学院",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-01T11:40:10.045806+00:00",
+    "avg_score": 4.32258064516129,
+    "pdf_path": "ecdd517d-494f-4621-a4bf-88e5671a0bdf/__rks__16_qllgql_love_163_com.pdf",
+    "zone": "septic"
+}

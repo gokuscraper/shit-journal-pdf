@@ -1,0 +1,19 @@
+【标题】: Mercedes-Benz E300 对恋爱关系中的亲密度增长系数的影响研究
+【作者】: C.J.呕洋风
+【机构】: 她不爱我研究所
+【zone】: latrine
+【时间】: 2026-03-03T10:17:48.840829+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b3844075-0b22-45d5-aafc-daaa7b58e849",
+    "manuscript_title": "Mercedes-Benz E300 对恋爱关系中的亲密度增长系数的影响研究",
+    "author_name": "C.J.呕洋风",
+    "institution": "她不爱我研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:17:48.840829+00:00",
+    "avg_score": 0,
+    "pdf_path": "b3844075-0b22-45d5-aafc-daaa7b58e849/C_J_____jinggangcai_gmail_com.pdf",
+    "zone": "latrine"
+}

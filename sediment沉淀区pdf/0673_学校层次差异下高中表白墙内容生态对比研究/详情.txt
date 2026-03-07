@@ -1,0 +1,19 @@
+【标题】: 学校层次差异下高中表白墙内容生态对比研究
+【作者】: SAwassnn
+【机构】: TCU
+【zone】: sediment
+【时间】: 2026-03-03T16:08:58.733395+00:00
+【评分】: 平均 3.3225806451612905 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7f5b15f0-411b-4832-a704-860a186f7df7",
+    "manuscript_title": "学校层次差异下高中表白墙内容生态对比研究",
+    "author_name": "SAwassnn",
+    "institution": "TCU",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T16:08:58.733395+00:00",
+    "avg_score": 3.3225806451612905,
+    "pdf_path": "7f5b15f0-411b-4832-a704-860a186f7df7/SAwassnn_13217835967_163_com.pdf",
+    "zone": "sediment"
+}

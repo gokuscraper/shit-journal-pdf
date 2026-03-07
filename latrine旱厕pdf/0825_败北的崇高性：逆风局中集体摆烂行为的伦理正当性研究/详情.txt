@@ -1,0 +1,19 @@
+【标题】: 败北的崇高性：逆风局中集体摆烂行为的伦理正当性研究
+【作者】: 屎壳郎
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-02-25T08:16:19.550173+00:00
+【评分】: 平均 3.4 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6a65f60f-7daf-4707-a24b-6606d1c708c5",
+    "manuscript_title": "败北的崇高性：逆风局中集体摆烂行为的伦理正当性研究",
+    "author_name": "屎壳郎",
+    "institution": "屎壳郎大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:16:19.550173+00:00",
+    "avg_score": 3.4,
+    "pdf_path": "6a65f60f-7daf-4707-a24b-6606d1c708c5/____346902046_qq_com.pdf",
+    "zone": "latrine"
+}

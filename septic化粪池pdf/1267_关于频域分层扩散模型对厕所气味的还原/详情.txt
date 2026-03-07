@@ -1,0 +1,19 @@
+【标题】: 关于频域分层扩散模型对厕所气味的还原
+【作者】: Shiting·Chicken
+【机构】: International Institute of Excreta and Flatulence Studies (IIEFS)
+【zone】: septic
+【时间】: 2026-03-01T15:51:32.004787+00:00
+【评分】: 平均 4.470588235294118 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2b35b6c2-fb1a-457c-bb50-cf44a4daeaad",
+    "manuscript_title": "关于频域分层扩散模型对厕所气味的还原",
+    "author_name": "Shiting·Chicken",
+    "institution": "International Institute of Excreta and Flatulence Studies (IIEFS)",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T15:51:32.004787+00:00",
+    "avg_score": 4.470588235294118,
+    "pdf_path": "2b35b6c2-fb1a-457c-bb50-cf44a4daeaad/Shiting_Chicken_3509417485_qq_com.pdf",
+    "zone": "septic"
+}

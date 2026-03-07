@@ -1,0 +1,19 @@
+【标题】: 亲密关系中的“隐性成本转嫁”现象研究——基于情感交换中“捞男”行为的类型学分析
+【作者】: H.E.答辩女王
+【机构】: 克莱登大学
+【zone】: sediment
+【时间】: 2026-02-27T16:32:06.00116+00:00
+【评分】: 平均 3.46875 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "82a5a73c-49d7-419d-839d-b5ce9d8e2f0b",
+    "manuscript_title": "亲密关系中的“隐性成本转嫁”现象研究——基于情感交换中“捞男”行为的类型学分析",
+    "author_name": "H.E.答辩女王",
+    "institution": "克莱登大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:32:06.00116+00:00",
+    "avg_score": 3.46875,
+    "pdf_path": "82a5a73c-49d7-419d-839d-b5ce9d8e2f0b/H_E______pooppoop_shitmail_com.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 论为什么中国人都在福瑞圈
+【作者】: kyt486
+【机构】: 排泄研究中心
+【zone】: sediment
+【时间】: 2026-02-25T11:59:43.87449+00:00
+【评分】: 平均 2.838709677419355 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a3e59bc2-3c78-4ee0-8362-db681f6e7bda",
+    "manuscript_title": "论为什么中国人都在福瑞圈",
+    "author_name": "kyt486",
+    "institution": "排泄研究中心",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:59:43.87449+00:00",
+    "avg_score": 2.838709677419355,
+    "pdf_path": "a3e59bc2-3c78-4ee0-8362-db681f6e7bda/kyt486_gkyt666_gmail_com.pdf",
+    "zone": "sediment"
+}

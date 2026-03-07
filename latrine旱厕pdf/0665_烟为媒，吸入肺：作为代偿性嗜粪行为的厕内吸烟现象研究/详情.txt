@@ -1,0 +1,19 @@
+【标题】: 烟为媒，吸入肺：作为代偿性嗜粪行为的厕内吸烟现象研究
+【作者】: 白曼巴精神
+【机构】: 跨学科答辩生态环路研究中心
+【zone】: latrine
+【时间】: 2026-02-28T19:13:32.699356+00:00
+【评分】: 平均 4.875 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "80517ed5-4b7f-4378-badf-5ab0caf63486",
+    "manuscript_title": "烟为媒，吸入肺：作为代偿性嗜粪行为的厕内吸烟现象研究",
+    "author_name": "白曼巴精神",
+    "institution": "跨学科答辩生态环路研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T19:13:32.699356+00:00",
+    "avg_score": 4.875,
+    "pdf_path": "80517ed5-4b7f-4378-badf-5ab0caf63486/______lucas777_foxmail_com.pdf",
+    "zone": "latrine"
+}

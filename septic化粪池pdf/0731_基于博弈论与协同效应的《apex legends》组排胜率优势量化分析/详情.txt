@@ -1,0 +1,19 @@
+【标题】: 基于博弈论与协同效应的《apex legends》组排胜率优势量化分析
+【作者】: blackshit
+【机构】: 吐司俱乐部&萨默斯大学
+【zone】: septic
+【时间】: 2026-03-02T04:23:56.26133+00:00
+【评分】: 平均 4.421052631578948 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "770ee982-3330-42aa-92a5-7cc06ab604ac",
+    "manuscript_title": "基于博弈论与协同效应的《apex legends》组排胜率优势量化分析",
+    "author_name": "blackshit",
+    "institution": "吐司俱乐部&萨默斯大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T04:23:56.26133+00:00",
+    "avg_score": 4.421052631578948,
+    "pdf_path": "770ee982-3330-42aa-92a5-7cc06ab604ac/blackshit_cxmyjh7227_163_com.pdf",
+    "zone": "septic"
+}

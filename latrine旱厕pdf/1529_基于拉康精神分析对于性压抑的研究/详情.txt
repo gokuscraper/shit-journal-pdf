@@ -1,0 +1,19 @@
+【标题】: 基于拉康精神分析对于性压抑的研究
+【作者】: 我的屎最臭
+【机构】: 912宿舍粗所第二号坑位
+【zone】: latrine
+【时间】: 2026-03-03T05:31:51.092032+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "066d3c27-e8d9-4340-8530-d612219bb8e2",
+    "manuscript_title": "基于拉康精神分析对于性压抑的研究",
+    "author_name": "我的屎最臭",
+    "institution": "912宿舍粗所第二号坑位",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T05:31:51.092032+00:00",
+    "avg_score": 0,
+    "pdf_path": "066d3c27-e8d9-4340-8530-d612219bb8e2/______1828331461_qq_com.pdf",
+    "zone": "latrine"
+}

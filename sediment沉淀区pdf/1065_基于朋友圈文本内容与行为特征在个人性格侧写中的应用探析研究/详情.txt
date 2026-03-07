@@ -1,0 +1,19 @@
+【标题】: 基于朋友圈文本内容与行为特征在个人性格侧写中的应用探析研究
+【作者】: Lyxxx
+【机构】: 91 Innovation Research Center
+【zone】: sediment
+【时间】: 2026-03-03T12:34:23.565397+00:00
+【评分】: 平均 3.411764705882353 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "493cd588-de5a-4654-9532-028167f986c5",
+    "manuscript_title": "基于朋友圈文本内容与行为特征在个人性格侧写中的应用探析研究",
+    "author_name": "Lyxxx",
+    "institution": "91 Innovation Research Center",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:34:23.565397+00:00",
+    "avg_score": 3.411764705882353,
+    "pdf_path": "493cd588-de5a-4654-9532-028167f986c5/Lyxxx_2086890480_qq_com.pdf",
+    "zone": "sediment"
+}

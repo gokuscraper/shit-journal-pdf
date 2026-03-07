@@ -1,0 +1,19 @@
+【标题】: 孟婆汤的配方优化与奈何桥排队系统的效率改进
+【作者】: Leo大王
+【机构】: 全宇宙最强 INTJ 协会
+【zone】: stone
+【时间】: 2026-03-03T00:49:24.007421+00:00
+【评分】: 平均 4.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "236b8717-e126-4ac5-b4f4-3ff150afdd8f",
+    "manuscript_title": "孟婆汤的配方优化与奈何桥排队系统的效率改进",
+    "author_name": "Leo大王",
+    "institution": "全宇宙最强 INTJ 协会",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T00:49:24.007421+00:00",
+    "avg_score": 4.75,
+    "pdf_path": "236b8717-e126-4ac5-b4f4-3ff150afdd8f/Leo___2463434690_qq_com.pdf",
+    "zone": "stone"
+}

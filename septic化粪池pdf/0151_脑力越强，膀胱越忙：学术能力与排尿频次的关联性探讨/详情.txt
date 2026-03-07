@@ -1,0 +1,19 @@
+【标题】: 脑力越强，膀胱越忙：学术能力与排尿频次的关联性探讨
+【作者】: 苍蝇
+【机构】: 今年冬天很热
+【zone】: septic
+【时间】: 2026-03-01T13:31:00.92426+00:00
+【评分】: 平均 4.6521739130434785 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cd578ee6-a00c-4a2e-84f0-9fcecbc660ab",
+    "manuscript_title": "脑力越强，膀胱越忙：学术能力与排尿频次的关联性探讨",
+    "author_name": "苍蝇",
+    "institution": "今年冬天很热",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:31:00.92426+00:00",
+    "avg_score": 4.6521739130434785,
+    "pdf_path": "cd578ee6-a00c-4a2e-84f0-9fcecbc660ab/___xiaowei2333333_gmail_com.pdf",
+    "zone": "septic"
+}

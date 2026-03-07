@@ -1,0 +1,19 @@
+【标题】: 基于多学科交叉的现实世界修仙可能性科学论证
+【作者】: Dr. Jing
+【机构】: Caliton University
+【zone】: septic
+【时间】: 2026-02-27T14:32:14.625738+00:00
+【评分】: 平均 4.387096774193548 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2916fdc1-b332-48be-84ac-7b55be0fbec2",
+    "manuscript_title": "基于多学科交叉的现实世界修仙可能性科学论证",
+    "author_name": "Dr. Jing",
+    "institution": "Caliton University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:32:14.625738+00:00",
+    "avg_score": 4.387096774193548,
+    "pdf_path": "2916fdc1-b332-48be-84ac-7b55be0fbec2/Dr__Jing_wangkarroy31_gmail_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于学术平权与内容质量自治的S.H.I.T治理方案探讨
+【作者】: Wagner Zeno
+【机构】: Threshold Cognitive University
+【zone】: septic
+【时间】: 2026-03-03T18:19:41.696025+00:00
+【评分】: 平均 4.384615384615385 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b174da7d-1bc9-49c6-8757-2f8d158646c7",
+    "manuscript_title": "基于学术平权与内容质量自治的S.H.I.T治理方案探讨",
+    "author_name": "Wagner Zeno",
+    "institution": "Threshold Cognitive University",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T18:19:41.696025+00:00",
+    "avg_score": 4.384615384615385,
+    "pdf_path": "b174da7d-1bc9-49c6-8757-2f8d158646c7/Wagner_Zeno_1136816637_qq_com.pdf",
+    "zone": "septic"
+}

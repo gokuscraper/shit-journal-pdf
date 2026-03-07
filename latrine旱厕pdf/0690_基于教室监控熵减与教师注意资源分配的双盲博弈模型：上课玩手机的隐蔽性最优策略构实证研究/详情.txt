@@ -1,0 +1,19 @@
+【标题】: 基于教室监控熵减与教师注意资源分配的双盲博弈模型：上课玩手机的隐蔽性最优策略构实证研究
+【作者】: kunlunlu
+【机构】: Institute for Advanced Quantum Stealth and Classroom Entropy Studies 2California Institute of Esoteric Mofu Engineering (CIE-ME)
+【zone】: latrine
+【时间】: 2026-03-03T11:38:03.32188+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7d172c48-ce99-4921-af09-238605744434",
+    "manuscript_title": "基于教室监控熵减与教师注意资源分配的双盲博弈模型：上课玩手机的隐蔽性最优策略构实证研究",
+    "author_name": "kunlunlu",
+    "institution": "Institute for Advanced Quantum Stealth and Classroom Entropy Studies 2California Institute of Esoteric Mofu Engineering (CIE-ME)",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:38:03.32188+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "7d172c48-ce99-4921-af09-238605744434/kunlunlu_2374063781_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 排遗的社会建构：身体、空间与文明的边界
+【作者】: ANGST
+【机构】: 研究机构无权为论文授勋
+【zone】: latrine
+【时间】: 2026-03-03T04:51:47.080999+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a28c7bf8-6631-410c-b969-ae56abb54fc8",
+    "manuscript_title": "排遗的社会建构：身体、空间与文明的边界",
+    "author_name": "ANGST",
+    "institution": "研究机构无权为论文授勋",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T04:51:47.080999+00:00",
+    "avg_score": 0,
+    "pdf_path": "a28c7bf8-6631-410c-b969-ae56abb54fc8/ANGST_9vr9knxij_mozmail_com.pdf",
+    "zone": "latrine"
+}

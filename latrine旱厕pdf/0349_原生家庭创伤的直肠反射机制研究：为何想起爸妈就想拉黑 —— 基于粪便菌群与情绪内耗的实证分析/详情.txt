@@ -1,0 +1,19 @@
+【标题】: 原生家庭创伤的直肠反射机制研究：为何想起爸妈就想拉黑 —— 基于粪便菌群与情绪内耗的实证分析
+【作者】: Go屎长
+【机构】: 奇臭的阑尾 · 排泄工程大学心理屎学系（Dept. of Psychocrapology, UEE）
+【zone】: latrine
+【时间】: 2026-02-28T08:18:33.459094+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "af43757f-613b-4761-aa37-1b2204d39d8f",
+    "manuscript_title": "原生家庭创伤的直肠反射机制研究：为何想起爸妈就想拉黑 —— 基于粪便菌群与情绪内耗的实证分析",
+    "author_name": "Go屎长",
+    "institution": "奇臭的阑尾 · 排泄工程大学心理屎学系（Dept. of Psychocrapology, UEE）",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:18:33.459094+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "af43757f-613b-4761-aa37-1b2204d39d8f/Go___1075299953_qq_com.pdf",
+    "zone": "latrine"
+}

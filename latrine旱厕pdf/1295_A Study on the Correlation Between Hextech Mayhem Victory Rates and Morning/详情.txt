@@ -1,0 +1,19 @@
+【标题】: A Study on the Correlation Between Hextech Mayhem Victory Rates and Morning Bowel Movements Efficiency the Following Day/《海克斯大乱斗胜率与次日晨间排便顺畅度之间的相关性研究》
+【作者】: Guria.Y
+【机构】: 海上脚痛大学医学院
+【zone】: latrine
+【时间】: 2026-02-22T05:24:51.256362+00:00
+【评分】: 平均 2.9 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2735485d-00a5-4b56-8f99-82cf38564d4a",
+    "manuscript_title": "A Study on the Correlation Between Hextech Mayhem Victory Rates and Morning Bowel Movements Efficiency the Following Day/《海克斯大乱斗胜率与次日晨间排便顺畅度之间的相关性研究》",
+    "author_name": "Guria.Y",
+    "institution": "海上脚痛大学医学院",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-22T05:24:51.256362+00:00",
+    "avg_score": 2.9,
+    "pdf_path": "2735485d-00a5-4b56-8f99-82cf38564d4a/paper.pdf",
+    "zone": "latrine"
+}

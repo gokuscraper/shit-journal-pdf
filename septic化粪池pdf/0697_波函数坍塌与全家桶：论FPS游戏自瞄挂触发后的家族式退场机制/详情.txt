@@ -1,0 +1,19 @@
+【标题】: 波函数坍塌与全家桶：论FPS游戏自瞄挂触发后的家族式退场机制
+【作者】: sweet
+【机构】: 萨默斯大学
+【zone】: septic
+【时间】: 2026-03-02T11:34:10.35304+00:00
+【评分】: 平均 4.560975609756097 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7bfba0e4-bf7e-4f0f-8457-e0f271b664e9",
+    "manuscript_title": "波函数坍塌与全家桶：论FPS游戏自瞄挂触发后的家族式退场机制",
+    "author_name": "sweet",
+    "institution": "萨默斯大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T11:34:10.35304+00:00",
+    "avg_score": 4.560975609756097,
+    "pdf_path": "7bfba0e4-bf7e-4f0f-8457-e0f271b664e9/sweet_3321469928_qq_com.pdf",
+    "zone": "septic"
+}

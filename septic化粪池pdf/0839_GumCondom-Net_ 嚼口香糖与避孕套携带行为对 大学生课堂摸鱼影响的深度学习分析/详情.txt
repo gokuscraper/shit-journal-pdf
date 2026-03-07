@@ -1,0 +1,19 @@
+【标题】: GumCondom-Net: 嚼口香糖与避孕套携带行为对 大学生课堂摸鱼影响的深度学习分析
+【作者】: hotdog
+【机构】:  摸鱼大学人类行为与口香糖研究院
+【zone】: septic
+【时间】: 2026-03-01T14:08:31.19653+00:00
+【评分】: 平均 4.428571428571429 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "687a49b1-b24a-4afe-ba4d-f977a7235a82",
+    "manuscript_title": "GumCondom-Net: 嚼口香糖与避孕套携带行为对 大学生课堂摸鱼影响的深度学习分析",
+    "author_name": "hotdog",
+    "institution": " 摸鱼大学人类行为与口香糖研究院",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-01T14:08:31.19653+00:00",
+    "avg_score": 4.428571428571429,
+    "pdf_path": "687a49b1-b24a-4afe-ba4d-f977a7235a82/hotdog_andyzeng0921_outlook_com.pdf",
+    "zone": "septic"
+}

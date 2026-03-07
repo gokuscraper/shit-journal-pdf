@@ -1,0 +1,19 @@
+【标题】: 论吸二手烟是否构成不当得利
+【作者】: yawler
+【机构】: 泽旭东方
+【zone】: septic
+【时间】: 2026-03-03T02:30:21.803194+00:00
+【评分】: 平均 4.1688311688311686 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1d88d6f1-a8ab-4c6f-8471-030e22718a66",
+    "manuscript_title": "论吸二手烟是否构成不当得利",
+    "author_name": "yawler",
+    "institution": "泽旭东方",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T02:30:21.803194+00:00",
+    "avg_score": 4.1688311688311686,
+    "pdf_path": "1d88d6f1-a8ab-4c6f-8471-030e22718a66/yawler_llh200525_163_com.pdf",
+    "zone": "septic"
+}

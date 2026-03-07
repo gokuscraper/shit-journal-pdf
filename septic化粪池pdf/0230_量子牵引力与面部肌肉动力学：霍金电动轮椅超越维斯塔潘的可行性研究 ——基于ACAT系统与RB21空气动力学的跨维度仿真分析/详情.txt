@@ -1,0 +1,19 @@
+【标题】: 量子牵引力与面部肌肉动力学：霍金电动轮椅超越维斯塔潘的可行性研究 ——基于ACAT系统与RB21空气动力学的跨维度仿真分析
+【作者】: 灰太狼
+【机构】: 狼堡科技研发中心
+【zone】: septic
+【时间】: 2026-03-02T16:32:28.829623+00:00
+【评分】: 平均 4.475 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c1caae32-2ef1-4230-bdfa-ed9a566806b4",
+    "manuscript_title": "量子牵引力与面部肌肉动力学：霍金电动轮椅超越维斯塔潘的可行性研究 ——基于ACAT系统与RB21空气动力学的跨维度仿真分析",
+    "author_name": "灰太狼",
+    "institution": "狼堡科技研发中心",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T16:32:28.829623+00:00",
+    "avg_score": 4.475,
+    "pdf_path": "c1caae32-2ef1-4230-bdfa-ed9a566806b4/____laoman12345_xyy_com.pdf",
+    "zone": "septic"
+}

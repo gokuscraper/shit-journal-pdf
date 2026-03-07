@@ -1,0 +1,19 @@
+【标题】: 黑洞的另一端：信息宇宙的猜想
+【作者】: 艾因
+【机构】: 卡门研究所
+【zone】: latrine
+【时间】: 2026-02-25T09:03:43.757885+00:00
+【评分】: 平均 2.2142857142857144 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "64e59e56-21f5-4753-9207-d4b0af528c51",
+    "manuscript_title": "黑洞的另一端：信息宇宙的猜想",
+    "author_name": "艾因",
+    "institution": "卡门研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T09:03:43.757885+00:00",
+    "avg_score": 2.2142857142857144,
+    "pdf_path": "64e59e56-21f5-4753-9207-d4b0af528c51/___13100641846a_sina_com.pdf",
+    "zone": "latrine"
+}

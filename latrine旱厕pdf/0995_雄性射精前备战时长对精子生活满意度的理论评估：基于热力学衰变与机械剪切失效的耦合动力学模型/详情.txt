@@ -1,0 +1,19 @@
+【标题】: 雄性射精前备战时长对精子生活满意度的理论评估：基于热力学衰变与机械剪切失效的耦合动力学模型
+【作者】: Asshole
+【机构】: EAS(End of Alimentary System)
+【zone】: latrine
+【时间】: 2026-03-03T05:25:00.097973+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "528ac5e4-739a-4be9-8314-b4dc702ba50f",
+    "manuscript_title": "雄性射精前备战时长对精子生活满意度的理论评估：基于热力学衰变与机械剪切失效的耦合动力学模型",
+    "author_name": "Asshole",
+    "institution": "EAS(End of Alimentary System)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T05:25:00.097973+00:00",
+    "avg_score": 0,
+    "pdf_path": "528ac5e4-739a-4be9-8314-b4dc702ba50f/Asshole_lxy10001_protonmail_com.pdf",
+    "zone": "latrine"
+}

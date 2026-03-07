@@ -1,0 +1,19 @@
+【标题】: 宿舍环境下手搓曲率引擎赶早八的可行性
+【作者】: 正义的屎者
+【机构】: 小谷围第一和尚庙
+【zone】: latrine
+【时间】: 2026-03-03T09:47:11.398597+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a7fe4ce9-c5ad-4c7b-b68e-4a724de6555a",
+    "manuscript_title": "宿舍环境下手搓曲率引擎赶早八的可行性",
+    "author_name": "正义的屎者",
+    "institution": "小谷围第一和尚庙",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:47:11.398597+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "a7fe4ce9-c5ad-4c7b-b68e-4a724de6555a/______1558497909_qq_com.pdf",
+    "zone": "latrine"
+}

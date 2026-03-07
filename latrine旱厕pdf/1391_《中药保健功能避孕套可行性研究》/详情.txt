@@ -1,0 +1,19 @@
+【标题】: 《中药保健功能避孕套可行性研究》
+【作者】: 蓝空
+【机构】: Savage University
+【zone】: latrine
+【时间】: 2026-02-20T13:54:59.504414+00:00
+【评分】: 平均 4.444444444444445 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1b1b6b3a-da1b-490e-b569-dfac2ac882a8",
+    "manuscript_title": "《中药保健功能避孕套可行性研究》",
+    "author_name": "蓝空",
+    "institution": "Savage University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T13:54:59.504414+00:00",
+    "avg_score": 4.444444444444445,
+    "pdf_path": "1b1b6b3a-da1b-490e-b569-dfac2ac882a8/paper.pdf",
+    "zone": "latrine"
+}

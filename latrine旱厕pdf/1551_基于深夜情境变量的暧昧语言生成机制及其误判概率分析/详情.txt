@@ -1,0 +1,19 @@
+【标题】: 基于深夜情境变量的暧昧语言生成机制及其误判概率分析
+【作者】: Albedo
+【机构】: University of SHIT
+【zone】: latrine
+【时间】: 2026-02-25T08:01:50.480026+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "04564e31-3c6e-46b1-8920-3ce9eb975588",
+    "manuscript_title": "基于深夜情境变量的暧昧语言生成机制及其误判概率分析",
+    "author_name": "Albedo",
+    "institution": "University of SHIT",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:01:50.480026+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "04564e31-3c6e-46b1-8920-3ce9eb975588/Albedo_liuhanjie2009_outlook_com.pdf",
+    "zone": "latrine"
+}

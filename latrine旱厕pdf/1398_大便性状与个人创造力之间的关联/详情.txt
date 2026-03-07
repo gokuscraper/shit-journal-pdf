@@ -1,0 +1,19 @@
+【标题】: 大便性状与个人创造力之间的关联
+【作者】: The god of Shit
+【机构】: 炽极靶大学
+【zone】: latrine
+【时间】: 2026-02-23T07:50:11.242482+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "19ce4b35-266a-4a61-853b-b60284af723e",
+    "manuscript_title": "大便性状与个人创造力之间的关联",
+    "author_name": "The god of Shit",
+    "institution": "炽极靶大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:50:11.242482+00:00",
+    "avg_score": 0,
+    "pdf_path": "19ce4b35-266a-4a61-853b-b60284af723e/paper.pdf",
+    "zone": "latrine"
+}

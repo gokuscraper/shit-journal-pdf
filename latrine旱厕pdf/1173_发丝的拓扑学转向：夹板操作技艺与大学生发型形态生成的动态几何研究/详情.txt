@@ -1,0 +1,19 @@
+【标题】: 发丝的拓扑学转向：夹板操作技艺与大学生发型形态生成的动态几何研究
+【作者】: 小达哥
+【机构】: 龙江小清华
+【zone】: latrine
+【时间】: 2026-03-03T07:22:08.271835+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "38d6d4f3-db9a-4304-9e10-e48b2ba8b5a7",
+    "manuscript_title": "发丝的拓扑学转向：夹板操作技艺与大学生发型形态生成的动态几何研究",
+    "author_name": "小达哥",
+    "institution": "龙江小清华",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T07:22:08.271835+00:00",
+    "avg_score": 0,
+    "pdf_path": "38d6d4f3-db9a-4304-9e10-e48b2ba8b5a7/____2237843656_qq_com.pdf",
+    "zone": "latrine"
+}

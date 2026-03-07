@@ -1,0 +1,19 @@
+【标题】: 《袜子失踪的宇宙学：家用烘干机作为平行宇宙入口的民族志》
+【作者】: 山田凉的铁锤头鲨
+【机构】: 南京市田家炳高级中学
+【zone】: latrine
+【时间】: 2026-02-24T03:22:18.369698+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "233db12d-f0fc-4a6b-afe6-3dd67f80aa0c",
+    "manuscript_title": "《袜子失踪的宇宙学：家用烘干机作为平行宇宙入口的民族志》",
+    "author_name": "山田凉的铁锤头鲨",
+    "institution": "南京市田家炳高级中学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T03:22:18.369698+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "233db12d-f0fc-4a6b-afe6-3dd67f80aa0c/paper.pdf",
+    "zone": "latrine"
+}

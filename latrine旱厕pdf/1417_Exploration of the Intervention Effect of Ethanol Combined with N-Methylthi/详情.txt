@@ -1,0 +1,19 @@
+【标题】: Exploration of the Intervention Effect of Ethanol Combined with N-Methylthiotetrazole (NMTT)-Containing Cephalosporins on Skin
+【作者】: Zandik
+【机构】: Akademiya, Sumeru , Teyvat
+【zone】: latrine
+【时间】: 2026-02-23T13:15:43.510718+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "181e105f-6446-486a-b928-4dc2f64fd354",
+    "manuscript_title": "Exploration of the Intervention Effect of Ethanol Combined with N-Methylthiotetrazole (NMTT)-Containing Cephalosporins on Skin",
+    "author_name": "Zandik",
+    "institution": "Akademiya, Sumeru , Teyvat",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-02-23T13:15:43.510718+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "181e105f-6446-486a-b928-4dc2f64fd354/paper.pdf",
+    "zone": "latrine"
+}

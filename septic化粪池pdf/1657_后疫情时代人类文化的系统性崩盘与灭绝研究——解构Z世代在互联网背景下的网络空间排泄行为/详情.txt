@@ -1,0 +1,19 @@
+【标题】: 后疫情时代人类文化的系统性崩盘与灭绝研究——解构Z世代在互联网背景下的网络空间排泄行为
+【作者】: L
+【机构】: University of Liverpool
+【zone】: septic
+【时间】: 2026-03-03T09:30:47.548386+00:00
+【评分】: 平均 4.090909090909091 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "eaa33714-5c33-41e1-b94c-ab578ce86e68",
+    "manuscript_title": "后疫情时代人类文化的系统性崩盘与灭绝研究——解构Z世代在互联网背景下的网络空间排泄行为",
+    "author_name": "L",
+    "institution": "University of Liverpool",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T09:30:47.548386+00:00",
+    "avg_score": 4.090909090909091,
+    "pdf_path": "eaa33714-5c33-41e1-b94c-ab578ce86e68/L_1145141919810_nevergonnagiveyouup_com.pdf",
+    "zone": "septic"
+}

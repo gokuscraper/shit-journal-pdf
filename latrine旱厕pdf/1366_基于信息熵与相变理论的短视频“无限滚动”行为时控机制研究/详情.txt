@@ -1,0 +1,19 @@
+【标题】: 基于信息熵与相变理论的短视频“无限滚动”行为时控机制研究
+【作者】: Dr.Jsx
+【机构】: Jianshi University
+【zone】: latrine
+【时间】: 2026-02-25T10:09:49.681287+00:00
+【评分】: 平均 2.8 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1e9f3840-34ab-4ff9-aa31-eca52a9b4ede",
+    "manuscript_title": "基于信息熵与相变理论的短视频“无限滚动”行为时控机制研究",
+    "author_name": "Dr.Jsx",
+    "institution": "Jianshi University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:09:49.681287+00:00",
+    "avg_score": 2.8,
+    "pdf_path": "1e9f3840-34ab-4ff9-aa31-eca52a9b4ede/Dr_Jsx_3418940448_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 非牛顿流体环境下固体排泄物浮力随机建模： 面向下水道机器人集群鲁棒抓屎轨迹规划研究
+【作者】: Galio
+【机构】: Manure Institute of Technology (MIT)
+【zone】: septic
+【时间】: 2026-03-02T07:55:05.326761+00:00
+【评分】: 平均 4.419354838709677 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7bdecfe8-6db0-4371-ae1b-2639c0f5d39b",
+    "manuscript_title": "非牛顿流体环境下固体排泄物浮力随机建模： 面向下水道机器人集群鲁棒抓屎轨迹规划研究",
+    "author_name": "Galio",
+    "institution": "Manure Institute of Technology (MIT)",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T07:55:05.326761+00:00",
+    "avg_score": 4.419354838709677,
+    "pdf_path": "7bdecfe8-6db0-4371-ae1b-2639c0f5d39b/Galio_galio1991_outlook_com.pdf",
+    "zone": "septic"
+}

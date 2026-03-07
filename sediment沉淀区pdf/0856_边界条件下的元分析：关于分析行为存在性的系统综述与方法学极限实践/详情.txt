@@ -1,0 +1,19 @@
+【标题】: 边界条件下的元分析：关于分析行为存在性的系统综述与方法学极限实践
+【作者】: seh2it7
+【机构】: S.H.I.T.
+【zone】: sediment
+【时间】: 2026-03-02T06:26:38.57393+00:00
+【评分】: 平均 1.8484848484848484 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "655c6a0c-325c-4258-8f3b-bcb384bae349",
+    "manuscript_title": "边界条件下的元分析：关于分析行为存在性的系统综述与方法学极限实践",
+    "author_name": "seh2it7",
+    "institution": "S.H.I.T.",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T06:26:38.57393+00:00",
+    "avg_score": 1.8484848484848484,
+    "pdf_path": "655c6a0c-325c-4258-8f3b-bcb384bae349/seh2it7_seh2it7_163_com.pdf",
+    "zone": "sediment"
+}

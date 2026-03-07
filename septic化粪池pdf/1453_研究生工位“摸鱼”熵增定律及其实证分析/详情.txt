@@ -1,0 +1,19 @@
+【标题】: 研究生工位“摸鱼”熵增定律及其实证分析
+【作者】: Physical Wear of the Ctrl+C/V Keys
+【机构】: Lab of Absolute Blackbody Radiation & Paid-Defecation Thermodynamics
+【zone】: septic
+【时间】: 2026-03-01T10:50:28.813332+00:00
+【评分】: 平均 4.658536585365853 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1250093d-959c-4af4-898e-48dd087ab829",
+    "manuscript_title": "研究生工位“摸鱼”熵增定律及其实证分析",
+    "author_name": "Physical Wear of the Ctrl+C/V Keys",
+    "institution": "Lab of Absolute Blackbody Radiation & Paid-Defecation Thermodynamics",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-01T10:50:28.813332+00:00",
+    "avg_score": 4.658536585365853,
+    "pdf_path": "1250093d-959c-4af4-898e-48dd087ab829/Physical_Wear_of_the_Ctrl_C_V_Keys_3240521085_qq_com.pdf",
+    "zone": "septic"
+}

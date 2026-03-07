@@ -1,0 +1,19 @@
+【标题】: Non-linear Taste Superposition: A Quantum Sensory Dynamics Analysis of the 1+1>2 Phenomenon
+【作者】: xiaoxia
+【机构】: Elysian Arbor Court,Omphalos
+【zone】: sediment
+【时间】: 2026-03-02T11:41:52.047259+00:00
+【评分】: 平均 2.676470588235294 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fdc7b82e-98b3-4000-9b14-b3c44ada7ce7",
+    "manuscript_title": "Non-linear Taste Superposition: A Quantum Sensory Dynamics Analysis of the 1+1>2 Phenomenon",
+    "author_name": "xiaoxia",
+    "institution": "Elysian Arbor Court,Omphalos",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T11:41:52.047259+00:00",
+    "avg_score": 2.676470588235294,
+    "pdf_path": "fdc7b82e-98b3-4000-9b14-b3c44ada7ce7/xiaoxia_kelinmai66295218_163_com.pdf",
+    "zone": "sediment"
+}

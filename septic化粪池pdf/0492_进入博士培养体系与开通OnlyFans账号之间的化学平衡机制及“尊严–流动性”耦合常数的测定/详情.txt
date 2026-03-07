@@ -1,0 +1,19 @@
+【标题】: 进入博士培养体系与开通OnlyFans账号之间的化学平衡机制及“尊严–流动性”耦合常数的测定
+【作者】: 高贵的西兰花
+【机构】: University for Constipation of Broccoli Republic (UCBR)
+【zone】: septic
+【时间】: 2026-02-27T14:56:08.556708+00:00
+【评分】: 平均 4.282608695652174 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9a56195f-b845-4cc2-9e6c-91079506b0e5",
+    "manuscript_title": "进入博士培养体系与开通OnlyFans账号之间的化学平衡机制及“尊严–流动性”耦合常数的测定",
+    "author_name": "高贵的西兰花",
+    "institution": "University for Constipation of Broccoli Republic (UCBR)",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:56:08.556708+00:00",
+    "avg_score": 4.282608695652174,
+    "pdf_path": "9a56195f-b845-4cc2-9e6c-91079506b0e5/_______iamsiyana_163_com.pdf",
+    "zone": "septic"
+}

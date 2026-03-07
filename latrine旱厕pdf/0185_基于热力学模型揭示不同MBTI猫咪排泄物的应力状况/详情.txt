@@ -1,0 +1,19 @@
+【标题】: 基于热力学模型揭示不同MBTI猫咪排泄物的应力状况
+【作者】: 放屁带汁儿猫猫侠
+【机构】: 乞力马扎罗山研究所
+【zone】: latrine
+【时间】: 2026-03-03T08:33:16.972945+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c85ba49d-5414-45ea-868b-ee8559d559ed",
+    "manuscript_title": "基于热力学模型揭示不同MBTI猫咪排泄物的应力状况",
+    "author_name": "放屁带汁儿猫猫侠",
+    "institution": "乞力马扎罗山研究所",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T08:33:16.972945+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "c85ba49d-5414-45ea-868b-ee8559d559ed/_________lvjx27_mail2_sysu_edu_cn.pdf",
+    "zone": "latrine"
+}

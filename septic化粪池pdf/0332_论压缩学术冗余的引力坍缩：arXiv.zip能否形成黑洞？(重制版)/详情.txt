@@ -1,0 +1,19 @@
+【标题】: 论压缩学术冗余的引力坍缩：arXiv.zip能否形成黑洞？(重制版)
+【作者】: Prof. Ctrl+Z
+【机构】: MIT (Massachusetts Institute of Trash)
+【zone】: septic
+【时间】: 2026-02-24T04:25:32.316643+00:00
+【评分】: 平均 4.424242424242424 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b276ae56-b62d-4dd8-8f4d-d0d38fcc3cb5",
+    "manuscript_title": "论压缩学术冗余的引力坍缩：arXiv.zip能否形成黑洞？(重制版)",
+    "author_name": "Prof. Ctrl+Z",
+    "institution": "MIT (Massachusetts Institute of Trash)",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-02-24T04:25:32.316643+00:00",
+    "avg_score": 4.424242424242424,
+    "pdf_path": "b276ae56-b62d-4dd8-8f4d-d0d38fcc3cb5/paper.pdf",
+    "zone": "septic"
+}

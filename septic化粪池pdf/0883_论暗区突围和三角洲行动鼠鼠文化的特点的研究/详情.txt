@@ -1,0 +1,19 @@
+【标题】: 论暗区突围和三角洲行动鼠鼠文化的特点的研究
+【作者】: 染肛
+【机构】: 天地一家大爱盟
+【zone】: septic
+【时间】: 2026-03-02T07:01:41.624017+00:00
+【评分】: 平均 4.1891891891891895 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "61faee99-ea9a-4968-afdc-7f6c5567818f",
+    "manuscript_title": "论暗区突围和三角洲行动鼠鼠文化的特点的研究",
+    "author_name": "染肛",
+    "institution": "天地一家大爱盟",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T07:01:41.624017+00:00",
+    "avg_score": 4.1891891891891895,
+    "pdf_path": "61faee99-ea9a-4968-afdc-7f6c5567818f/___sun0388fox_foxmail_com.pdf",
+    "zone": "septic"
+}

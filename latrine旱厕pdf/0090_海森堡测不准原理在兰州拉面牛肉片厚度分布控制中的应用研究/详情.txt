@@ -1,0 +1,19 @@
+【标题】: 海森堡测不准原理在兰州拉面牛肉片厚度分布控制中的应用研究
+【作者】: patchouli
+【机构】: 大炎天师府
+【zone】: latrine
+【时间】: 2026-03-03T09:45:53.174211+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d53c39ae-3661-4408-a005-f5c52d8bb781",
+    "manuscript_title": "海森堡测不准原理在兰州拉面牛肉片厚度分布控制中的应用研究",
+    "author_name": "patchouli",
+    "institution": "大炎天师府",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:45:53.174211+00:00",
+    "avg_score": 0,
+    "pdf_path": "d53c39ae-3661-4408-a005-f5c52d8bb781/patchouli_2154926247_qq_com.pdf",
+    "zone": "latrine"
+}

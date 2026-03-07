@@ -1,0 +1,19 @@
+【标题】: 完美主义者的太空噩梦：低重力排泄行为中的存在主义焦虑与生物污染伦理
+【作者】: Eden_SHIT
+【机构】: 亚轨道SHIT流体力学与心理干预研究所
+【zone】: latrine
+【时间】: 2026-02-28T09:44:33.830564+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5c690e2c-e4be-401f-98c6-6ac2b2343b0f",
+    "manuscript_title": "完美主义者的太空噩梦：低重力排泄行为中的存在主义焦虑与生物污染伦理",
+    "author_name": "Eden_SHIT",
+    "institution": "亚轨道SHIT流体力学与心理干预研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:44:33.830564+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "5c690e2c-e4be-401f-98c6-6ac2b2343b0f/Eden_SHIT_577076505_qq_com.pdf",
+    "zone": "latrine"
+}

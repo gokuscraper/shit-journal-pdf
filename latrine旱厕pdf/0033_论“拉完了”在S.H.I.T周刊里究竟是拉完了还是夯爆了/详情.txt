@@ -1,0 +1,19 @@
+【标题】: 论“拉完了”在S.H.I.T周刊里究竟是拉完了还是夯爆了
+【作者】: Eiry.Suicy
+【机构】: 国际精神排泄与文化夯击研究院 
+【zone】: latrine
+【时间】: 2026-03-03T05:00:20.910329+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "dd2d6222-ad2c-4eb2-aed9-04ecbb49f256",
+    "manuscript_title": "论“拉完了”在S.H.I.T周刊里究竟是拉完了还是夯爆了",
+    "author_name": "Eiry.Suicy",
+    "institution": "国际精神排泄与文化夯击研究院 ",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T05:00:20.910329+00:00",
+    "avg_score": 0,
+    "pdf_path": "dd2d6222-ad2c-4eb2-aed9-04ecbb49f256/Eiry_Suicy_893310720_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 屎及其他排泄物的所有权归属与潜在法律问题：大陆法系与普通法系的比较研究
+【作者】: 法式螺翔
+【机构】: Haman Law School (HLS) 🌿💯
+【zone】: stone
+【时间】: 2026-03-01T22:09:37.245547+00:00
+【评分】: 平均 4.913533834586466 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "75eb3c62-5b6f-4c9c-9b3c-256780141179",
+    "manuscript_title": "屎及其他排泄物的所有权归属与潜在法律问题：大陆法系与普通法系的比较研究",
+    "author_name": "法式螺翔",
+    "institution": "Haman Law School (HLS) 🌿💯",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-01T22:09:37.245547+00:00",
+    "avg_score": 4.913533834586466,
+    "pdf_path": "75eb3c62-5b6f-4c9c-9b3c-256780141179/_____kujonastudio_gmail_com.pdf",
+    "zone": "stone"
+}

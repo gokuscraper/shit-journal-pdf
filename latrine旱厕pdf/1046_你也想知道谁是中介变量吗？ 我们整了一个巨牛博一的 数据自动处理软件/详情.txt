@@ -1,0 +1,19 @@
+【标题】: 你也想知道谁是中介变量吗？ 我们整了一个巨牛博一的 数据自动处理软件
+【作者】: sucker
+【机构】: 某乡村医学院
+【zone】: latrine
+【时间】: 2026-03-03T08:42:32.544972+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4be2a181-81b5-4db6-bc3d-d6975b9419e2",
+    "manuscript_title": "你也想知道谁是中介变量吗？ 我们整了一个巨牛博一的 数据自动处理软件",
+    "author_name": "sucker",
+    "institution": "某乡村医学院",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T08:42:32.544972+00:00",
+    "avg_score": 0,
+    "pdf_path": "4be2a181-81b5-4db6-bc3d-d6975b9419e2/sucker_962362833_qq_com.pdf",
+    "zone": "latrine"
+}

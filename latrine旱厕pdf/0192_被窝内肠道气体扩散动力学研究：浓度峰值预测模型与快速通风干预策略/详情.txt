@@ -1,0 +1,19 @@
+【标题】: 被窝内肠道气体扩散动力学研究：浓度峰值预测模型与快速通风干预策略
+【作者】: sunnynan
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-25T03:42:24.949211+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c6806c43-6f4c-4906-981b-2bbae5a9dfb8",
+    "manuscript_title": "被窝内肠道气体扩散动力学研究：浓度峰值预测模型与快速通风干预策略",
+    "author_name": "sunnynan",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-02-25T03:42:24.949211+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "c6806c43-6f4c-4906-981b-2bbae5a9dfb8/sunnynan_sunnyfornan_foxmail_com.pdf",
+    "zone": "latrine"
+}

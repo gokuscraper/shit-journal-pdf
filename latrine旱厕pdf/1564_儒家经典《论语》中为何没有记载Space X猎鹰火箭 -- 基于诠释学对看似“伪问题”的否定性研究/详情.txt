@@ -1,0 +1,19 @@
+【标题】: 儒家经典《论语》中为何没有记载Space X猎鹰火箭 -- 基于诠释学对看似“伪问题”的否定性研究
+【作者】: Leo大王
+【机构】: 全宇宙最强 INTJ 协会
+【zone】: latrine
+【时间】: 2026-02-28T07:35:13.110314+00:00
+【评分】: 平均 4.904761904761905 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "02e0be09-58ae-4462-8bbf-f6de74cf8ad4",
+    "manuscript_title": "儒家经典《论语》中为何没有记载Space X猎鹰火箭 -- 基于诠释学对看似“伪问题”的否定性研究",
+    "author_name": "Leo大王",
+    "institution": "全宇宙最强 INTJ 协会",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T07:35:13.110314+00:00",
+    "avg_score": 4.904761904761905,
+    "pdf_path": "02e0be09-58ae-4462-8bbf-f6de74cf8ad4/Leo___2463434690_qq_com.pdf",
+    "zone": "latrine"
+}

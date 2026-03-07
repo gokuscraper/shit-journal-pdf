@@ -1,0 +1,19 @@
+【标题】: 社会科学中的大粪原理
+【作者】: 艾敕奋
+【机构】: 前沿科技大学社会科学学部赛博空间研究所
+【zone】: latrine
+【时间】: 2026-02-25T13:16:02.21599+00:00
+【评分】: 平均 3.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "02715f91-994f-4364-8288-35d94419382c",
+    "manuscript_title": "社会科学中的大粪原理",
+    "author_name": "艾敕奋",
+    "institution": "前沿科技大学社会科学学部赛博空间研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T13:16:02.21599+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "02715f91-994f-4364-8288-35d94419382c/____labpas-neptans_proton_me.pdf",
+    "zone": "latrine"
+}

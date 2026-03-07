@@ -1,0 +1,19 @@
+【标题】: 论春秋战国时期土地生产关系与所有制的变更
+【作者】: Alexander
+【机构】: Stay At Home University
+【zone】: latrine
+【时间】: 2026-02-23T05:00:42.491832+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a12ab9d9-f654-438f-80ff-2d7fbf05c587",
+    "manuscript_title": "论春秋战国时期土地生产关系与所有制的变更",
+    "author_name": "Alexander",
+    "institution": "Stay At Home University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T05:00:42.491832+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "a12ab9d9-f654-438f-80ff-2d7fbf05c587/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: Is this SHIT mine？Am I a shit？返校僵尸区间 中论文失忆症的行为考察
+【作者】: Soa2ax
+【机构】: SHIT研究院
+【zone】: septic
+【时间】: 2026-03-02T09:30:50.793041+00:00
+【评分】: 平均 4.0588235294117645 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "02c6a46e-0730-4e3a-9fbc-c09eb873d9c9",
+    "manuscript_title": "Is this SHIT mine？Am I a shit？返校僵尸区间 中论文失忆症的行为考察",
+    "author_name": "Soa2ax",
+    "institution": "SHIT研究院",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T09:30:50.793041+00:00",
+    "avg_score": 4.0588235294117645,
+    "pdf_path": "02c6a46e-0730-4e3a-9fbc-c09eb873d9c9/Soa2ax_775126196_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 浅谈大便摄入时长与幸福指数的拟合优度
+【作者】: 小蜘蛛
+【机构】: 屎壳郎大学SCAT学院
+【zone】: latrine
+【时间】: 2026-02-22T06:28:18.511802+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c987b33f-b36e-4895-bde9-a5fcd196298c",
+    "manuscript_title": "浅谈大便摄入时长与幸福指数的拟合优度",
+    "author_name": "小蜘蛛",
+    "institution": "屎壳郎大学SCAT学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T06:28:18.511802+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "c987b33f-b36e-4895-bde9-a5fcd196298c/paper.pdf",
+    "zone": "latrine"
+}

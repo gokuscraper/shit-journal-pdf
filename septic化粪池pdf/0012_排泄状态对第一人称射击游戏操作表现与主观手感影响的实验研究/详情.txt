@@ -1,0 +1,19 @@
+【标题】: 排泄状态对第一人称射击游戏操作表现与主观手感影响的实验研究
+【作者】: e.g厕所战神
+【机构】: 电竞公厕
+【zone】: septic
+【时间】: 2026-03-02T02:52:25.10583+00:00
+【评分】: 平均 4.183673469387755 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e0834ab2-1ad6-4aff-8c80-db98b9587511",
+    "manuscript_title": "排泄状态对第一人称射击游戏操作表现与主观手感影响的实验研究",
+    "author_name": "e.g厕所战神",
+    "institution": "电竞公厕",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T02:52:25.10583+00:00",
+    "avg_score": 4.183673469387755,
+    "pdf_path": "e0834ab2-1ad6-4aff-8c80-db98b9587511/e_g_____xiaoshuiwv69630_163_com.pdf",
+    "zone": "septic"
+}

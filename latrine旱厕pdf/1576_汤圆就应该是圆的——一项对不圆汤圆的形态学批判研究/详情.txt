@@ -1,0 +1,19 @@
+【标题】: 汤圆就应该是圆的——一项对不圆汤圆的形态学批判研究
+【作者】: 爱吃鸳鸯锅
+【机构】: 麻辣烫高等大学
+【zone】: latrine
+【时间】: 2026-03-03T11:34:12.208573+00:00
+【评分】: 平均 3.2 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "015c9ae5-b32f-459c-8e88-2a6020d1da5c",
+    "manuscript_title": "汤圆就应该是圆的——一项对不圆汤圆的形态学批判研究",
+    "author_name": "爱吃鸳鸯锅",
+    "institution": "麻辣烫高等大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:34:12.208573+00:00",
+    "avg_score": 3.2,
+    "pdf_path": "015c9ae5-b32f-459c-8e88-2a6020d1da5c/______353761429_qq_com.pdf",
+    "zone": "latrine"
+}

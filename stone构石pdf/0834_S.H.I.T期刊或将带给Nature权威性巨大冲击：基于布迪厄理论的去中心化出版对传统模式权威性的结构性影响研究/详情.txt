@@ -1,0 +1,19 @@
+【标题】: S.H.I.T期刊或将带给Nature权威性巨大冲击：基于布迪厄理论的去中心化出版对传统模式权威性的结构性影响研究
+【作者】: inFPTO
+【机构】: 火星第五引力平衡点科学院（ASFP）综合研究所（IRI)
+【zone】: stone
+【时间】: 2026-03-02T09:40:54.508493+00:00
+【评分】: 平均 4.926605504587156 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "68ece370-5bf8-4d57-ac1b-883020b25877",
+    "manuscript_title": "S.H.I.T期刊或将带给Nature权威性巨大冲击：基于布迪厄理论的去中心化出版对传统模式权威性的结构性影响研究",
+    "author_name": "inFPTO",
+    "institution": "火星第五引力平衡点科学院（ASFP）综合研究所（IRI)",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T09:40:54.508493+00:00",
+    "avg_score": 4.926605504587156,
+    "pdf_path": "68ece370-5bf8-4d57-ac1b-883020b25877/inFPTO_15731659352_163_com.pdf",
+    "zone": "stone"
+}

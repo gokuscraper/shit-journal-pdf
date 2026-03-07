@@ -1,0 +1,19 @@
+【标题】: 从意大利面看 42 号混泥土对特朗普潜移默化的影响
+【作者】: 不知名帅哥
+【机构】: 野鸡大学
+【zone】: latrine
+【时间】: 2026-02-20T15:37:52.624649+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "670c61eb-22c9-4932-9318-1aa48c6dfc37",
+    "manuscript_title": "从意大利面看 42 号混泥土对特朗普潜移默化的影响",
+    "author_name": "不知名帅哥",
+    "institution": "野鸡大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T15:37:52.624649+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "670c61eb-22c9-4932-9318-1aa48c6dfc37/paper.pdf",
+    "zone": "latrine"
+}

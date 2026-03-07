@@ -1,0 +1,19 @@
+【标题】: 美式咖啡液滴蒸发速率对博士生延毕时间的非参数调节效应研究：一项基于“蒸发动力学-生涯阻滞”理论框架的纵向生存分析
+【作者】: pger.lulu
+【机构】: 牛马工厂
+【zone】: latrine
+【时间】: 2026-03-03T12:23:00.683193+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "35e9b656-da56-43a2-a65e-5ba6e8325dd5",
+    "manuscript_title": "美式咖啡液滴蒸发速率对博士生延毕时间的非参数调节效应研究：一项基于“蒸发动力学-生涯阻滞”理论框架的纵向生存分析",
+    "author_name": "pger.lulu",
+    "institution": "牛马工厂",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:23:00.683193+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "35e9b656-da56-43a2-a65e-5ba6e8325dd5/pger_lulu_546746669_qq_com.pdf",
+    "zone": "latrine"
+}

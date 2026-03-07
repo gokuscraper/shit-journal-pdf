@@ -1,0 +1,19 @@
+【标题】: 身份剧场：网络流量视域下的自我呈现与道德边界——以“俄罗斯娜娜”与“大中国娜娜”翟革英为例
+【作者】: RabbicaY
+【机构】: LadyNana研究所
+【zone】: latrine
+【时间】: 2026-02-27T10:50:24.294978+00:00
+【评分】: 平均 4.538461538461538 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "045bdb7e-a22b-46f3-bc58-ef759e93b3ce",
+    "manuscript_title": "身份剧场：网络流量视域下的自我呈现与道德边界——以“俄罗斯娜娜”与“大中国娜娜”翟革英为例",
+    "author_name": "RabbicaY",
+    "institution": "LadyNana研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T10:50:24.294978+00:00",
+    "avg_score": 4.538461538461538,
+    "pdf_path": "045bdb7e-a22b-46f3-bc58-ef759e93b3ce/RabbicaY_yang_chengtianx_foxmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论中国学校禁止异性早恋对同性恋的促进作用
+【作者】: Peter Lei
+【机构】: University of Nottingham
+【zone】: septic
+【时间】: 2026-02-20T20:30:21.490512+00:00
+【评分】: 平均 4.73404255319149 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f6875c29-b3df-42f7-9b13-29f98e776ec4",
+    "manuscript_title": "论中国学校禁止异性早恋对同性恋的促进作用",
+    "author_name": "Peter Lei",
+    "institution": "University of Nottingham",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T20:30:21.490512+00:00",
+    "avg_score": 4.73404255319149,
+    "pdf_path": "f6875c29-b3df-42f7-9b13-29f98e776ec4/paper.pdf",
+    "zone": "septic"
+}

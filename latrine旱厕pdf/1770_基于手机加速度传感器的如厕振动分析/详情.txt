@@ -1,0 +1,19 @@
+【标题】: 基于手机加速度传感器的如厕振动分析
+【作者】: 吃饭拉屎人
+【机构】: 营养物质进出口研究所
+【zone】: latrine
+【时间】: 2026-02-28T07:26:36.470987+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fc997614-3f14-4f26-abbd-140c8d82fc9a",
+    "manuscript_title": "基于手机加速度传感器的如厕振动分析",
+    "author_name": "吃饭拉屎人",
+    "institution": "营养物质进出口研究所",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-28T07:26:36.470987+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "fc997614-3f14-4f26-abbd-140c8d82fc9a/______1253546737_qq_com.pdf",
+    "zone": "latrine"
+}

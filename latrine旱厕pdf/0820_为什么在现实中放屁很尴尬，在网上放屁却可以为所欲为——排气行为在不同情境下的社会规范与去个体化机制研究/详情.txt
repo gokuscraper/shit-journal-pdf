@@ -1,0 +1,19 @@
+【标题】: 为什么在现实中放屁很尴尬，在网上放屁却可以为所欲为——排气行为在不同情境下的社会规范与去个体化机制研究
+【作者】: MiKael
+【机构】: UK Galiduo Royal International University
+【zone】: latrine
+【时间】: 2026-02-27T06:05:48.106304+00:00
+【评分】: 平均 2.3333333333333335 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "6ad16848-64a1-486d-872c-4ebd68210345",
+    "manuscript_title": "为什么在现实中放屁很尴尬，在网上放屁却可以为所欲为——排气行为在不同情境下的社会规范与去个体化机制研究",
+    "author_name": "MiKael",
+    "institution": "UK Galiduo Royal International University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T06:05:48.106304+00:00",
+    "avg_score": 2.3333333333333335,
+    "pdf_path": "6ad16848-64a1-486d-872c-4ebd68210345/MiKael_tiamo23333_gmail_com.pdf",
+    "zone": "latrine"
+}

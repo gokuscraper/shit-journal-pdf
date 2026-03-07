@@ -1,0 +1,19 @@
+【标题】: 基于Git的论文发布与评审规则设计-化粪池
+【作者】: WMWYT
+【机构】: 其他大学
+【zone】: septic
+【时间】: 2026-03-01T18:45:20.26815+00:00
+【评分】: 平均 4.064516129032258 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "2fa5a56e-13a2-474c-acb1-69048585fd28",
+    "manuscript_title": "基于Git的论文发布与评审规则设计-化粪池",
+    "author_name": "WMWYT",
+    "institution": "其他大学",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-01T18:45:20.26815+00:00",
+    "avg_score": 4.064516129032258,
+    "pdf_path": "2fa5a56e-13a2-474c-acb1-69048585fd28/WMWYT_1060274259_qq_com.pdf",
+    "zone": "septic"
+}

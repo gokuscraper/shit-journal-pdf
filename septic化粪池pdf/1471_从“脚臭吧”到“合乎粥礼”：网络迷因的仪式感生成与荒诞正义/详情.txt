@@ -1,0 +1,19 @@
+【标题】: 从“脚臭吧”到“合乎粥礼”：网络迷因的仪式感生成与荒诞正义
+【作者】: Dr. Sticky Lemon Tea
+【机构】: Hikikomori University(家里蹲大学)
+【zone】: septic
+【时间】: 2026-03-01T13:16:45.160408+00:00
+【评分】: 平均 4.565217391304348 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1077c574-df32-4046-b1d6-3b046b9a7ca7",
+    "manuscript_title": "从“脚臭吧”到“合乎粥礼”：网络迷因的仪式感生成与荒诞正义",
+    "author_name": "Dr. Sticky Lemon Tea",
+    "institution": "Hikikomori University(家里蹲大学)",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-01T13:16:45.160408+00:00",
+    "avg_score": 4.565217391304348,
+    "pdf_path": "1077c574-df32-4046-b1d6-3b046b9a7ca7/Dr__Sticky_Lemon_Tea_18352230744_163_com.pdf",
+    "zone": "septic"
+}

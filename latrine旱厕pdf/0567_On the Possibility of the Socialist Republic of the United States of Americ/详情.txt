@@ -1,0 +1,19 @@
+【标题】: On the Possibility of the Socialist Republic of the United States of America
+【作者】: Yuxi
+【机构】: International Relations Research Group of No.1 Middle School
+【zone】: latrine
+【时间】: 2026-03-03T07:32:46.774597+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8eaeeeac-a1d2-4a86-b5f0-cedf464a92cc",
+    "manuscript_title": "On the Possibility of the Socialist Republic of the United States of America",
+    "author_name": "Yuxi",
+    "institution": "International Relations Research Group of No.1 Middle School",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T07:32:46.774597+00:00",
+    "avg_score": 0,
+    "pdf_path": "8eaeeeac-a1d2-4a86-b5f0-cedf464a92cc/Yuxi_yeziyinpao_foxmail_com.pdf",
+    "zone": "latrine"
+}

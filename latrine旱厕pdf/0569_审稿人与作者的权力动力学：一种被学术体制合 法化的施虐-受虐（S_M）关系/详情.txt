@@ -1,0 +1,19 @@
+【标题】: 审稿人与作者的权力动力学：一种被学术体制合 法化的施虐-受虐（S/M）关系
+【作者】: 腚ass
+【机构】: 斯德哥尔摩综合征研究所
+【zone】: latrine
+【时间】: 2026-03-03T06:15:06.131433+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8b74ca9b-b55b-4d53-a0ae-a57c4bc2b9a1",
+    "manuscript_title": "审稿人与作者的权力动力学：一种被学术体制合 法化的施虐-受虐（S/M）关系",
+    "author_name": "腚ass",
+    "institution": "斯德哥尔摩综合征研究所",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T06:15:06.131433+00:00",
+    "avg_score": 0,
+    "pdf_path": "8b74ca9b-b55b-4d53-a0ae-a57c4bc2b9a1/_ass_lgx_0725_163_com.pdf",
+    "zone": "latrine"
+}

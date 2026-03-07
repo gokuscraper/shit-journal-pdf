@@ -1,0 +1,19 @@
+【标题】: 任务类型与排便行为发生概率之间的相关性研究
+【作者】: 周允庭
+【机构】: Homebound Institute of Advanced Studies
+【zone】: latrine
+【时间】: 2026-02-23T04:34:41.886855+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9896329e-532a-4c47-b606-18be727df1d5",
+    "manuscript_title": "任务类型与排便行为发生概率之间的相关性研究",
+    "author_name": "周允庭",
+    "institution": "Homebound Institute of Advanced Studies",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T04:34:41.886855+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "9896329e-532a-4c47-b606-18be727df1d5/paper.pdf",
+    "zone": "latrine"
+}

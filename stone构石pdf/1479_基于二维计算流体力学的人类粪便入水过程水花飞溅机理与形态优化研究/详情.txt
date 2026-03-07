@@ -1,0 +1,19 @@
+【标题】: 基于二维计算流体力学的人类粪便入水过程水花飞溅机理与形态优化研究
+【作者】: 奇异的树木funkytrees(bilibili UID:455378630)
+【机构】: 排泄工程大学University of Excrement Engineering (UEE)
+【zone】: stone
+【时间】: 2026-02-24T02:31:52.230254+00:00
+【评分】: 平均 4.681159420289855 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "0f283551-f349-4ae1-87f3-9394841bacb3",
+    "manuscript_title": "基于二维计算流体力学的人类粪便入水过程水花飞溅机理与形态优化研究",
+    "author_name": "奇异的树木funkytrees(bilibili UID:455378630)",
+    "institution": "排泄工程大学University of Excrement Engineering (UEE)",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-02-24T02:31:52.230254+00:00",
+    "avg_score": 4.681159420289855,
+    "pdf_path": "0f283551-f349-4ae1-87f3-9394841bacb3/paper.pdf",
+    "zone": "stone"
+}

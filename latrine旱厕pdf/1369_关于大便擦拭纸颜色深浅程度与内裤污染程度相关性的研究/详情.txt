@@ -1,0 +1,19 @@
+【标题】: 关于大便擦拭纸颜色深浅程度与内裤污染程度相关性的研究
+【作者】: 陈
+【机构】: University of Staying at Home
+【zone】: latrine
+【时间】: 2026-02-23T07:22:17.889931+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1ddce203-814f-4736-ade5-083119630327",
+    "manuscript_title": "关于大便擦拭纸颜色深浅程度与内裤污染程度相关性的研究",
+    "author_name": "陈",
+    "institution": "University of Staying at Home",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:22:17.889931+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "1ddce203-814f-4736-ade5-083119630327/paper.pdf",
+    "zone": "latrine"
+}

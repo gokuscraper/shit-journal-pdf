@@ -1,0 +1,19 @@
+【标题】: 虚拟交互环境下的嗅觉代偿与病理美学：基于“明日方舟”用户足部异味偏好的心理动力学分析
+【作者】: 巴别塔的恶灵
+【机构】: 罗德岛制药公司
+【zone】: latrine
+【时间】: 2026-03-03T10:21:00.892372+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b50e1930-d91f-4f2b-9edf-7a0419bb68d0",
+    "manuscript_title": "虚拟交互环境下的嗅觉代偿与病理美学：基于“明日方舟”用户足部异味偏好的心理动力学分析",
+    "author_name": "巴别塔的恶灵",
+    "institution": "罗德岛制药公司",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:21:00.892372+00:00",
+    "avg_score": 0,
+    "pdf_path": "b50e1930-d91f-4f2b-9edf-7a0419bb68d0/_______ilovedongbeiyujie_terra_com.pdf",
+    "zone": "latrine"
+}

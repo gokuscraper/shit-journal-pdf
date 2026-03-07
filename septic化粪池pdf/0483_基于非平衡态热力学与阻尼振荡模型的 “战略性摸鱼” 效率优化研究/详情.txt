@@ -1,0 +1,19 @@
+【标题】: 基于非平衡态热力学与阻尼振荡模型的 “战略性摸鱼” 效率优化研究
+【作者】: 小DanKingKing的
+【机构】: 家里蹲
+【zone】: septic
+【时间】: 2026-03-02T13:47:11.957067+00:00
+【评分】: 平均 4.204545454545454 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9c35ce38-5060-484e-9dc7-9c851306e37c",
+    "manuscript_title": "基于非平衡态热力学与阻尼振荡模型的 “战略性摸鱼” 效率优化研究",
+    "author_name": "小DanKingKing的",
+    "institution": "家里蹲",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T13:47:11.957067+00:00",
+    "avg_score": 4.204545454545454,
+    "pdf_path": "9c35ce38-5060-484e-9dc7-9c851306e37c/_DanKingKing__1033153541_qq_com.pdf",
+    "zone": "septic"
+}

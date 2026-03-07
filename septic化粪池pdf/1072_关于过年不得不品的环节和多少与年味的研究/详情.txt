@@ -1,0 +1,19 @@
+【标题】: 关于过年不得不品的环节和多少与年味的研究
+【作者】: 造shit的机器
+【机构】: 造SHIT工厂
+【zone】: septic
+【时间】: 2026-03-01T14:50:37.303842+00:00
+【评分】: 平均 3.9761904761904763 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "486d023a-41be-4f64-b2f4-af7373a91ba5",
+    "manuscript_title": "关于过年不得不品的环节和多少与年味的研究",
+    "author_name": "造shit的机器",
+    "institution": "造SHIT工厂",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:50:37.303842+00:00",
+    "avg_score": 3.9761904761904763,
+    "pdf_path": "486d023a-41be-4f64-b2f4-af7373a91ba5/_shit____1978884211_qq_com.pdf",
+    "zone": "septic"
+}

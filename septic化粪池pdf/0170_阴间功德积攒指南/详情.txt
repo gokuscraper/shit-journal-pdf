@@ -1,0 +1,19 @@
+【标题】: 阴间功德积攒指南
+【作者】: 快乐摸鱼也很好
+【机构】: 构石科学院阴间研究所
+【zone】: septic
+【时间】: 2026-02-27T14:26:58.278235+00:00
+【评分】: 平均 4.351351351351352 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ca030b48-39ba-4bea-9a22-2cef2d7cbd6c",
+    "manuscript_title": "阴间功德积攒指南",
+    "author_name": "快乐摸鱼也很好",
+    "institution": "构石科学院阴间研究所",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T14:26:58.278235+00:00",
+    "avg_score": 4.351351351351352,
+    "pdf_path": "ca030b48-39ba-4bea-9a22-2cef2d7cbd6c/________383235094_qq_com.pdf",
+    "zone": "septic"
+}

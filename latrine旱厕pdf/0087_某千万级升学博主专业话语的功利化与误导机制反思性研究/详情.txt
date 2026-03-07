@@ -1,0 +1,19 @@
+【标题】: 某千万级升学博主专业话语的功利化与误导机制反思性研究
+【作者】: oddm
+【机构】: Hanyang University
+【zone】: latrine
+【时间】: 2026-02-28T12:53:24.959587+00:00
+【评分】: 平均 4.8 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d5847709-60ac-4cb7-9a09-06e5f0cde5b3",
+    "manuscript_title": "某千万级升学博主专业话语的功利化与误导机制反思性研究",
+    "author_name": "oddm",
+    "institution": "Hanyang University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T12:53:24.959587+00:00",
+    "avg_score": 4.8,
+    "pdf_path": "d5847709-60ac-4cb7-9a09-06e5f0cde5b3/oddm_281009026_qq_com.pdf",
+    "zone": "latrine"
+}

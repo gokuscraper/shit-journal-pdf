@@ -1,0 +1,19 @@
+【标题】: 多人篮球运动中腋臭浓度对同行吸引力的影响： 一项气味驱动的社交吸引力量化研究
+【作者】: 屎条条
+【机构】: Wild Chicken University
+【zone】: latrine
+【时间】: 2026-03-03T05:23:36.992446+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c5d1d9bb-d5b2-4ff3-abec-26591785d302",
+    "manuscript_title": "多人篮球运动中腋臭浓度对同行吸引力的影响： 一项气味驱动的社交吸引力量化研究",
+    "author_name": "屎条条",
+    "institution": "Wild Chicken University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T05:23:36.992446+00:00",
+    "avg_score": 0,
+    "pdf_path": "c5d1d9bb-d5b2-4ff3-abec-26591785d302/____wang_bimin_xn--shitjournal-wg8f_org.pdf",
+    "zone": "latrine"
+}

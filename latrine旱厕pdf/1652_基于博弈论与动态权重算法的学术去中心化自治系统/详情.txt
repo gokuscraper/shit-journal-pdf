@@ -1,0 +1,19 @@
+【标题】: 基于博弈论与动态权重算法的学术去中心化自治系统
+【作者】: Shit Player
+【机构】: The Wild Chicken University
+【zone】: latrine
+【时间】: 2026-02-28T10:34:06.953246+00:00
+【评分】: 平均 4.375 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e9545222-d89d-4ae5-bff2-b42416e60a45",
+    "manuscript_title": "基于博弈论与动态权重算法的学术去中心化自治系统",
+    "author_name": "Shit Player",
+    "institution": "The Wild Chicken University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-28T10:34:06.953246+00:00",
+    "avg_score": 4.375,
+    "pdf_path": "e9545222-d89d-4ae5-bff2-b42416e60a45/Shit_Player_3114574860_qq_com.pdf",
+    "zone": "latrine"
+}

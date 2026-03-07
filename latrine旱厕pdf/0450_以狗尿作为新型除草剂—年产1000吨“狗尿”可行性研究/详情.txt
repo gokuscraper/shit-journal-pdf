@@ -1,0 +1,19 @@
+【标题】: 以狗尿作为新型除草剂—年产1000吨“狗尿”可行性研究
+【作者】: Daelen Zhang
+【机构】: 家里蹲大学绿色资源研究所
+【zone】: latrine
+【时间】: 2026-03-03T11:00:48.631769+00:00
+【评分】: 平均 5.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a1713408-e0e1-4a7f-93ae-a0a253c5ee96",
+    "manuscript_title": "以狗尿作为新型除草剂—年产1000吨“狗尿”可行性研究",
+    "author_name": "Daelen Zhang",
+    "institution": "家里蹲大学绿色资源研究所",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-03T11:00:48.631769+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "a1713408-e0e1-4a7f-93ae-a0a253c5ee96/Daelen_Zhang_2859152613_qq_com.pdf",
+    "zone": "latrine"
+}

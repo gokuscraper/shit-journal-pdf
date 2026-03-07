@@ -1,0 +1,19 @@
+【标题】: 招魂疗法在植物人促醒中的应用价值探讨
+【作者】: dr.梁
+【机构】: 承德医学院
+【zone】: septic
+【时间】: 2026-03-01T10:40:13.910228+00:00
+【评分】: 平均 4.314285714285714 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b159875d-ad27-44f6-a181-891b87d03984",
+    "manuscript_title": "招魂疗法在植物人促醒中的应用价值探讨",
+    "author_name": "dr.梁",
+    "institution": "承德医学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T10:40:13.910228+00:00",
+    "avg_score": 4.314285714285714,
+    "pdf_path": "b159875d-ad27-44f6-a181-891b87d03984/dr___gl2603_qq_com.pdf",
+    "zone": "septic"
+}

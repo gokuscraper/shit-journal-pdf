@@ -1,0 +1,19 @@
+【标题】: 哈基米头部遮蔽物对其哈气场空间分布的影响机制及量化评估
+【作者】: 泄粪侠
+【机构】: 道观大学
+【zone】: latrine
+【时间】: 2026-02-27T04:16:56.797652+00:00
+【评分】: 平均 2.2 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "74cd3a01-d64d-4fb9-b8be-f3d770a1fcdb",
+    "manuscript_title": "哈基米头部遮蔽物对其哈气场空间分布的影响机制及量化评估",
+    "author_name": "泄粪侠",
+    "institution": "道观大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T04:16:56.797652+00:00",
+    "avg_score": 2.2,
+    "pdf_path": "74cd3a01-d64d-4fb9-b8be-f3d770a1fcdb/____2745301556_qq_com.pdf",
+    "zone": "latrine"
+}

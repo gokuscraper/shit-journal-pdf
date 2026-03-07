@@ -1,0 +1,19 @@
+【标题】: 肠道菌群与胆汁酸代谢在结直肠癌发生发展中的作用研究进展
+【作者】: 肠道侠
+【机构】: 味道大学
+【zone】: latrine
+【时间】: 2026-02-23T11:46:44.416169+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1ed65bf8-84a7-47d7-87e6-c8f2657debeb",
+    "manuscript_title": "肠道菌群与胆汁酸代谢在结直肠癌发生发展中的作用研究进展",
+    "author_name": "肠道侠",
+    "institution": "味道大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T11:46:44.416169+00:00",
+    "avg_score": 0,
+    "pdf_path": "1ed65bf8-84a7-47d7-87e6-c8f2657debeb/paper.pdf",
+    "zone": "latrine"
+}

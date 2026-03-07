@@ -1,0 +1,19 @@
+【标题】: 手机电量低于5%时的时空曲率扭曲研究
+【作者】: 草履虫•paramecium
+【机构】: Stay At Home University(SAH)
+【zone】: latrine
+【时间】: 2026-02-23T17:06:24.287541+00:00
+【评分】: 平均 4.2 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7dfa8f91-45d5-4a10-aa62-3571dc843fd9",
+    "manuscript_title": "手机电量低于5%时的时空曲率扭曲研究",
+    "author_name": "草履虫•paramecium",
+    "institution": "Stay At Home University(SAH)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T17:06:24.287541+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "7dfa8f91-45d5-4a10-aa62-3571dc843fd9/paper.pdf",
+    "zone": "latrine"
+}

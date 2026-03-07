@@ -1,0 +1,19 @@
+【标题】: 《棍木模因的二相性研究》
+【作者】: comzhang
+【机构】: 吉吉国科学院
+【zone】: latrine
+【时间】: 2026-02-25T05:01:38.791051+00:00
+【评分】: 平均 3.1666666666666665 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9965d1ce-41be-41bb-9b07-a4eef972d3eb",
+    "manuscript_title": "《棍木模因的二相性研究》",
+    "author_name": "comzhang",
+    "institution": "吉吉国科学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T05:01:38.791051+00:00",
+    "avg_score": 3.1666666666666665,
+    "pdf_path": "9965d1ce-41be-41bb-9b07-a4eef972d3eb/comzhang_3274916892_qq_com.pdf",
+    "zone": "latrine"
+}

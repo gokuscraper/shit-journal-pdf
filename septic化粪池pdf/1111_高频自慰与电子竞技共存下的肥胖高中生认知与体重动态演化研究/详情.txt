@@ -1,0 +1,19 @@
+【标题】: 高频自慰与电子竞技共存下的肥胖高中生认知与体重动态演化研究
+【作者】: Stenphen Lee
+【机构】: 大连育明高级中学
+【zone】: septic
+【时间】: 2026-03-01T10:55:45.044908+00:00
+【评分】: 平均 4.590909090909091 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "413ddef6-d9b7-4d6c-9a82-47f0836e143b",
+    "manuscript_title": "高频自慰与电子竞技共存下的肥胖高中生认知与体重动态演化研究",
+    "author_name": "Stenphen Lee",
+    "institution": "大连育明高级中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T10:55:45.044908+00:00",
+    "avg_score": 4.590909090909091,
+    "pdf_path": "413ddef6-d9b7-4d6c-9a82-47f0836e143b/Stenphen_Lee_lst080811_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 拉屎愉悦体验的神经标记物:前额叶-中央区beta频段功能连接——基于EEG脑机接口与SHAP解释的实证研究
+【作者】: vexpaer
+【机构】: University of Shit，巴别塔
+【zone】: septic
+【时间】: 2026-03-03T17:47:53.350393+00:00
+【评分】: 平均 4.525 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2fe57ef5-84db-48e3-be2c-a68b3a675fc6",
+    "manuscript_title": "拉屎愉悦体验的神经标记物:前额叶-中央区beta频段功能连接——基于EEG脑机接口与SHAP解释的实证研究",
+    "author_name": "vexpaer",
+    "institution": "University of Shit，巴别塔",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-03T17:47:53.350393+00:00",
+    "avg_score": 4.525,
+    "pdf_path": "2fe57ef5-84db-48e3-be2c-a68b3a675fc6/vexpaer_vexpaer_gmail_com.pdf",
+    "zone": "septic"
+}

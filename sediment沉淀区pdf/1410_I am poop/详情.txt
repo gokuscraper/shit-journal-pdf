@@ -1,0 +1,19 @@
+【标题】: I am poop
+【作者】: 7fans
+【机构】: Poop University
+【zone】: sediment
+【时间】: 2026-02-26T20:55:50.82494+00:00
+【评分】: 平均 1.6379310344827587 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "18c208d4-d20a-4671-afb6-2768e35f009e",
+    "manuscript_title": "I am poop",
+    "author_name": "7fans",
+    "institution": "Poop University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T20:55:50.82494+00:00",
+    "avg_score": 1.6379310344827587,
+    "pdf_path": "18c208d4-d20a-4671-afb6-2768e35f009e/7fans_1516368139_qq_com.pdf",
+    "zone": "sediment"
+}

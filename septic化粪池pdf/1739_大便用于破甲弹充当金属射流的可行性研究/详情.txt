@@ -1,0 +1,19 @@
+【标题】: 大便用于破甲弹充当金属射流的可行性研究
+【作者】: 维亚切斯拉夫
+【机构】: 尤丁采夫-巴兰尼科夫设计局
+【zone】: septic
+【时间】: 2026-03-01T09:17:34.015546+00:00
+【评分】: 平均 4.411764705882353 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f86e8612-4d97-4fdc-927c-b0bf15fcec8e",
+    "manuscript_title": "大便用于破甲弹充当金属射流的可行性研究",
+    "author_name": "维亚切斯拉夫",
+    "institution": "尤丁采夫-巴兰尼科夫设计局",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T09:17:34.015546+00:00",
+    "avg_score": 4.411764705882353,
+    "pdf_path": "f86e8612-4d97-4fdc-927c-b0bf15fcec8e/_______zaozao1027_outlook_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于姜萍定理和豆包的完整哥德巴赫猜想证明
+【作者】: oiiai
+【机构】: 华清池大学
+【zone】: sediment
+【时间】: 2026-02-23T03:33:58.765288+00:00
+【评分】: 平均 3.7714285714285714 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b3c49048-1a1e-4fe3-abf4-1afd4fb763b0",
+    "manuscript_title": "基于姜萍定理和豆包的完整哥德巴赫猜想证明",
+    "author_name": "oiiai",
+    "institution": "华清池大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T03:33:58.765288+00:00",
+    "avg_score": 3.7714285714285714,
+    "pdf_path": "b3c49048-1a1e-4fe3-abf4-1afd4fb763b0/paper.pdf",
+    "zone": "sediment"
+}

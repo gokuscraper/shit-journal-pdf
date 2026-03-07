@@ -1,0 +1,19 @@
+【标题】: A Study on the Correlation Between Daily Bowel Movement Frequency and the Academic Year of Ph.D. Students: An Interdisciplinary Exploratory Analysis
+【作者】: laoboluo
+【机构】: Shit University
+【zone】: latrine
+【时间】: 2026-02-25T02:04:50.2682+00:00
+【评分】: 平均 2.6 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7f04fb94-302f-4b91-9428-d386aab9b1e8",
+    "manuscript_title": "A Study on the Correlation Between Daily Bowel Movement Frequency and the Academic Year of Ph.D. Students: An Interdisciplinary Exploratory Analysis",
+    "author_name": "laoboluo",
+    "institution": "Shit University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T02:04:50.2682+00:00",
+    "avg_score": 2.6,
+    "pdf_path": "7f04fb94-302f-4b91-9428-d386aab9b1e8/laoboluo_2898856290_qq_com.pdf",
+    "zone": "latrine"
+}

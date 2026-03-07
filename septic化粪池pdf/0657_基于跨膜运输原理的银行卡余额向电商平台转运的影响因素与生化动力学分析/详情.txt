@@ -1,0 +1,19 @@
+【标题】: 基于跨膜运输原理的银行卡余额向电商平台转运的影响因素与生化动力学分析 
+【作者】: YangYang
+【机构】: Northwest A\&F University, 学术糟粕研究中心
+【zone】: septic
+【时间】: 2026-03-02T10:49:12.300597+00:00
+【评分】: 平均 4.351351351351352 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8164afcc-cfc6-436c-becd-46efed1f8386",
+    "manuscript_title": "基于跨膜运输原理的银行卡余额向电商平台转运的影响因素与生化动力学分析 ",
+    "author_name": "YangYang",
+    "institution": "Northwest A\\&F University, 学术糟粕研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:49:12.300597+00:00",
+    "avg_score": 4.351351351351352,
+    "pdf_path": "8164afcc-cfc6-436c-becd-46efed1f8386/YangYang_yangy_shit_org.pdf",
+    "zone": "septic"
+}

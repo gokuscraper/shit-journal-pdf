@@ -1,0 +1,19 @@
+【标题】: 地平说：基于双半球模型的实验验证与现象学光学批判 ——兼论熬夜不睡觉是否会掉出世界
+【作者】: WPZW
+【机构】: Donghai City Haiwan University
+【zone】: latrine
+【时间】: 2026-02-27T15:10:54.147102+00:00
+【评分】: 平均 4.7368421052631575 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "eca79618-5eb4-41a6-a46c-d0dcae89ac44",
+    "manuscript_title": "地平说：基于双半球模型的实验验证与现象学光学批判 ——兼论熬夜不睡觉是否会掉出世界",
+    "author_name": "WPZW",
+    "institution": "Donghai City Haiwan University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T15:10:54.147102+00:00",
+    "avg_score": 4.7368421052631575,
+    "pdf_path": "eca79618-5eb4-41a6-a46c-d0dcae89ac44/WPZW_fu_bovie_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 三国杀与孙笑川——差评如潮中的苦命鸳鸯
+【作者】: 板蓝根泡面
+【机构】: Jia Li dun College
+【zone】: latrine
+【时间】: 2026-02-27T07:37:16.842816+00:00
+【评分】: 平均 3.4285714285714284 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "30a26881-8b14-4fa9-a428-b8b5d48c4bb8",
+    "manuscript_title": "三国杀与孙笑川——差评如潮中的苦命鸳鸯",
+    "author_name": "板蓝根泡面",
+    "institution": "Jia Li dun College",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T07:37:16.842816+00:00",
+    "avg_score": 3.4285714285714284,
+    "pdf_path": "30a26881-8b14-4fa9-a428-b8b5d48c4bb8/______959464161_qq_com.pdf",
+    "zone": "latrine"
+}

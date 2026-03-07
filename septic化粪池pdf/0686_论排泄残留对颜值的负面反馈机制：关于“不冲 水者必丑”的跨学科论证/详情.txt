@@ -1,0 +1,19 @@
+【标题】: 论排泄残留对颜值的负面反馈机制：关于“不冲 水者必丑”的跨学科论证
+【作者】: 擒屎黄
+【机构】: 谢特大学特离谱学院,
+【zone】: septic
+【时间】: 2026-03-02T17:04:27.998532+00:00
+【评分】: 平均 4.702127659574468 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7d636b30-44d5-42bf-bc3d-04af640162f4",
+    "manuscript_title": "论排泄残留对颜值的负面反馈机制：关于“不冲 水者必丑”的跨学科论证",
+    "author_name": "擒屎黄",
+    "institution": "谢特大学特离谱学院,",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T17:04:27.998532+00:00",
+    "avg_score": 4.702127659574468,
+    "pdf_path": "7d636b30-44d5-42bf-bc3d-04af640162f4/____martinlynn000_gmail_com.pdf",
+    "zone": "septic"
+}

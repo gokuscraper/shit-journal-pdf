@@ -1,0 +1,19 @@
+【标题】: “随手一放就找不到”的物品消失熵增原理与玄学猜想
+【作者】: 天才少年尘佳勒
+【机构】: 玄学大学
+【zone】: septic
+【时间】: 2026-03-03T13:44:02.18739+00:00
+【评分】: 平均 4.138888888888889 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e596f5b8-7f4c-4dcd-a468-3eb7dd93da50",
+    "manuscript_title": "“随手一放就找不到”的物品消失熵增原理与玄学猜想",
+    "author_name": "天才少年尘佳勒",
+    "institution": "玄学大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T13:44:02.18739+00:00",
+    "avg_score": 4.138888888888889,
+    "pdf_path": "e596f5b8-7f4c-4dcd-a468-3eb7dd93da50/________2920889319_qq_com.pdf",
+    "zone": "septic"
+}

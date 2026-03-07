@@ -1,0 +1,19 @@
+【标题】: 排便时🦌是否可以导致大便通畅
+【作者】: 咕咕咕
+【机构】: 辊牧大学
+【zone】: septic
+【时间】: 2026-02-25T14:29:13.210811+00:00
+【评分】: 平均 4.22 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "575e67ee-1ed2-45ef-954e-c01d33a2308a",
+    "manuscript_title": "排便时🦌是否可以导致大便通畅",
+    "author_name": "咕咕咕",
+    "institution": "辊牧大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:29:13.210811+00:00",
+    "avg_score": 4.22,
+    "pdf_path": "575e67ee-1ed2-45ef-954e-c01d33a2308a/____ymz201105_qq_com.pdf",
+    "zone": "septic"
+}

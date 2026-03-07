@@ -1,0 +1,19 @@
+【标题】: The effects of government policy on illicit drug use
+【作者】: Jason
+【机构】: 上海市格致高级中学
+【zone】: latrine
+【时间】: 2026-02-25T11:18:39.672399+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b8b3dd23-7c25-4bd7-ab50-16f806d11de5",
+    "manuscript_title": "The effects of government policy on illicit drug use",
+    "author_name": "Jason",
+    "institution": "上海市格致高级中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:18:39.672399+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "b8b3dd23-7c25-4bd7-ab50-16f806d11de5/Jason_18918786335_163_com.pdf",
+    "zone": "latrine"
+}

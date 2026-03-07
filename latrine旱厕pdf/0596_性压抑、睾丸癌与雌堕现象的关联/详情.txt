@@ -1,0 +1,19 @@
+【标题】: 性压抑、睾丸癌与雌堕现象的关联
+【作者】: Dr.玉门酒鬼令
+【机构】: 罗德岛
+【zone】: latrine
+【时间】: 2026-02-23T08:16:25.624465+00:00
+【评分】: 平均 4.285714285714286 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8aebe946-0b92-4295-a19a-b9dba6e5e66e",
+    "manuscript_title": "性压抑、睾丸癌与雌堕现象的关联",
+    "author_name": "Dr.玉门酒鬼令",
+    "institution": "罗德岛",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:16:25.624465+00:00",
+    "avg_score": 4.285714285714286,
+    "pdf_path": "8aebe946-0b92-4295-a19a-b9dba6e5e66e/paper.pdf",
+    "zone": "latrine"
+}

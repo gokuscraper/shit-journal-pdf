@@ -1,0 +1,19 @@
+【标题】: 工业制取 banana 的可行性研究： 基于反应式 Ba + 2Na → banana 的理论—工艺— 经济一体化论证
+【作者】: 黑猩猩
+【机构】: 香蕉工艺课题组
+【zone】: stone
+【时间】: 2026-03-02T07:05:57.091055+00:00
+【评分】: 平均 4.8382978723404255 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4380f877-5218-4a21-8a7b-ee7bfe7a81f7",
+    "manuscript_title": "工业制取 banana 的可行性研究： 基于反应式 Ba + 2Na → banana 的理论—工艺— 经济一体化论证",
+    "author_name": "黑猩猩",
+    "institution": "香蕉工艺课题组",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T07:05:57.091055+00:00",
+    "avg_score": 4.8382978723404255,
+    "pdf_path": "4380f877-5218-4a21-8a7b-ee7bfe7a81f7/____2328340857_qq_com.pdf",
+    "zone": "stone"
+}

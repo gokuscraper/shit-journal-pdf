@@ -1,0 +1,19 @@
+【标题】: 宏观与微观的交汇：基于多组学视角的现代 “屎学”（Shitology）基质动态解析及生防 潜力评估
+【作者】: Wei Li
+【机构】: 拉屎研究所
+【zone】: latrine
+【时间】: 2026-03-03T11:46:58.382625+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "af8ff362-b9b2-4e54-abd3-3b1eafe0b9ed",
+    "manuscript_title": "宏观与微观的交汇：基于多组学视角的现代 “屎学”（Shitology）基质动态解析及生防 潜力评估",
+    "author_name": "Wei Li",
+    "institution": "拉屎研究所",
+    "viscosity": "stringy",
+    "discipline": "agriculture",
+    "created_at": "2026-03-03T11:46:58.382625+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "af8ff362-b9b2-4e54-abd3-3b1eafe0b9ed/Wei_Li_2827346329_qq_com.pdf",
+    "zone": "latrine"
+}

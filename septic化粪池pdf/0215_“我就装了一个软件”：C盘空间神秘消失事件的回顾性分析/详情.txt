@@ -1,0 +1,19 @@
+【标题】: “我就装了一个软件”：C盘空间神秘消失事件的回顾性分析
+【作者】: 史多星
+【机构】: 史多星
+【zone】: septic
+【时间】: 2026-03-02T09:16:13.952144+00:00
+【评分】: 平均 3.975 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c42c4700-9fe0-4687-ba3a-601fc2aa700c",
+    "manuscript_title": "“我就装了一个软件”：C盘空间神秘消失事件的回顾性分析",
+    "author_name": "史多星",
+    "institution": "史多星",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T09:16:13.952144+00:00",
+    "avg_score": 3.975,
+    "pdf_path": "c42c4700-9fe0-4687-ba3a-601fc2aa700c/____shiduoxing_qq_com.pdf",
+    "zone": "septic"
+}

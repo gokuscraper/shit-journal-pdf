@@ -1,0 +1,19 @@
+【标题】: 秽土斑与前额叶神经元密度关系
+【作者】: yukina0079
+【机构】: 木叶交通大学
+【zone】: latrine
+【时间】: 2026-02-25T10:33:46.904813+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "08726d4a-fd39-4a57-8d25-1b14a9343f85",
+    "manuscript_title": "秽土斑与前额叶神经元密度关系",
+    "author_name": "yukina0079",
+    "institution": "木叶交通大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:33:46.904813+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "08726d4a-fd39-4a57-8d25-1b14a9343f85/yukina0079_3525272208_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 《折叠复用策略在便后清洁中的成本-收益分析》
+【作者】: 大便超人L
+【机构】: shit university
+【zone】: latrine
+【时间】: 2026-02-23T18:19:45.195535+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a8696a63-60f5-4a77-96b8-d389816c6de0",
+    "manuscript_title": "《折叠复用策略在便后清洁中的成本-收益分析》",
+    "author_name": "大便超人L",
+    "institution": "shit university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T18:19:45.195535+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a8696a63-60f5-4a77-96b8-d389816c6de0/paper.pdf",
+    "zone": "latrine"
+}

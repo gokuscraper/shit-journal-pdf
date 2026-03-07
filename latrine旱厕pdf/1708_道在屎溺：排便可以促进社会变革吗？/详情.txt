@@ -1,0 +1,19 @@
+【标题】: 道在屎溺：排便可以促进社会变革吗？
+【作者】: 咕咕咕
+【机构】: 辊牧大学
+【zone】: latrine
+【时间】: 2026-02-25T14:49:04.153764+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f24e1b80-64a9-449e-b7eb-cee824411eea",
+    "manuscript_title": "道在屎溺：排便可以促进社会变革吗？",
+    "author_name": "咕咕咕",
+    "institution": "辊牧大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:49:04.153764+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "f24e1b80-64a9-449e-b7eb-cee824411eea/____ymz201105_qq_com.pdf",
+    "zone": "latrine"
+}

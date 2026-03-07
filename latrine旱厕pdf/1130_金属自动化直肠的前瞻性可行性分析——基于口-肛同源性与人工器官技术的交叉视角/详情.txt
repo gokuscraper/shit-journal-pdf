@@ -1,0 +1,19 @@
+【标题】: 金属自动化直肠的前瞻性可行性分析——基于口-肛同源性与人工器官技术的交叉视角
+【作者】: zandik
+【机构】: Akademiya, Sumeru , Teyvat
+【zone】: latrine
+【时间】: 2026-02-25T05:04:54.787846+00:00
+【评分】: 平均 4.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3e7c5214-0c25-4f7f-a53e-6c574dee3cd2",
+    "manuscript_title": "金属自动化直肠的前瞻性可行性分析——基于口-肛同源性与人工器官技术的交叉视角",
+    "author_name": "zandik",
+    "institution": "Akademiya, Sumeru , Teyvat",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T05:04:54.787846+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "3e7c5214-0c25-4f7f-a53e-6c574dee3cd2/zandik_keviny54284860_163_com.pdf",
+    "zone": "latrine"
+}

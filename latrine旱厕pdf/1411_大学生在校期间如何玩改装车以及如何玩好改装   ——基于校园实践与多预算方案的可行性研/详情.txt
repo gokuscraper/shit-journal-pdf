@@ -1,0 +1,19 @@
+【标题】: 大学生在校期间如何玩改装车以及如何玩好改装   ——基于校园实践与多预算方案的可行性研
+【作者】: 梓川一鸣
+【机构】: HZ Racing车队
+【zone】: latrine
+【时间】: 2026-03-03T09:37:22.567894+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "18c1eb7c-07b8-4c65-8d54-6ff5743d025d",
+    "manuscript_title": "大学生在校期间如何玩改装车以及如何玩好改装   ——基于校园实践与多预算方案的可行性研",
+    "author_name": "梓川一鸣",
+    "institution": "HZ Racing车队",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:37:22.567894+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "18c1eb7c-07b8-4c65-8d54-6ff5743d025d/_____2753722455_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 谁更易结婚、谁更易出轨？—— 风险社会与亲密关系祛魅下的婚恋行为跨国比较研究
+【作者】: Eugeniee
+【机构】:  人类亲密关系谬误研究院
+【zone】: septic
+【时间】: 2026-03-03T14:09:43.55713+00:00
+【评分】: 平均 4.666666666666667 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b65b8292-47a9-45ae-839f-8785227c00da",
+    "manuscript_title": "谁更易结婚、谁更易出轨？—— 风险社会与亲密关系祛魅下的婚恋行为跨国比较研究",
+    "author_name": "Eugeniee",
+    "institution": " 人类亲密关系谬误研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T14:09:43.55713+00:00",
+    "avg_score": 4.666666666666667,
+    "pdf_path": "b65b8292-47a9-45ae-839f-8785227c00da/Eugeniee_eugenieying_163_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 屎尿屁列传
+【作者】: Shit Player
+【机构】: The Wild Chicken University
+【zone】: septic
+【时间】: 2026-02-27T13:00:53.649806+00:00
+【评分】: 平均 4.611111111111111 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c41d0c4d-4d51-466b-a79a-08fff021c018",
+    "manuscript_title": "屎尿屁列传",
+    "author_name": "Shit Player",
+    "institution": "The Wild Chicken University",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T13:00:53.649806+00:00",
+    "avg_score": 4.611111111111111,
+    "pdf_path": "c41d0c4d-4d51-466b-a79a-08fff021c018/Shit_Player_3114574860_qq_com.pdf",
+    "zone": "septic"
+}

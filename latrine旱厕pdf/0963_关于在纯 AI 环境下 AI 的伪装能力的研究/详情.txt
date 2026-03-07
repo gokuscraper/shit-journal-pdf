@@ -1,0 +1,19 @@
+【标题】: 关于在纯 AI 环境下 AI 的伪装能力的研究
+【作者】: 须贺先森
+【机构】: 基沃托斯，沙勒
+【zone】: latrine
+【时间】: 2026-02-28T17:38:52.633807+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "579b44fa-b1cc-46c9-ab12-33274ae804fc",
+    "manuscript_title": "关于在纯 AI 环境下 AI 的伪装能力的研究",
+    "author_name": "须贺先森",
+    "institution": "基沃托斯，沙勒",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T17:38:52.633807+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "579b44fa-b1cc-46c9-ab12-33274ae804fc/_____3138546700_qq_com.pdf",
+    "zone": "latrine"
+}

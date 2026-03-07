@@ -1,0 +1,19 @@
+【标题】: S.H.I.T 治理公约 1.0：学术去中心化方案
+【作者】: Ray
+【机构】: 澈硕大学
+【zone】: septic
+【时间】: 2026-02-27T04:16:13.837601+00:00
+【评分】: 平均 4.2 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "bffdf02c-9c8e-4ee9-b845-c32adb274dc9",
+    "manuscript_title": "S.H.I.T 治理公约 1.0：学术去中心化方案",
+    "author_name": "Ray",
+    "institution": "澈硕大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T04:16:13.837601+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "bffdf02c-9c8e-4ee9-b845-c32adb274dc9/Ray_1469108496_qq_com.pdf",
+    "zone": "septic"
+}

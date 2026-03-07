@@ -1,0 +1,19 @@
+【标题】: 双石恋：基于文本视角的贾宝玉与孙悟空情侣关系研究
+【作者】: Dr.Jing
+【机构】: Caliton University
+【zone】: septic
+【时间】: 2026-02-26T02:07:18.863072+00:00
+【评分】: 平均 4.515625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "03ca73b2-f88d-46a9-a14c-b2a6566ca0d8",
+    "manuscript_title": "双石恋：基于文本视角的贾宝玉与孙悟空情侣关系研究",
+    "author_name": "Dr.Jing",
+    "institution": "Caliton University",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-26T02:07:18.863072+00:00",
+    "avg_score": 4.515625,
+    "pdf_path": "03ca73b2-f88d-46a9-a14c-b2a6566ca0d8/Dr_Jing_wangkarroy31_gmail_com.pdf",
+    "zone": "septic"
+}

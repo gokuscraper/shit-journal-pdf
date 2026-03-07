@@ -1,0 +1,19 @@
+【标题】: “我就再看五分钟”：Deadline 视界边缘摸鱼-赶稿伴随函子的拓扑坍缩证明
+【作者】: ZHAI
+【机构】: 摸鱼研究中心
+【zone】: septic
+【时间】: 2026-03-03T02:23:41.987894+00:00
+【评分】: 平均 4.0285714285714285 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "30bfe971-61d7-4289-bd1e-6e209ebe3845",
+    "manuscript_title": "“我就再看五分钟”：Deadline 视界边缘摸鱼-赶稿伴随函子的拓扑坍缩证明",
+    "author_name": "ZHAI",
+    "institution": "摸鱼研究中心",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T02:23:41.987894+00:00",
+    "avg_score": 4.0285714285714285,
+    "pdf_path": "30bfe971-61d7-4289-bd1e-6e209ebe3845/ZHAI_3525549532_qq_com.pdf",
+    "zone": "septic"
+}

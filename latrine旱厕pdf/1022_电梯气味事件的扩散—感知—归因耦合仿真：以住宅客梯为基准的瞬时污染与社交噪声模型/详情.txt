@@ -1,0 +1,19 @@
+【标题】: 电梯气味事件的扩散—感知—归因耦合仿真：以住宅客梯为基准的瞬时污染与社交噪声模型
+【作者】: Mr.YiLing Gong
+【机构】: GMU
+【zone】: latrine
+【时间】: 2026-02-25T11:58:48.162381+00:00
+【评分】: 平均 4.416666666666667 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4f1d93e3-84f8-4a23-8b42-7b0e60229a12",
+    "manuscript_title": "电梯气味事件的扩散—感知—归因耦合仿真：以住宅客梯为基准的瞬时污染与社交噪声模型",
+    "author_name": "Mr.YiLing Gong",
+    "institution": "GMU",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:58:48.162381+00:00",
+    "avg_score": 4.416666666666667,
+    "pdf_path": "4f1d93e3-84f8-4a23-8b42-7b0e60229a12/Mr_YiLing_Gong_mr_gongboji_qq_com.pdf",
+    "zone": "latrine"
+}

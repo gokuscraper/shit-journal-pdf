@@ -1,0 +1,19 @@
+【标题】: Academic Stress from Supervisory Pressure and Self-Reported Stool Odor Severity: A Cross-Sectional Study within the Brain–Gut Axis Perspective
+【作者】: KARA_LAOZHAI
+【机构】: Shanghai Institute of Distinguished Mentor Fecal Microbiota Research
+【zone】: latrine
+【时间】: 2026-02-23T14:21:57.652802+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "40ae6ee1-036e-42ec-9e2e-0beb6a3f240d",
+    "manuscript_title": "Academic Stress from Supervisory Pressure and Self-Reported Stool Odor Severity: A Cross-Sectional Study within the Brain–Gut Axis Perspective",
+    "author_name": "KARA_LAOZHAI",
+    "institution": "Shanghai Institute of Distinguished Mentor Fecal Microbiota Research",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:21:57.652802+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "40ae6ee1-036e-42ec-9e2e-0beb6a3f240d/paper.pdf",
+    "zone": "latrine"
+}

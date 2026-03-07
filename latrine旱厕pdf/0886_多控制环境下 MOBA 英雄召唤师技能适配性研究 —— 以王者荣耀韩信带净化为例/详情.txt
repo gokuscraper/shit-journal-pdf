@@ -1,0 +1,19 @@
+【标题】: 多控制环境下 MOBA 英雄召唤师技能适配性研究 —— 以王者荣耀韩信带净化为例
+【作者】: shiter
+【机构】: JiaLidun University
+【zone】: latrine
+【时间】: 2026-02-28T06:47:15.596012+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "61e30f51-2ae0-4da4-8101-5cc7a6a72ef7",
+    "manuscript_title": "多控制环境下 MOBA 英雄召唤师技能适配性研究 —— 以王者荣耀韩信带净化为例",
+    "author_name": "shiter",
+    "institution": "JiaLidun University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:47:15.596012+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "61e30f51-2ae0-4da4-8101-5cc7a6a72ef7/shiter_2424640010_qq_com.pdf",
+    "zone": "latrine"
+}

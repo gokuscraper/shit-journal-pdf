@@ -1,0 +1,19 @@
+【标题】: 去身份化学术社群中的动态权重分配模型： 基于重复博弈的贡献度量机制之研究
+【作者】: Dr. Fooler
+【机构】: University of SHIT
+【zone】: latrine
+【时间】: 2026-02-27T05:59:21.90091+00:00
+【评分】: 平均 3.533333333333333 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "10185802-91f2-463f-ac66-c5219818bb0b",
+    "manuscript_title": "去身份化学术社群中的动态权重分配模型： 基于重复博弈的贡献度量机制之研究",
+    "author_name": "Dr. Fooler",
+    "institution": "University of SHIT",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-02-27T05:59:21.90091+00:00",
+    "avg_score": 3.533333333333333,
+    "pdf_path": "10185802-91f2-463f-ac66-c5219818bb0b/Dr__Fooler_liuhanjie2009_outlook_com.pdf",
+    "zone": "latrine"
+}

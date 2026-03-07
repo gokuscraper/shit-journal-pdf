@@ -1,0 +1,19 @@
+【标题】: 论虚无缥缈中的存在意义
+【作者】: azas
+【机构】: 自力鸡脖大学
+【zone】: latrine
+【时间】: 2026-02-23T09:39:39.799346+00:00
+【评分】: 平均 4.3 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8845316a-bc42-4d27-bb3c-cf914f155ad4",
+    "manuscript_title": "论虚无缥缈中的存在意义",
+    "author_name": "azas",
+    "institution": "自力鸡脖大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:39:39.799346+00:00",
+    "avg_score": 4.3,
+    "pdf_path": "8845316a-bc42-4d27-bb3c-cf914f155ad4/paper.pdf",
+    "zone": "latrine"
+}

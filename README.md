@@ -14,7 +14,7 @@
 
 shit 期刊官网：[shitjournal.org](https://shitjournal.org)
 
-# 新手下载方法
+# 新手下载方法（数据比较多，也可以不下载直接看）
 
 ## 1.
 

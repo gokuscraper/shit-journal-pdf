@@ -1,0 +1,19 @@
+【标题】: 00后群体30岁存活率归零现象的跨学科实证研究
+【作者】: 重庆育才拉屎大王
+【机构】: Chongqing Yucai Secondary School
+【zone】: stone
+【时间】: 2026-02-27T13:52:40.059976+00:00
+【评分】: 平均 4.862784471218206 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "58409a4b-0b9c-475f-8e52-5d976114d7ff",
+    "manuscript_title": "00后群体30岁存活率归零现象的跨学科实证研究",
+    "author_name": "重庆育才拉屎大王",
+    "institution": "Chongqing Yucai Secondary School",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T13:52:40.059976+00:00",
+    "avg_score": 4.862784471218206,
+    "pdf_path": "58409a4b-0b9c-475f-8e52-5d976114d7ff/_________winter17784268682_outlook_com.pdf",
+    "zone": "stone"
+}

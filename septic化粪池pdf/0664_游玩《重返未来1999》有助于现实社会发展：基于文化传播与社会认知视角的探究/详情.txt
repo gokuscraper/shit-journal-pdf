@@ -1,0 +1,19 @@
+【标题】: 游玩《重返未来1999》有助于现实社会发展：基于文化传播与社会认知视角的探究
+【作者】: 洛雨竹
+【机构】: Laplace Scientific Computing Center 
+【zone】: septic
+【时间】: 2026-03-02T07:36:47.258537+00:00
+【评分】: 平均 4.098360655737705 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "809b04e6-e804-4382-a806-e8051bb22083",
+    "manuscript_title": "游玩《重返未来1999》有助于现实社会发展：基于文化传播与社会认知视角的探究",
+    "author_name": "洛雨竹",
+    "institution": "Laplace Scientific Computing Center ",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T07:36:47.258537+00:00",
+    "avg_score": 4.098360655737705,
+    "pdf_path": "809b04e6-e804-4382-a806-e8051bb22083/____1271472715_qq_com.pdf",
+    "zone": "septic"
+}

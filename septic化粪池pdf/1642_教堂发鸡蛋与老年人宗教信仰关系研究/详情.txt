@@ -1,0 +1,19 @@
+【标题】: 教堂发鸡蛋与老年人宗教信仰关系研究
+【作者】: 四十二号混凝土
+【机构】: 科学遗矢研究所
+【zone】: septic
+【时间】: 2026-02-24T04:29:09.290504+00:00
+【评分】: 平均 4.4935064935064934 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e7783c5a-fe9a-4bbe-a628-7b84f98b3a9f",
+    "manuscript_title": "教堂发鸡蛋与老年人宗教信仰关系研究",
+    "author_name": "四十二号混凝土",
+    "institution": "科学遗矢研究所",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-24T04:29:09.290504+00:00",
+    "avg_score": 4.4935064935064934,
+    "pdf_path": "e7783c5a-fe9a-4bbe-a628-7b84f98b3a9f/paper.pdf",
+    "zone": "septic"
+}

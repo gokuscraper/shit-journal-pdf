@@ -1,0 +1,19 @@
+【标题】: “我没事”的语用悖论：女性负面情绪的否定式表达与男性解码失败的博弈论分析
+【作者】: 秦屎皇
+【机构】: stay at home
+【zone】: latrine
+【时间】: 2026-03-03T04:04:43.04011+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e9ce39ac-ac1a-4db0-a0d6-b162525578e5",
+    "manuscript_title": "“我没事”的语用悖论：女性负面情绪的否定式表达与男性解码失败的博弈论分析",
+    "author_name": "秦屎皇",
+    "institution": "stay at home",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T04:04:43.04011+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "e9ce39ac-ac1a-4db0-a0d6-b162525578e5/____18266059728_163_com.pdf",
+    "zone": "latrine"
+}

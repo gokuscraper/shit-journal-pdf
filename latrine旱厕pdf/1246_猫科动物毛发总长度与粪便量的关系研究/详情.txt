@@ -1,0 +1,19 @@
+【标题】: 猫科动物毛发总长度与粪便量的关系研究
+【作者】: freshlab
+【机构】: 淡水实验室
+【zone】: latrine
+【时间】: 2026-02-25T12:16:56.461682+00:00
+【评分】: 平均 1.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2e272f8a-4f9d-4016-a8f4-fdcfd25178c7",
+    "manuscript_title": "猫科动物毛发总长度与粪便量的关系研究",
+    "author_name": "freshlab",
+    "institution": "淡水实验室",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:16:56.461682+00:00",
+    "avg_score": 1.5,
+    "pdf_path": "2e272f8a-4f9d-4016-a8f4-fdcfd25178c7/freshlab_freshlab_126_com.pdf",
+    "zone": "latrine"
+}

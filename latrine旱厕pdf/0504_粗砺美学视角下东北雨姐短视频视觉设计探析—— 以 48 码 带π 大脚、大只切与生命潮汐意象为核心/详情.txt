@@ -1,0 +1,19 @@
+【标题】: 粗砺美学视角下东北雨姐短视频视觉设计探析—— 以 48 码 带π 大脚、大只切与生命潮汐意象为核心
+【作者】: DR.Dr.ZhongyangYu
+【机构】: 东百皇家财经ART学院
+【zone】: latrine
+【时间】: 2026-03-01T08:53:31.38055+00:00
+【评分】: 平均 4.777777777777778 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "98bd7f2c-7bd6-437f-8dd6-7af0fc054dd7",
+    "manuscript_title": "粗砺美学视角下东北雨姐短视频视觉设计探析—— 以 48 码 带π 大脚、大只切与生命潮汐意象为核心",
+    "author_name": "DR.Dr.ZhongyangYu",
+    "institution": "东百皇家财经ART学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:53:31.38055+00:00",
+    "avg_score": 4.777777777777778,
+    "pdf_path": "98bd7f2c-7bd6-437f-8dd6-7af0fc054dd7/DR_Dr_ZhongyangYu_530689764_qq_com.pdf",
+    "zone": "latrine"
+}

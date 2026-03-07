@@ -1,0 +1,19 @@
+【标题】: MOBA对局中的“转折点”形成机制探析——以《王者荣耀》优势方高地进攻溃败为例
+【作者】: dake
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-28T08:27:08.58686+00:00
+【评分】: 平均 3.875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "671c3e8c-c45c-4e2e-bc28-4d898ec6e31d",
+    "manuscript_title": "MOBA对局中的“转折点”形成机制探析——以《王者荣耀》优势方高地进攻溃败为例",
+    "author_name": "dake",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:27:08.58686+00:00",
+    "avg_score": 3.875,
+    "pdf_path": "671c3e8c-c45c-4e2e-bc28-4d898ec6e31d/dake_2938907371_qq_com.pdf",
+    "zone": "latrine"
+}

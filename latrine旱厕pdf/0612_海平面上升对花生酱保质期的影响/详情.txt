@@ -1,0 +1,19 @@
+【标题】: 海平面上升对花生酱保质期的影响
+【作者】: Supershit
+【机构】: 略
+【zone】: latrine
+【时间】: 2026-02-23T11:24:28.683233+00:00
+【评分】: 平均 3.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8844d9d8-854e-43ae-8ad4-1e07b4ff5ccc",
+    "manuscript_title": "海平面上升对花生酱保质期的影响",
+    "author_name": "Supershit",
+    "institution": "略",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T11:24:28.683233+00:00",
+    "avg_score": 3.5,
+    "pdf_path": "8844d9d8-854e-43ae-8ad4-1e07b4ff5ccc/paper.pdf",
+    "zone": "latrine"
+}

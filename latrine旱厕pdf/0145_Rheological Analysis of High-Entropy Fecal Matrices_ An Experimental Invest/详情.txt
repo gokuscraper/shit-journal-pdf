@@ -1,0 +1,19 @@
+【标题】: Rheological Analysis of High-Entropy Fecal Matrices: An Experimental Investigation into Residual Viscosity
+【作者】: colin
+【机构】: 非专业排泄研究院
+【zone】: latrine
+【时间】: 2026-02-24T03:53:39.833388+00:00
+【评分】: 平均 1.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cda0e26c-9e8e-41e3-bfb9-a95a84069570",
+    "manuscript_title": "Rheological Analysis of High-Entropy Fecal Matrices: An Experimental Investigation into Residual Viscosity",
+    "author_name": "colin",
+    "institution": "非专业排泄研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T03:53:39.833388+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "cda0e26c-9e8e-41e3-bfb9-a95a84069570/paper.pdf",
+    "zone": "latrine"
+}

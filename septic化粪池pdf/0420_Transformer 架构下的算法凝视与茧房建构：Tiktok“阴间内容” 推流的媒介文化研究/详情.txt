@@ -1,0 +1,19 @@
+【标题】: Transformer 架构下的算法凝视与茧房建构：Tiktok“阴间内容” 推流的媒介文化研究
+【作者】: 墨墨
+【机构】: 嘉里墩大学
+【zone】: septic
+【时间】: 2026-03-04T05:46:43.933216+00:00
+【评分】: 平均 4.088235294117647 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a5b1e25e-6834-48a0-83b1-57d9cbe66593",
+    "manuscript_title": "Transformer 架构下的算法凝视与茧房建构：Tiktok“阴间内容” 推流的媒介文化研究",
+    "author_name": "墨墨",
+    "institution": "嘉里墩大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-04T05:46:43.933216+00:00",
+    "avg_score": 4.088235294117647,
+    "pdf_path": "a5b1e25e-6834-48a0-83b1-57d9cbe66593/___jyh_6666_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 乐邦·詹士《教父》扉页悖论：关于“永恒起始”的认知负载与量子心理学分析
+【作者】: 构思者武昌魚
+【机构】: Shameful Horrible Institute of Technology
+【zone】: septic
+【时间】: 2026-03-03T14:46:47.393174+00:00
+【评分】: 平均 4.346938775510204 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "baf24a60-68c3-4a38-b6d0-1bab89aee17f",
+    "manuscript_title": "乐邦·詹士《教父》扉页悖论：关于“永恒起始”的认知负载与量子心理学分析",
+    "author_name": "构思者武昌魚",
+    "institution": "Shameful Horrible Institute of Technology",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T14:46:47.393174+00:00",
+    "avg_score": 4.346938775510204,
+    "pdf_path": "baf24a60-68c3-4a38-b6d0-1bab89aee17f/_______1052596065_qq_com.pdf",
+    "zone": "septic"
+}

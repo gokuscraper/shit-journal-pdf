@@ -1,0 +1,19 @@
+【标题】: “人类会发光，如何把彩灯装入痔疮使屁股在夜间发光？”：腔道内发光装饰载体的微创置入与夜间可视化实现路径研究
+【作者】: 痔疮
+【机构】: 星星大学
+【zone】: latrine
+【时间】: 2026-03-03T05:29:10.143788+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bcc9cc0e-b665-45dc-856c-389bf649bb16",
+    "manuscript_title": "“人类会发光，如何把彩灯装入痔疮使屁股在夜间发光？”：腔道内发光装饰载体的微创置入与夜间可视化实现路径研究",
+    "author_name": "痔疮",
+    "institution": "星星大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T05:29:10.143788+00:00",
+    "avg_score": 0,
+    "pdf_path": "bcc9cc0e-b665-45dc-856c-389bf649bb16/___zhichuang_quququ_com.pdf",
+    "zone": "latrine"
+}

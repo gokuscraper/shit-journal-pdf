@@ -1,0 +1,19 @@
+【标题】: 基于深度学习的放屁声谱分析：气体成分与社交尴尬度预测
+【作者】: 444+222
+【机构】: Hakimi North-South Mung Bean University
+【zone】: stone
+【时间】: 2026-02-28T17:00:39.835259+00:00
+【评分】: 平均 4.8108108108108105 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8354df60-5fb8-4d44-8bf1-22e9d105ec8c",
+    "manuscript_title": "基于深度学习的放屁声谱分析：气体成分与社交尴尬度预测",
+    "author_name": "444+222",
+    "institution": "Hakimi North-South Mung Bean University",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-02-28T17:00:39.835259+00:00",
+    "avg_score": 4.8108108108108105,
+    "pdf_path": "8354df60-5fb8-4d44-8bf1-22e9d105ec8c/444_222_yokeres77_gmail_com.pdf",
+    "zone": "stone"
+}

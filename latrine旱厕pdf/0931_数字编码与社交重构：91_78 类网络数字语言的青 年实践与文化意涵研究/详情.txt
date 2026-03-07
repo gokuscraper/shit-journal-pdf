@@ -1,0 +1,19 @@
+【标题】: 数字编码与社交重构：91/78 类网络数字语言的青 年实践与文化意涵研究
+【作者】: Seo
+【机构】: BONSUN
+【zone】: latrine
+【时间】: 2026-02-28T08:08:47.273496+00:00
+【评分】: 平均 3.1 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5af6fdd4-c2d3-4ff9-ba17-589cae9ec504",
+    "manuscript_title": "数字编码与社交重构：91/78 类网络数字语言的青 年实践与文化意涵研究",
+    "author_name": "Seo",
+    "institution": "BONSUN",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-02-28T08:08:47.273496+00:00",
+    "avg_score": 3.1,
+    "pdf_path": "5af6fdd4-c2d3-4ff9-ba17-589cae9ec504/Seo_569697108_qq_com.pdf",
+    "zone": "latrine"
+}

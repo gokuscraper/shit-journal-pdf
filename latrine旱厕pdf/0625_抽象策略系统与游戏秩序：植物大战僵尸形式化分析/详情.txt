@@ -1,0 +1,19 @@
+【标题】: 抽象策略系统与游戏秩序：植物大战僵尸形式化分析
+【作者】: 大黄鱼
+【机构】: HKU
+【zone】: latrine
+【时间】: 2026-02-25T12:02:18.715166+00:00
+【评分】: 平均 1.625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "85d93352-43e4-4109-9910-8a982ac5bbdb",
+    "manuscript_title": "抽象策略系统与游戏秩序：植物大战僵尸形式化分析",
+    "author_name": "大黄鱼",
+    "institution": "HKU",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:02:18.715166+00:00",
+    "avg_score": 1.625,
+    "pdf_path": "85d93352-43e4-4109-9910-8a982ac5bbdb/____zicuixu_gmail_com.pdf",
+    "zone": "latrine"
+}

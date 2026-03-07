@@ -1,0 +1,19 @@
+【标题】: 论守望先锋中T位鄙视链研究——以“谈猪色变”为例
+【作者】: 秩序之光
+【机构】: 费斯卡光子建筑学院
+【zone】: septic
+【时间】: 2026-03-01T13:34:48.154649+00:00
+【评分】: 平均 4.354838709677419 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8bc5091c-be3c-4745-9f14-81bf46482cca",
+    "manuscript_title": "论守望先锋中T位鄙视链研究——以“谈猪色变”为例",
+    "author_name": "秩序之光",
+    "institution": "费斯卡光子建筑学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:34:48.154649+00:00",
+    "avg_score": 4.354838709677419,
+    "pdf_path": "8bc5091c-be3c-4745-9f14-81bf46482cca/_____zhixuzhiguang_163_com.pdf",
+    "zone": "septic"
+}

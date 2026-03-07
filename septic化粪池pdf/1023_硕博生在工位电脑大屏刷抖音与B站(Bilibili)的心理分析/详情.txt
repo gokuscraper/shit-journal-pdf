@@ -1,0 +1,19 @@
+【标题】: 硕博生在工位电脑大屏刷抖音与B站(Bilibili)的心理分析
+【作者】: David
+【机构】: 海带大学
+【zone】: septic
+【时间】: 2026-03-03T02:30:40.802347+00:00
+【评分】: 平均 4.140625 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4f1b402b-3d67-48f3-b38b-9f37e98afcd2",
+    "manuscript_title": "硕博生在工位电脑大屏刷抖音与B站(Bilibili)的心理分析",
+    "author_name": "David",
+    "institution": "海带大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T02:30:40.802347+00:00",
+    "avg_score": 4.140625,
+    "pdf_path": "4f1b402b-3d67-48f3-b38b-9f37e98afcd2/David_1608503114_qq_com.pdf",
+    "zone": "septic"
+}

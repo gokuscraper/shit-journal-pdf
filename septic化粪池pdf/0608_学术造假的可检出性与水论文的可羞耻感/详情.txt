@@ -1,0 +1,19 @@
+【标题】: 学术造假的可检出性与水论文的可羞耻感
+【作者】: Xiaobu.Lv
+【机构】: 牛肉面馆
+【zone】: septic
+【时间】: 2026-02-27T10:55:02.35541+00:00
+【评分】: 平均 4.548387096774193 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "88a3e9dd-0ee8-4de9-98b8-5edeae4d1b19",
+    "manuscript_title": "学术造假的可检出性与水论文的可羞耻感",
+    "author_name": "Xiaobu.Lv",
+    "institution": "牛肉面馆",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T10:55:02.35541+00:00",
+    "avg_score": 4.548387096774193,
+    "pdf_path": "88a3e9dd-0ee8-4de9-98b8-5edeae4d1b19/Xiaobu_Lv_364749670_qq_com.pdf",
+    "zone": "septic"
+}

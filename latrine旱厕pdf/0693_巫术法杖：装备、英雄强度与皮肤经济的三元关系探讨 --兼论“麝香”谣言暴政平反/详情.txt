@@ -1,0 +1,19 @@
+【标题】: 巫术法杖：装备、英雄强度与皮肤经济的三元关系探讨 --兼论“麝香”谣言暴政平反
+【作者】: 作文只写Dear
+【机构】: 稷下学院
+【zone】: latrine
+【时间】: 2026-03-03T08:20:01.719055+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7c70bad0-243d-4de4-888e-9076bdb01fd6",
+    "manuscript_title": "巫术法杖：装备、英雄强度与皮肤经济的三元关系探讨 --兼论“麝香”谣言暴政平反",
+    "author_name": "作文只写Dear",
+    "institution": "稷下学院",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T08:20:01.719055+00:00",
+    "avg_score": 0,
+    "pdf_path": "7c70bad0-243d-4de4-888e-9076bdb01fd6/____Dear_3379551498_qq_com.pdf",
+    "zone": "latrine"
+}

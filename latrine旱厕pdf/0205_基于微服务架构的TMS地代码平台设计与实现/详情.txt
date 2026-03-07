@@ -1,0 +1,19 @@
+【标题】: 基于微服务架构的TMS地代码平台设计与实现
+【作者】: wangwenx
+【机构】: bzkj
+【zone】: latrine
+【时间】: 2026-02-25T08:18:08.274781+00:00
+【评分】: 平均 1.4074074074074074 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c5baaaa1-ca6c-4a76-bda2-a0658291d587",
+    "manuscript_title": "基于微服务架构的TMS地代码平台设计与实现",
+    "author_name": "wangwenx",
+    "institution": "bzkj",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:18:08.274781+00:00",
+    "avg_score": 1.4074074074074074,
+    "pdf_path": "c5baaaa1-ca6c-4a76-bda2-a0658291d587/wangwenx_1197527510_qq_com.pdf",
+    "zone": "latrine"
+}

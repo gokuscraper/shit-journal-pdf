@@ -1,0 +1,19 @@
+【标题】: 跨介质排泄物动力学研究：大便在肠道环境与马桶环境中的形态与行为差异分析
+【作者】: 寻屎猎犬
+【机构】: University of Fecal Engineering and Sanitaryware
+【zone】: latrine
+【时间】: 2026-02-27T11:58:30.977532+00:00
+【评分】: 平均 4.444444444444445 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "61ed2eae-1ee2-43c4-b51e-31c3426387b6",
+    "manuscript_title": "跨介质排泄物动力学研究：大便在肠道环境与马桶环境中的形态与行为差异分析",
+    "author_name": "寻屎猎犬",
+    "institution": "University of Fecal Engineering and Sanitaryware",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T11:58:30.977532+00:00",
+    "avg_score": 4.444444444444445,
+    "pdf_path": "61ed2eae-1ee2-43c4-b51e-31c3426387b6/_____2764342828_qq_com.pdf",
+    "zone": "latrine"
+}

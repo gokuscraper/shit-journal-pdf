@@ -1,0 +1,19 @@
+【标题】: Ta真的不一样：恋爱脑群体的自我合理化机制研究
+【作者】: liar
+【机构】: National Key Laboratory of Internet Meme & Mental Emptiness
+【zone】: stone
+【时间】: 2026-02-27T08:48:44.071584+00:00
+【评分】: 平均 4.601156069364162 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d9abcaf3-bf12-435b-87df-25998fdab75c",
+    "manuscript_title": "Ta真的不一样：恋爱脑群体的自我合理化机制研究",
+    "author_name": "liar",
+    "institution": "National Key Laboratory of Internet Meme & Mental Emptiness",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T08:48:44.071584+00:00",
+    "avg_score": 4.601156069364162,
+    "pdf_path": "d9abcaf3-bf12-435b-87df-25998fdab75c/liar_471745950_qq_com.pdf",
+    "zone": "stone"
+}

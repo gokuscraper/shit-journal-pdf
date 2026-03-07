@@ -1,0 +1,19 @@
+【标题】: 基于闲扯学视角的摸鱼行为时空演化规律及干饭耦合机制研究
+【作者】: shit maker
+【机构】: Moyu and Ganfan University
+【zone】: latrine
+【时间】: 2026-02-27T09:52:21.872297+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bdb0e287-1dbe-4bd9-9d6f-8864fca3e4ea",
+    "manuscript_title": "基于闲扯学视角的摸鱼行为时空演化规律及干饭耦合机制研究",
+    "author_name": "shit maker",
+    "institution": "Moyu and Ganfan University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T09:52:21.872297+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "bdb0e287-1dbe-4bd9-9d6f-8864fca3e4ea/shit_maker_2901933267_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论对喷与搬屎对于水群以及群内和谐氛围的影响
+【作者】: 阿弥诺斯
+【机构】: 佳利吨国际大学
+【zone】: latrine
+【时间】: 2026-02-25T08:16:43.220284+00:00
+【评分】: 平均 2.888888888888889 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c18d5651-3ed1-46d0-bd40-f57c4c83c2b8",
+    "manuscript_title": "论对喷与搬屎对于水群以及群内和谐氛围的影响",
+    "author_name": "阿弥诺斯",
+    "institution": "佳利吨国际大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:16:43.220284+00:00",
+    "avg_score": 2.888888888888889,
+    "pdf_path": "c18d5651-3ed1-46d0-bd40-f57c4c83c2b8/_____3041182944_qq_com.pdf",
+    "zone": "latrine"
+}

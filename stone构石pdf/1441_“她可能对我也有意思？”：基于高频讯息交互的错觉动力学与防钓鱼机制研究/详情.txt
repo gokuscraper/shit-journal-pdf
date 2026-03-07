@@ -1,0 +1,19 @@
+【标题】: “她可能对我也有意思？”：基于高频讯息交互的错觉动力学与防钓鱼机制研究
+【作者】: holy shit
+【机构】: The XYY University
+【zone】: stone
+【时间】: 2026-02-27T15:58:33.380062+00:00
+【评分】: 平均 4.849550898203593 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1480b834-f051-41b0-8a47-2b6d0b0df0b2",
+    "manuscript_title": "“她可能对我也有意思？”：基于高频讯息交互的错觉动力学与防钓鱼机制研究",
+    "author_name": "holy shit",
+    "institution": "The XYY University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T15:58:33.380062+00:00",
+    "avg_score": 4.849550898203593,
+    "pdf_path": "1480b834-f051-41b0-8a47-2b6d0b0df0b2/holy_shit_2402441036_qq_com.pdf",
+    "zone": "stone"
+}

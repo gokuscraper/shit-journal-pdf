@@ -1,0 +1,19 @@
+【标题】: 论王勃在《送杜少府之任蜀州》中所描述的“海内存”对现代内存技术的影响
+【作者】: Ry4nnnnn
+【机构】: 绛州电子科技大学
+【zone】: septic
+【时间】: 2026-03-03T12:36:38.690541+00:00
+【评分】: 平均 4.431818181818182 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "20df8721-5eb4-40e0-9f8d-20990c90ab6c",
+    "manuscript_title": "论王勃在《送杜少府之任蜀州》中所描述的“海内存”对现代内存技术的影响",
+    "author_name": "Ry4nnnnn",
+    "institution": "绛州电子科技大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:36:38.690541+00:00",
+    "avg_score": 4.431818181818182,
+    "pdf_path": "20df8721-5eb4-40e0-9f8d-20990c90ab6c/Ry4nnnnn_3548399632_qq_com.pdf",
+    "zone": "septic"
+}

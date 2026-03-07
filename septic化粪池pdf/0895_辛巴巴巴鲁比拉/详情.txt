@@ -1,0 +1,19 @@
+【标题】: 辛巴巴巴鲁比拉
+【作者】: 三山
+【机构】: 神人大学
+【zone】: septic
+【时间】: 2026-02-22T05:28:59.654572+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5fa3260b-3bc9-4e6d-b3ea-eb3415d52e52",
+    "manuscript_title": "辛巴巴巴鲁比拉",
+    "author_name": "三山",
+    "institution": "神人大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T05:28:59.654572+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "5fa3260b-3bc9-4e6d-b3ea-eb3415d52e52/paper.pdf",
+    "zone": "septic"
+}

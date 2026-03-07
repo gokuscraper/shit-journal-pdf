@@ -1,0 +1,19 @@
+【标题】: 迷局与重构：CRYCHIC 解散背景下 MyGO!!!!! 与 Ave Mujica 的乐队组织演化机制研究
+【作者】: 可以面无表情看完三遍mujica
+【机构】: wsd
+【zone】: septic
+【时间】: 2026-02-27T08:13:15.456245+00:00
+【评分】: 平均 4.358974358974359 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5c696124-c1b0-4ebe-ad31-dc5c1f6aba73",
+    "manuscript_title": "迷局与重构：CRYCHIC 解散背景下 MyGO!!!!! 与 Ave Mujica 的乐队组织演化机制研究",
+    "author_name": "可以面无表情看完三遍mujica",
+    "institution": "wsd",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T08:13:15.456245+00:00",
+    "avg_score": 4.358974358974359,
+    "pdf_path": "5c696124-c1b0-4ebe-ad31-dc5c1f6aba73/__________mujica_569697108_qq_com.pdf",
+    "zone": "septic"
+}

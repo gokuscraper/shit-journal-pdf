@@ -1,0 +1,19 @@
+【标题】: 关于学习成绩对空气质量的影响
+【作者】: c.h.eg
+【机构】: Stay at home universuty
+【zone】: septic
+【时间】: 2026-03-02T08:45:24.696141+00:00
+【评分】: 平均 4.0256410256410255 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c94c5955-960e-4cbe-8632-279dec8e9176",
+    "manuscript_title": "关于学习成绩对空气质量的影响",
+    "author_name": "c.h.eg",
+    "institution": "Stay at home universuty",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T08:45:24.696141+00:00",
+    "avg_score": 4.0256410256410255,
+    "pdf_path": "c94c5955-960e-4cbe-8632-279dec8e9176/c_h_eg_1169137454_qq_com.pdf",
+    "zone": "septic"
+}

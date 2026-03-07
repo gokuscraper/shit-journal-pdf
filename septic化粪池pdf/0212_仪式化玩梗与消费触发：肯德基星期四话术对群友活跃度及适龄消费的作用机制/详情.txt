@@ -1,0 +1,19 @@
+【标题】: 仪式化玩梗与消费触发：肯德基星期四话术对群友活跃度及适龄消费的作用机制
+【作者】: 小磊子
+【机构】: Xebenorlin
+【zone】: septic
+【时间】: 2026-03-03T01:57:37.208564+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c4d16239-5fb3-4c02-a319-712960bd1886",
+    "manuscript_title": "仪式化玩梗与消费触发：肯德基星期四话术对群友活跃度及适龄消费的作用机制",
+    "author_name": "小磊子",
+    "institution": "Xebenorlin",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T01:57:37.208564+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "c4d16239-5fb3-4c02-a319-712960bd1886/____2159702689_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: A Study on the Relationship Between Free Church-Based Egg Distribution and Religious Belief Among Older Adults
+【作者】: Ai Tutu
+【机构】: Wild Chicken University
+【zone】: latrine
+【时间】: 2026-02-21T23:46:11.065375+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "acb49a35-6b87-4be9-9b6c-c7b7a33c922d",
+    "manuscript_title": "A Study on the Relationship Between Free Church-Based Egg Distribution and Religious Belief Among Older Adults",
+    "author_name": "Ai Tutu",
+    "institution": "Wild Chicken University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-21T23:46:11.065375+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "acb49a35-6b87-4be9-9b6c-c7b7a33c922d/paper.pdf",
+    "zone": "latrine"
+}

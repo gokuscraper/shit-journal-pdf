@@ -1,0 +1,19 @@
+【标题】: 公共厕所卫生纸卷剩余量对如厕者焦虑指数的相关性分析：基于多模态生理信号监测
+【作者】: cz624
+【机构】: 台江区实验幼儿园
+【zone】: latrine
+【时间】: 2026-02-25T09:31:37.999825+00:00
+【评分】: 平均 3.1 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "82aadff9-0240-455e-bf66-be4d203a2c81",
+    "manuscript_title": "公共厕所卫生纸卷剩余量对如厕者焦虑指数的相关性分析：基于多模态生理信号监测",
+    "author_name": "cz624",
+    "institution": "台江区实验幼儿园",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T09:31:37.999825+00:00",
+    "avg_score": 3.1,
+    "pdf_path": "82aadff9-0240-455e-bf66-be4d203a2c81/cz624_3034803787_qq_com.pdf",
+    "zone": "latrine"
+}

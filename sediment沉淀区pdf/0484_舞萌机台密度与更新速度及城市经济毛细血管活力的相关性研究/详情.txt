@@ -1,0 +1,19 @@
+【标题】: 舞萌机台密度与更新速度及城市经济毛细血管活力的相关性研究
+【作者】: paleblue
+【机构】: 神圣郓州州立家里蹲大学
+【zone】: sediment
+【时间】: 2026-03-02T05:11:46.771438+00:00
+【评分】: 平均 3.65625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9c28e279-cb59-415f-a8ef-52380345f8cb",
+    "manuscript_title": "舞萌机台密度与更新速度及城市经济毛细血管活力的相关性研究",
+    "author_name": "paleblue",
+    "institution": "神圣郓州州立家里蹲大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T05:11:46.771438+00:00",
+    "avg_score": 3.65625,
+    "pdf_path": "9c28e279-cb59-415f-a8ef-52380345f8cb/paleblue_1064805008_qq_com.pdf",
+    "zone": "sediment"
+}

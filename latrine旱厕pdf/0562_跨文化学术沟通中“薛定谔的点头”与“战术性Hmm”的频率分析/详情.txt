@@ -1,0 +1,19 @@
+【标题】: 跨文化学术沟通中“薛定谔的点头”与“战术性Hmm”的频率分析
+【作者】: Poor, Hungry, Drunk
+【机构】: Rocky Mountain Retreat
+【zone】: latrine
+【时间】: 2026-03-01T04:59:17.678738+00:00
+【评分】: 平均 4.333333333333333 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9008e793-e70f-426a-8a0b-4b3d61eca699",
+    "manuscript_title": "跨文化学术沟通中“薛定谔的点头”与“战术性Hmm”的频率分析",
+    "author_name": "Poor, Hungry, Drunk",
+    "institution": "Rocky Mountain Retreat",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T04:59:17.678738+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "9008e793-e70f-426a-8a0b-4b3d61eca699/Poor__Hungry__Drunk_mingt8899_gmail_com.pdf",
+    "zone": "latrine"
+}

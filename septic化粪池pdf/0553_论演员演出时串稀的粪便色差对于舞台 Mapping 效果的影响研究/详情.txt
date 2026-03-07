@@ -1,0 +1,19 @@
+【标题】: 论演员演出时串稀的粪便色差对于舞台 Mapping 效果的影响研究
+【作者】: STA产屎员
+【机构】: 浦江舞台美术学会
+【zone】: septic
+【时间】: 2026-03-02T06:05:14.21036+00:00
+【评分】: 平均 4.388888888888889 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "91621b97-2545-4936-9d2f-7da167e9e37f",
+    "manuscript_title": "论演员演出时串稀的粪便色差对于舞台 Mapping 效果的影响研究",
+    "author_name": "STA产屎员",
+    "institution": "浦江舞台美术学会",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T06:05:14.21036+00:00",
+    "avg_score": 4.388888888888889,
+    "pdf_path": "91621b97-2545-4936-9d2f-7da167e9e37f/STA____oyoungboy_foxmail_com.pdf",
+    "zone": "septic"
+}

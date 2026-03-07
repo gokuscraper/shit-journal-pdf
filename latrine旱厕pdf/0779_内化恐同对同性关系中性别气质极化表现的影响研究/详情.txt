@@ -1,0 +1,19 @@
+【标题】: 内化恐同对同性关系中性别气质极化表现的影响研究
+【作者】: 夜班修仙护理师
+【机构】: World-class medical university
+【zone】: latrine
+【时间】: 2026-02-25T12:04:09.292297+00:00
+【评分】: 平均 3.6 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7056fff0-2e2f-4fd1-a44b-3aa082bf6933",
+    "manuscript_title": "内化恐同对同性关系中性别气质极化表现的影响研究",
+    "author_name": "夜班修仙护理师",
+    "institution": "World-class medical university",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:04:09.292297+00:00",
+    "avg_score": 3.6,
+    "pdf_path": "7056fff0-2e2f-4fd1-a44b-3aa082bf6933/________zhangyingqi21_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 探讨当代青年亚文化中的一种新兴现象——“学术糟粕”创作
+【作者】: Hermes
+【机构】: 广渠门中学
+【zone】: latrine
+【时间】: 2026-02-25T09:45:45.046695+00:00
+【评分】: 平均 3.7333333333333334 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ce1a40d8-cb1c-46b7-b826-7ac5be67c329",
+    "manuscript_title": "探讨当代青年亚文化中的一种新兴现象——“学术糟粕”创作",
+    "author_name": "Hermes",
+    "institution": "广渠门中学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T09:45:45.046695+00:00",
+    "avg_score": 3.7333333333333334,
+    "pdf_path": "ce1a40d8-cb1c-46b7-b826-7ac5be67c329/Hermes_hermes0425_163_com.pdf",
+    "zone": "latrine"
+}

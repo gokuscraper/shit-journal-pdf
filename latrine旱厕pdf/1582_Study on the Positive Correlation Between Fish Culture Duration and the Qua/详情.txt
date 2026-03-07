@@ -1,0 +1,19 @@
+【标题】: Study on the Positive Correlation Between Fish Culture Duration and the Quantity of Edible Parts
+【作者】: 宋明澈
+【机构】: Saint Mingsidon State University
+【zone】: latrine
+【时间】: 2026-02-23T05:05:11.170281+00:00
+【评分】: 平均 1.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e0a863e1-f861-482f-a1c3-32bd1d6e92d4",
+    "manuscript_title": "Study on the Positive Correlation Between Fish Culture Duration and the Quantity of Edible Parts",
+    "author_name": "宋明澈",
+    "institution": "Saint Mingsidon State University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T05:05:11.170281+00:00",
+    "avg_score": 1.5,
+    "pdf_path": "e0a863e1-f861-482f-a1c3-32bd1d6e92d4/paper.pdf",
+    "zone": "latrine"
+}

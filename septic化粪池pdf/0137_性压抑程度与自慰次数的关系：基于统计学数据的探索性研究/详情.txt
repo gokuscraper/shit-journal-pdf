@@ -1,0 +1,19 @@
+【标题】: 性压抑程度与自慰次数的关系：基于统计学数据的探索性研究
+【作者】: Mj4fu
+【机构】: 性压抑大学
+【zone】: septic
+【时间】: 2026-03-01T12:28:26.483728+00:00
+【评分】: 平均 4.333333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ce8da364-6e52-4bd9-9680-eb3cc3441c1d",
+    "manuscript_title": "性压抑程度与自慰次数的关系：基于统计学数据的探索性研究",
+    "author_name": "Mj4fu",
+    "institution": "性压抑大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T12:28:26.483728+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "ce8da364-6e52-4bd9-9680-eb3cc3441c1d/Mj4fu_mj4fu_qq_com.pdf",
+    "zone": "septic"
+}

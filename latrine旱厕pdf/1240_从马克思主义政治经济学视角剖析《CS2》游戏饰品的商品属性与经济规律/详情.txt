@@ -1,0 +1,19 @@
+【标题】: 从马克思主义政治经济学视角剖析《CS2》游戏饰品的商品属性与经济规律
+【作者】: The professor of shit social sciences
+【机构】: 逛街吃饭大学
+【zone】: latrine
+【时间】: 2026-02-22T06:03:26.014318+00:00
+【评分】: 平均 4.166666666666667 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2e906a7b-13ba-4711-bda9-972c0baef0c0",
+    "manuscript_title": "从马克思主义政治经济学视角剖析《CS2》游戏饰品的商品属性与经济规律",
+    "author_name": "The professor of shit social sciences",
+    "institution": "逛街吃饭大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T06:03:26.014318+00:00",
+    "avg_score": 4.166666666666667,
+    "pdf_path": "2e906a7b-13ba-4711-bda9-972c0baef0c0/paper.pdf",
+    "zone": "latrine"
+}

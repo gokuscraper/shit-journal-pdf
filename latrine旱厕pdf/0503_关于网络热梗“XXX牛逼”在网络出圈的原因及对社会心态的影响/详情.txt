@@ -1,0 +1,19 @@
+【标题】: 关于网络热梗“XXX牛逼”在网络出圈的原因及对社会心态的影响
+【作者】: 厚礼shit
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-25T17:20:12.325589+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "98ec6e8d-4009-4a72-b362-e4132fdba447",
+    "manuscript_title": "关于网络热梗“XXX牛逼”在网络出圈的原因及对社会心态的影响",
+    "author_name": "厚礼shit",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T17:20:12.325589+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "98ec6e8d-4009-4a72-b362-e4132fdba447/__shit_2316386510_qq_com.pdf",
+    "zone": "latrine"
+}

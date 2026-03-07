@@ -1,0 +1,19 @@
+【标题】: 从三角洲货币体系分析通货膨胀危机和解决方案
+【作者】: jokemaker
+【机构】: 新日暮里大学
+【zone】: septic
+【时间】: 2026-02-25T04:37:56.473715+00:00
+【评分】: 平均 4.348837209302325 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e680b9cd-6f14-4a11-82b2-80e713dd2788",
+    "manuscript_title": "从三角洲货币体系分析通货膨胀危机和解决方案",
+    "author_name": "jokemaker",
+    "institution": "新日暮里大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:37:56.473715+00:00",
+    "avg_score": 4.348837209302325,
+    "pdf_path": "e680b9cd-6f14-4a11-82b2-80e713dd2788/jokemaker_1033751141_qq_com.pdf",
+    "zone": "septic"
+}

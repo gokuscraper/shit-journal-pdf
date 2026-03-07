@@ -1,0 +1,19 @@
+【标题】: 从“globalThis上排泄”至“单文件拉出超长代码”的现代方法： 论JS屎山代码对编写者的心理愉悦作用
+【作者】: Whale303
+【机构】: 91 Research Center / 九一研究所
+【zone】: septic
+【时间】: 2026-03-01T11:07:15.221803+00:00
+【评分】: 平均 4.181818181818182 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f9fabfc9-2753-4290-aed8-70f365e56082",
+    "manuscript_title": "从“globalThis上排泄”至“单文件拉出超长代码”的现代方法： 论JS屎山代码对编写者的心理愉悦作用",
+    "author_name": "Whale303",
+    "institution": "91 Research Center / 九一研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:07:15.221803+00:00",
+    "avg_score": 4.181818181818182,
+    "pdf_path": "f9fabfc9-2753-4290-aed8-70f365e56082/Whale303_little_whale303_outlook_com.pdf",
+    "zone": "septic"
+}

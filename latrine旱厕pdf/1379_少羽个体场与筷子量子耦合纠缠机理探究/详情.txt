@@ -1,0 +1,19 @@
+【标题】: 少羽个体场与筷子量子耦合纠缠机理探究  
+【作者】: 蔡徐坤ps
+【机构】: 个人
+【zone】: latrine
+【时间】: 2026-02-27T17:35:21.270706+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1c9fcbc3-8b64-4abf-92a6-93a8b53fe196",
+    "manuscript_title": "少羽个体场与筷子量子耦合纠缠机理探究  ",
+    "author_name": "蔡徐坤ps",
+    "institution": "个人",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T17:35:21.270706+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "1c9fcbc3-8b64-4abf-92a6-93a8b53fe196/___ps_luoxin46_qq_com.pdf",
+    "zone": "latrine"
+}

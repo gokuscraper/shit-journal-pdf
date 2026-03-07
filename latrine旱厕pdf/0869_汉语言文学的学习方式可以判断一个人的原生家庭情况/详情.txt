@@ -1,0 +1,19 @@
+【标题】: 汉语言文学的学习方式可以判断一个人的原生家庭情况
+【作者】: six
+【机构】: UNIVERSITY of STAYING AT HOME
+【zone】: latrine
+【时间】: 2026-03-03T08:44:15.755146+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "63eb4f1a-7a71-494f-99e1-ca919755ab89",
+    "manuscript_title": "汉语言文学的学习方式可以判断一个人的原生家庭情况",
+    "author_name": "six",
+    "institution": "UNIVERSITY of STAYING AT HOME",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:44:15.755146+00:00",
+    "avg_score": 0,
+    "pdf_path": "63eb4f1a-7a71-494f-99e1-ca919755ab89/six_1300314514_qq_com.pdf",
+    "zone": "latrine"
+}

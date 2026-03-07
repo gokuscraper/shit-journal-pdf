@@ -1,0 +1,19 @@
+【标题】: 凡诸史展研：残阳升起之兆
+【作者】: 静
+【机构】: 萨雷安大学
+【zone】: latrine
+【时间】: 2026-02-23T07:20:36.783164+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ba3deee3-6c9b-47b8-9b99-96ba5ff7ec4f",
+    "manuscript_title": "凡诸史展研：残阳升起之兆",
+    "author_name": "静",
+    "institution": "萨雷安大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:20:36.783164+00:00",
+    "avg_score": 0,
+    "pdf_path": "ba3deee3-6c9b-47b8-9b99-96ba5ff7ec4f/paper.pdf",
+    "zone": "latrine"
+}

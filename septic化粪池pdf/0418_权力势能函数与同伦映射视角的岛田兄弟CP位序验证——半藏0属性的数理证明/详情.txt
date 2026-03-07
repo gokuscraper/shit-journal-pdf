@@ -1,0 +1,19 @@
+【标题】: 权力势能函数与同伦映射视角的岛田兄弟CP位序验证——半藏0属性的数理证明
+【作者】: Heisenberg
+【机构】: 巴尔神殿
+【zone】: septic
+【时间】: 2026-03-02T12:46:08.403698+00:00
+【评分】: 平均 4.2631578947368425 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a5ee27fc-1d64-4045-b025-d2148fbf54a4",
+    "manuscript_title": "权力势能函数与同伦映射视角的岛田兄弟CP位序验证——半藏0属性的数理证明",
+    "author_name": "Heisenberg",
+    "institution": "巴尔神殿",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T12:46:08.403698+00:00",
+    "avg_score": 4.2631578947368425,
+    "pdf_path": "a5ee27fc-1d64-4045-b025-d2148fbf54a4/Heisenberg_henkeholm_126_com.pdf",
+    "zone": "septic"
+}

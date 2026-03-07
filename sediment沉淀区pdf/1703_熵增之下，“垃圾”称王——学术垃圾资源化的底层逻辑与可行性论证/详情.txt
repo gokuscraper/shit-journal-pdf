@@ -1,0 +1,19 @@
+【标题】: 熵增之下，“垃圾”称王——学术垃圾资源化的底层逻辑与可行性论证
+【作者】: 黄金巨蟒
+【机构】: 璃月
+【zone】: sediment
+【时间】: 2026-03-03T03:38:03.776494+00:00
+【评分】: 平均 3.625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f1dcf9e4-4343-40b6-b7a2-a7d62d8dca71",
+    "manuscript_title": "熵增之下，“垃圾”称王——学术垃圾资源化的底层逻辑与可行性论证",
+    "author_name": "黄金巨蟒",
+    "institution": "璃月",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T03:38:03.776494+00:00",
+    "avg_score": 3.625,
+    "pdf_path": "f1dcf9e4-4343-40b6-b7a2-a7d62d8dca71/_____0213123232_imu_vip_163_com.pdf",
+    "zone": "sediment"
+}

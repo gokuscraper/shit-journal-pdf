@@ -1,0 +1,19 @@
+【标题】: 基于强化学习的“薛定谔的Bug”：在代码合并不观察时，Bug是否存在的状态研究
+【作者】: 勤屎皇
+【机构】: Squat at Home of University
+【zone】: latrine
+【时间】: 2026-02-27T14:35:35.668852+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "93d8bfea-a8eb-434a-9461-eb085f3d3577",
+    "manuscript_title": "基于强化学习的“薛定谔的Bug”：在代码合并不观察时，Bug是否存在的状态研究",
+    "author_name": "勤屎皇",
+    "institution": "Squat at Home of University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:35:35.668852+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "93d8bfea-a8eb-434a-9461-eb085f3d3577/____daniel_f1019_163_com.pdf",
+    "zone": "latrine"
+}

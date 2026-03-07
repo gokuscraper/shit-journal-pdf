@@ -1,0 +1,19 @@
+【标题】: 绝地求生（PUBG）中“打野”与“落地钢枪”策略的精神放松度对比研究：基于双人对照组与传统战术FPS的横向评估
+【作者】: Quanzard
+【机构】: 南京没电大学
+【zone】: septic
+【时间】: 2026-03-03T12:52:19.391798+00:00
+【评分】: 平均 3.806451612903226 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "9415a02e-b229-4f13-b1f4-dc5ee0616bcc",
+    "manuscript_title": "绝地求生（PUBG）中“打野”与“落地钢枪”策略的精神放松度对比研究：基于双人对照组与传统战术FPS的横向评估",
+    "author_name": "Quanzard",
+    "institution": "南京没电大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:52:19.391798+00:00",
+    "avg_score": 3.806451612903226,
+    "pdf_path": "9415a02e-b229-4f13-b1f4-dc5ee0616bcc/Quanzard_cyc27325912912021_163_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 黑丝--高跟鞋耦合体系的物理化学效应及人体多维度影响机制研究
+【作者】: E.G喷射战士
+【机构】: 构市大学
+【zone】: sediment
+【时间】: 2026-03-02T11:25:18.289564+00:00
+【评分】: 平均 3.525 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "6fa6cc60-765b-45ad-9ac2-3d52ccaf38a8",
+    "manuscript_title": "黑丝--高跟鞋耦合体系的物理化学效应及人体多维度影响机制研究",
+    "author_name": "E.G喷射战士",
+    "institution": "构市大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T11:25:18.289564+00:00",
+    "avg_score": 3.525,
+    "pdf_path": "6fa6cc60-765b-45ad-9ac2-3d52ccaf38a8/E_G_____2986242626_qq_com.pdf",
+    "zone": "sediment"
+}

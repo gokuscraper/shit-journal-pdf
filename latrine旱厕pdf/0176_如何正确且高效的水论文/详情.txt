@@ -1,0 +1,19 @@
+【标题】: 如何正确且高效的水论文
+【作者】: 五碳基五氰基五吡啶钌
+【机构】: 不知道
+【zone】: latrine
+【时间】: 2026-02-23T14:22:34.451201+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c9627fa7-21e1-4dfd-8d5f-c9dd51ba82a8",
+    "manuscript_title": "如何正确且高效的水论文",
+    "author_name": "五碳基五氰基五吡啶钌",
+    "institution": "不知道",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:22:34.451201+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "c9627fa7-21e1-4dfd-8d5f-c9dd51ba82a8/paper.pdf",
+    "zone": "latrine"
+}

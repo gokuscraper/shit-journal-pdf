@@ -1,0 +1,19 @@
+【标题】: 基于博弈论框架的亲密关系控制行为动力学建模与稳态分析
+【作者】: 是羊羊羊呀
+【机构】: Garlidon University
+【zone】: septic
+【时间】: 2026-03-01T11:30:59.88112+00:00
+【评分】: 平均 3.972972972972973 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "15eedfbb-7930-4032-9bfb-8078e43341bf",
+    "manuscript_title": "基于博弈论框架的亲密关系控制行为动力学建模与稳态分析",
+    "author_name": "是羊羊羊呀",
+    "institution": "Garlidon University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:30:59.88112+00:00",
+    "avg_score": 3.972972972972973,
+    "pdf_path": "15eedfbb-7930-4032-9bfb-8078e43341bf/______3258244847_qq_com.pdf",
+    "zone": "septic"
+}

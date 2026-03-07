@@ -1,0 +1,19 @@
+【标题】: 早上闹钟响后赖床时长与迟到风险建模分析
+【作者】: 社畜
+【机构】: 临沂大学
+【zone】: latrine
+【时间】: 2026-02-22T05:49:47.011183+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c77b7476-81a1-4fe2-98ae-76d30b1fe122",
+    "manuscript_title": "早上闹钟响后赖床时长与迟到风险建模分析",
+    "author_name": "社畜",
+    "institution": "临沂大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T05:49:47.011183+00:00",
+    "avg_score": 0,
+    "pdf_path": "c77b7476-81a1-4fe2-98ae-76d30b1fe122/paper.pdf",
+    "zone": "latrine"
+}

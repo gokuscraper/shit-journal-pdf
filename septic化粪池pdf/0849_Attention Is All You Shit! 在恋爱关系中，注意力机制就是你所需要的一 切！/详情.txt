@@ -1,0 +1,19 @@
+【标题】: Attention Is All You Shit! 在恋爱关系中，注意力机制就是你所需要的一 切！
+【作者】: 妍音之涵
+【机构】: 妍音之涵两性关系研究院
+【zone】: septic
+【时间】: 2026-03-03T18:06:16.57483+00:00
+【评分】: 平均 3.9210526315789473 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "670a4ae7-8479-49e5-b232-ecd133cbf8d2",
+    "manuscript_title": "Attention Is All You Shit! 在恋爱关系中，注意力机制就是你所需要的一 切！",
+    "author_name": "妍音之涵",
+    "institution": "妍音之涵两性关系研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T18:06:16.57483+00:00",
+    "avg_score": 3.9210526315789473,
+    "pdf_path": "670a4ae7-8479-49e5-b232-ecd133cbf8d2/_____1700953645_qq_com.pdf",
+    "zone": "septic"
+}

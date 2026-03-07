@@ -1,0 +1,19 @@
+【标题】: 关于缺爱、性压抑对男大学生幻想的研究
+【作者】: 水无痕
+【机构】: 宁波大学
+【zone】: latrine
+【时间】: 2026-02-25T11:44:17.593857+00:00
+【评分】: 平均 4.125 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4fed8a80-c8db-4dd6-98e2-06d31f7a9d35",
+    "manuscript_title": "关于缺爱、性压抑对男大学生幻想的研究",
+    "author_name": "水无痕",
+    "institution": "宁波大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:44:17.593857+00:00",
+    "avg_score": 4.125,
+    "pdf_path": "4fed8a80-c8db-4dd6-98e2-06d31f7a9d35/____swh1221_outlook_com.pdf",
+    "zone": "latrine"
+}

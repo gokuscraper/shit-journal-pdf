@@ -1,0 +1,19 @@
+【标题】: “哈基米”视角下的猫猫主导地球：一项可行性研究（以可爱为第一生产力）
+【作者】: Six month
+【机构】: 奶牛猫高级研究院
+【zone】: latrine
+【时间】: 2026-02-26T02:05:56.981812+00:00
+【评分】: 平均 4.344827586206897 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cca16a87-544b-44e0-ac11-004d24118fff",
+    "manuscript_title": "“哈基米”视角下的猫猫主导地球：一项可行性研究（以可爱为第一生产力）",
+    "author_name": "Six month",
+    "institution": "奶牛猫高级研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T02:05:56.981812+00:00",
+    "avg_score": 4.344827586206897,
+    "pdf_path": "cca16a87-544b-44e0-ac11-004d24118fff/Six_month_xiaojingabu_163_com.pdf",
+    "zone": "latrine"
+}

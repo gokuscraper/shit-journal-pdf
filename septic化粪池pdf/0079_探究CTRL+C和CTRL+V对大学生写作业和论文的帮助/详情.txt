@@ -1,0 +1,19 @@
+【标题】: 探究CTRL+C和CTRL+V对大学生写作业和论文的帮助
+【作者】: FaZe CLAN的ro叶睦本人
+【机构】: Stay At Home Universit   森美奈美演艺事务所
+【zone】: septic
+【时间】: 2026-02-25T13:21:14.244646+00:00
+【评分】: 平均 3.9166666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d676dac4-55ff-4571-9e23-693aac32f98e",
+    "manuscript_title": "探究CTRL+C和CTRL+V对大学生写作业和论文的帮助",
+    "author_name": "FaZe CLAN的ro叶睦本人",
+    "institution": "Stay At Home Universit   森美奈美演艺事务所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T13:21:14.244646+00:00",
+    "avg_score": 3.9166666666666665,
+    "pdf_path": "d676dac4-55ff-4571-9e23-693aac32f98e/FaZe_CLAN_ro_____2509772521_qq_com.pdf",
+    "zone": "septic"
+}

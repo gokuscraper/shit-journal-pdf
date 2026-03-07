@@ -1,0 +1,19 @@
+【标题】: 基于人工智能热门提示词窥见人类面对新事物的行为心理
+【作者】: 普罗屎羞死
+【机构】: JM.University
+【zone】: latrine
+【时间】: 2026-03-03T11:24:37.750875+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "969a10c3-504f-48db-b6b8-a990c7ded5d1",
+    "manuscript_title": "基于人工智能热门提示词窥见人类面对新事物的行为心理",
+    "author_name": "普罗屎羞死",
+    "institution": "JM.University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:24:37.750875+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "969a10c3-504f-48db-b6b8-a990c7ded5d1/______3300374705_qq_com.pdf",
+    "zone": "latrine"
+}

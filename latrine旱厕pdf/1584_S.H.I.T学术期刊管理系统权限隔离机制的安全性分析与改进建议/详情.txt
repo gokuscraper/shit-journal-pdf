@@ -1,0 +1,19 @@
+【标题】: S.H.I.T学术期刊管理系统权限隔离机制的安全性分析与改进建议
+【作者】: Fangs
+【机构】: Kausogaea Loong College
+【zone】: latrine
+【时间】: 2026-02-27T16:40:39.242671+00:00
+【评分】: 平均 4.785714285714286 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e0d55500-64d2-4f4a-8a24-f4af6be0f5f2",
+    "manuscript_title": "S.H.I.T学术期刊管理系统权限隔离机制的安全性分析与改进建议",
+    "author_name": "Fangs",
+    "institution": "Kausogaea Loong College",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:40:39.242671+00:00",
+    "avg_score": 4.785714285714286,
+    "pdf_path": "e0d55500-64d2-4f4a-8a24-f4af6be0f5f2/Fangs_klxf_vip_qq_com.pdf",
+    "zone": "latrine"
+}

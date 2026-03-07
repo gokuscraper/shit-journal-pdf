@@ -1,0 +1,19 @@
+【标题】: 淋浴排尿过程中尿液飞溅动力学与人体接触风险评估
+【作者】: 方便面
+【机构】: University of Latrine
+【zone】: latrine
+【时间】: 2026-02-23T10:55:06.745692+00:00
+【评分】: 平均 3.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "56ec73ee-e393-428d-afac-2a2bf300b2ba",
+    "manuscript_title": "淋浴排尿过程中尿液飞溅动力学与人体接触风险评估",
+    "author_name": "方便面",
+    "institution": "University of Latrine",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-23T10:55:06.745692+00:00",
+    "avg_score": 3.5,
+    "pdf_path": "56ec73ee-e393-428d-afac-2a2bf300b2ba/paper.pdf",
+    "zone": "latrine"
+}

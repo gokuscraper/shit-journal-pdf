@@ -1,0 +1,19 @@
+【标题】: 大便
+【作者】: 赵凤姬
+【机构】: 灶酚大学
+【zone】: latrine
+【时间】: 2026-02-23T12:43:00.320537+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "9318221d-4389-4dd6-b436-0185087a7365",
+    "manuscript_title": "大便",
+    "author_name": "赵凤姬",
+    "institution": "灶酚大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:43:00.320537+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "9318221d-4389-4dd6-b436-0185087a7365/paper.pdf",
+    "zone": "latrine"
+}

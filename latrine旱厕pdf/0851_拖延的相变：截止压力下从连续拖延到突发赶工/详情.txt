@@ -1,0 +1,19 @@
+【标题】: 拖延的相变：截止压力下从连续拖延到突发赶工
+【作者】: TheShiter
+【机构】: 原神大学
+【zone】: latrine
+【时间】: 2026-03-03T07:57:24.73785+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "669a8a57-daf1-4157-a725-3d583aa6cbf7",
+    "manuscript_title": "拖延的相变：截止压力下从连续拖延到突发赶工",
+    "author_name": "TheShiter",
+    "institution": "原神大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T07:57:24.73785+00:00",
+    "avg_score": 0,
+    "pdf_path": "669a8a57-daf1-4157-a725-3d583aa6cbf7/TheShiter_1356702818_qq_com.pdf",
+    "zone": "latrine"
+}

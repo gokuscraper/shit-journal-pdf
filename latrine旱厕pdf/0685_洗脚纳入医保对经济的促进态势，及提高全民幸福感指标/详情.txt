@@ -1,0 +1,19 @@
+【标题】: 洗脚纳入医保对经济的促进态势，及提高全民幸福感指标
+【作者】: 王勤
+【机构】: 株式一高
+【zone】: latrine
+【时间】: 2026-02-25T12:32:18.458392+00:00
+【评分】: 平均 3.125 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7d72b6ef-05d8-45e7-8ccf-0120d04f825b",
+    "manuscript_title": "洗脚纳入医保对经济的促进态势，及提高全民幸福感指标",
+    "author_name": "王勤",
+    "institution": "株式一高",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:32:18.458392+00:00",
+    "avg_score": 3.125,
+    "pdf_path": "7d72b6ef-05d8-45e7-8ccf-0120d04f825b/___yikelike090919_gmail_com.pdf",
+    "zone": "latrine"
+}

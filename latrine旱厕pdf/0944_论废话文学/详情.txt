@@ -1,0 +1,19 @@
+【标题】: 论废话文学
+【作者】: Thinker
+【机构】: 江苏师范大学
+【zone】: latrine
+【时间】: 2026-02-23T04:26:20.872293+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "59184586-099a-4dc3-941e-9ab7890d5621",
+    "manuscript_title": "论废话文学",
+    "author_name": "Thinker",
+    "institution": "江苏师范大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T04:26:20.872293+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "59184586-099a-4dc3-941e-9ab7890d5621/paper.pdf",
+    "zone": "latrine"
+}

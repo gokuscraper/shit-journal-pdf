@@ -1,0 +1,19 @@
+【标题】: 熵增与共鸣：网络热梗生命周期的混合模型研究 ——基于流行语语用实证的跨学科分析
+【作者】: AT31
+【机构】: Shijiazhuang SaH(Stay at home) College
+【zone】: latrine
+【时间】: 2026-02-28T07:24:08.700135+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1a231385-94fe-41d6-ac2e-bbc9a2ccea41",
+    "manuscript_title": "熵增与共鸣：网络热梗生命周期的混合模型研究 ——基于流行语语用实证的跨学科分析",
+    "author_name": "AT31",
+    "institution": "Shijiazhuang SaH(Stay at home) College",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T07:24:08.700135+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "1a231385-94fe-41d6-ac2e-bbc9a2ccea41/AT31_bwl135790_qq_com.pdf",
+    "zone": "latrine"
+}

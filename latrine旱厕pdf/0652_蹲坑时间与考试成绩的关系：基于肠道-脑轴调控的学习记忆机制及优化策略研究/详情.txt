@@ -1,0 +1,19 @@
+【标题】: 蹲坑时间与考试成绩的关系：基于肠道-脑轴调控的学习记忆机制及优化策略研究
+【作者】: windecho
+【机构】: 福瑞综合大学
+【zone】: latrine
+【时间】: 2026-02-25T11:19:28.172005+00:00
+【评分】: 平均 2.857142857142857 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "80996733-ff26-4320-950a-d57755fecc89",
+    "manuscript_title": "蹲坑时间与考试成绩的关系：基于肠道-脑轴调控的学习记忆机制及优化策略研究",
+    "author_name": "windecho",
+    "institution": "福瑞综合大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:19:28.172005+00:00",
+    "avg_score": 2.857142857142857,
+    "pdf_path": "80996733-ff26-4320-950a-d57755fecc89/windecho_13137791268_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 关于贝多芬《第九交响曲》第四乐章“欢乐颂”合唱首演人员全员去世于21世纪前这一事件真实性的考证与跨学科探究
+【作者】: 十五的月亮十六圆
+【机构】: 排泄与生命调控大学University of Excretion and Life Regulation(UELR)
+【zone】: latrine
+【时间】: 2026-02-28T14:59:36.783838+00:00
+【评分】: 平均 3.944444444444444 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cecd76ab-fd78-4f90-9d02-53ab9b6bf88f",
+    "manuscript_title": "关于贝多芬《第九交响曲》第四乐章“欢乐颂”合唱首演人员全员去世于21世纪前这一事件真实性的考证与跨学科探究",
+    "author_name": "十五的月亮十六圆",
+    "institution": "排泄与生命调控大学University of Excretion and Life Regulation(UELR)",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T14:59:36.783838+00:00",
+    "avg_score": 3.944444444444444,
+    "pdf_path": "cecd76ab-fd78-4f90-9d02-53ab9b6bf88f/_________yh20120221_163_com.pdf",
+    "zone": "latrine"
+}

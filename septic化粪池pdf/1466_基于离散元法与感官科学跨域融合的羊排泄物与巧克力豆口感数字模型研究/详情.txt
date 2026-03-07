@@ -1,0 +1,19 @@
+【标题】: 基于离散元法与感官科学跨域融合的羊排泄物与巧克力豆口感数字模型研究
+【作者】: Amadi
+【机构】: InternationalSheepManureResearchCenter
+【zone】: septic
+【时间】: 2026-03-02T04:41:54.88531+00:00
+【评分】: 平均 4.4 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1096b4c2-8e90-4465-98e2-fada93f9fd2d",
+    "manuscript_title": "基于离散元法与感官科学跨域融合的羊排泄物与巧克力豆口感数字模型研究",
+    "author_name": "Amadi",
+    "institution": "InternationalSheepManureResearchCenter",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T04:41:54.88531+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "1096b4c2-8e90-4465-98e2-fada93f9fd2d/Amadi_indwuyadi_outlook_com.pdf",
+    "zone": "septic"
+}

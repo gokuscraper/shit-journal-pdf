@@ -1,0 +1,19 @@
+【标题】: 遮蔽阴影下的文明史： 人类代谢产物的物质流动与符号重构
+【作者】: ShitAnthopo
+【机构】: SHIT University of Peking
+【zone】: latrine
+【时间】: 2026-02-27T14:40:09.731598+00:00
+【评分】: 平均 4.4 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9f29bbd7-eff3-4cc6-8ccd-818e1a71ad2c",
+    "manuscript_title": "遮蔽阴影下的文明史： 人类代谢产物的物质流动与符号重构",
+    "author_name": "ShitAnthopo",
+    "institution": "SHIT University of Peking",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T14:40:09.731598+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "9f29bbd7-eff3-4cc6-8ccd-818e1a71ad2c/ShitAnthopo_myun9_outlook_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 人生自古谁无屎：基于大规模诗文语料的屎尿屁表达识别与历时变迁分析
+【作者】: 屎马迁
+【机构】: 太屎令，太屎局
+【zone】: septic
+【时间】: 2026-02-27T16:12:36.447556+00:00
+【评分】: 平均 4.068181818181818 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4bd5ef21-a993-41cd-95d4-dd13be536602",
+    "manuscript_title": "人生自古谁无屎：基于大规模诗文语料的屎尿屁表达识别与历时变迁分析",
+    "author_name": "屎马迁",
+    "institution": "太屎令，太屎局",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:12:36.447556+00:00",
+    "avg_score": 4.068181818181818,
+    "pdf_path": "4bd5ef21-a993-41cd-95d4-dd13be536602/____lauzyi29_gmail_com.pdf",
+    "zone": "septic"
+}

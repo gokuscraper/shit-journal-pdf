@@ -1,0 +1,19 @@
+【标题】: 大型零售空间暴露与情境性拉屎冲动：机制假设与理论整合
+【作者】: 提捕头
+【机构】: 道处派卞大学
+【zone】: latrine
+【时间】: 2026-03-03T07:40:24.632137+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d1d0e774-16e7-421d-95ff-464db9c70d80",
+    "manuscript_title": "大型零售空间暴露与情境性拉屎冲动：机制假设与理论整合",
+    "author_name": "提捕头",
+    "institution": "道处派卞大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:40:24.632137+00:00",
+    "avg_score": 0,
+    "pdf_path": "d1d0e774-16e7-421d-95ff-464db9c70d80/____mercury13xx_gmail_com.pdf",
+    "zone": "latrine"
+}

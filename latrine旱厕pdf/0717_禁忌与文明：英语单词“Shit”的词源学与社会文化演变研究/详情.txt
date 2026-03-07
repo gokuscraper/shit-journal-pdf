@@ -1,0 +1,19 @@
+【标题】: 禁忌与文明：英语单词“Shit”的词源学与社会文化演变研究
+【作者】: 橡木
+【机构】: SHIT语言科技技术有限公司
+【zone】: latrine
+【时间】: 2026-02-23T07:24:11.348897+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "79cd47b1-c004-4de0-ad31-a8aac79b64fc",
+    "manuscript_title": "禁忌与文明：英语单词“Shit”的词源学与社会文化演变研究",
+    "author_name": "橡木",
+    "institution": "SHIT语言科技技术有限公司",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:24:11.348897+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "79cd47b1-c004-4de0-ad31-a8aac79b64fc/paper.pdf",
+    "zone": "latrine"
+}

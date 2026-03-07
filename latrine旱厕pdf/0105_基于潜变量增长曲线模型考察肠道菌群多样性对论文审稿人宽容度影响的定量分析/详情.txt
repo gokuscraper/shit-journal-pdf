@@ -1,0 +1,19 @@
+【标题】: 基于潜变量增长曲线模型考察肠道菌群多样性对论文审稿人宽容度影响的定量分析
+【作者】: HuTao
+【机构】: 高新技术研究大学
+【zone】: latrine
+【时间】: 2026-02-24T00:02:32.672239+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d0d76212-e898-495d-9f32-0ba49ed46d2c",
+    "manuscript_title": "基于潜变量增长曲线模型考察肠道菌群多样性对论文审稿人宽容度影响的定量分析",
+    "author_name": "HuTao",
+    "institution": "高新技术研究大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T00:02:32.672239+00:00",
+    "avg_score": 0,
+    "pdf_path": null,
+    "zone": "latrine"
+}

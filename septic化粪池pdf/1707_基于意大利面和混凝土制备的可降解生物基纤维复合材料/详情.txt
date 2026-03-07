@@ -1,0 +1,19 @@
+【标题】: 基于意大利面和混凝土制备的可降解生物基纤维复合材料
+【作者】: 虾某人的量子叠加态
+【机构】: Wild Chicken University 耶基大学
+【zone】: septic
+【时间】: 2026-03-01T08:09:53.094291+00:00
+【评分】: 平均 4.27027027027027 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "f24b1e8c-1d0f-483f-9d42-94b168759f8f",
+    "manuscript_title": "基于意大利面和混凝土制备的可降解生物基纤维复合材料",
+    "author_name": "虾某人的量子叠加态",
+    "institution": "Wild Chicken University 耶基大学",
+    "viscosity": "semi",
+    "discipline": "engineering",
+    "created_at": "2026-03-01T08:09:53.094291+00:00",
+    "avg_score": 4.27027027027027,
+    "pdf_path": "f24b1e8c-1d0f-483f-9d42-94b168759f8f/__________shrimpnotxia_outlook_com.pdf",
+    "zone": "septic"
+}

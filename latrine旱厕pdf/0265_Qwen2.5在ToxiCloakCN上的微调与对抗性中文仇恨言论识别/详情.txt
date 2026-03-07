@@ -1,0 +1,19 @@
+【标题】: Qwen2.5在ToxiCloakCN上的微调与对抗性中文仇恨言论识别
+【作者】: bananashit
+【机构】: 嘉利敦大学
+【zone】: latrine
+【时间】: 2026-02-28T11:28:38.871173+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "bbdf9eec-01eb-4016-960a-b6321972d303",
+    "manuscript_title": "Qwen2.5在ToxiCloakCN上的微调与对抗性中文仇恨言论识别",
+    "author_name": "bananashit",
+    "institution": "嘉利敦大学",
+    "viscosity": "semi",
+    "discipline": "engineering",
+    "created_at": "2026-02-28T11:28:38.871173+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "bbdf9eec-01eb-4016-960a-b6321972d303/bananashit_1bananachicken_gmail_com.pdf",
+    "zone": "latrine"
+}

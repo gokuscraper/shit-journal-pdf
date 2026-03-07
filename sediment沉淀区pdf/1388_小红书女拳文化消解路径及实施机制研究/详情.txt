@@ -1,0 +1,19 @@
+【标题】: 小红书女拳文化消解路径及实施机制研究
+【作者】: 风
+【机构】: 家里蹲大学
+【zone】: sediment
+【时间】: 2026-03-02T06:58:36.418639+00:00
+【评分】: 平均 3.301204819277108 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1b4b43b2-3cc4-4a6e-88b1-7c65faf4efca",
+    "manuscript_title": "小红书女拳文化消解路径及实施机制研究",
+    "author_name": "风",
+    "institution": "家里蹲大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T06:58:36.418639+00:00",
+    "avg_score": 3.301204819277108,
+    "pdf_path": "1b4b43b2-3cc4-4a6e-88b1-7c65faf4efca/__1873629989_qq_com.pdf",
+    "zone": "sediment"
+}

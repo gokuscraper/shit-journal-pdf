@@ -1,0 +1,19 @@
+【标题】: 论废话文学在生活中的实用性
+【作者】: Thinker
+【机构】: 江苏师范大学
+【zone】: sediment
+【时间】: 2026-02-25T05:19:23.750363+00:00
+【评分】: 平均 2.127659574468085 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "89afe4b8-3bdd-4286-878d-d95efa8b2738",
+    "manuscript_title": "论废话文学在生活中的实用性",
+    "author_name": "Thinker",
+    "institution": "江苏师范大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T05:19:23.750363+00:00",
+    "avg_score": 2.127659574468085,
+    "pdf_path": "89afe4b8-3bdd-4286-878d-d95efa8b2738/Thinker_evantkslee_outlook_com.pdf",
+    "zone": "sediment"
+}

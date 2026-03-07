@@ -1,0 +1,19 @@
+【标题】: 性压抑与道德推脱对理科实验室双配偶地下恋情的影响
+【作者】: 韩侂史
+【机构】: 良子大学
+【zone】: septic
+【时间】: 2026-03-04T08:51:38.560576+00:00
+【评分】: 平均 4.239130434782608 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "62adff7a-254c-4db8-8af4-e97f3ae7efd6",
+    "manuscript_title": "性压抑与道德推脱对理科实验室双配偶地下恋情的影响",
+    "author_name": "韩侂史",
+    "institution": "良子大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-04T08:51:38.560576+00:00",
+    "avg_score": 4.239130434782608,
+    "pdf_path": "62adff7a-254c-4db8-8af4-e97f3ae7efd6/____1394951454_qq_com.pdf",
+    "zone": "septic"
+}

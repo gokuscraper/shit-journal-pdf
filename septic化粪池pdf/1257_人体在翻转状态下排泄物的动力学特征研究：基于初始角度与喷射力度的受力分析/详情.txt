@@ -1,0 +1,19 @@
+【标题】: 人体在翻转状态下排泄物的动力学特征研究：基于初始角度与喷射力度的受力分析
+【作者】: 后空翻拉粑糕手
+【机构】: University of LaBa
+【zone】: septic
+【时间】: 2026-03-03T17:59:54.015041+00:00
+【评分】: 平均 4.611111111111111 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2c76aa8d-be9a-45bb-bb9f-68b07c9725b7",
+    "manuscript_title": "人体在翻转状态下排泄物的动力学特征研究：基于初始角度与喷射力度的受力分析",
+    "author_name": "后空翻拉粑糕手",
+    "institution": "University of LaBa",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T17:59:54.015041+00:00",
+    "avg_score": 4.611111111111111,
+    "pdf_path": "2c76aa8d-be9a-45bb-bb9f-68b07c9725b7/________gyro-iota_6o_icloud_com.pdf",
+    "zone": "septic"
+}

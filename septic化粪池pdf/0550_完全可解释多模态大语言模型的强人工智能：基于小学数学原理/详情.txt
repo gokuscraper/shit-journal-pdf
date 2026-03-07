@@ -1,0 +1,19 @@
+【标题】: 完全可解释多模态大语言模型的强人工智能：基于小学数学原理
+【作者】: 带鱼博士
+【机构】: 美国西北大学陕西省分校
+【zone】: septic
+【时间】: 2026-02-25T17:40:39.871928+00:00
+【评分】: 平均 4.40625 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "91ad269e-f0ee-411f-a929-144180e025e1",
+    "manuscript_title": "完全可解释多模态大语言模型的强人工智能：基于小学数学原理",
+    "author_name": "带鱼博士",
+    "institution": "美国西北大学陕西省分校",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-02-25T17:40:39.871928+00:00",
+    "avg_score": 4.40625,
+    "pdf_path": "91ad269e-f0ee-411f-a929-144180e025e1/_____jianyang_zhang_foxmail_com.pdf",
+    "zone": "septic"
+}

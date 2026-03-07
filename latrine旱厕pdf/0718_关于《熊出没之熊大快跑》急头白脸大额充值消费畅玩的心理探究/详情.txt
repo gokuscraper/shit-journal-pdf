@@ -1,0 +1,19 @@
+【标题】: 关于《熊出没之熊大快跑》急头白脸大额充值消费畅玩的心理探究
+【作者】: SHIT度下降
+【机构】: TransforShit University
+【zone】: latrine
+【时间】: 2026-03-03T07:06:12.486981+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "791e7b7a-b160-4351-a134-58d78ce60945",
+    "manuscript_title": "关于《熊出没之熊大快跑》急头白脸大额充值消费畅玩的心理探究",
+    "author_name": "SHIT度下降",
+    "institution": "TransforShit University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:06:12.486981+00:00",
+    "avg_score": 0,
+    "pdf_path": "791e7b7a-b160-4351-a134-58d78ce60945/SHIT____1851319323_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论防御屏障的六边形几何收敛——从《葬送的芙莉莲》到星舰隔热瓦的跨虚构比较研究
+【作者】: Infinite Shit
+【机构】: Unified Research of Effective Arcanodynamics (UREA,统一有效秘术动力学研究所)
+【zone】: septic
+【时间】: 2026-03-03T14:48:21.392202+00:00
+【评分】: 平均 4.767441860465116 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "21a3fdf4-dfc5-4439-8697-230abdaaaf97",
+    "manuscript_title": "论防御屏障的六边形几何收敛——从《葬送的芙莉莲》到星舰隔热瓦的跨虚构比较研究",
+    "author_name": "Infinite Shit",
+    "institution": "Unified Research of Effective Arcanodynamics (UREA,统一有效秘术动力学研究所)",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T14:48:21.392202+00:00",
+    "avg_score": 4.767441860465116,
+    "pdf_path": "21a3fdf4-dfc5-4439-8697-230abdaaaf97/Infinite_Shit_lingchun_hydrogenoxide18_com.pdf",
+    "zone": "septic"
+}

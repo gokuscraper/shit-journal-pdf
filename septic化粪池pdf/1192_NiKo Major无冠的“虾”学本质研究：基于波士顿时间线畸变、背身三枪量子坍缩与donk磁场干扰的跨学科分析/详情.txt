@@ -1,0 +1,19 @@
+【标题】: NiKo Major无冠的“虾”学本质研究：基于波士顿时间线畸变、背身三枪量子坍缩与donk磁场干扰的跨学科分析
+【作者】: 屎man
+【机构】: 6657排泄基地
+【zone】: septic
+【时间】: 2026-03-02T13:22:31.836055+00:00
+【评分】: 平均 4.285714285714286 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "357906d5-d973-4ae3-a3a9-f2f40228d461",
+    "manuscript_title": "NiKo Major无冠的“虾”学本质研究：基于波士顿时间线畸变、背身三枪量子坍缩与donk磁场干扰的跨学科分析",
+    "author_name": "屎man",
+    "institution": "6657排泄基地",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T13:22:31.836055+00:00",
+    "avg_score": 4.285714285714286,
+    "pdf_path": "357906d5-d973-4ae3-a3a9-f2f40228d461/_man_thingsmixed_outlook_com.pdf",
+    "zone": "septic"
+}

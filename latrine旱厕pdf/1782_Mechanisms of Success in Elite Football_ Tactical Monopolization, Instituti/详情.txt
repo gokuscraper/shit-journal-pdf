@@ -1,0 +1,19 @@
+【标题】: Mechanisms of Success in Elite Football: Tactical Monopolization, Institutional Leverage, and the “White Lotus” Persona
+【作者】: 南京姆学研究院
+【机构】: 南京姆学研究所
+【zone】: latrine
+【时间】: 2026-03-01T05:48:44.328985+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fe4e94c0-f94f-4a58-b784-cf608933e8c4",
+    "manuscript_title": "Mechanisms of Success in Elite Football: Tactical Monopolization, Institutional Leverage, and the “White Lotus” Persona",
+    "author_name": "南京姆学研究院",
+    "institution": "南京姆学研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T05:48:44.328985+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "fe4e94c0-f94f-4a58-b784-cf608933e8c4/________zzqxiaolaji_126_com.pdf",
+    "zone": "latrine"
+}

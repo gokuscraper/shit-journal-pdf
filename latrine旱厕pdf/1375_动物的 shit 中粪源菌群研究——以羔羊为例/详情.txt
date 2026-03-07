@@ -1,0 +1,19 @@
+【标题】: 动物的 shit 中粪源菌群研究——以羔羊为例
+【作者】: wWw
+【机构】: 魔丸生物及医药研发中心
+【zone】: latrine
+【时间】: 2026-03-03T09:26:07.059566+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1d45d847-9c6c-4a15-9c6a-18dd34998907",
+    "manuscript_title": "动物的 shit 中粪源菌群研究——以羔羊为例",
+    "author_name": "wWw",
+    "institution": "魔丸生物及医药研发中心",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-03T09:26:07.059566+00:00",
+    "avg_score": 0,
+    "pdf_path": "1d45d847-9c6c-4a15-9c6a-18dd34998907/wWw_wjwz1014_163_com.pdf",
+    "zone": "latrine"
+}

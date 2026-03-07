@@ -1,0 +1,19 @@
+【标题】: 基于非线性动力学模拟的柚子社作品中“Ciallo~”脉冲激励对受众心理稳态的影响研究
+【作者】: 构式小馋猫ovo
+【机构】: Galgame大学
+【zone】: latrine
+【时间】: 2026-03-03T10:36:48.165787+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c206bf02-1f5f-425b-9ed9-9bafe2187b45",
+    "manuscript_title": "基于非线性动力学模拟的柚子社作品中“Ciallo~”脉冲激励对受众心理稳态的影响研究",
+    "author_name": "构式小馋猫ovo",
+    "institution": "Galgame大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:36:48.165787+00:00",
+    "avg_score": 0,
+    "pdf_path": "c206bf02-1f5f-425b-9ed9-9bafe2187b45/_____ovo_2579173794_qq_com.pdf",
+    "zone": "latrine"
+}

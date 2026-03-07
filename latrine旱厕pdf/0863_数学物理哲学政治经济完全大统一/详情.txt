@@ -1,0 +1,19 @@
+【标题】: 数学物理哲学政治经济完全大统一
+【作者】: 数学物理哲学政治经济学专家
+【机构】: 河北沧州
+【zone】: latrine
+【时间】: 2026-02-23T15:15:05.307232+00:00
+【评分】: 平均 2.3333333333333335 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "64e934b2-28f4-4451-aad6-bcef231be4ec",
+    "manuscript_title": "数学物理哲学政治经济完全大统一",
+    "author_name": "数学物理哲学政治经济学专家",
+    "institution": "河北沧州",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T15:15:05.307232+00:00",
+    "avg_score": 2.3333333333333335,
+    "pdf_path": "64e934b2-28f4-4451-aad6-bcef231be4ec/paper.pdf",
+    "zone": "latrine"
+}

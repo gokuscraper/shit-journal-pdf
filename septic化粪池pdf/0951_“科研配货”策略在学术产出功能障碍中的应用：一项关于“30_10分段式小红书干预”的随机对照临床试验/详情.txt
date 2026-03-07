@@ -1,0 +1,19 @@
+【标题】: “科研配货”策略在学术产出功能障碍中的应用：一项关于“30:10分段式小红书干预”的随机对照临床试验
+【作者】: 天天拉屎身体壮
+【机构】: Global Center for Procrastination Control
+【zone】: septic
+【时间】: 2026-03-01T13:17:52.164536+00:00
+【评分】: 平均 4.40625 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "58a85a50-898f-4a8f-aa04-25052a9e2f83",
+    "manuscript_title": "“科研配货”策略在学术产出功能障碍中的应用：一项关于“30:10分段式小红书干预”的随机对照临床试验",
+    "author_name": "天天拉屎身体壮",
+    "institution": "Global Center for Procrastination Control",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-01T13:17:52.164536+00:00",
+    "avg_score": 4.40625,
+    "pdf_path": "58a85a50-898f-4a8f-aa04-25052a9e2f83/________316380239_qq_com.pdf",
+    "zone": "septic"
+}

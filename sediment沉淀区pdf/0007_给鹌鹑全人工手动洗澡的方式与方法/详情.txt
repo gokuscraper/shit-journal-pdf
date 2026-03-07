@@ -1,0 +1,19 @@
+【标题】: 给鹌鹑全人工手动洗澡的方式与方法
+【作者】: 矿粪员
+【机构】: 挖粪培训中心
+【zone】: sediment
+【时间】: 2026-03-02T01:59:21.093691+00:00
+【评分】: 平均 3.5813953488372094 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ff2b7923-6d6d-4ce9-bd89-414ff2cbe8dd",
+    "manuscript_title": "给鹌鹑全人工手动洗澡的方式与方法",
+    "author_name": "矿粪员",
+    "institution": "挖粪培训中心",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T01:59:21.093691+00:00",
+    "avg_score": 3.5813953488372094,
+    "pdf_path": "ff2b7923-6d6d-4ce9-bd89-414ff2cbe8dd/____taa125525_163_com.pdf",
+    "zone": "sediment"
+}

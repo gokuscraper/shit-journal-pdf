@@ -1,0 +1,19 @@
+【标题】: 室友半夜不睡觉和我买刮刮乐中不了一千万之间的必然联系
+【作者】: 柬使馆123423
+【机构】: 公共厕所
+【zone】: latrine
+【时间】: 2026-03-03T07:39:23.278768+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a8fde8ac-5fc4-46f1-921e-f44cd2ece4cc",
+    "manuscript_title": "室友半夜不睡觉和我买刮刮乐中不了一千万之间的必然联系",
+    "author_name": "柬使馆123423",
+    "institution": "公共厕所",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T07:39:23.278768+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "a8fde8ac-5fc4-46f1-921e-f44cd2ece4cc/___123423_2242204689_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 不定式与谬分析_证明一切都是15
+【作者】: 拉马舍金
+【机构】: Universidad de Merdia
+【zone】: latrine
+【时间】: 2026-02-27T11:31:55.173038+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "277ec4b5-b8b9-4259-a471-c7b0d4d39416",
+    "manuscript_title": "不定式与谬分析_证明一切都是15",
+    "author_name": "拉马舍金",
+    "institution": "Universidad de Merdia",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-02-27T11:31:55.173038+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "277ec4b5-b8b9-4259-a471-c7b0d4d39416/_____esdongmufeng_gmail_com.pdf",
+    "zone": "latrine"
+}

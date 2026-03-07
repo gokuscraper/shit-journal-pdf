@@ -1,0 +1,19 @@
+【标题】: CS的goat究竟是谁
+【作者】: Jomeod
+【机构】: To Eat Shit College （屎来磕学院）
+【zone】: septic
+【时间】: 2026-03-03T12:31:02.584995+00:00
+【评分】: 平均 3.836734693877551 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "89fc2522-0610-4ef4-a7d1-be2f11e8be80",
+    "manuscript_title": "CS的goat究竟是谁",
+    "author_name": "Jomeod",
+    "institution": "To Eat Shit College （屎来磕学院）",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:31:02.584995+00:00",
+    "avg_score": 3.836734693877551,
+    "pdf_path": "89fc2522-0610-4ef4-a7d1-be2f11e8be80/Jomeod_2665508490_qq_com.pdf",
+    "zone": "septic"
+}

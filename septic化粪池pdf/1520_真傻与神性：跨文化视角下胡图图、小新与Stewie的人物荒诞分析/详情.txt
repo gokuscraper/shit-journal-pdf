@@ -1,0 +1,19 @@
+【标题】: 真傻与神性：跨文化视角下胡图图、小新与Stewie的人物荒诞分析
+【作者】: Stewie
+【机构】: Quahog University
+【zone】: septic
+【时间】: 2026-03-02T11:54:23.979302+00:00
+【评分】: 平均 4.245283018867925 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "08579553-ad80-49d0-b7a3-9d8241ba7fcb",
+    "manuscript_title": "真傻与神性：跨文化视角下胡图图、小新与Stewie的人物荒诞分析",
+    "author_name": "Stewie",
+    "institution": "Quahog University",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T11:54:23.979302+00:00",
+    "avg_score": 4.245283018867925,
+    "pdf_path": "08579553-ad80-49d0-b7a3-9d8241ba7fcb/Stewie_1506789502_qq_com.pdf",
+    "zone": "septic"
+}

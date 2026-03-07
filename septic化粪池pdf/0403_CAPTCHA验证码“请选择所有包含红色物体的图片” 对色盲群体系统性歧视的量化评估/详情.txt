@@ -1,0 +1,19 @@
+【标题】: CAPTCHA验证码“请选择所有包含红色物体的图片” 对色盲群体系统性歧视的量化评估
+【作者】: 爽食要乐奈
+【机构】: 花笑川女子大专
+【zone】: septic
+【时间】: 2026-02-23T14:46:31.13763+00:00
+【评分】: 平均 4.472222222222222 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a7fc29c2-f491-453b-902d-f78e82d65d0d",
+    "manuscript_title": "CAPTCHA验证码“请选择所有包含红色物体的图片” 对色盲群体系统性歧视的量化评估",
+    "author_name": "爽食要乐奈",
+    "institution": "花笑川女子大专",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:46:31.13763+00:00",
+    "avg_score": 4.472222222222222,
+    "pdf_path": "a7fc29c2-f491-453b-902d-f78e82d65d0d/paper.pdf",
+    "zone": "septic"
+}

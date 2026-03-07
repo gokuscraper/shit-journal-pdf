@@ -1,0 +1,19 @@
+【标题】: 寒暑假情境下硕博单身群体情感可接近性的形成机制研究
+【作者】: 屎姐的苍鹰
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-28T10:16:52.554399+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ab83d92c-08aa-4572-afa4-f3d7f1501bfa",
+    "manuscript_title": "寒暑假情境下硕博单身群体情感可接近性的形成机制研究",
+    "author_name": "屎姐的苍鹰",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T10:16:52.554399+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "ab83d92c-08aa-4572-afa4-f3d7f1501bfa/______2189859148_qq_com.pdf",
+    "zone": "latrine"
+}

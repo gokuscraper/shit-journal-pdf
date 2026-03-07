@@ -1,0 +1,19 @@
+【标题】: 强制性控制的微观机制：语言策略、边界设定与行为顺从
+【作者】: 诸葛里昂
+【机构】: Department of Behavioral Sciences, Miskatonic University
+【zone】: septic
+【时间】: 2026-03-01T06:08:15.844531+00:00
+【评分】: 平均 4.090909090909091 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "52632c97-5e75-4830-841c-4bec576b8780",
+    "manuscript_title": "强制性控制的微观机制：语言策略、边界设定与行为顺从",
+    "author_name": "诸葛里昂",
+    "institution": "Department of Behavioral Sciences, Miskatonic University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T06:08:15.844531+00:00",
+    "avg_score": 4.090909090909091,
+    "pdf_path": "52632c97-5e75-4830-841c-4bec576b8780/_____poseidon_wu_outlook_com.pdf",
+    "zone": "septic"
+}

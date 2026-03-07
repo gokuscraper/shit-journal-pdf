@@ -1,0 +1,19 @@
+【标题】: 向椅而生——论秒倒者的存在论特权与赛后沉默的形而上意义
+【作者】: ankoleopas
+【机构】: 庄园发展研究所
+【zone】: septic
+【时间】: 2026-03-03T16:23:13.27788+00:00
+【评分】: 平均 4.518518518518518 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "0a1a7bcd-b553-4f9f-8ad4-519aa07e1ac6",
+    "manuscript_title": "向椅而生——论秒倒者的存在论特权与赛后沉默的形而上意义",
+    "author_name": "ankoleopas",
+    "institution": "庄园发展研究所",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T16:23:13.27788+00:00",
+    "avg_score": 4.518518518518518,
+    "pdf_path": "0a1a7bcd-b553-4f9f-8ad4-519aa07e1ac6/ankoleopas_sayhiforyou_163_com.pdf",
+    "zone": "septic"
+}

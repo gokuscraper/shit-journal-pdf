@@ -1,0 +1,19 @@
+【标题】: 追问到宇宙尽头：十万次仍触不到真理，数学证明问到崩也解释不完
+【作者】: 明天吃什么
+【机构】: EAT研究院
+【zone】: septic
+【时间】: 2026-03-02T11:47:16.957609+00:00
+【评分】: 平均 3.825 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "54c04ef1-27f0-484b-9e9e-b7518955bb2b",
+    "manuscript_title": "追问到宇宙尽头：十万次仍触不到真理，数学证明问到崩也解释不完",
+    "author_name": "明天吃什么",
+    "institution": "EAT研究院",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T11:47:16.957609+00:00",
+    "avg_score": 3.825,
+    "pdf_path": "54c04ef1-27f0-484b-9e9e-b7518955bb2b/______ziyangni2002_gmail_com.pdf",
+    "zone": "septic"
+}

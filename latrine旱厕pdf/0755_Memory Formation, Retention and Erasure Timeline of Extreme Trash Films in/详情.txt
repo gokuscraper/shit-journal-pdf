@@ -1,0 +1,19 @@
+【标题】: Memory Formation, Retention and Erasure Timeline of Extreme Trash Films in the Human Brain: A Cognitive Neuroscience Study Centered on The Human Centipede
+【作者】: 因为鼻炎严重拉屎闻不到臭
+【机构】: South Harmon Institute of Technology (SHIT)
+【zone】: latrine
+【时间】: 2026-02-23T02:26:30.380744+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "73db86f9-41d1-4b45-b130-3d675e5b4a53",
+    "manuscript_title": "Memory Formation, Retention and Erasure Timeline of Extreme Trash Films in the Human Brain: A Cognitive Neuroscience Study Centered on The Human Centipede",
+    "author_name": "因为鼻炎严重拉屎闻不到臭",
+    "institution": "South Harmon Institute of Technology (SHIT)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T02:26:30.380744+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "73db86f9-41d1-4b45-b130-3d675e5b4a53/paper.pdf",
+    "zone": "latrine"
+}

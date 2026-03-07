@@ -1,0 +1,19 @@
+【标题】: 老北京豆汁中流体力学的研究报告
+【作者】: Leo大王
+【机构】: 全宇宙最强 INTJ 协会
+【zone】: septic
+【时间】: 2026-03-02T02:22:01.642692+00:00
+【评分】: 平均 4.024390243902439 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c59d749a-2d94-407e-b9fe-f71d2e4106a2",
+    "manuscript_title": "老北京豆汁中流体力学的研究报告",
+    "author_name": "Leo大王",
+    "institution": "全宇宙最强 INTJ 协会",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T02:22:01.642692+00:00",
+    "avg_score": 4.024390243902439,
+    "pdf_path": "c59d749a-2d94-407e-b9fe-f71d2e4106a2/Leo___2463434690_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 关于九月一号开学但是三月一号就得上课这一明显事实的权威性研究报告
+【作者】: CaptB
+【机构】: Starfleet Academy
+【zone】: septic
+【时间】: 2026-03-02T10:08:53.646232+00:00
+【评分】: 平均 4.4 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e70b5992-6419-45cd-bb83-01803a601ab5",
+    "manuscript_title": "关于九月一号开学但是三月一号就得上课这一明显事实的权威性研究报告",
+    "author_name": "CaptB",
+    "institution": "Starfleet Academy",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T10:08:53.646232+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "e70b5992-6419-45cd-bb83-01803a601ab5/CaptB_captb_lykns_cn.pdf",
+    "zone": "septic"
+}

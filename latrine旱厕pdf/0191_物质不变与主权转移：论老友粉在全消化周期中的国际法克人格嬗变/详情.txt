@@ -1,0 +1,19 @@
+【标题】: 物质不变与主权转移：论老友粉在全消化周期中的国际法克人格嬗变
+【作者】: QQ ㄋㄟㄋㄟ好吃到咩噗斑斓糯叽叽
+【机构】: 臭港大学
+【zone】: latrine
+【时间】: 2026-03-03T06:33:35.83331+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c73603dc-4413-44e6-99f0-b97e05a9f29b",
+    "manuscript_title": "物质不变与主权转移：论老友粉在全消化周期中的国际法克人格嬗变",
+    "author_name": "QQ ㄋㄟㄋㄟ好吃到咩噗斑斓糯叽叽",
+    "institution": "臭港大学",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T06:33:35.83331+00:00",
+    "avg_score": 0,
+    "pdf_path": "c73603dc-4413-44e6-99f0-b97e05a9f29b/QQ________________kevintian36_foxmail_com.pdf",
+    "zone": "latrine"
+}

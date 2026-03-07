@@ -1,0 +1,19 @@
+【标题】: 情感热力学：亲密关系的价值储蓄模型
+【作者】: 吃屎不忘拉屎人
+【机构】: 家里敦大学
+【zone】: septic
+【时间】: 2026-03-03T14:06:29.232844+00:00
+【评分】: 平均 3.810810810810811 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "58c42d0f-dc92-4b86-a01d-bf80e09577e8",
+    "manuscript_title": "情感热力学：亲密关系的价值储蓄模型",
+    "author_name": "吃屎不忘拉屎人",
+    "institution": "家里敦大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T14:06:29.232844+00:00",
+    "avg_score": 3.810810810810811,
+    "pdf_path": "58c42d0f-dc92-4b86-a01d-bf80e09577e8/________eatingshit_jerryton_edu_cn.pdf",
+    "zone": "septic"
+}

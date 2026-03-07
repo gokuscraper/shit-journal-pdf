@@ -1,0 +1,19 @@
+【标题】: 探究林黛玉的真实武力值以及她长期被树立为弱不禁风形象的深层原因——由一系列网络 meme 视频所触发的思考
+【作者】: 拉屎大王兼具拉屎奇才
+【机构】: 屎家之绝唱，无孕之离嫂
+【zone】: latrine
+【时间】: 2026-03-03T07:33:43.923744+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a204c8ba-d9be-493b-980b-6422db5f83d4",
+    "manuscript_title": "探究林黛玉的真实武力值以及她长期被树立为弱不禁风形象的深层原因——由一系列网络 meme 视频所触发的思考",
+    "author_name": "拉屎大王兼具拉屎奇才",
+    "institution": "屎家之绝唱，无孕之离嫂",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:33:43.923744+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "a204c8ba-d9be-493b-980b-6422db5f83d4/___________bukolosier_gmail_com.pdf",
+    "zone": "latrine"
+}

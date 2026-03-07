@@ -1,0 +1,19 @@
+【标题】: 我一秒一篇论文：基于高频学术产出系统的都市异能研究
+【作者】: 林凡
+【机构】: 原神实验室
+【zone】: latrine
+【时间】: 2026-03-03T07:37:29.573212+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "87f339eb-00c3-42cd-9b4d-0665fdc3b5f6",
+    "manuscript_title": "我一秒一篇论文：基于高频学术产出系统的都市异能研究",
+    "author_name": "林凡",
+    "institution": "原神实验室",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T07:37:29.573212+00:00",
+    "avg_score": 0,
+    "pdf_path": "87f339eb-00c3-42cd-9b4d-0665fdc3b5f6/___394349188_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 天地银行控股架构分析———天庭代表天狗与地府的历史遗留问题研究
+【作者】: C.J.呕洋风
+【机构】: 她不爱我研究所
+【zone】: latrine
+【时间】: 2026-03-03T09:08:04.89286+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "55a1d18b-edcd-4974-a7fa-7261896ab12a",
+    "manuscript_title": "天地银行控股架构分析———天庭代表天狗与地府的历史遗留问题研究",
+    "author_name": "C.J.呕洋风",
+    "institution": "她不爱我研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:08:04.89286+00:00",
+    "avg_score": 0,
+    "pdf_path": "55a1d18b-edcd-4974-a7fa-7261896ab12a/C_J_____jinggangcai_gmail_com.pdf",
+    "zone": "latrine"
+}

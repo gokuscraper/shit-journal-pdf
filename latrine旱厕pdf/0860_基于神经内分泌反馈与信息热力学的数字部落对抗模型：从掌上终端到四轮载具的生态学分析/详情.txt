@@ -1,0 +1,19 @@
+【标题】: 基于神经内分泌反馈与信息热力学的数字部落对抗模型：从掌上终端到四轮载具的生态学分析
+【作者】: XX
+【机构】: University of Paid Slacking, UK
+【zone】: latrine
+【时间】: 2026-02-28T08:05:05.11192+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "650dc518-a989-4336-8edb-d604b159e11c",
+    "manuscript_title": "基于神经内分泌反馈与信息热力学的数字部落对抗模型：从掌上终端到四轮载具的生态学分析",
+    "author_name": "XX",
+    "institution": "University of Paid Slacking, UK",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:05:05.11192+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "650dc518-a989-4336-8edb-d604b159e11c/XX_ParrisSol784_gmail_com.pdf",
+    "zone": "latrine"
+}

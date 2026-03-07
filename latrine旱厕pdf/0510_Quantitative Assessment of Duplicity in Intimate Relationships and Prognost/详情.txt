@@ -1,0 +1,19 @@
+【标题】: Quantitative Assessment of Duplicity in Intimate Relationships and Prognostic Study on Kneeling on a Washboard 亲密关系中口是心非的量化评估与跪搓衣板预后研究
+【作者】: 大便超人
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-25T03:05:55.792092+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "97a29afe-e7d0-409e-8a84-58e6e94309a7",
+    "manuscript_title": "Quantitative Assessment of Duplicity in Intimate Relationships and Prognostic Study on Kneeling on a Washboard 亲密关系中口是心非的量化评估与跪搓衣板预后研究",
+    "author_name": "大便超人",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T03:05:55.792092+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "97a29afe-e7d0-409e-8a84-58e6e94309a7/_____15058485619_163_com.pdf",
+    "zone": "latrine"
+}

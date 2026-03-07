@@ -1,0 +1,19 @@
+【标题】: 五行学说在日本成人影视产业艺名与商业成就中的相关性研究
+【作者】: 雷水剑
+【机构】: 下北泽艾坎艾威研究院
+【zone】: septic
+【时间】: 2026-03-01T13:15:31.276912+00:00
+【评分】: 平均 4.7 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fb63fb7a-1f97-4c59-9890-5c4c1de2f4e6",
+    "manuscript_title": "五行学说在日本成人影视产业艺名与商业成就中的相关性研究",
+    "author_name": "雷水剑",
+    "institution": "下北泽艾坎艾威研究院",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T13:15:31.276912+00:00",
+    "avg_score": 4.7,
+    "pdf_path": "fb63fb7a-1f97-4c59-9890-5c4c1de2f4e6/____wusirwusirwusir_gmail_com.pdf",
+    "zone": "septic"
+}

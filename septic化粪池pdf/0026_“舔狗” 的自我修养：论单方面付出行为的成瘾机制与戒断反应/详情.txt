@@ -1,0 +1,19 @@
+【标题】: “舔狗” 的自我修养：论单方面付出行为的成瘾机制与戒断反应
+【作者】: Hermes
+【机构】: BYNONE从无到有
+【zone】: septic
+【时间】: 2026-02-25T11:11:44.543279+00:00
+【评分】: 平均 4.586956521739131 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "de124e84-2c81-40d7-b1df-a86aab2e480a",
+    "manuscript_title": "“舔狗” 的自我修养：论单方面付出行为的成瘾机制与戒断反应",
+    "author_name": "Hermes",
+    "institution": "BYNONE从无到有",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:11:44.543279+00:00",
+    "avg_score": 4.586956521739131,
+    "pdf_path": "de124e84-2c81-40d7-b1df-a86aab2e480a/Hermes_hermes0425_163_com.pdf",
+    "zone": "septic"
+}

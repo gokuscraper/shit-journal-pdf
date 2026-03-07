@@ -1,0 +1,19 @@
+【标题】: 基于目标替代的全场景深度学习迭代加速器
+【作者】: 学术屎壳郎
+【机构】: China University of shiting and Technology 
+【zone】: sediment
+【时间】: 2026-03-02T05:43:07.313065+00:00
+【评分】: 平均 3.085714285714286 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "2a59a954-d87c-4ad0-8f0b-630b3ad618d2",
+    "manuscript_title": "基于目标替代的全场景深度学习迭代加速器",
+    "author_name": "学术屎壳郎",
+    "institution": "China University of shiting and Technology ",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T05:43:07.313065+00:00",
+    "avg_score": 3.085714285714286,
+    "pdf_path": "2a59a954-d87c-4ad0-8f0b-630b3ad618d2/______18342810199_163_com.pdf",
+    "zone": "sediment"
+}

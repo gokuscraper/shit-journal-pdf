@@ -1,0 +1,19 @@
+【标题】: 《Operation Delta 》Confidential Bakshi's Ideas for Clearing the Picture
+【作者】: Echo
+【机构】: South Harmon Institute of Technology
+【zone】: latrine
+【时间】: 2026-03-03T17:18:55.398035+00:00
+【评分】: 平均 3.1666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "157fb3fc-b565-467e-8c58-8c97aa37cef0",
+    "manuscript_title": "《Operation Delta 》Confidential Bakshi's Ideas for Clearing the Picture",
+    "author_name": "Echo",
+    "institution": "South Harmon Institute of Technology",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T17:18:55.398035+00:00",
+    "avg_score": 3.1666666666666665,
+    "pdf_path": "157fb3fc-b565-467e-8c58-8c97aa37cef0/Echo_2753147929_qq_com.pdf",
+    "zone": "latrine"
+}

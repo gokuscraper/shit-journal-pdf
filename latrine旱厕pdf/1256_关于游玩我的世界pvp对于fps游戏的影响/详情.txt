@@ -1,0 +1,19 @@
+【标题】: 关于游玩我的世界pvp对于fps游戏的影响
+【作者】: 发大皴
+【机构】: 河北发皴大学
+【zone】: latrine
+【时间】: 2026-02-27T16:56:02.170774+00:00
+【评分】: 平均 2.6923076923076925 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2ceac862-9859-4f68-a90c-e95ff1d7423d",
+    "manuscript_title": "关于游玩我的世界pvp对于fps游戏的影响",
+    "author_name": "发大皴",
+    "institution": "河北发皴大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:56:02.170774+00:00",
+    "avg_score": 2.6923076923076925,
+    "pdf_path": "2ceac862-9859-4f68-a90c-e95ff1d7423d/____BianWei1337_outlook_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 从语言符号学与统计物理视角证明《原神》本质为海洋系统
+【作者】: jz
+【机构】: 二相学院
+【zone】: septic
+【时间】: 2026-03-03T03:08:59.848417+00:00
+【评分】: 平均 4.146341463414634 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f20a7e72-fdd7-4e74-b80b-474a7b4bee11",
+    "manuscript_title": "从语言符号学与统计物理视角证明《原神》本质为海洋系统",
+    "author_name": "jz",
+    "institution": "二相学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T03:08:59.848417+00:00",
+    "avg_score": 4.146341463414634,
+    "pdf_path": "f20a7e72-fdd7-4e74-b80b-474a7b4bee11/jz_john_zhou_prismsus_org.pdf",
+    "zone": "septic"
+}

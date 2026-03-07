@@ -1,0 +1,19 @@
+【标题】: 足浴放松干预对外科医师手术操作效能及手术时长的影响研究
+【作者】: 尘屎闲游
+【机构】: Medical Shit Research Institute
+【zone】: septic
+【时间】: 2026-03-02T14:29:17.013379+00:00
+【评分】: 平均 4.2368421052631575 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "057f1761-d959-4f79-ab4a-79081104daa5",
+    "manuscript_title": "足浴放松干预对外科医师手术操作效能及手术时长的影响研究",
+    "author_name": "尘屎闲游",
+    "institution": "Medical Shit Research Institute",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-02T14:29:17.013379+00:00",
+    "avg_score": 4.2368421052631575,
+    "pdf_path": "057f1761-d959-4f79-ab4a-79081104daa5/_____13930761865_163_com.pdf",
+    "zone": "septic"
+}

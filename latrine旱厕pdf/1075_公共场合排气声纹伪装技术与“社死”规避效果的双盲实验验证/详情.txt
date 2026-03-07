@@ -1,0 +1,19 @@
+【标题】: 公共场合排气声纹伪装技术与“社死”规避效果的双盲实验验证
+【作者】: 姜克
+【机构】: Institute of Shit Mountain Studies
+【zone】: latrine
+【时间】: 2026-02-28T07:27:13.602134+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4819bb24-6d3f-4930-adec-a479cbbd257e",
+    "manuscript_title": "公共场合排气声纹伪装技术与“社死”规避效果的双盲实验验证",
+    "author_name": "姜克",
+    "institution": "Institute of Shit Mountain Studies",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:27:13.602134+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "4819bb24-6d3f-4930-adec-a479cbbd257e/___lawson2019_proton_me.pdf",
+    "zone": "latrine"
+}

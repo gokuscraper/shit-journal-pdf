@@ -1,0 +1,19 @@
+【标题】: 学阀的敛散性
+【作者】: 答辩超人
+【机构】: 排泄物数学协会
+【zone】: latrine
+【时间】: 2026-02-26T01:15:45.891366+00:00
+【评分】: 平均 3.380952380952381 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a5fe2b6f-ee12-44be-9030-034f1aa926fd",
+    "manuscript_title": "学阀的敛散性",
+    "author_name": "答辩超人",
+    "institution": "排泄物数学协会",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T01:15:45.891366+00:00",
+    "avg_score": 3.380952380952381,
+    "pdf_path": "a5fe2b6f-ee12-44be-9030-034f1aa926fd/_____2684373547_qq_com.pdf",
+    "zone": "latrine"
+}

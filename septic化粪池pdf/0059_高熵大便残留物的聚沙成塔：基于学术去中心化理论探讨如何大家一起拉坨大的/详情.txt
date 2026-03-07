@@ -1,0 +1,19 @@
+【标题】: 高熵大便残留物的聚沙成塔：基于学术去中心化理论探讨如何大家一起拉坨大的 
+【作者】: Zandick 2.0
+【机构】: 教令院，须弥，提瓦特大陆
+【zone】: septic
+【时间】: 2026-02-28T17:51:50.493063+00:00
+【评分】: 平均 4.254545454545455 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d8d023fa-c362-47b7-b727-dd425f24cbbc",
+    "manuscript_title": "高熵大便残留物的聚沙成塔：基于学术去中心化理论探讨如何大家一起拉坨大的 ",
+    "author_name": "Zandick 2.0",
+    "institution": "教令院，须弥，提瓦特大陆",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T17:51:50.493063+00:00",
+    "avg_score": 4.254545454545455,
+    "pdf_path": "d8d023fa-c362-47b7-b727-dd425f24cbbc/Zandick_2_0_632929925_qq_com.pdf",
+    "zone": "septic"
+}

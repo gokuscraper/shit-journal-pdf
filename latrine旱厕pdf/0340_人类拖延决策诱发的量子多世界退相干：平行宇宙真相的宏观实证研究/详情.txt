@@ -1,0 +1,19 @@
+【标题】: 人类拖延决策诱发的量子多世界退相干：平行宇宙真相的宏观实证研究
+【作者】: 两袖清风
+【机构】: 太阳系联合大学
+【zone】: latrine
+【时间】: 2026-02-28T14:44:47.544361+00:00
+【评分】: 平均 3.3333333333333335 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b09fffe4-bf7d-460d-911c-8ee4f3428ee0",
+    "manuscript_title": "人类拖延决策诱发的量子多世界退相干：平行宇宙真相的宏观实证研究",
+    "author_name": "两袖清风",
+    "institution": "太阳系联合大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T14:44:47.544361+00:00",
+    "avg_score": 3.3333333333333335,
+    "pdf_path": "b09fffe4-bf7d-460d-911c-8ee4f3428ee0/_____cha290196_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于TIKTOK的理工科研究生对于富婆的追求研究
+【作者】: 富婆收集者
+【机构】: 984.5研究院
+【zone】: septic
+【时间】: 2026-03-02T14:09:51.051785+00:00
+【评分】: 平均 4.305555555555555 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3e13d70c-949b-4bf5-b9ca-346aabe891fd",
+    "manuscript_title": "基于TIKTOK的理工科研究生对于富婆的追求研究",
+    "author_name": "富婆收集者",
+    "institution": "984.5研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T14:09:51.051785+00:00",
+    "avg_score": 4.305555555555555,
+    "pdf_path": "3e13d70c-949b-4bf5-b9ca-346aabe891fd/______1494066850_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 肝肾同源作用对甲状腺疾病治疗的影响
+【作者】: 党卫菌
+【机构】: 消愁大学
+【zone】: latrine
+【时间】: 2026-02-23T11:15:50.041496+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7116cdcb-0463-4530-9b52-8ffa00b29fe5",
+    "manuscript_title": "肝肾同源作用对甲状腺疾病治疗的影响",
+    "author_name": "党卫菌",
+    "institution": "消愁大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T11:15:50.041496+00:00",
+    "avg_score": 0,
+    "pdf_path": "7116cdcb-0463-4530-9b52-8ffa00b29fe5/paper.pdf",
+    "zone": "latrine"
+}

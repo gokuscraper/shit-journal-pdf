@@ -1,0 +1,19 @@
+【标题】: 关于“啊对对对”在社交熵增中的语意超导性分析：基于非阻尼逻辑反馈与认知攻击动能耗散的研究
+【作者】: e.g.Korbal
+【机构】: 熬夜脱发技术大学
+【zone】: sediment
+【时间】: 2026-03-01T13:35:37.034547+00:00
+【评分】: 平均 3.7419354838709675 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "41b7246f-5e38-4e6d-8f94-6b195256239a",
+    "manuscript_title": "关于“啊对对对”在社交熵增中的语意超导性分析：基于非阻尼逻辑反馈与认知攻击动能耗散的研究",
+    "author_name": "e.g.Korbal",
+    "institution": "熬夜脱发技术大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:35:37.034547+00:00",
+    "avg_score": 3.7419354838709675,
+    "pdf_path": "41b7246f-5e38-4e6d-8f94-6b195256239a/e_g_Korbal_xiaoyn117_nenu_edu_cn.pdf",
+    "zone": "sediment"
+}

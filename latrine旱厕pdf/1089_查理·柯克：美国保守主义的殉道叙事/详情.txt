@@ -1,0 +1,19 @@
+【标题】: 查理·柯克：美国保守主义的殉道叙事
+【作者】: 周熙才
+【机构】: 美国转折点大学
+【zone】: latrine
+【时间】: 2026-02-23T19:00:15.548341+00:00
+【评分】: 平均 3.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4575cf20-f47d-4725-a172-70047fce9d84",
+    "manuscript_title": "查理·柯克：美国保守主义的殉道叙事",
+    "author_name": "周熙才",
+    "institution": "美国转折点大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T19:00:15.548341+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "4575cf20-f47d-4725-a172-70047fce9d84/paper.pdf",
+    "zone": "latrine"
+}

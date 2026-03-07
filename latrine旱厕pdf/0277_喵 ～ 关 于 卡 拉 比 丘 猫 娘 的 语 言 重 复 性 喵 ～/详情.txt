@@ -1,0 +1,19 @@
+【标题】: 喵 ～ 关 于 卡 拉 比 丘 猫 娘 的 语 言 重 复 性 喵 ～
+【作者】: Dr.godshit
+【机构】: 喵~
+【zone】: latrine
+【时间】: 2026-02-25T11:44:02.18722+00:00
+【评分】: 平均 2.45 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ba246137-275b-4396-9142-1b14588de00b",
+    "manuscript_title": "喵 ～ 关 于 卡 拉 比 丘 猫 娘 的 语 言 重 复 性 喵 ～",
+    "author_name": "Dr.godshit",
+    "institution": "喵~",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:44:02.18722+00:00",
+    "avg_score": 2.45,
+    "pdf_path": "ba246137-275b-4396-9142-1b14588de00b/Dr_godshit_adew12345_2023_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 重力的间歇性失能：一项关于日间疲劳起源的流体动力学解释 ——基于多尺度数学建模与天体力学耦合分析的严格证明
+【作者】: Stewart Griffin
+【机构】: Hangzhou G.T.I Institute
+【zone】: sediment
+【时间】: 2026-03-02T07:18:08.950378+00:00
+【评分】: 平均 2.7714285714285714 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a896180a-33b8-4591-90af-dc15807a5a04",
+    "manuscript_title": "重力的间歇性失能：一项关于日间疲劳起源的流体动力学解释 ——基于多尺度数学建模与天体力学耦合分析的严格证明",
+    "author_name": "Stewart Griffin",
+    "institution": "Hangzhou G.T.I Institute",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:18:08.950378+00:00",
+    "avg_score": 2.7714285714285714,
+    "pdf_path": "a896180a-33b8-4591-90af-dc15807a5a04/Stewart_Griffin_krianov_official_outlook_com.pdf",
+    "zone": "sediment"
+}

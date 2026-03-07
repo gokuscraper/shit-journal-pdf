@@ -1,0 +1,19 @@
+【标题】: 时空双重受限下的路径规划：高校研究生午餐觅食行为的实证检验
+【作者】: Bouncer侠
+【机构】: hunrizi university
+【zone】: latrine
+【时间】: 2026-03-01T03:23:57.919925+00:00
+【评分】: 平均 5.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b3bae7dc-58c8-4daf-baa5-82f7202d7e6e",
+    "manuscript_title": "时空双重受限下的路径规划：高校研究生午餐觅食行为的实证检验",
+    "author_name": "Bouncer侠",
+    "institution": "hunrizi university",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T03:23:57.919925+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "b3bae7dc-58c8-4daf-baa5-82f7202d7e6e/Bouncer__1329720965_qq_com.pdf",
+    "zone": "latrine"
+}

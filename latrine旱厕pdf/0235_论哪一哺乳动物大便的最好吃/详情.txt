@@ -1,0 +1,19 @@
+【标题】: 论哪一哺乳动物大便的最好吃
+【作者】: 淇
+【机构】: 广西个立大便研究所
+【zone】: latrine
+【时间】: 2026-02-23T09:43:00.048038+00:00
+【评分】: 平均 1.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c0833ab3-20ce-42d5-8c29-36f228d5d5b2",
+    "manuscript_title": "论哪一哺乳动物大便的最好吃",
+    "author_name": "淇",
+    "institution": "广西个立大便研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:43:00.048038+00:00",
+    "avg_score": 1.5,
+    "pdf_path": "c0833ab3-20ce-42d5-8c29-36f228d5d5b2/paper.pdf",
+    "zone": "latrine"
+}

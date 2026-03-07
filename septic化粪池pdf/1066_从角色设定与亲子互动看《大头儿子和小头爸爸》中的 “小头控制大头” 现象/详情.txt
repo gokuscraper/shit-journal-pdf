@@ -1,0 +1,19 @@
+【标题】: 从角色设定与亲子互动看《大头儿子和小头爸爸》中的 “小头控制大头” 现象
+【作者】: LeoBowman
+【机构】: Holy Light Knights
+【zone】: septic
+【时间】: 2026-02-28T15:13:29.031685+00:00
+【评分】: 平均 4.724489795918367 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "49212535-236c-452d-b178-29719e5a3e03",
+    "manuscript_title": "从角色设定与亲子互动看《大头儿子和小头爸爸》中的 “小头控制大头” 现象",
+    "author_name": "LeoBowman",
+    "institution": "Holy Light Knights",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T15:13:29.031685+00:00",
+    "avg_score": 4.724489795918367,
+    "pdf_path": "49212535-236c-452d-b178-29719e5a3e03/LeoBowman_hudabao2013_gmail_com.pdf",
+    "zone": "septic"
+}

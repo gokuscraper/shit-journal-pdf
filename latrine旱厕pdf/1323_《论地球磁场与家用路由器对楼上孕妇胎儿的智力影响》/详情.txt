@@ -1,0 +1,19 @@
+【标题】: 《论地球磁场与家用路由器对楼上孕妇胎儿的智力影响》
+【作者】: Mr.Smart Shit
+【机构】: 能工智人研究学会
+【zone】: latrine
+【时间】: 2026-02-22T10:46:50.623789+00:00
+【评分】: 平均 2.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "234ca69b-4a64-40ea-8752-a873c7dfe4f3",
+    "manuscript_title": "《论地球磁场与家用路由器对楼上孕妇胎儿的智力影响》",
+    "author_name": "Mr.Smart Shit",
+    "institution": "能工智人研究学会",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T10:46:50.623789+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "234ca69b-4a64-40ea-8752-a873c7dfe4f3/paper.pdf",
+    "zone": "latrine"
+}

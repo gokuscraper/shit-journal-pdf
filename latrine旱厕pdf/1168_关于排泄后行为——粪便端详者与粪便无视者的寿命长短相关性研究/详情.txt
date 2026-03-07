@@ -1,0 +1,19 @@
+【标题】: 关于排泄后行为——粪便端详者与粪便无视者的寿命长短相关性研究
+【作者】: 易生君
+【机构】: 家里蹲厕学院
+【zone】: latrine
+【时间】: 2026-02-23T05:11:35.050133+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3987c5ec-6beb-45f6-a74c-10efaaead833",
+    "manuscript_title": "关于排泄后行为——粪便端详者与粪便无视者的寿命长短相关性研究",
+    "author_name": "易生君",
+    "institution": "家里蹲厕学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T05:11:35.050133+00:00",
+    "avg_score": 0,
+    "pdf_path": "3987c5ec-6beb-45f6-a74c-10efaaead833/paper.pdf",
+    "zone": "latrine"
+}

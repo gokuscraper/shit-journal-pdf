@@ -1,0 +1,19 @@
+【标题】: 基于卷积神经网络的水果品质分级研究——以香蕉为例
+【作者】: Dr Meng
+【机构】: 广东省佛山市华材职业技术学校
+【zone】: septic
+【时间】: 2026-02-25T07:02:32.714548+00:00
+【评分】: 平均 4.354838709677419 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "49e283f0-589a-468e-9647-cb1f1cdd2318",
+    "manuscript_title": "基于卷积神经网络的水果品质分级研究——以香蕉为例",
+    "author_name": "Dr Meng",
+    "institution": "广东省佛山市华材职业技术学校",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:02:32.714548+00:00",
+    "avg_score": 4.354838709677419,
+    "pdf_path": "49e283f0-589a-468e-9647-cb1f1cdd2318/Dr_Meng_mengxiaolang2010_gmail_com.pdf",
+    "zone": "septic"
+}

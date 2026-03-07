@@ -1,0 +1,19 @@
+【标题】: “我们到底什么关系？”提问时机优化：情绪峰值窗口与承诺坍缩风险建模
+【作者】: oujingjing
+【机构】: Guilin University of Electronic Technology
+【zone】: latrine
+【时间】: 2026-03-01T05:07:12.092172+00:00
+【评分】: 平均 4.206896551724138 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f3fd38ea-468c-4636-91ed-6865147065a3",
+    "manuscript_title": "“我们到底什么关系？”提问时机优化：情绪峰值窗口与承诺坍缩风险建模",
+    "author_name": "oujingjing",
+    "institution": "Guilin University of Electronic Technology",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T05:07:12.092172+00:00",
+    "avg_score": 4.206896551724138,
+    "pdf_path": "f3fd38ea-468c-4636-91ed-6865147065a3/oujingjing_objaswww2a1_hotmail_com.pdf",
+    "zone": "latrine"
+}

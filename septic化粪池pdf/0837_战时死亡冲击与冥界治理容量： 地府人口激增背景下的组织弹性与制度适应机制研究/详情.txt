@@ -1,0 +1,19 @@
+【标题】: 战时死亡冲击与冥界治理容量： 地府人口激增背景下的组织弹性与制度适应机制研究
+【作者】: bullsht
+【机构】: 冥界行政学院
+【zone】: septic
+【时间】: 2026-03-04T08:12:13.799628+00:00
+【评分】: 平均 4.542857142857143 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "688137d3-c057-4c81-a348-b03b86ce1236",
+    "manuscript_title": "战时死亡冲击与冥界治理容量： 地府人口激增背景下的组织弹性与制度适应机制研究",
+    "author_name": "bullsht",
+    "institution": "冥界行政学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-04T08:12:13.799628+00:00",
+    "avg_score": 4.542857142857143,
+    "pdf_path": "688137d3-c057-4c81-a348-b03b86ce1236/bullsht_bullsht_poop_com.pdf",
+    "zone": "septic"
+}

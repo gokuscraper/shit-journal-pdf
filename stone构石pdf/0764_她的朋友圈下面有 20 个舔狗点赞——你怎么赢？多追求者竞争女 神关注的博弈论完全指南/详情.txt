@@ -1,0 +1,19 @@
+【标题】: 她的朋友圈下面有 20 个舔狗点赞——你怎么赢？多追求者竞争女 神关注的博弈论完全指南
+【作者】: Dr. 阿波
+【机构】: Northwestern University
+【zone】: stone
+【时间】: 2026-02-25T19:31:23.705045+00:00
+【评分】: 平均 4.763005780346821 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7276d656-e24e-41af-9c78-c1f854d23ced",
+    "manuscript_title": "她的朋友圈下面有 20 个舔狗点赞——你怎么赢？多追求者竞争女 神关注的博弈论完全指南",
+    "author_name": "Dr. 阿波",
+    "institution": "Northwestern University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-25T19:31:23.705045+00:00",
+    "avg_score": 4.763005780346821,
+    "pdf_path": "7276d656-e24e-41af-9c78-c1f854d23ced/Dr_____jacoblian_u_northwestern_edu.pdf",
+    "zone": "stone"
+}

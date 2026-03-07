@@ -1,0 +1,19 @@
+【标题】: 床与被子的缺一不可性
+【作者】: kenWhiteM
+【机构】: 加利吨大学
+【zone】: sediment
+【时间】: 2026-03-01T08:50:22.83281+00:00
+【评分】: 平均 3.176470588235294 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a0f9c9cd-97ab-40cb-9b64-7b236e65464f",
+    "manuscript_title": "床与被子的缺一不可性",
+    "author_name": "kenWhiteM",
+    "institution": "加利吨大学",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-01T08:50:22.83281+00:00",
+    "avg_score": 3.176470588235294,
+    "pdf_path": "a0f9c9cd-97ab-40cb-9b64-7b236e65464f/kenWhiteM_3437084041_qq_com.pdf",
+    "zone": "sediment"
+}

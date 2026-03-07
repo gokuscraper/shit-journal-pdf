@@ -1,0 +1,19 @@
+【标题】: 自愿加班的悖论：现代企业如何内化剥削
+【作者】: 屎莱姆
+【机构】: 墨尔本大学
+【zone】: septic
+【时间】: 2026-02-26T23:20:11.425635+00:00
+【评分】: 平均 4.163636363636364 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2a26ccfd-f762-418d-9876-d85678eedd1c",
+    "manuscript_title": "自愿加班的悖论：现代企业如何内化剥削",
+    "author_name": "屎莱姆",
+    "institution": "墨尔本大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T23:20:11.425635+00:00",
+    "avg_score": 4.163636363636364,
+    "pdf_path": "2a26ccfd-f762-418d-9876-d85678eedd1c/____ethanyqy_icloud_com.pdf",
+    "zone": "septic"
+}

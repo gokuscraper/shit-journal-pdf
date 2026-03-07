@@ -1,0 +1,19 @@
+【标题】: 意大利面条拌42号混凝土的可行性研究：基于标准抗压强度下的凝结速率
+【作者】: hwb
+【机构】: 建兴咨询
+【zone】: latrine
+【时间】: 2026-02-27T09:33:13.89155+00:00
+【评分】: 平均 4.185185185185185 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5e6b71f7-645a-4186-8fa3-c3cfee6e2fa7",
+    "manuscript_title": "意大利面条拌42号混凝土的可行性研究：基于标准抗压强度下的凝结速率",
+    "author_name": "hwb",
+    "institution": "建兴咨询",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T09:33:13.89155+00:00",
+    "avg_score": 4.185185185185185,
+    "pdf_path": "5e6b71f7-645a-4186-8fa3-c3cfee6e2fa7/hwb_3246694312_qq_com.pdf",
+    "zone": "latrine"
+}

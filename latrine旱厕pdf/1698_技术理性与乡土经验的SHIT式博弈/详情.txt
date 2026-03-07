@@ -1,0 +1,19 @@
+【标题】: 技术理性与乡土经验的SHIT式博弈
+【作者】: Prof. ISAACING
+【机构】: DGCU
+【zone】: latrine
+【时间】: 2026-02-27T18:18:20.815752+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "f16310d0-a121-4d6a-b5ea-267db7d32db2",
+    "manuscript_title": "技术理性与乡土经验的SHIT式博弈",
+    "author_name": "Prof. ISAACING",
+    "institution": "DGCU",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-27T18:18:20.815752+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "f16310d0-a121-4d6a-b5ea-267db7d32db2/Prof__ISAACING_prof_isaacing_163_com.pdf",
+    "zone": "latrine"
+}

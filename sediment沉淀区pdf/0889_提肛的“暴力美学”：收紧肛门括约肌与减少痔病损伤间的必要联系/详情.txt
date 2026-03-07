@@ -1,0 +1,19 @@
+【标题】: 提肛的“暴力美学”：收紧肛门括约肌与减少痔病损伤间的必要联系
+【作者】: 宁宁宁
+【机构】: LY研究院
+【zone】: sediment
+【时间】: 2026-03-02T13:02:31.922261+00:00
+【评分】: 平均 3.756756756756757 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "61be0d7b-08b9-45d3-ad91-8c2bd5de23ff",
+    "manuscript_title": "提肛的“暴力美学”：收紧肛门括约肌与减少痔病损伤间的必要联系",
+    "author_name": "宁宁宁",
+    "institution": "LY研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T13:02:31.922261+00:00",
+    "avg_score": 3.756756756756757,
+    "pdf_path": "61be0d7b-08b9-45d3-ad91-8c2bd5de23ff/____2390030835_qq_com.pdf",
+    "zone": "sediment"
+}

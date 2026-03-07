@@ -1,0 +1,19 @@
+【标题】: 关于绝育手术在遗传性疾病防治中的运用
+【作者】: 陈百闻
+【机构】: 宏山科学院天师实验管理中心（武陵）
+【zone】: septic
+【时间】: 2026-03-02T05:55:16.378395+00:00
+【评分】: 平均 4.723076923076923 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "92dc8ed7-80ae-4ad8-bea7-dfb7ddddfc4e",
+    "manuscript_title": "关于绝育手术在遗传性疾病防治中的运用",
+    "author_name": "陈百闻",
+    "institution": "宏山科学院天师实验管理中心（武陵）",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-02T05:55:16.378395+00:00",
+    "avg_score": 4.723076923076923,
+    "pdf_path": "92dc8ed7-80ae-4ad8-bea7-dfb7ddddfc4e/____2425214180_qq_com.pdf",
+    "zone": "septic"
+}

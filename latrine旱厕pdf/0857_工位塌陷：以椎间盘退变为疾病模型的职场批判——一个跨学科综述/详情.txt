@@ -1,0 +1,19 @@
+【标题】: 工位塌陷：以椎间盘退变为疾病模型的职场批判——一个跨学科综述
+【作者】: ZZY
+【机构】: 上海水军大学
+【zone】: latrine
+【时间】: 2026-02-28T09:32:06.190386+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6543c0e6-294c-4d6a-bbc7-41e9703c613e",
+    "manuscript_title": "工位塌陷：以椎间盘退变为疾病模型的职场批判——一个跨学科综述",
+    "author_name": "ZZY",
+    "institution": "上海水军大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:32:06.190386+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "6543c0e6-294c-4d6a-bbc7-41e9703c613e/ZZY_hyqszzy_163_com.pdf",
+    "zone": "latrine"
+}

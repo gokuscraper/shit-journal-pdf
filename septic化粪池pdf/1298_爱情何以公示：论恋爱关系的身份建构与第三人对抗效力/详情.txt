@@ -1,0 +1,19 @@
+【标题】: 爱情何以公示：论恋爱关系的身份建构与第三人对抗效力
+【作者】: 徐灰太狼
+【机构】: 加刑大学
+【zone】: septic
+【时间】: 2026-03-02T12:40:56.693302+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "26d3cc25-28aa-442d-ba14-1b7e62c27006",
+    "manuscript_title": "爱情何以公示：论恋爱关系的身份建构与第三人对抗效力",
+    "author_name": "徐灰太狼",
+    "institution": "加刑大学",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T12:40:56.693302+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "26d3cc25-28aa-442d-ba14-1b7e62c27006/_____xuhui_zjxu_edu_cn.pdf",
+    "zone": "septic"
+}

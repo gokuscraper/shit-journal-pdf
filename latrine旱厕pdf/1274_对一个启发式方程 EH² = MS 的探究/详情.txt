@@ -1,0 +1,19 @@
+【标题】: 对一个启发式方程 EH² = MS 的探究
+【作者】: 渊霄观阁
+【机构】: 温州市实验中学
+【zone】: latrine
+【时间】: 2026-02-22T09:45:31.74756+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "29f3e30b-5fcb-4754-b174-f8200aa8eb56",
+    "manuscript_title": "对一个启发式方程 EH² = MS 的探究",
+    "author_name": "渊霄观阁",
+    "institution": "温州市实验中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T09:45:31.74756+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "29f3e30b-5fcb-4754-b174-f8200aa8eb56/paper.pdf",
+    "zone": "latrine"
+}

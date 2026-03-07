@@ -1,0 +1,19 @@
+【标题】: 基于小说剧情的平行世界存在论与量子永生的哲学关系
+【作者】: 核弹大炮啊
+【机构】: 见泷原市立大学
+【zone】: latrine
+【时间】: 2026-03-01T12:39:51.771497+00:00
+【评分】: 平均 3.9 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "585d49c3-6459-4249-9a63-4fed7ead07ab",
+    "manuscript_title": "基于小说剧情的平行世界存在论与量子永生的哲学关系",
+    "author_name": "核弹大炮啊",
+    "institution": "见泷原市立大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T12:39:51.771497+00:00",
+    "avg_score": 3.9,
+    "pdf_path": "585d49c3-6459-4249-9a63-4fed7ead07ab/______3588621783_qq_com.pdf",
+    "zone": "latrine"
+}

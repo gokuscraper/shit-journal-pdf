@@ -1,0 +1,19 @@
+【标题】: 论古代士子的性压抑——从《西厢记》中张生的形象谈开去
+【作者】: chow
+【机构】: 逆地乡大学, 新罗
+【zone】: septic
+【时间】: 2026-03-03T14:52:58.178927+00:00
+【评分】: 平均 4.679245283018868 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a1d9b2ff-4816-4297-a526-bec647acd0ca",
+    "manuscript_title": "论古代士子的性压抑——从《西厢记》中张生的形象谈开去",
+    "author_name": "chow",
+    "institution": "逆地乡大学, 新罗",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T14:52:58.178927+00:00",
+    "avg_score": 4.679245283018868,
+    "pdf_path": "a1d9b2ff-4816-4297-a526-bec647acd0ca/chow_chowwwzh_gmail_com.pdf",
+    "zone": "septic"
+}

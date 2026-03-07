@@ -1,0 +1,19 @@
+【标题】: 容纳各种排泄物的厕所才是好厕所，容纳大众思想的期刊才是好期刊：S.H.I.T Journal等娱乐期刊对大学生的积极作用
+【作者】: toddwei
+【机构】: 南京菜鸡大学
+【zone】: latrine
+【时间】: 2026-03-03T10:32:13.884024+00:00
+【评分】: 平均 4.130434782608695 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4e98dddc-dbbb-4f57-9579-3eac2802e70f",
+    "manuscript_title": "容纳各种排泄物的厕所才是好厕所，容纳大众思想的期刊才是好期刊：S.H.I.T Journal等娱乐期刊对大学生的积极作用",
+    "author_name": "toddwei",
+    "institution": "南京菜鸡大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:32:13.884024+00:00",
+    "avg_score": 4.130434782608695,
+    "pdf_path": "4e98dddc-dbbb-4f57-9579-3eac2802e70f/toddwei_1678198329_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 如何正确的穿上魔法披风——基于川渝地区人际冲突中“莫发批疯” 协议的自适应重构框架
+【作者】: 魔法披风/PifengMagic
+【机构】: PifengMagic Research Institute
+【zone】: latrine
+【时间】: 2026-03-03T06:41:04.845061+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fd5dff76-b3bd-44c7-a7b7-63de4db5bdac",
+    "manuscript_title": "如何正确的穿上魔法披风——基于川渝地区人际冲突中“莫发批疯” 协议的自适应重构框架",
+    "author_name": "魔法披风/PifengMagic",
+    "institution": "PifengMagic Research Institute",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T06:41:04.845061+00:00",
+    "avg_score": 0,
+    "pdf_path": "fd5dff76-b3bd-44c7-a7b7-63de4db5bdac/_____PifengMagic_MagicPifeng_MagicPifeng_com.pdf",
+    "zone": "latrine"
+}

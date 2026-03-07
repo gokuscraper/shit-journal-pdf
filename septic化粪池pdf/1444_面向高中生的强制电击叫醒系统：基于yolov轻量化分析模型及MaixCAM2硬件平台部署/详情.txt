@@ -1,0 +1,19 @@
+【标题】: 面向高中生的强制电击叫醒系统：基于yolov轻量化分析模型及MaixCAM2硬件平台部署
+【作者】: ggBoned
+【机构】: Hogwarts University of Electronic Science and Technology
+【zone】: septic
+【时间】: 2026-03-03T14:31:46.278777+00:00
+【评分】: 平均 4.589743589743589 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "14464ea1-bdf1-4f17-b59b-c2c4522491cd",
+    "manuscript_title": "面向高中生的强制电击叫醒系统：基于yolov轻量化分析模型及MaixCAM2硬件平台部署",
+    "author_name": "ggBoned",
+    "institution": "Hogwarts University of Electronic Science and Technology",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T14:31:46.278777+00:00",
+    "avg_score": 4.589743589743589,
+    "pdf_path": "14464ea1-bdf1-4f17-b59b-c2c4522491cd/ggBoned_lokasitaloy_gmail_com.pdf",
+    "zone": "septic"
+}

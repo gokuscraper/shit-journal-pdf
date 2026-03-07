@@ -1,0 +1,19 @@
+【标题】: 学术投机学：教授如何通过疯狂蹭热点实现快速发文——以苏超现象为例
+【作者】: Gu Pan
+【机构】: 宇宙科学研究院
+【zone】: septic
+【时间】: 2026-02-27T12:08:11.306972+00:00
+【评分】: 平均 4.484848484848484 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f4578bb2-4e70-415e-b14f-c3ab99407720",
+    "manuscript_title": "学术投机学：教授如何通过疯狂蹭热点实现快速发文——以苏超现象为例",
+    "author_name": "Gu Pan",
+    "institution": "宇宙科学研究院",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T12:08:11.306972+00:00",
+    "avg_score": 4.484848484848484,
+    "pdf_path": "f4578bb2-4e70-415e-b14f-c3ab99407720/Gu_Pan_Gpan_ics_ebu_cn.pdf",
+    "zone": "septic"
+}

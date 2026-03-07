@@ -1,0 +1,19 @@
+【标题】: 基于“快速棕狐(The Quick Fox Jumps Over The Lazy Dog)”现象的学术灌水行为的研究
+【作者】: suopy
+【机构】: 家里蹲
+【zone】: latrine
+【时间】: 2026-02-27T04:13:50.340872+00:00
+【评分】: 平均 2.375 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6bca80b6-0862-4db8-8744-be32587f49f3",
+    "manuscript_title": "基于“快速棕狐(The Quick Fox Jumps Over The Lazy Dog)”现象的学术灌水行为的研究",
+    "author_name": "suopy",
+    "institution": "家里蹲",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T04:13:50.340872+00:00",
+    "avg_score": 2.375,
+    "pdf_path": "6bca80b6-0862-4db8-8744-be32587f49f3/suopy_1591453422_qq_com.pdf",
+    "zone": "latrine"
+}

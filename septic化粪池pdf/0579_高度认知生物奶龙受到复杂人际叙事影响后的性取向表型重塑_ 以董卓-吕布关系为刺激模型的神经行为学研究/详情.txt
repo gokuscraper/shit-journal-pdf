@@ -1,0 +1,19 @@
+【标题】: 高度认知生物奶龙受到复杂人际叙事影响后的性取向表型重塑: 以董卓-吕布关系为刺激模型的神经行为学研究
+【作者】: Luotianyi
+【机构】: Pennis University 
+【zone】: septic
+【时间】: 2026-02-27T03:47:48.975616+00:00
+【评分】: 平均 4.258064516129032 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8d3a18c5-3124-4173-9495-c3b8ee88b46c",
+    "manuscript_title": "高度认知生物奶龙受到复杂人际叙事影响后的性取向表型重塑: 以董卓-吕布关系为刺激模型的神经行为学研究",
+    "author_name": "Luotianyi",
+    "institution": "Pennis University ",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-02-27T03:47:48.975616+00:00",
+    "avg_score": 4.258064516129032,
+    "pdf_path": "8d3a18c5-3124-4173-9495-c3b8ee88b46c/Luotianyi_luotianyi983_gmail_com.pdf",
+    "zone": "septic"
+}

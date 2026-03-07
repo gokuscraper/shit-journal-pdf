@@ -1,0 +1,19 @@
+【标题】: 多维压力环境下第一人称射击游戏体验优化研究——以实验室工位“三角洲跑刀”模式在“导师-敌人”双gank情境下的生存策略与心流维持为例
+【作者】: Druk
+【机构】: G.T.I University
+【zone】: latrine
+【时间】: 2026-03-03T12:25:31.70466+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a2947dfc-0a2f-43cd-82bd-a81458a22cf4",
+    "manuscript_title": "多维压力环境下第一人称射击游戏体验优化研究——以实验室工位“三角洲跑刀”模式在“导师-敌人”双gank情境下的生存策略与心流维持为例",
+    "author_name": "Druk",
+    "institution": "G.T.I University",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T12:25:31.70466+00:00",
+    "avg_score": 0,
+    "pdf_path": "a2947dfc-0a2f-43cd-82bd-a81458a22cf4/Druk_1914896252_qq_com.pdf",
+    "zone": "latrine"
+}

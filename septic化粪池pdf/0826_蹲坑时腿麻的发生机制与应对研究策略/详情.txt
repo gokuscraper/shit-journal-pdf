@@ -1,0 +1,19 @@
+【标题】: 蹲坑时腿麻的发生机制与应对研究策略
+【作者】: 时间浪费高手
+【机构】: StayHome University
+【zone】: septic
+【时间】: 2026-02-28T09:16:53.890111+00:00
+【评分】: 平均 4.3125 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6a4493b4-4c04-47c4-b1ad-211f6b930394",
+    "manuscript_title": "蹲坑时腿麻的发生机制与应对研究策略",
+    "author_name": "时间浪费高手",
+    "institution": "StayHome University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:16:53.890111+00:00",
+    "avg_score": 4.3125,
+    "pdf_path": "6a4493b4-4c04-47c4-b1ad-211f6b930394/_______455481987_qq_com.pdf",
+    "zone": "septic"
+}

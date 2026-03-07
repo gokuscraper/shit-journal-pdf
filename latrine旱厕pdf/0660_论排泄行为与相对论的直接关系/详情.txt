@@ -1,0 +1,19 @@
+【标题】: 论排泄行为与相对论的直接关系
+【作者】: Dr.C2C
+【机构】: WILD CHICKEN UNIVERSITY
+【zone】: latrine
+【时间】: 2026-02-27T08:10:07.985705+00:00
+【评分】: 平均 4.733333333333333 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "81025942-cf89-4d9f-9e29-80095846fdde",
+    "manuscript_title": "论排泄行为与相对论的直接关系",
+    "author_name": "Dr.C2C",
+    "institution": "WILD CHICKEN UNIVERSITY",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-27T08:10:07.985705+00:00",
+    "avg_score": 4.733333333333333,
+    "pdf_path": "81025942-cf89-4d9f-9e29-80095846fdde/Dr_C2C_franklin0307_163_com.pdf",
+    "zone": "latrine"
+}

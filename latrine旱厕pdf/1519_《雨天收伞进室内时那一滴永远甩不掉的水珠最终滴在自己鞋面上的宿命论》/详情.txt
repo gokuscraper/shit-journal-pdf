@@ -1,0 +1,19 @@
+【标题】: 《雨天收伞进室内时那一滴永远甩不掉的水珠最终滴在自己鞋面上的宿命论》
+【作者】: 渡鸦ryo
+【机构】: 鹤翼薇学院
+【zone】: latrine
+【时间】: 2026-02-23T10:50:55.750868+00:00
+【评分】: 平均 2.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "085c4037-8482-4f9a-9756-e5e1b8fde6bb",
+    "manuscript_title": "《雨天收伞进室内时那一滴永远甩不掉的水珠最终滴在自己鞋面上的宿命论》",
+    "author_name": "渡鸦ryo",
+    "institution": "鹤翼薇学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:50:55.750868+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "085c4037-8482-4f9a-9756-e5e1b8fde6bb/paper.pdf",
+    "zone": "latrine"
+}

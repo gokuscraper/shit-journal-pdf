@@ -1,0 +1,19 @@
+【标题】: Symmetry-Protected Meaninglessness in Low-Dimensional Systems
+【作者】: 特下饭
+【机构】: WildChicken University
+【zone】: latrine
+【时间】: 2026-02-28T07:41:29.604845+00:00
+【评分】: 平均 1.2 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b72525f0-a842-4bef-bede-f63ef079006a",
+    "manuscript_title": "Symmetry-Protected Meaninglessness in Low-Dimensional Systems",
+    "author_name": "特下饭",
+    "institution": "WildChicken University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:41:29.604845+00:00",
+    "avg_score": 1.2,
+    "pdf_path": "b72525f0-a842-4bef-bede-f63ef079006a/____wshk97_outlook_com.pdf",
+    "zone": "latrine"
+}

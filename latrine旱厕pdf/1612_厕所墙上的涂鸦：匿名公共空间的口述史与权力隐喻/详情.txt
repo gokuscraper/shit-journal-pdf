@@ -1,0 +1,19 @@
+【标题】: 厕所墙上的涂鸦：匿名公共空间的口述史与权力隐喻
+【作者】: 山田凉的铁锤头鲨
+【机构】: 南京市田家炳高级中学
+【zone】: latrine
+【时间】: 2026-02-23T10:32:50.274215+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e43adb42-51cd-4266-87d6-984e7c899e3a",
+    "manuscript_title": "厕所墙上的涂鸦：匿名公共空间的口述史与权力隐喻",
+    "author_name": "山田凉的铁锤头鲨",
+    "institution": "南京市田家炳高级中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:32:50.274215+00:00",
+    "avg_score": 0,
+    "pdf_path": "e43adb42-51cd-4266-87d6-984e7c899e3a/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 对《战争雷霆》中F-117A隐身特性建模失真的高保真计算电磁学论证
+【作者】: K Bwwctl
+【机构】: 雷霆你战争超自然物理引擎精神病院
+【zone】: latrine
+【时间】: 2026-02-28T07:24:23.442007+00:00
+【评分】: 平均 4.2 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "4b3644fd-3172-406d-a742-6454d17750df",
+    "manuscript_title": "对《战争雷霆》中F-117A隐身特性建模失真的高保真计算电磁学论证",
+    "author_name": "K Bwwctl",
+    "institution": "雷霆你战争超自然物理引擎精神病院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:24:23.442007+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "4b3644fd-3172-406d-a742-6454d17750df/K_Bwwctl_mzdlfkgrplxj2024_163_com.pdf",
+    "zone": "latrine"
+}

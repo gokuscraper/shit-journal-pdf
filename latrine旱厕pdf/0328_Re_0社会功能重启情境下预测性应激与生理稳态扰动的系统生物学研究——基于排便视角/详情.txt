@@ -1,0 +1,19 @@
+【标题】: Re:0社会功能重启情境下预测性应激与生理稳态扰动的系统生物学研究——基于排便视角
+【作者】: 蛆海狂粪
+【机构】: Shanghai Macro Time Structure and Defecation Research Center
+【zone】: latrine
+【时间】: 2026-02-27T08:49:36.825721+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b3a47fd1-fbaf-4767-bdc3-9d40bf85f95e",
+    "manuscript_title": "Re:0社会功能重启情境下预测性应激与生理稳态扰动的系统生物学研究——基于排便视角",
+    "author_name": "蛆海狂粪",
+    "institution": "Shanghai Macro Time Structure and Defecation Research Center",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T08:49:36.825721+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "b3a47fd1-fbaf-4767-bdc3-9d40bf85f95e/_____2495231877_qq_com.pdf",
+    "zone": "latrine"
+}

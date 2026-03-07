@@ -1,0 +1,19 @@
+【标题】: Lab Dynamics: Gaslight, Gatekeep, Ghost
+【作者】: Eugeniee
+【机构】: 现代博弈关系真实世界研究中心
+【zone】: latrine
+【时间】: 2026-03-03T06:39:51.588761+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "90f8bdf9-ebb4-49ec-8c5a-73ec85951dac",
+    "manuscript_title": "Lab Dynamics: Gaslight, Gatekeep, Ghost",
+    "author_name": "Eugeniee",
+    "institution": "现代博弈关系真实世界研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T06:39:51.588761+00:00",
+    "avg_score": 0,
+    "pdf_path": "90f8bdf9-ebb4-49ec-8c5a-73ec85951dac/Eugeniee_eugenieying_163_com.pdf",
+    "zone": "latrine"
+}

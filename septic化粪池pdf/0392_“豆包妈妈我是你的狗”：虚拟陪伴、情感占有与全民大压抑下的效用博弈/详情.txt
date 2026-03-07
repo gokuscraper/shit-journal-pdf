@@ -1,0 +1,19 @@
+【标题】: “豆包妈妈我是你的狗”：虚拟陪伴、情感占有与全民大压抑下的效用博弈
+【作者】: 构石中石
+【机构】: 中国杜科院下三路与大压抑研究中心
+【zone】: septic
+【时间】: 2026-03-02T19:00:15.884981+00:00
+【评分】: 平均 4.602739726027397 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a8ecdf65-7d1e-429d-a7c0-df7a341f5b1b",
+    "manuscript_title": "“豆包妈妈我是你的狗”：虚拟陪伴、情感占有与全民大压抑下的效用博弈",
+    "author_name": "构石中石",
+    "institution": "中国杜科院下三路与大压抑研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T19:00:15.884981+00:00",
+    "avg_score": 4.602739726027397,
+    "pdf_path": "a8ecdf65-7d1e-429d-a7c0-df7a341f5b1b/_____gongmingmacn_gmail_com.pdf",
+    "zone": "septic"
+}

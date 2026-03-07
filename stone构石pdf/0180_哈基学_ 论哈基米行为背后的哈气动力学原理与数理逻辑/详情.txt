@@ -1,0 +1,19 @@
+【标题】: 哈基学: 论哈基米行为背后的哈气动力学原理与数理逻辑
+【作者】: 拉马舍金
+【机构】: Universidad de Merdia
+【zone】: stone
+【时间】: 2026-02-27T18:47:20.77519+00:00
+【评分】: 平均 4.702020202020202 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c8878d5f-e1d1-4154-bd8f-1b810ab68131",
+    "manuscript_title": "哈基学: 论哈基米行为背后的哈气动力学原理与数理逻辑",
+    "author_name": "拉马舍金",
+    "institution": "Universidad de Merdia",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-02-27T18:47:20.77519+00:00",
+    "avg_score": 4.702020202020202,
+    "pdf_path": "c8878d5f-e1d1-4154-bd8f-1b810ab68131/_____esdongmufeng_gmail_com.pdf",
+    "zone": "stone"
+}

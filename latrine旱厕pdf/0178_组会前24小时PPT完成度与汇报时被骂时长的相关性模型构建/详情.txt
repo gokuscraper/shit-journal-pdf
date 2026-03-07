@@ -1,0 +1,19 @@
+【标题】: 组会前24小时PPT完成度与汇报时被骂时长的相关性模型构建
+【作者】: shit king
+【机构】: seedance大学
+【zone】: latrine
+【时间】: 2026-03-03T08:30:48.126915+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c91a6839-ed34-4185-bc4c-9c1a9fbf082a",
+    "manuscript_title": "组会前24小时PPT完成度与汇报时被骂时长的相关性模型构建",
+    "author_name": "shit king",
+    "institution": "seedance大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:30:48.126915+00:00",
+    "avg_score": 0,
+    "pdf_path": "c91a6839-ed34-4185-bc4c-9c1a9fbf082a/shit_king_12345678_wechat_com.pdf",
+    "zone": "latrine"
+}

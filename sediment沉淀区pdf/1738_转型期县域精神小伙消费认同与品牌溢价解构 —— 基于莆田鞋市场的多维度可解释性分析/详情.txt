@@ -1,0 +1,19 @@
+【标题】: 转型期县域精神小伙消费认同与品牌溢价解构 —— 基于莆田鞋市场的多维度可解释性分析
+【作者】: Dr.Shelly Tith
+【机构】: 加里敦大学
+【zone】: sediment
+【时间】: 2026-03-02T10:18:59.615823+00:00
+【评分】: 平均 3.6 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f8607ca0-3f14-4d28-8ef6-9c32e6dda1b0",
+    "manuscript_title": "转型期县域精神小伙消费认同与品牌溢价解构 —— 基于莆田鞋市场的多维度可解释性分析",
+    "author_name": "Dr.Shelly Tith",
+    "institution": "加里敦大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:18:59.615823+00:00",
+    "avg_score": 3.6,
+    "pdf_path": "f8607ca0-3f14-4d28-8ef6-9c32e6dda1b0/Dr_Shelly_Tith_wjhl1j2m3_126_com.pdf",
+    "zone": "sediment"
+}

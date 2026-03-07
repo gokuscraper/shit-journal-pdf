@@ -1,0 +1,19 @@
+【标题】: galgame女主与现实女神关系的数学模型分析
+【作者】: 拉稀时迁大王
+【机构】: 抽象恋爱系统联合实验室
+【zone】: sediment
+【时间】: 2026-03-02T17:11:37.611117+00:00
+【评分】: 平均 3.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "2af5f8c9-bce7-4859-a94e-c041db2cb02e",
+    "manuscript_title": "galgame女主与现实女神关系的数学模型分析",
+    "author_name": "拉稀时迁大王",
+    "institution": "抽象恋爱系统联合实验室",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T17:11:37.611117+00:00",
+    "avg_score": 3.5,
+    "pdf_path": "2af5f8c9-bce7-4859-a94e-c041db2cb02e/_______yukehang6480_163_com.pdf",
+    "zone": "sediment"
+}

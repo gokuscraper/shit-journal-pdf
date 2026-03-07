@@ -1,0 +1,19 @@
+【标题】: 为什么论文一定要有意义：论学术生产中的仪式性合规
+【作者】: Mr.Nimbus
+【机构】: 海王大学
+【zone】: latrine
+【时间】: 2026-02-25T06:42:16.171554+00:00
+【评分】: 平均 3.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "79d183c3-8003-4649-bb7f-8a3d35a1a068",
+    "manuscript_title": "为什么论文一定要有意义：论学术生产中的仪式性合规",
+    "author_name": "Mr.Nimbus",
+    "institution": "海王大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T06:42:16.171554+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "79d183c3-8003-4649-bb7f-8a3d35a1a068/Mr_Nimbus_chrisliu1020_gmail_com.pdf",
+    "zone": "latrine"
+}

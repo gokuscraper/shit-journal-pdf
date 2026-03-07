@@ -1,0 +1,19 @@
+【标题】: 人工智能的基本原理
+【作者】: 卓嘉彦
+【机构】: 南海实验学校
+【zone】: latrine
+【时间】: 2026-02-24T03:23:24.659959+00:00
+【评分】: 平均 1.7 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bc3575c0-10e5-4e5f-a7d0-7779fcd08938",
+    "manuscript_title": "人工智能的基本原理",
+    "author_name": "卓嘉彦",
+    "institution": "南海实验学校",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T03:23:24.659959+00:00",
+    "avg_score": 1.7,
+    "pdf_path": "bc3575c0-10e5-4e5f-a7d0-7779fcd08938/paper.pdf",
+    "zone": "latrine"
+}

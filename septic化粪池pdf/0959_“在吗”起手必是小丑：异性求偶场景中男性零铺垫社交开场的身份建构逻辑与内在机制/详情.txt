@@ -1,0 +1,19 @@
+【标题】: “在吗”起手必是小丑：异性求偶场景中男性零铺垫社交开场的身份建构逻辑与内在机制
+【作者】: Dr. Jing
+【机构】: Caliton University
+【zone】: septic
+【时间】: 2026-03-02T11:02:44.449563+00:00
+【评分】: 平均 4.512820512820513 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5833888e-115e-4aef-86ed-01f83c7bc18e",
+    "manuscript_title": "“在吗”起手必是小丑：异性求偶场景中男性零铺垫社交开场的身份建构逻辑与内在机制",
+    "author_name": "Dr. Jing",
+    "institution": "Caliton University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T11:02:44.449563+00:00",
+    "avg_score": 4.512820512820513,
+    "pdf_path": "5833888e-115e-4aef-86ed-01f83c7bc18e/Dr__Jing_wangkarroy31_gmail_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 数码相机图像噪点的起源探究
+【作者】: 浪漫的真爱
+【机构】: 黄土高原农村旱厕
+【zone】: sediment
+【时间】: 2026-03-03T16:51:29.57349+00:00
+【评分】: 平均 3.4871794871794872 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8467626b-bffd-49c0-aa5c-49d5f4ca09c2",
+    "manuscript_title": "数码相机图像噪点的起源探究",
+    "author_name": "浪漫的真爱",
+    "institution": "黄土高原农村旱厕",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T16:51:29.57349+00:00",
+    "avg_score": 3.4871794871794872,
+    "pdf_path": "8467626b-bffd-49c0-aa5c-49d5f4ca09c2/______zhenai_work_163_com.pdf",
+    "zone": "sediment"
+}

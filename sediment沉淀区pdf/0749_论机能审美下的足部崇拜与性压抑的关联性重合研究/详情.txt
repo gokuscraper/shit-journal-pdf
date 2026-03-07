@@ -1,0 +1,19 @@
+【标题】: 论机能审美下的足部崇拜与性压抑的关联性重合研究
+【作者】: Dr.Shitman
+【机构】: 中国构石大学-CSHITU
+【zone】: sediment
+【时间】: 2026-03-01T09:23:22.603427+00:00
+【评分】: 平均 3.388888888888889 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "74a069f7-387f-487c-b8db-fc9e6cbe5aec",
+    "manuscript_title": "论机能审美下的足部崇拜与性压抑的关联性重合研究",
+    "author_name": "Dr.Shitman",
+    "institution": "中国构石大学-CSHITU",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T09:23:22.603427+00:00",
+    "avg_score": 3.388888888888889,
+    "pdf_path": "74a069f7-387f-487c-b8db-fc9e6cbe5aec/Dr_Shitman_3053985879_qq_com.pdf",
+    "zone": "sediment"
+}

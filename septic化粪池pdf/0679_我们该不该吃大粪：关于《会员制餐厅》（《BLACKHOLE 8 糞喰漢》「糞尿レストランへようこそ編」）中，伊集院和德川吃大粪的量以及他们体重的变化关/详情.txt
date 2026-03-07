@@ -1,0 +1,19 @@
+【标题】: 我们该不该吃大粪：关于《会员制餐厅》（《BLACKHOLE 8 糞喰漢》「糞尿レストランへようこそ編」）中，伊集院和德川吃大粪的量以及他们体重的变化关系
+【作者】: 田所浩一
+【机构】: 下北泽大粪研究所
+【zone】: septic
+【时间】: 2026-02-28T02:24:06.309584+00:00
+【评分】: 平均 4.525773195876289 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7e8a41eb-e11a-4161-bf12-5c2ab5cabace",
+    "manuscript_title": "我们该不该吃大粪：关于《会员制餐厅》（《BLACKHOLE 8 糞喰漢》「糞尿レストランへようこそ編」）中，伊集院和德川吃大粪的量以及他们体重的变化关系",
+    "author_name": "田所浩一",
+    "institution": "下北泽大粪研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T02:24:06.309584+00:00",
+    "avg_score": 4.525773195876289,
+    "pdf_path": "7e8a41eb-e11a-4161-bf12-5c2ab5cabace/_____lucas_lu2010_outlook_com.pdf",
+    "zone": "septic"
+}

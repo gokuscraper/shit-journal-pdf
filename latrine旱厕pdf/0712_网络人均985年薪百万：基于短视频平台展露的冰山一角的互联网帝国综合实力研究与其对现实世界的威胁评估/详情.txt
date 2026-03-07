@@ -1,0 +1,19 @@
+【标题】: 网络人均985年薪百万：基于短视频平台展露的冰山一角的互联网帝国综合实力研究与其对现实世界的威胁评估
+【作者】: Dr.Riceall Puffer
+【机构】: Stayathome&Toilet  University
+【zone】: latrine
+【时间】: 2026-03-01T01:36:34.823873+00:00
+【评分】: 平均 2.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7a557a26-8d00-4d1d-811a-37db58f455c7",
+    "manuscript_title": "网络人均985年薪百万：基于短视频平台展露的冰山一角的互联网帝国综合实力研究与其对现实世界的威胁评估",
+    "author_name": "Dr.Riceall Puffer",
+    "institution": "Stayathome&Toilet  University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T01:36:34.823873+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "7a557a26-8d00-4d1d-811a-37db58f455c7/Dr_Riceall_Puffer_3416240568_qq_com.pdf",
+    "zone": "latrine"
+}

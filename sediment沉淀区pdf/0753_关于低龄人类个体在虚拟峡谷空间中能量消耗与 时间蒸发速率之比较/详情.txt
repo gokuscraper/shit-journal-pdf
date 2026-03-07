@@ -1,0 +1,19 @@
+【标题】: 关于低龄人类个体在虚拟峡谷空间中能量消耗与 时间蒸发速率之比较
+【作者】: 天天在农村挑大粪
+【机构】: timi研究工作室
+【zone】: sediment
+【时间】: 2026-03-02T12:55:16.512589+00:00
+【评分】: 平均 2.90625 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7439b210-c8a9-436d-aaa0-3c52aff31a1c",
+    "manuscript_title": "关于低龄人类个体在虚拟峡谷空间中能量消耗与 时间蒸发速率之比较",
+    "author_name": "天天在农村挑大粪",
+    "institution": "timi研究工作室",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T12:55:16.512589+00:00",
+    "avg_score": 2.90625,
+    "pdf_path": "7439b210-c8a9-436d-aaa0-3c52aff31a1c/_________2368622955_qq_com.pdf",
+    "zone": "sediment"
+}

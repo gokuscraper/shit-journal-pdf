@@ -1,0 +1,19 @@
+【标题】: 赛博空间中的集体智慧涌现——斗鱼6657直播间“头脑风暴”现象研究
+【作者】: 6657Dr.Liu
+【机构】: 达尔豪斯大学
+【zone】: septic
+【时间】: 2026-03-02T10:15:08.821575+00:00
+【评分】: 平均 4.0625 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2e778a15-9b15-49d3-abaa-03bc9ab0d4b7",
+    "manuscript_title": "赛博空间中的集体智慧涌现——斗鱼6657直播间“头脑风暴”现象研究",
+    "author_name": "6657Dr.Liu",
+    "institution": "达尔豪斯大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:15:08.821575+00:00",
+    "avg_score": 4.0625,
+    "pdf_path": "2e778a15-9b15-49d3-abaa-03bc9ab0d4b7/6657Dr_Liu_lishaoyuan009_gmail_com.pdf",
+    "zone": "septic"
+}

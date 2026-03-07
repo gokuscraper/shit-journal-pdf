@@ -1,0 +1,19 @@
+【标题】: GoodThing-Net：从“峰哥”现象到AI4Sex的跨学科构想
+【作者】: 奶龙椰椰
+【机构】: 峰学研究院（Institute for Research on Feng Studies，IRFS）
+【zone】: latrine
+【时间】: 2026-02-28T15:25:14.595247+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a94c4f94-e990-4471-8b8b-c71f08a9ef0a",
+    "manuscript_title": "GoodThing-Net：从“峰哥”现象到AI4Sex的跨学科构想",
+    "author_name": "奶龙椰椰",
+    "institution": "峰学研究院（Institute for Research on Feng Studies，IRFS）",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T15:25:14.595247+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a94c4f94-e990-4471-8b8b-c71f08a9ef0a/_____3631315226_qq_com.pdf",
+    "zone": "latrine"
+}

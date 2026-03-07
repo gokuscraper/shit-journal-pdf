@@ -1,0 +1,19 @@
+【标题】: 实验室厕所隔间作为“学术避难所”的时间演化特征：基于传感器监测的生产力恢复研究
+【作者】: 鉴石大师
+【机构】: 赛博科技大学
+【zone】: latrine
+【时间】: 2026-03-03T05:48:46.499327+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9eeb9140-9ac5-4d25-b948-77a6f4fafee1",
+    "manuscript_title": "实验室厕所隔间作为“学术避难所”的时间演化特征：基于传感器监测的生产力恢复研究",
+    "author_name": "鉴石大师",
+    "institution": "赛博科技大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T05:48:46.499327+00:00",
+    "avg_score": 0,
+    "pdf_path": "9eeb9140-9ac5-4d25-b948-77a6f4fafee1/_____jianshi_master_SBITU_org.pdf",
+    "zone": "latrine"
+}

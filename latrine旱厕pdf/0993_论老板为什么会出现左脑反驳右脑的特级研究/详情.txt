@@ -1,0 +1,19 @@
+【标题】: 论老板为什么会出现左脑反驳右脑的特级研究
+【作者】: 凯文
+【机构】: 深圳玛皇潮玩公司
+【zone】: latrine
+【时间】: 2026-03-03T07:18:45.782815+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "52b104f4-6811-4cbf-8c88-4f4509361d3e",
+    "manuscript_title": "论老板为什么会出现左脑反驳右脑的特级研究",
+    "author_name": "凯文",
+    "institution": "深圳玛皇潮玩公司",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T07:18:45.782815+00:00",
+    "avg_score": 0,
+    "pdf_path": "52b104f4-6811-4cbf-8c88-4f4509361d3e/___zemk4722_gmail_com.pdf",
+    "zone": "latrine"
+}

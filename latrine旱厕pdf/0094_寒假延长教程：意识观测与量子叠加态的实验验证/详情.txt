@@ -1,0 +1,19 @@
+【标题】: 寒假延长教程：意识观测与量子叠加态的实验验证
+【作者】: 我是风流帅
+【机构】: SDSHTDYZX
+【zone】: latrine
+【时间】: 2026-02-27T15:42:24.821366+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d0e847b5-886d-49d3-a58f-f9806d53f858",
+    "manuscript_title": "寒假延长教程：意识观测与量子叠加态的实验验证",
+    "author_name": "我是风流帅",
+    "institution": "SDSHTDYZX",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T15:42:24.821366+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "d0e847b5-886d-49d3-a58f-f9806d53f858/______16653362667_163_com.pdf",
+    "zone": "latrine"
+}

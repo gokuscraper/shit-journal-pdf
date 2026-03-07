@@ -1,0 +1,19 @@
+【标题】: 界面审美负债与高质量“废料”产出：基于注意力流体力学的界面重构研究
+【作者】: 史皇帝
+【机构】: Interface Sovereignty Research Unit, Cyberspace
+【zone】: septic
+【时间】: 2026-03-01T08:04:55.662165+00:00
+【评分】: 平均 3.875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d6ce8a24-983c-4391-a920-d3b21b7a48e9",
+    "manuscript_title": "界面审美负债与高质量“废料”产出：基于注意力流体力学的界面重构研究",
+    "author_name": "史皇帝",
+    "institution": "Interface Sovereignty Research Unit, Cyberspace",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:04:55.662165+00:00",
+    "avg_score": 3.875,
+    "pdf_path": "d6ce8a24-983c-4391-a920-d3b21b7a48e9/____lpswz0001_gmail_com.pdf",
+    "zone": "septic"
+}

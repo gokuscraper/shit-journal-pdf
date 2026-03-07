@@ -1,0 +1,19 @@
+【标题】: 基于不同饮食情况下大便形状研究
+【作者】: Chrysanthemum
+【机构】: Institute of Excrement and Urine Research
+【zone】: latrine
+【时间】: 2026-02-27T06:54:52.386976+00:00
+【评分】: 平均 4.571428571428571 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2293722f-4530-4a7d-9e92-e5b62a203e5a",
+    "manuscript_title": "基于不同饮食情况下大便形状研究",
+    "author_name": "Chrysanthemum",
+    "institution": "Institute of Excrement and Urine Research",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T06:54:52.386976+00:00",
+    "avg_score": 4.571428571428571,
+    "pdf_path": "2293722f-4530-4a7d-9e92-e5b62a203e5a/Chrysanthemum_tuoyapeng0912_163_com.pdf",
+    "zone": "latrine"
+}

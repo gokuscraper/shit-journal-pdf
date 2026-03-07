@@ -1,0 +1,19 @@
+【标题】: 《生物压电致变：论雨姐45码高汗致动器诱发的木薯-红薯量子隧穿效应》
+【作者】: 月shit无限连
+【机构】: 国立Toilet研究委员会
+【zone】: latrine
+【时间】: 2026-02-25T11:00:59.565765+00:00
+【评分】: 平均 3.9 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a35c2b4a-01e0-457e-a2e5-df43081933ab",
+    "manuscript_title": "《生物压电致变：论雨姐45码高汗致动器诱发的木薯-红薯量子隧穿效应》",
+    "author_name": "月shit无限连",
+    "institution": "国立Toilet研究委员会",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:00:59.565765+00:00",
+    "avg_score": 3.9,
+    "pdf_path": "a35c2b4a-01e0-457e-a2e5-df43081933ab/_shit____a15700330116_outlook_com.pdf",
+    "zone": "latrine"
+}

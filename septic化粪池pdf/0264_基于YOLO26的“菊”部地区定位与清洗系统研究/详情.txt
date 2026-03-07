@@ -1,0 +1,19 @@
+【标题】: 基于YOLO26的“菊”部地区定位与清洗系统研究
+【作者】: 龙哥教教主
+【机构】: 龙哥教中华总舵
+【zone】: septic
+【时间】: 2026-03-02T15:28:05.466575+00:00
+【评分】: 平均 4.190476190476191 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "bbe1135a-facb-4756-a68d-b5a1ed0d7b18",
+    "manuscript_title": "基于YOLO26的“菊”部地区定位与清洗系统研究",
+    "author_name": "龙哥教教主",
+    "institution": "龙哥教中华总舵",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T15:28:05.466575+00:00",
+    "avg_score": 4.190476190476191,
+    "pdf_path": "bbe1135a-facb-4756-a68d-b5a1ed0d7b18/______1563552008_qq_com.pdf",
+    "zone": "septic"
+}

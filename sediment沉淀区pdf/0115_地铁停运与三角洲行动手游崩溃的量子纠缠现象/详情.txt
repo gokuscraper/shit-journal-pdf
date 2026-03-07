@@ -1,0 +1,19 @@
+【标题】: 地铁停运与三角洲行动手游崩溃的量子纠缠现象
+【作者】: Steven1356
+【机构】: 达芬大学
+【zone】: sediment
+【时间】: 2026-02-28T01:38:57.879959+00:00
+【评分】: 平均 2.4864864864864864 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d21b4cdb-db38-4857-8e4d-8adadacc91bc",
+    "manuscript_title": "地铁停运与三角洲行动手游崩溃的量子纠缠现象",
+    "author_name": "Steven1356",
+    "institution": "达芬大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T01:38:57.879959+00:00",
+    "avg_score": 2.4864864864864864,
+    "pdf_path": "d21b4cdb-db38-4857-8e4d-8adadacc91bc/Steven1356_cubersteven_163_com.pdf",
+    "zone": "sediment"
+}

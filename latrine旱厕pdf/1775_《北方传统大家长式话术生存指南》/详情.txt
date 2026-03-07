@@ -1,0 +1,19 @@
+【标题】: 《北方传统大家长式话术生存指南》
+【作者】: Ush1tns
+【机构】: ૮₍♡♡₎ა
+【zone】: latrine
+【时间】: 2026-02-23T15:31:42.359249+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "fd1210b1-5dd9-4f87-9543-f1063498ea92",
+    "manuscript_title": "《北方传统大家长式话术生存指南》",
+    "author_name": "Ush1tns",
+    "institution": "૮₍♡♡₎ა",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T15:31:42.359249+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "fd1210b1-5dd9-4f87-9543-f1063498ea92/paper.pdf",
+    "zone": "latrine"
+}

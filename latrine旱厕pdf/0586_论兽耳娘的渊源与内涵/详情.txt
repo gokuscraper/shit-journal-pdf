@@ -1,0 +1,19 @@
+【标题】: 论兽耳娘的渊源与内涵
+【作者】: th1001
+【机构】: 千恋·万花
+【zone】: latrine
+【时间】: 2026-02-25T16:10:59.093487+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8bff533d-880f-437d-ab04-9f56feafe13a",
+    "manuscript_title": "论兽耳娘的渊源与内涵",
+    "author_name": "th1001",
+    "institution": "千恋·万花",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T16:10:59.093487+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "8bff533d-880f-437d-ab04-9f56feafe13a/th1001_qazxcwed11_163_com.pdf",
+    "zone": "latrine"
+}

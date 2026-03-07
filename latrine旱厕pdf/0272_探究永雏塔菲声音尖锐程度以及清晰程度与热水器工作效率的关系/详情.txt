@@ -1,0 +1,19 @@
+【标题】: 探究永雏塔菲声音尖锐程度以及清晰程度与热水器工作效率的关系
+【作者】: 鸟
+【机构】: 丁丫搞基大学
+【zone】: latrine
+【时间】: 2026-03-01T02:36:45.2824+00:00
+【评分】: 平均 4.454545454545454 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ba751682-09ba-42e9-89fd-567e86a53040",
+    "manuscript_title": "探究永雏塔菲声音尖锐程度以及清晰程度与热水器工作效率的关系",
+    "author_name": "鸟",
+    "institution": "丁丫搞基大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-01T02:36:45.2824+00:00",
+    "avg_score": 4.454545454545454,
+    "pdf_path": "ba751682-09ba-42e9-89fd-567e86a53040/__linsparrows1124_outlook_com.pdf",
+    "zone": "latrine"
+}

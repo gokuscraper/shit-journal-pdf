@@ -1,0 +1,19 @@
+【标题】: 生物混沌验证码：基于排泄物形态熵值的人类图灵测试新范式
+【作者】: Alfred Shiter
+【机构】: University Of Restroom
+【zone】: latrine
+【时间】: 2026-02-25T08:54:39.137411+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3d46b145-336c-4dd8-8ead-14a40a371cd4",
+    "manuscript_title": "生物混沌验证码：基于排泄物形态熵值的人类图灵测试新范式",
+    "author_name": "Alfred Shiter",
+    "institution": "University Of Restroom",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:54:39.137411+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "3d46b145-336c-4dd8-8ead-14a40a371cd4/Alfred_Shiter_1365952585_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: Toward an Excremental Ontology: Waste, Subjectivity, and the Politics of Bodily Remainders
+【作者】:  Uriah P. Flatus
+【机构】: Center for Flatulence Research, Royal Academy of Poop Sciences, United Kingdom
+【zone】: latrine
+【时间】: 2026-02-20T14:33:25.020244+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "40916863-824d-46ee-b933-b95c5cd4f2b7",
+    "manuscript_title": "Toward an Excremental Ontology: Waste, Subjectivity, and the Politics of Bodily Remainders",
+    "author_name": " Uriah P. Flatus",
+    "institution": "Center for Flatulence Research, Royal Academy of Poop Sciences, United Kingdom",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T14:33:25.020244+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "40916863-824d-46ee-b933-b95c5cd4f2b7/paper.pdf",
+    "zone": "latrine"
+}

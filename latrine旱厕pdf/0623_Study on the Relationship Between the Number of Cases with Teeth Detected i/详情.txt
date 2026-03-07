@@ -1,0 +1,19 @@
+【标题】: Study on the Relationship Between the Number of Cases with Teeth Detected in Shit and Social Development
+【作者】: teethinshit
+【机构】: SHITU
+【zone】: latrine
+【时间】: 2026-02-24T01:02:17.080146+00:00
+【评分】: 平均 2.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "863e15fa-e217-4826-91bf-3b468909b80e",
+    "manuscript_title": "Study on the Relationship Between the Number of Cases with Teeth Detected in Shit and Social Development",
+    "author_name": "teethinshit",
+    "institution": "SHITU",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T01:02:17.080146+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "863e15fa-e217-4826-91bf-3b468909b80e/paper.pdf",
+    "zone": "latrine"
+}

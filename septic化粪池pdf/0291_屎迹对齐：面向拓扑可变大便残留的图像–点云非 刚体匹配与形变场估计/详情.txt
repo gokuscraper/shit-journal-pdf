@@ -1,0 +1,19 @@
+【标题】: 屎迹对齐：面向拓扑可变大便残留的图像–点云非 刚体匹配与形变场估计
+【作者】: 今州拉屎侠
+【机构】: 华胥学院今州分院
+【zone】: septic
+【时间】: 2026-03-03T20:17:50.810442+00:00
+【评分】: 平均 4.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b788a651-24ee-41a8-8f88-ae3e48c023d2",
+    "manuscript_title": "屎迹对齐：面向拓扑可变大便残留的图像–点云非 刚体匹配与形变场估计",
+    "author_name": "今州拉屎侠",
+    "institution": "华胥学院今州分院",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T20:17:50.810442+00:00",
+    "avg_score": 4.75,
+    "pdf_path": "b788a651-24ee-41a8-8f88-ae3e48c023d2/______exhentaivipuser_gmail_com.pdf",
+    "zone": "septic"
+}

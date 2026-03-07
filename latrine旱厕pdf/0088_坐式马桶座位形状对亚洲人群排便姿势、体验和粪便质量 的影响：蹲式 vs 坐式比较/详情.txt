@@ -1,0 +1,19 @@
+【标题】: 坐式马桶座位形状对亚洲人群排便姿势、体验和粪便质量 的影响：蹲式 vs 坐式比较
+【作者】: APOXI
+【机构】: 电子科技大学中山学院
+【zone】: latrine
+【时间】: 2026-02-23T12:01:32.593731+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ffa35c4e-ae50-4aa6-9357-e9514e413e29",
+    "manuscript_title": "坐式马桶座位形状对亚洲人群排便姿势、体验和粪便质量 的影响：蹲式 vs 坐式比较",
+    "author_name": "APOXI",
+    "institution": "电子科技大学中山学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:01:32.593731+00:00",
+    "avg_score": 0,
+    "pdf_path": "ffa35c4e-ae50-4aa6-9357-e9514e413e29/paper.pdf",
+    "zone": "latrine"
+}

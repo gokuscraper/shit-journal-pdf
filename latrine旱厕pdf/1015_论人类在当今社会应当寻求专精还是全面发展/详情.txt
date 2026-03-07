@@ -1,0 +1,19 @@
+【标题】: 论人类在当今社会应当寻求专精还是全面发展
+【作者】: ikulotoki
+【机构】: Shanghai first toilet上海第一坑
+【zone】: latrine
+【时间】: 2026-02-28T12:41:39.493067+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5024f57d-f83b-4428-89a8-8fdd260f9781",
+    "manuscript_title": "论人类在当今社会应当寻求专精还是全面发展",
+    "author_name": "ikulotoki",
+    "institution": "Shanghai first toilet上海第一坑",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T12:41:39.493067+00:00",
+    "avg_score": 0,
+    "pdf_path": "5024f57d-f83b-4428-89a8-8fdd260f9781/ikulotoki_80729155_qq_com.pdf",
+    "zone": "latrine"
+}

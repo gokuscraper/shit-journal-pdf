@@ -1,0 +1,19 @@
+【标题】: 基于DLSS 3.5帧生成技术的高帧率视觉环境对如厕期间主观时间知觉及排便体验的影响研究
+【作者】: Aleación de titanio flexible
+【机构】: FeiWu Design Tech.
+【zone】: latrine
+【时间】: 2026-02-22T06:22:44.521894+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "0c642c79-2fcf-4fbb-9a33-4f9d9c518f8b",
+    "manuscript_title": "基于DLSS 3.5帧生成技术的高帧率视觉环境对如厕期间主观时间知觉及排便体验的影响研究",
+    "author_name": "Aleación de titanio flexible",
+    "institution": "FeiWu Design Tech.",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T06:22:44.521894+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "0c642c79-2fcf-4fbb-9a33-4f9d9c518f8b/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 专业团队如何处理拉丝性质大便
+【作者】: Scheiße Producer
+【机构】: schhsiunfwanooe
+【zone】: latrine
+【时间】: 2026-02-22T09:42:11.35848+00:00
+【评分】: 平均 1.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "953bf961-e1b6-4daf-8743-c6d884c8be2f",
+    "manuscript_title": "专业团队如何处理拉丝性质大便",
+    "author_name": "Scheiße Producer",
+    "institution": "schhsiunfwanooe",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T09:42:11.35848+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "953bf961-e1b6-4daf-8743-c6d884c8be2f/paper.pdf",
+    "zone": "latrine"
+}

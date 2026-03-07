@@ -1,0 +1,19 @@
+【标题】: 三分钟时限的终极考验：孙悟空对奥特曼的压制性优势论证
+【作者】: 拉粑顺顺
+【机构】: shit研究所
+【zone】: latrine
+【时间】: 2026-02-28T11:31:34.578075+00:00
+【评分】: 平均 4.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "11e87452-8353-4b33-adca-02466b26c896",
+    "manuscript_title": "三分钟时限的终极考验：孙悟空对奥特曼的压制性优势论证",
+    "author_name": "拉粑顺顺",
+    "institution": "shit研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T11:31:34.578075+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "11e87452-8353-4b33-adca-02466b26c896/_____2772077011_qq_com.pdf",
+    "zone": "latrine"
+}

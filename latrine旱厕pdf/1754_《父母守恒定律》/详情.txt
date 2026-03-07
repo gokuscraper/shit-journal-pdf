@@ -1,0 +1,19 @@
+【标题】: 《父母守恒定律》
+【作者】: Alvis Junyi Zhou
+【机构】: 比比拉布社会研究大学
+【zone】: latrine
+【时间】: 2026-02-25T08:28:04.305098+00:00
+【评分】: 平均 3.642857142857143 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fac1e733-d546-4224-b07b-5fadb04c79b7",
+    "manuscript_title": "《父母守恒定律》",
+    "author_name": "Alvis Junyi Zhou",
+    "institution": "比比拉布社会研究大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:28:04.305098+00:00",
+    "avg_score": 3.642857142857143,
+    "pdf_path": "fac1e733-d546-4224-b07b-5fadb04c79b7/Alvis_Junyi_Zhou_548515109_qq_com.pdf",
+    "zone": "latrine"
+}

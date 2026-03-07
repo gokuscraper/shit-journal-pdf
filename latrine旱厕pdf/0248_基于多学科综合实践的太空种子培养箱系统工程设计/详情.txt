@@ -1,0 +1,19 @@
+【标题】: 基于多学科综合实践的太空种子培养箱系统工程设计
+【作者】: La Pluma
+【机构】: 罗德岛工程部
+【zone】: latrine
+【时间】: 2026-02-23T12:50:44.59445+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "be494dc4-469d-4f9a-88ca-074668972ed3",
+    "manuscript_title": "基于多学科综合实践的太空种子培养箱系统工程设计",
+    "author_name": "La Pluma",
+    "institution": "罗德岛工程部",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:50:44.59445+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "be494dc4-469d-4f9a-88ca-074668972ed3/paper.pdf",
+    "zone": "latrine"
+}

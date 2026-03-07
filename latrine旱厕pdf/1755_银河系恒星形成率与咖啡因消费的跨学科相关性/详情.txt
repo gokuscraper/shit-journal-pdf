@@ -1,0 +1,19 @@
+【标题】: 银河系恒星形成率与咖啡因消费的跨学科相关性
+【作者】: regulus
+【机构】: 墨尔本咖啡天体物理研究所  Melbourne Coffee Astrophysics Institute (MCAI)
+【zone】: latrine
+【时间】: 2026-02-27T13:58:45.85135+00:00
+【评分】: 平均 4.333333333333333 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "fad43e14-dd60-4c14-99da-ce0300bc2a03",
+    "manuscript_title": "银河系恒星形成率与咖啡因消费的跨学科相关性",
+    "author_name": "regulus",
+    "institution": "墨尔本咖啡天体物理研究所  Melbourne Coffee Astrophysics Institute (MCAI)",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-27T13:58:45.85135+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "fad43e14-dd60-4c14-99da-ce0300bc2a03/regulus_642516101_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 阴影的圣化——论有意识屎尿屁创作在艺术治疗之荣格曼陀罗中的运用
+【作者】: Eton_Shit
+【机构】: 疯人艺术学会
+【zone】: latrine
+【时间】: 2026-03-01T10:57:53.487419+00:00
+【评分】: 平均 4.888888888888889 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "87d70d57-a52e-4012-997b-85dac42c1cc5",
+    "manuscript_title": "阴影的圣化——论有意识屎尿屁创作在艺术治疗之荣格曼陀罗中的运用",
+    "author_name": "Eton_Shit",
+    "institution": "疯人艺术学会",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T10:57:53.487419+00:00",
+    "avg_score": 4.888888888888889,
+    "pdf_path": "87d70d57-a52e-4012-997b-85dac42c1cc5/Eton_Shit_isabella7zhong_163_com.pdf",
+    "zone": "latrine"
+}

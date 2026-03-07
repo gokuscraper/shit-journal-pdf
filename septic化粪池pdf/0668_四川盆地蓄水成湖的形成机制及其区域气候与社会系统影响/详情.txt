@@ -1,0 +1,19 @@
+【标题】: 四川盆地蓄水成湖的形成机制及其区域气候与社会系统影响
+【作者】: Neew.Blosh
+【机构】: Wild Brid University
+【zone】: septic
+【时间】: 2026-03-03T14:46:02.359596+00:00
+【评分】: 平均 3.9 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7fdbb2a7-0b0a-48c9-baa3-5adc1e817bf3",
+    "manuscript_title": "四川盆地蓄水成湖的形成机制及其区域气候与社会系统影响",
+    "author_name": "Neew.Blosh",
+    "institution": "Wild Brid University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T14:46:02.359596+00:00",
+    "avg_score": 3.9,
+    "pdf_path": "7fdbb2a7-0b0a-48c9-baa3-5adc1e817bf3/Neew_Blosh_2084739114_qq_com.pdf",
+    "zone": "septic"
+}

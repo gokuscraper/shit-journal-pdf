@@ -1,0 +1,19 @@
+【标题】: 人类（Homo sapiens）等脊椎动物固体粪便物理参数的跨物种差异及关联因素研究
+【作者】: Youki
+【机构】: 温江农业技术专科学校
+【zone】: septic
+【时间】: 2026-03-03T17:34:39.789913+00:00
+【评分】: 平均 4.095238095238095 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "387bbebf-b06f-4020-bee7-dbb146088f7c",
+    "manuscript_title": "人类（Homo sapiens）等脊椎动物固体粪便物理参数的跨物种差异及关联因素研究",
+    "author_name": "Youki",
+    "institution": "温江农业技术专科学校",
+    "viscosity": "semi",
+    "discipline": "agriculture",
+    "created_at": "2026-03-03T17:34:39.789913+00:00",
+    "avg_score": 4.095238095238095,
+    "pdf_path": "387bbebf-b06f-4020-bee7-dbb146088f7c/Youki_wh2oz_outlook_com.pdf",
+    "zone": "septic"
+}

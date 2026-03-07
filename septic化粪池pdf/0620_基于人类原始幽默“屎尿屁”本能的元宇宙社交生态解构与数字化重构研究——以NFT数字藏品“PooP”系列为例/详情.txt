@@ -1,0 +1,19 @@
+【标题】: 基于人类原始幽默“屎尿屁”本能的元宇宙社交生态解构与数字化重构研究——以NFT数字藏品“PooP”系列为例
+【作者】: fungopee 
+【机构】: SHIT Tech 实验室
+【zone】: septic
+【时间】: 2026-03-02T13:02:23.581637+00:00
+【评分】: 平均 4.647058823529412 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "86e29714-24f9-4ee6-b856-b265ddea267e",
+    "manuscript_title": "基于人类原始幽默“屎尿屁”本能的元宇宙社交生态解构与数字化重构研究——以NFT数字藏品“PooP”系列为例",
+    "author_name": "fungopee ",
+    "institution": "SHIT Tech 实验室",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T13:02:23.581637+00:00",
+    "avg_score": 4.647058823529412,
+    "pdf_path": "86e29714-24f9-4ee6-b856-b265ddea267e/fungopee__fungopee_outlook_com.pdf",
+    "zone": "septic"
+}

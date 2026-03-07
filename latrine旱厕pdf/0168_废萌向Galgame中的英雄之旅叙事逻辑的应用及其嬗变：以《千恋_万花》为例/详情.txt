@@ -1,0 +1,19 @@
+【标题】: 废萌向Galgame中的英雄之旅叙事逻辑的应用及其嬗变：以《千恋*万花》为例
+【作者】: Qiji ja
+【机构】: Ciallo～(∠・ω< )⌒★
+【zone】: latrine
+【时间】: 2026-03-01T09:09:39.583741+00:00
+【评分】: 平均 4.235294117647059 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cafad5be-1fa7-41e3-b1aa-6f87049dfe27",
+    "manuscript_title": "废萌向Galgame中的英雄之旅叙事逻辑的应用及其嬗变：以《千恋*万花》为例",
+    "author_name": "Qiji ja",
+    "institution": "Ciallo～(∠・ω< )⌒★",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T09:09:39.583741+00:00",
+    "avg_score": 4.235294117647059,
+    "pdf_path": "cafad5be-1fa7-41e3-b1aa-6f87049dfe27/Qiji_ja_3037753237_qq_com.pdf",
+    "zone": "latrine"
+}

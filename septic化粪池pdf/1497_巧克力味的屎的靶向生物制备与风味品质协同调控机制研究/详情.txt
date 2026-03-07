@@ -1,0 +1,19 @@
+【标题】: 巧克力味的屎的靶向生物制备与风味品质协同调控机制研究
+【作者】: 站在巨人的shit上
+【机构】: 巨人的Water Closet
+【zone】: septic
+【时间】: 2026-03-02T15:12:57.50127+00:00
+【评分】: 平均 4.486486486486487 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "0b97cab3-3507-4af1-a1ba-3907e8a0d77c",
+    "manuscript_title": "巧克力味的屎的靶向生物制备与风味品质协同调控机制研究",
+    "author_name": "站在巨人的shit上",
+    "institution": "巨人的Water Closet",
+    "viscosity": "stringy",
+    "discipline": "agriculture",
+    "created_at": "2026-03-02T15:12:57.50127+00:00",
+    "avg_score": 4.486486486486487,
+    "pdf_path": "0b97cab3-3507-4af1-a1ba-3907e8a0d77c/_____shit__2901608246_qq_com.pdf",
+    "zone": "septic"
+}

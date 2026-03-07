@@ -1,0 +1,19 @@
+【标题】: 关于“空腹吃饭”行为对生物体代谢系统诱 发的逻辑悖论及潜在致命性危害研究
+【作者】: 鲁迅
+【机构】: 克里斯蒂亚皇家理工学院
+【zone】: latrine
+【时间】: 2026-03-03T10:31:24.281198+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3a13130e-de7f-453b-a399-ae856981b1ed",
+    "manuscript_title": "关于“空腹吃饭”行为对生物体代谢系统诱 发的逻辑悖论及潜在致命性危害研究",
+    "author_name": "鲁迅",
+    "institution": "克里斯蒂亚皇家理工学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:31:24.281198+00:00",
+    "avg_score": 0,
+    "pdf_path": "3a13130e-de7f-453b-a399-ae856981b1ed/___ffefs355_gmail_com.pdf",
+    "zone": "latrine"
+}

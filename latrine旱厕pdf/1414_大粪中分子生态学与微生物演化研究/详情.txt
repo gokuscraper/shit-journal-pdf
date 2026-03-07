@@ -1,0 +1,19 @@
+【标题】: 大粪中分子生态学与微生物演化研究
+【作者】: Dr.godshit
+【机构】: 分子生态与微生物演化研究所
+【zone】: latrine
+【时间】: 2026-02-25T08:19:42.311652+00:00
+【评分】: 平均 1.777777777777778 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1527046a-9a72-412b-bb0d-21f1e2343847",
+    "manuscript_title": "大粪中分子生态学与微生物演化研究",
+    "author_name": "Dr.godshit",
+    "institution": "分子生态与微生物演化研究所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:19:42.311652+00:00",
+    "avg_score": 1.777777777777778,
+    "pdf_path": "1527046a-9a72-412b-bb0d-21f1e2343847/Dr_godshit_adew12345_2023_qq_com.pdf",
+    "zone": "latrine"
+}

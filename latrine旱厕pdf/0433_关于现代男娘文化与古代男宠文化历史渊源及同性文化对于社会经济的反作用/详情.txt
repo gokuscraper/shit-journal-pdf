@@ -1,0 +1,19 @@
+【标题】: 关于现代男娘文化与古代男宠文化历史渊源及同性文化对于社会经济的反作用
+【作者】: 蘇伶
+【机构】: BOGUS UNIVERCITY
+【zone】: latrine
+【时间】: 2026-02-22T13:21:12.508498+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a3680cf2-9f1e-4a5e-98b6-fb88d09ca743",
+    "manuscript_title": "关于现代男娘文化与古代男宠文化历史渊源及同性文化对于社会经济的反作用",
+    "author_name": "蘇伶",
+    "institution": "BOGUS UNIVERCITY",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T13:21:12.508498+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a3680cf2-9f1e-4a5e-98b6-fb88d09ca743/paper.pdf",
+    "zone": "latrine"
+}

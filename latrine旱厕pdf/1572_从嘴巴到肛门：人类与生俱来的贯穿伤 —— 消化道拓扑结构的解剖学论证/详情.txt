@@ -1,0 +1,19 @@
+【标题】: 从嘴巴到肛门：人类与生俱来的贯穿伤 —— 消化道拓扑结构的解剖学论证
+【作者】: amdlg
+【机构】: 谢特工程大学
+【zone】: latrine
+【时间】: 2026-03-03T08:48:34.183167+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "01d9bb88-d9ae-4068-be0d-55696595d98b",
+    "manuscript_title": "从嘴巴到肛门：人类与生俱来的贯穿伤 —— 消化道拓扑结构的解剖学论证",
+    "author_name": "amdlg",
+    "institution": "谢特工程大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:48:34.183167+00:00",
+    "avg_score": 0,
+    "pdf_path": "01d9bb88-d9ae-4068-be0d-55696595d98b/amdlg_amdlg_163_com.pdf",
+    "zone": "latrine"
+}

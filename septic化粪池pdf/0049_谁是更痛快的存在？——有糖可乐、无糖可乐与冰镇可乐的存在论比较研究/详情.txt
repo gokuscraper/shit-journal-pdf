@@ -1,0 +1,19 @@
+【标题】: 谁是更痛快的存在？——有糖可乐、无糖可乐与冰镇可乐的存在论比较研究
+【作者】: Malphite
+【机构】: 墨菲特大学
+【zone】: septic
+【时间】: 2026-03-01T05:29:17.228464+00:00
+【评分】: 平均 4.7272727272727275 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "da77a6d0-e3e1-4ea9-8e3c-0fbaff7c2fcb",
+    "manuscript_title": "谁是更痛快的存在？——有糖可乐、无糖可乐与冰镇可乐的存在论比较研究",
+    "author_name": "Malphite",
+    "institution": "墨菲特大学",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T05:29:17.228464+00:00",
+    "avg_score": 4.7272727272727275,
+    "pdf_path": "da77a6d0-e3e1-4ea9-8e3c-0fbaff7c2fcb/Malphite_1437005250_qq_com.pdf",
+    "zone": "septic"
+}

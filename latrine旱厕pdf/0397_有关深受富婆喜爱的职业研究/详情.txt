@@ -1,0 +1,19 @@
+【标题】: 有关深受富婆喜爱的职业研究
+【作者】: 恐乐乐
+【机构】: 天龙研究基地
+【zone】: latrine
+【时间】: 2026-03-03T09:18:52.775736+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a87e33bf-adc1-4d0c-b988-826377da09e6",
+    "manuscript_title": "有关深受富婆喜爱的职业研究",
+    "author_name": "恐乐乐",
+    "institution": "天龙研究基地",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T09:18:52.775736+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a87e33bf-adc1-4d0c-b988-826377da09e6/____226645324_qq_com.pdf",
+    "zone": "latrine"
+}

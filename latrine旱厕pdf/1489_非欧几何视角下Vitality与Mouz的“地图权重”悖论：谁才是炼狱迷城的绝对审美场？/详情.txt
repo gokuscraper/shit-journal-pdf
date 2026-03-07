@@ -1,0 +1,19 @@
+【标题】: 非欧几何视角下Vitality与Mouz的“地图权重”悖论：谁才是炼狱迷城的绝对审美场？
+【作者】: 擦污不改皮炎
+【机构】: 纳玛莉莉大学
+【zone】: latrine
+【时间】: 2026-03-03T09:05:44.075376+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "0d615129-7676-4b31-b610-033878fa000a",
+    "manuscript_title": "非欧几何视角下Vitality与Mouz的“地图权重”悖论：谁才是炼狱迷城的绝对审美场？",
+    "author_name": "擦污不改皮炎",
+    "institution": "纳玛莉莉大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:05:44.075376+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "0d615129-7676-4b31-b610-033878fa000a/_______1943811782_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 符号资本、存在主义与“女神”凝视：社交平台文艺表达行为对心仪对象吸引力相关度的实证研究
+【作者】: Freshit
+【机构】: 重庆排泄运动委员会
+【zone】: sediment
+【时间】: 2026-03-02T16:59:46.034727+00:00
+【评分】: 平均 3.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "dc046176-4deb-418e-abf0-c04042314a24",
+    "manuscript_title": "符号资本、存在主义与“女神”凝视：社交平台文艺表达行为对心仪对象吸引力相关度的实证研究",
+    "author_name": "Freshit",
+    "institution": "重庆排泄运动委员会",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T16:59:46.034727+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "dc046176-4deb-418e-abf0-c04042314a24/Freshit_3282715075_qq_com.pdf",
+    "zone": "sediment"
+}

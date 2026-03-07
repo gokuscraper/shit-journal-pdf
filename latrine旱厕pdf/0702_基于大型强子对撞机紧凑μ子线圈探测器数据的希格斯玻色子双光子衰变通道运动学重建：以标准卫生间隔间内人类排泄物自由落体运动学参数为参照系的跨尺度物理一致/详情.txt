@@ -1,0 +1,19 @@
+【标题】: 基于大型强子对撞机紧凑μ子线圈探测器数据的希格斯玻色子双光子衰变通道运动学重建：以标准卫生间隔间内人类排泄物自由落体运动学参数为参照系的跨尺度物理一致性验证
+【作者】: 严某人
+【机构】: Wuxi Jinqiao Bilingual Experimental School (Junior High School) 
+【zone】: latrine
+【时间】: 2026-03-03T12:50:50.666461+00:00
+【评分】: 平均 2.25 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7b51a512-908b-4de2-bd84-bf753c3766d6",
+    "manuscript_title": "基于大型强子对撞机紧凑μ子线圈探测器数据的希格斯玻色子双光子衰变通道运动学重建：以标准卫生间隔间内人类排泄物自由落体运动学参数为参照系的跨尺度物理一致性验证",
+    "author_name": "严某人",
+    "institution": "Wuxi Jinqiao Bilingual Experimental School (Junior High School) ",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:50:50.666461+00:00",
+    "avg_score": 2.25,
+    "pdf_path": "7b51a512-908b-4de2-bd84-bf753c3766d6/____2270323459_qq_com.pdf",
+    "zone": "latrine"
+}

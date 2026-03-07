@@ -1,0 +1,19 @@
+【标题】: 阴阳宏观经济学导论——外生性量化宽松、输入型滞胀与跨界汇率的购买力平价模型
+【作者】: YingMu
+【机构】: 国立碳基生命非理性交互与混沌工程研究院（ational Institute of Irrational Interaction and Chaotic Engineering of Carbon-Based Life, NIIIC）
+【zone】: latrine
+【时间】: 2026-03-03T10:12:53.551729+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "0d41385f-7834-43ea-a628-cad002c4b79b",
+    "manuscript_title": "阴阳宏观经济学导论——外生性量化宽松、输入型滞胀与跨界汇率的购买力平价模型",
+    "author_name": "YingMu",
+    "institution": "国立碳基生命非理性交互与混沌工程研究院（ational Institute of Irrational Interaction and Chaotic Engineering of Carbon-Based Life, NIIIC）",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T10:12:53.551729+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "0d41385f-7834-43ea-a628-cad002c4b79b/YingMu_yingmu1117_qq_com.pdf",
+    "zone": "latrine"
+}

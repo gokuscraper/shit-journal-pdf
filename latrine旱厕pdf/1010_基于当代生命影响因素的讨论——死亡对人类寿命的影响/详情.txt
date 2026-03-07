@@ -1,0 +1,19 @@
+【标题】: 基于当代生命影响因素的讨论——死亡对人类寿命的影响
+【作者】: tension
+【机构】: 福建师范大学
+【zone】: latrine
+【时间】: 2026-03-01T08:40:00.560311+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "50fe79b5-a570-4ab8-9851-9fee6ba1b7e1",
+    "manuscript_title": "基于当代生命影响因素的讨论——死亡对人类寿命的影响",
+    "author_name": "tension",
+    "institution": "福建师范大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:40:00.560311+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "50fe79b5-a570-4ab8-9851-9fee6ba1b7e1/tension_804922834_qq_com.pdf",
+    "zone": "latrine"
+}

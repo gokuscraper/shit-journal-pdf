@@ -1,0 +1,19 @@
+【标题】: 食品安全风险感知与消费者排便急迫感（URGE）的相关性研究：基于胃肠道动力的中介效应
+【作者】: zih
+【机构】: Toilet University
+【zone】: septic
+【时间】: 2026-02-27T03:39:34.974958+00:00
+【评分】: 平均 4.3 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2d678da7-a45f-474b-b6b6-3e719d414386",
+    "manuscript_title": "食品安全风险感知与消费者排便急迫感（URGE）的相关性研究：基于胃肠道动力的中介效应",
+    "author_name": "zih",
+    "institution": "Toilet University",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-02-27T03:39:34.974958+00:00",
+    "avg_score": 4.3,
+    "pdf_path": "2d678da7-a45f-474b-b6b6-3e719d414386/zih_369826213_qq_com.pdf",
+    "zone": "septic"
+}

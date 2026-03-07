@@ -1,0 +1,19 @@
+【标题】: 缓解人口老龄化与台阶高度的关联性
+【作者】: Doctor Beiken
+【机构】: Wild Chicken University
+【zone】: sediment
+【时间】: 2026-02-27T14:16:35.01936+00:00
+【评分】: 平均 2.8333333333333335 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ba748e93-251a-46d4-8478-53798897414e",
+    "manuscript_title": "缓解人口老龄化与台阶高度的关联性",
+    "author_name": "Doctor Beiken",
+    "institution": "Wild Chicken University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:16:35.01936+00:00",
+    "avg_score": 2.8333333333333335,
+    "pdf_path": "ba748e93-251a-46d4-8478-53798897414e/Doctor_Beiken_3412823253_qq_com.pdf",
+    "zone": "sediment"
+}

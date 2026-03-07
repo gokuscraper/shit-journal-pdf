@@ -1,0 +1,19 @@
+【标题】: 从 “队友选蜂医” 到 “这把寄了”： 先验偏见如何塑造整局决策的社会心理学报告
+【作者】: cray 小乘
+【机构】: Center for Competitive Cognition & Decision Systems (C3DS), Arcadia Institute of Behavioral Analytics, Shenzhen, China
+【zone】: septic
+【时间】: 2026-03-03T01:07:05.129227+00:00
+【评分】: 平均 4.25 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e3a3b088-9ecb-463a-a8cf-fec4f3dccb3b",
+    "manuscript_title": "从 “队友选蜂医” 到 “这把寄了”： 先验偏见如何塑造整局决策的社会心理学报告",
+    "author_name": "cray 小乘",
+    "institution": "Center for Competitive Cognition & Decision Systems (C3DS), Arcadia Institute of Behavioral Analytics, Shenzhen, China",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T01:07:05.129227+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "e3a3b088-9ecb-463a-a8cf-fec4f3dccb3b/cray____crayxiaocheng_gmail_com.pdf",
+    "zone": "septic"
+}

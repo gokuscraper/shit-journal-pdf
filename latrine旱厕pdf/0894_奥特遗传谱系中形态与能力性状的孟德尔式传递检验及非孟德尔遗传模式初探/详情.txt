@@ -1,0 +1,19 @@
+【标题】: 奥特遗传谱系中形态与能力性状的孟德尔式传递检验及非孟德尔遗传模式初探
+【作者】: 山雨欲来风满楼
+【机构】: 铜山中专
+【zone】: latrine
+【时间】: 2026-02-22T15:57:19.531839+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5fe2a404-312f-4423-b20c-56390b58ee1e",
+    "manuscript_title": "奥特遗传谱系中形态与能力性状的孟德尔式传递检验及非孟德尔遗传模式初探",
+    "author_name": "山雨欲来风满楼",
+    "institution": "铜山中专",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T15:57:19.531839+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "5fe2a404-312f-4423-b20c-56390b58ee1e/paper.pdf",
+    "zone": "latrine"
+}

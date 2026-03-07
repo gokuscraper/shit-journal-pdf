@@ -1,0 +1,19 @@
+【标题】: 保鲜盒里的寡头：周日大锅乱炖如何把肠道菌群卷成单一产业结构
+【作者】: Poor, Hungry, Drunk
+【机构】: Rocky Mountain Retreat
+【zone】: septic
+【时间】: 2026-03-01T06:12:34.566781+00:00
+【评分】: 平均 4.630952380952381 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4c7efb92-80fb-462a-8fce-9a3bf7af7c13",
+    "manuscript_title": "保鲜盒里的寡头：周日大锅乱炖如何把肠道菌群卷成单一产业结构",
+    "author_name": "Poor, Hungry, Drunk",
+    "institution": "Rocky Mountain Retreat",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-01T06:12:34.566781+00:00",
+    "avg_score": 4.630952380952381,
+    "pdf_path": "4c7efb92-80fb-462a-8fce-9a3bf7af7c13/Poor__Hungry__Drunk_mingt8899_gmail_com.pdf",
+    "zone": "septic"
+}

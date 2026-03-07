@@ -1,0 +1,19 @@
+【标题】: “奶量即战力”：半导体缓存“乳房”隐喻的认知架构与技术推演——一项基于社群话语的跨域映射研究
+【作者】: 轮子妈
+【机构】: AMD渠道业务部高级技术支持经理鼓励中心
+【zone】: sediment
+【时间】: 2026-03-02T14:57:04.094584+00:00
+【评分】: 平均 3.15 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "28d247ad-2da8-486d-9c5c-67e357bcf4b2",
+    "manuscript_title": "“奶量即战力”：半导体缓存“乳房”隐喻的认知架构与技术推演——一项基于社群话语的跨域映射研究",
+    "author_name": "轮子妈",
+    "institution": "AMD渠道业务部高级技术支持经理鼓励中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T14:57:04.094584+00:00",
+    "avg_score": 3.15,
+    "pdf_path": "28d247ad-2da8-486d-9c5c-67e357bcf4b2/____lunzima_lunzima_net.pdf",
+    "zone": "sediment"
+}

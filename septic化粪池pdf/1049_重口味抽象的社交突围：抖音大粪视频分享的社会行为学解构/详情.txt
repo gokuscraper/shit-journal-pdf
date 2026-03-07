@@ -1,0 +1,19 @@
+【标题】: 重口味抽象的社交突围：抖音大粪视频分享的社会行为学解构
+【作者】: 莲湖区拉屎大王
+【机构】: West Coast Institute of Technology
+【zone】: septic
+【时间】: 2026-03-03T14:26:54.938164+00:00
+【评分】: 平均 4.325581395348837 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4b9a2bc7-f9b6-4bef-a8ec-dccf94003fd8",
+    "manuscript_title": "重口味抽象的社交突围：抖音大粪视频分享的社会行为学解构",
+    "author_name": "莲湖区拉屎大王",
+    "institution": "West Coast Institute of Technology",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T14:26:54.938164+00:00",
+    "avg_score": 4.325581395348837,
+    "pdf_path": "4b9a2bc7-f9b6-4bef-a8ec-dccf94003fd8/________chenchiovo_gmail_com.pdf",
+    "zone": "septic"
+}

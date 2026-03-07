@@ -1,0 +1,19 @@
+【标题】: S.H.I.T. —— 一种基于马尔可夫决策过程的搬屎优化策略
+【作者】: 屎迷思专员
+【机构】: 搬屎科学研究组（FTE Research Group）
+【zone】: septic
+【时间】: 2026-03-01T11:14:41.84487+00:00
+【评分】: 平均 4.702702702702703 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "732b05d5-5992-4051-8e27-21da406020bc",
+    "manuscript_title": "S.H.I.T. —— 一种基于马尔可夫决策过程的搬屎优化策略",
+    "author_name": "屎迷思专员",
+    "institution": "搬屎科学研究组（FTE Research Group）",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:14:41.84487+00:00",
+    "avg_score": 4.702702702702703,
+    "pdf_path": "732b05d5-5992-4051-8e27-21da406020bc/______squid2536515827_gmail_com.pdf",
+    "zone": "septic"
+}

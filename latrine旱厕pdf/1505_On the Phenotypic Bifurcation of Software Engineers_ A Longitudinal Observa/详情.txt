@@ -1,0 +1,19 @@
+【标题】: On the Phenotypic Bifurcation of Software Engineers: A Longitudinal Observational Study of the Von Neumann and Turing Schools
+【作者】: 吾言思曲
+【机构】: Yong Institute for Computational Behavioral Research (YICBR)
+【zone】: latrine
+【时间】: 2026-02-27T13:33:32.193214+00:00
+【评分】: 平均 1.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "09ac4af7-bd25-40ce-a036-f437c961f757",
+    "manuscript_title": "On the Phenotypic Bifurcation of Software Engineers: A Longitudinal Observational Study of the Von Neumann and Turing Schools",
+    "author_name": "吾言思曲",
+    "institution": "Yong Institute for Computational Behavioral Research (YICBR)",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T13:33:32.193214+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "09ac4af7-bd25-40ce-a036-f437c961f757/_____jiangziyong3_gmail_com.pdf",
+    "zone": "latrine"
+}

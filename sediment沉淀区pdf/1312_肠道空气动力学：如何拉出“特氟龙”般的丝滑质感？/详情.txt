@@ -1,0 +1,19 @@
+【标题】: 肠道空气动力学：如何拉出“特氟龙”般的丝滑质感？
+【作者】: 阿列克谢
+【机构】: 自雇厕所访问学者
+【zone】: sediment
+【时间】: 2026-03-02T08:31:22.862792+00:00
+【评分】: 平均 3.757575757575758 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "24958bfc-ad9f-4cfb-8420-7ffbbf1bb0ef",
+    "manuscript_title": "肠道空气动力学：如何拉出“特氟龙”般的丝滑质感？",
+    "author_name": "阿列克谢",
+    "institution": "自雇厕所访问学者",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-02T08:31:22.862792+00:00",
+    "avg_score": 3.757575757575758,
+    "pdf_path": "24958bfc-ad9f-4cfb-8420-7ffbbf1bb0ef/_____snowfall8760_tuta_io.pdf",
+    "zone": "sediment"
+}

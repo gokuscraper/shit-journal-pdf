@@ -1,0 +1,19 @@
+【标题】: A Preliminary Exploration of Literary Rhythm and Cadence from a Cross-cultural Perspective:Mutual verification of the commonalities and individualities of classical text theories in China and the West
+【作者】: 惶殇何人了
+【机构】: 江苏师范大学
+【zone】: latrine
+【时间】: 2026-02-27T11:35:44.035403+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2514fa66-a3f6-4588-b538-be4325e955c8",
+    "manuscript_title": "A Preliminary Exploration of Literary Rhythm and Cadence from a Cross-cultural Perspective:Mutual verification of the commonalities and individualities of classical text theories in China and the West",
+    "author_name": "惶殇何人了",
+    "institution": "江苏师范大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T11:35:44.035403+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "2514fa66-a3f6-4588-b538-be4325e955c8/______vuonglangnguyet_hotmail_com.pdf",
+    "zone": "latrine"
+}

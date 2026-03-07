@@ -1,0 +1,19 @@
+【标题】: 支持向量机在是否应该继续追求女神决策判 别中的应用研究——基于多维交互行为特征 的分析
+【作者】: shitstone
+【机构】: Dongshan university of eating and sleep
+【zone】: sediment
+【时间】: 2026-03-02T02:04:57.397727+00:00
+【评分】: 平均 3.1666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "76e17e39-1016-4aea-93dd-03c622cd89e9",
+    "manuscript_title": "支持向量机在是否应该继续追求女神决策判 别中的应用研究——基于多维交互行为特征 的分析",
+    "author_name": "shitstone",
+    "institution": "Dongshan university of eating and sleep",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T02:04:57.397727+00:00",
+    "avg_score": 3.1666666666666665,
+    "pdf_path": "76e17e39-1016-4aea-93dd-03c622cd89e9/shitstone_shitstone_dsues_eu_cn.pdf",
+    "zone": "sediment"
+}

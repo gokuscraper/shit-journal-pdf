@@ -1,0 +1,19 @@
+【标题】: 数字拟像的精神同构：千早爱音与永雏塔菲的同一性论证
+【作者】: 小美
+【机构】: 武汉市第土中学
+【zone】: latrine
+【时间】: 2026-02-23T06:45:10.860402+00:00
+【评分】: 平均 3.857142857142857 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "9e2cc497-eadb-478d-8528-bc9f09fdc4f7",
+    "manuscript_title": "数字拟像的精神同构：千早爱音与永雏塔菲的同一性论证",
+    "author_name": "小美",
+    "institution": "武汉市第土中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T06:45:10.860402+00:00",
+    "avg_score": 3.857142857142857,
+    "pdf_path": "9e2cc497-eadb-478d-8528-bc9f09fdc4f7/paper.pdf",
+    "zone": "latrine"
+}

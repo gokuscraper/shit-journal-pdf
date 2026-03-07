@@ -1,0 +1,19 @@
+【标题】: 基于排泄物浸泡法的文玩核桃包浆强化机制研究
+【作者】: dy予墨涤
+【机构】: 考古勘探研究所
+【zone】: latrine
+【时间】: 2026-02-21T01:53:19.284136+00:00
+【评分】: 平均 4.3076923076923075 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "341b2c30-5e48-43be-b0bf-30d7160c5143",
+    "manuscript_title": "基于排泄物浸泡法的文玩核桃包浆强化机制研究",
+    "author_name": "dy予墨涤",
+    "institution": "考古勘探研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-21T01:53:19.284136+00:00",
+    "avg_score": 4.3076923076923075,
+    "pdf_path": "341b2c30-5e48-43be-b0bf-30d7160c5143/paper.pdf",
+    "zone": "latrine"
+}

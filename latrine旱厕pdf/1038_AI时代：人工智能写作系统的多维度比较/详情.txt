@@ -1,0 +1,19 @@
+【标题】: AI时代：人工智能写作系统的多维度比较
+【作者】: 青shit留名
+【机构】: 21世纪大学
+【zone】: latrine
+【时间】: 2026-02-27T10:42:20.310849+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4da1b99c-a743-4148-818f-92d1a2ebb573",
+    "manuscript_title": "AI时代：人工智能写作系统的多维度比较",
+    "author_name": "青shit留名",
+    "institution": "21世纪大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T10:42:20.310849+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "4da1b99c-a743-4148-818f-92d1a2ebb573/_shit___490215601_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 男性第一性特征过表达时体外覆盖物的不可视化模型的建立与应用
+【作者】: 辣椒油
+【机构】: TDJ（Dr.Potato）
+【zone】: septic
+【时间】: 2026-03-03T15:10:43.284195+00:00
+【评分】: 平均 4.111111111111111 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d3a7bdf6-dd9f-4f4c-8b95-474a61b3988f",
+    "manuscript_title": "男性第一性特征过表达时体外覆盖物的不可视化模型的建立与应用",
+    "author_name": "辣椒油",
+    "institution": "TDJ（Dr.Potato）",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T15:10:43.284195+00:00",
+    "avg_score": 4.111111111111111,
+    "pdf_path": "d3a7bdf6-dd9f-4f4c-8b95-474a61b3988f/____longjunyi5_gmail_com.pdf",
+    "zone": "septic"
+}

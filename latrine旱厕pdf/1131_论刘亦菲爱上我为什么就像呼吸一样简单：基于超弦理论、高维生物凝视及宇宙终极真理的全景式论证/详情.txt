@@ -1,0 +1,19 @@
+【标题】: 论刘亦菲爱上我为什么就像呼吸一样简单：基于超弦理论、高维生物凝视及宇宙终极真理的全景式论证
+【作者】: 中科院最后的希望
+【机构】: 宇宙之子
+【zone】: latrine
+【时间】: 2026-03-03T09:11:20.631934+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3e6f6df9-edcf-4e5d-afb3-ef7c21b8c7c9",
+    "manuscript_title": "论刘亦菲爱上我为什么就像呼吸一样简单：基于超弦理论、高维生物凝视及宇宙终极真理的全景式论证",
+    "author_name": "中科院最后的希望",
+    "institution": "宇宙之子",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T09:11:20.631934+00:00",
+    "avg_score": 0,
+    "pdf_path": "3e6f6df9-edcf-4e5d-afb3-ef7c21b8c7c9/_________2757334192_qq_com.pdf",
+    "zone": "latrine"
+}

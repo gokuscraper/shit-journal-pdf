@@ -1,0 +1,19 @@
+【标题】: 如何让富婆看到你的潜力与价值
+【作者】: 真高手也需要假拉屎
+【机构】: University of Everywhere
+【zone】: stone
+【时间】: 2026-03-02T07:36:06.841835+00:00
+【评分】: 平均 4.7890625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d2841233-418d-4d05-9ce5-38249e85c05f",
+    "manuscript_title": "如何让富婆看到你的潜力与价值",
+    "author_name": "真高手也需要假拉屎",
+    "institution": "University of Everywhere",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:36:06.841835+00:00",
+    "avg_score": 4.7890625,
+    "pdf_path": "d2841233-418d-4d05-9ce5-38249e85c05f/__________baotiancheng30_gmail_com.pdf",
+    "zone": "stone"
+}

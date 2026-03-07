@@ -1,0 +1,19 @@
+【标题】: 当寒假作业挑战人体工学极限：论盲人左右手同步书写是否构成教育性虐待
+【作者】: 甲方去屎
+【机构】: newbility university
+【zone】: septic
+【时间】: 2026-03-01T14:50:59.004485+00:00
+【评分】: 平均 4.3023255813953485 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f8fd16e7-ad5c-4e56-9d08-6dec55c04f3b",
+    "manuscript_title": "当寒假作业挑战人体工学极限：论盲人左右手同步书写是否构成教育性虐待",
+    "author_name": "甲方去屎",
+    "institution": "newbility university",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:50:59.004485+00:00",
+    "avg_score": 4.3023255813953485,
+    "pdf_path": "f8fd16e7-ad5c-4e56-9d08-6dec55c04f3b/_____shit_everyone_everyday_shit_hk_com.pdf",
+    "zone": "septic"
+}

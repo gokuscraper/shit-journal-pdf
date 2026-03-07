@@ -1,0 +1,19 @@
+【标题】: 论期刊S.H.I.T的投稿对科研生涯的量子级正向赋能——基于10086个伪随机样本的实证
+【作者】: 夹断💩的王十一
+【机构】: 躺平大学
+【zone】: latrine
+【时间】: 2026-03-01T05:30:15.517246+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3f159624-ef67-4f1f-b3eb-fe9ac9a0f6ee",
+    "manuscript_title": "论期刊S.H.I.T的投稿对科研生涯的量子级正向赋能——基于10086个伪随机样本的实证",
+    "author_name": "夹断💩的王十一",
+    "institution": "躺平大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T05:30:15.517246+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "3f159624-ef67-4f1f-b3eb-fe9ac9a0f6ee/_________2017642419_qq_com.pdf",
+    "zone": "latrine"
+}

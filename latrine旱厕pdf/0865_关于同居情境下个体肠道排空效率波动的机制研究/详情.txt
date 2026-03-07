@@ -1,0 +1,19 @@
+【标题】: 关于同居情境下个体肠道排空效率波动的机制研究
+【作者】: 污妖王
+【机构】: SHIT（Stanford-Harvard Institute of Technology）
+【zone】: latrine
+【时间】: 2026-02-27T07:39:07.851425+00:00
+【评分】: 平均 1.8 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "64b5ef1e-cfd2-440f-8a22-21134545c838",
+    "manuscript_title": "关于同居情境下个体肠道排空效率波动的机制研究",
+    "author_name": "污妖王",
+    "institution": "SHIT（Stanford-Harvard Institute of Technology）",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T07:39:07.851425+00:00",
+    "avg_score": 1.8,
+    "pdf_path": "64b5ef1e-cfd2-440f-8a22-21134545c838/____zh_phino_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于RNN神经网络的唐大王王者三排乐迷恋程度分析
+【作者】: 一坨ssshit
+【机构】: 屎壳郎船舶大学
+【zone】: latrine
+【时间】: 2026-03-03T11:45:58.402363+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "16292614-bbb0-4595-b1cf-f9c6eafbdecc",
+    "manuscript_title": "基于RNN神经网络的唐大王王者三排乐迷恋程度分析",
+    "author_name": "一坨ssshit",
+    "institution": "屎壳郎船舶大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:45:58.402363+00:00",
+    "avg_score": 0,
+    "pdf_path": "16292614-bbb0-4595-b1cf-f9c6eafbdecc/__ssshit_1961196830_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于拓扑数据分析的鸽鸽模式捕捉器
+【作者】: Prof. Ctrl+Z
+【机构】: MIT (Massachusetts Institute of Trash)
+【zone】: septic
+【时间】: 2026-02-24T12:33:18.317079+00:00
+【评分】: 平均 4.569230769230769 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fb83e3e3-154a-4ab9-bab7-c492a6b8756b",
+    "manuscript_title": "基于拓扑数据分析的鸽鸽模式捕捉器",
+    "author_name": "Prof. Ctrl+Z",
+    "institution": "MIT (Massachusetts Institute of Trash)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T12:33:18.317079+00:00",
+    "avg_score": 4.569230769230769,
+    "pdf_path": "fb83e3e3-154a-4ab9-bab7-c492a6b8756b/paper.pdf",
+    "zone": "septic"
+}

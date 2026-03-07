@@ -1,0 +1,19 @@
+【标题】: “拉了”梗的符号学解码：网络语境下“排泄叙事”如何成为当代情绪宣泄的元语言
+【作者】: shit之shit
+【机构】: 互联网史学研究所
+【zone】: sediment
+【时间】: 2026-03-02T04:06:50.807174+00:00
+【评分】: 平均 3.6857142857142855 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fbf73506-2528-4ef2-b78b-0d2606ab17a1",
+    "manuscript_title": "“拉了”梗的符号学解码：网络语境下“排泄叙事”如何成为当代情绪宣泄的元语言",
+    "author_name": "shit之shit",
+    "institution": "互联网史学研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T04:06:50.807174+00:00",
+    "avg_score": 3.6857142857142855,
+    "pdf_path": "fbf73506-2528-4ef2-b78b-0d2606ab17a1/shit_shit_jessifr378_gmail_com.pdf",
+    "zone": "sediment"
+}

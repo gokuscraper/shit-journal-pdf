@@ -1,0 +1,19 @@
+【标题】: 母猪的产后护理对猪头肉口感的影响研究
+【作者】: Shit Player
+【机构】: The Wild Chicken University
+【zone】: septic
+【时间】: 2026-03-02T10:09:07.572785+00:00
+【评分】: 平均 4.113636363636363 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "dcd890a4-d340-40bc-a906-3a000ca8b9a4",
+    "manuscript_title": "母猪的产后护理对猪头肉口感的影响研究",
+    "author_name": "Shit Player",
+    "institution": "The Wild Chicken University",
+    "viscosity": "semi",
+    "discipline": "agriculture",
+    "created_at": "2026-03-02T10:09:07.572785+00:00",
+    "avg_score": 4.113636363636363,
+    "pdf_path": "dcd890a4-d340-40bc-a906-3a000ca8b9a4/Shit_Player_3114574860_qq_com.pdf",
+    "zone": "septic"
+}

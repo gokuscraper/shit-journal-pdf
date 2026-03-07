@@ -1,0 +1,19 @@
+【标题】: 太阳氦闪强度与地球同性恋比例的函数模型
+【作者】: YYtN
+【机构】: 隔壁厕所
+【zone】: sediment
+【时间】: 2026-02-27T02:32:36.059506+00:00
+【评分】: 平均 2.838709677419355 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "df620593-20e1-4f51-b1b1-4010eec55227",
+    "manuscript_title": "太阳氦闪强度与地球同性恋比例的函数模型",
+    "author_name": "YYtN",
+    "institution": "隔壁厕所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T02:32:36.059506+00:00",
+    "avg_score": 2.838709677419355,
+    "pdf_path": "df620593-20e1-4f51-b1b1-4010eec55227/YYtN_2908392702_qq_com.pdf",
+    "zone": "sediment"
+}

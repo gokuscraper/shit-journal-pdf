@@ -1,0 +1,19 @@
+【标题】: 叠加态主体与观看塌缩：户晨风的非经典存在形式
+【作者】: 皮卡Q
+【机构】: 舜北幼儿园
+【zone】: latrine
+【时间】: 2026-02-28T16:14:17.324915+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "918a93f5-d114-4435-a5ee-1f0163e67890",
+    "manuscript_title": "叠加态主体与观看塌缩：户晨风的非经典存在形式",
+    "author_name": "皮卡Q",
+    "institution": "舜北幼儿园",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T16:14:17.324915+00:00",
+    "avg_score": 0,
+    "pdf_path": "918a93f5-d114-4435-a5ee-1f0163e67890/__Q_q325518_163_com.pdf",
+    "zone": "latrine"
+}

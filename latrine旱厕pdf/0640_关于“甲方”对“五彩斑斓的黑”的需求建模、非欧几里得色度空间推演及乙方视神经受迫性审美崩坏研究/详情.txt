@@ -1,0 +1,19 @@
+【标题】: 关于“甲方”对“五彩斑斓的黑”的需求建模、非欧几里得色度空间推演及乙方视神经受迫性审美崩坏研究
+【作者】: e.g.Korbal
+【机构】: 熬夜脱发技术大学
+【zone】: latrine
+【时间】: 2026-03-01T13:19:34.882429+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "83dbc6b3-f1e3-4a8e-9f40-d965f68044fa",
+    "manuscript_title": "关于“甲方”对“五彩斑斓的黑”的需求建模、非欧几里得色度空间推演及乙方视神经受迫性审美崩坏研究",
+    "author_name": "e.g.Korbal",
+    "institution": "熬夜脱发技术大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:19:34.882429+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "83dbc6b3-f1e3-4a8e-9f40-d965f68044fa/e_g_Korbal_xiaoyn117_nenu_edu_cn.pdf",
+    "zone": "latrine"
+}

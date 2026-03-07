@@ -1,0 +1,19 @@
+【标题】: 他是谁？“场域-惯习”理论视域下男友称谓情趣表达研究
+【作者】: Yellow Dra
+【机构】: Institute of Entertainment Studies, University of Life
+【zone】: stone
+【时间】: 2026-02-27T01:44:41.275058+00:00
+【评分】: 平均 4.634920634920635 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e0a009d8-243c-4ee5-a20e-feb73eef2917",
+    "manuscript_title": "他是谁？“场域-惯习”理论视域下男友称谓情趣表达研究",
+    "author_name": "Yellow Dra",
+    "institution": "Institute of Entertainment Studies, University of Life",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T01:44:41.275058+00:00",
+    "avg_score": 4.634920634920635,
+    "pdf_path": "e0a009d8-243c-4ee5-a20e-feb73eef2917/Yellow_Dra_3222108651_qq_com.pdf",
+    "zone": "stone"
+}

@@ -1,0 +1,19 @@
+【标题】: Ver东西与战犬布鲁斯《和平精英》表现的比较分析
+【作者】: SunTown
+【机构】: 布拉多博物馆
+【zone】: septic
+【时间】: 2026-03-01T16:30:19.88446+00:00
+【评分】: 平均 4.21875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c83b61c5-23a7-4758-86a2-0c99216ff877",
+    "manuscript_title": "Ver东西与战犬布鲁斯《和平精英》表现的比较分析",
+    "author_name": "SunTown",
+    "institution": "布拉多博物馆",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T16:30:19.88446+00:00",
+    "avg_score": 4.21875,
+    "pdf_path": "c83b61c5-23a7-4758-86a2-0c99216ff877/SunTown_2669980193_qq_com.pdf",
+    "zone": "septic"
+}

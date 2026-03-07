@@ -1,0 +1,19 @@
+【标题】: Shit就是你所需要的一切(Shit is All you Need)
+【作者】: Schrodinger
+【机构】: 南京开锁大学
+【zone】: latrine
+【时间】: 2026-02-25T17:10:05.732678+00:00
+【评分】: 平均 4.421052631578948 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "09f75519-bea8-4ba0-93a4-af62d118696e",
+    "manuscript_title": "Shit就是你所需要的一切(Shit is All you Need)",
+    "author_name": "Schrodinger",
+    "institution": "南京开锁大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T17:10:05.732678+00:00",
+    "avg_score": 4.421052631578948,
+    "pdf_path": "09f75519-bea8-4ba0-93a4-af62d118696e/Schrodinger_dht768279750_gmail_com.pdf",
+    "zone": "latrine"
+}

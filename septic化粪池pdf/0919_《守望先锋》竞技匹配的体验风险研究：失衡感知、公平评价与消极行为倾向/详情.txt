@@ -1,0 +1,19 @@
+【标题】: 《守望先锋》竞技匹配的体验风险研究：失衡感知、公平评价与消极行为倾向
+【作者】: 是的先生
+【机构】: Stay AT Home University
+【zone】: septic
+【时间】: 2026-03-02T11:28:09.305499+00:00
+【评分】: 平均 4.404761904761905 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5cd93152-b20f-4e5b-b754-226eae22452a",
+    "manuscript_title": "《守望先锋》竞技匹配的体验风险研究：失衡感知、公平评价与消极行为倾向",
+    "author_name": "是的先生",
+    "institution": "Stay AT Home University",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T11:28:09.305499+00:00",
+    "avg_score": 4.404761904761905,
+    "pdf_path": "5cd93152-b20f-4e5b-b754-226eae22452a/_____2811091422_qq_com.pdf",
+    "zone": "septic"
+}

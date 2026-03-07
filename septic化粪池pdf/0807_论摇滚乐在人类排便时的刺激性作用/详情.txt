@@ -1,0 +1,19 @@
+【标题】: 论摇滚乐在人类排便时的刺激性作用
+【作者】: 洛蓮
+【机构】: 加里敦国立高等学院
+【zone】: septic
+【时间】: 2026-03-01T09:03:45.458353+00:00
+【评分】: 平均 4.175 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6c50895f-df35-4515-bcdd-f39a9b56ddca",
+    "manuscript_title": "论摇滚乐在人类排便时的刺激性作用",
+    "author_name": "洛蓮",
+    "institution": "加里敦国立高等学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T09:03:45.458353+00:00",
+    "avg_score": 4.175,
+    "pdf_path": "6c50895f-df35-4515-bcdd-f39a9b56ddca/___laoliu0502_163_com.pdf",
+    "zone": "septic"
+}

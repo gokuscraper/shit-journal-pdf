@@ -1,0 +1,19 @@
+【标题】: 《关于三角洲堵桥消耗的赛博父母是否能够与打GO打瓦认的赛博父母达成动态平衡》
+【作者】: 爱吃石shitnigger
+【机构】: STAY AT HOME UNIVERSITY
+【zone】: stone
+【时间】: 2026-02-25T04:10:31.901755+00:00
+【评分】: 平均 4.61839530332681 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7cd4f941-d5f0-4a82-8fa4-fa6f1a952e2d",
+    "manuscript_title": "《关于三角洲堵桥消耗的赛博父母是否能够与打GO打瓦认的赛博父母达成动态平衡》",
+    "author_name": "爱吃石shitnigger",
+    "institution": "STAY AT HOME UNIVERSITY",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:10:31.901755+00:00",
+    "avg_score": 4.61839530332681,
+    "pdf_path": "7cd4f941-d5f0-4a82-8fa4-fa6f1a952e2d/___shitnigger_3844050954_qq_com.pdf",
+    "zone": "stone"
+}

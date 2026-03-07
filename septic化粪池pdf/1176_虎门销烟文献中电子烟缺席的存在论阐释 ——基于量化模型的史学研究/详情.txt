@@ -1,0 +1,19 @@
+【标题】: 虎门销烟文献中电子烟缺席的存在论阐释 ——基于量化模型的史学研究
+【作者】: Xongkoro
+【机构】: 南疆高等历史职业技术专科大学
+【zone】: septic
+【时间】: 2026-03-01T11:33:42.01948+00:00
+【评分】: 平均 4.108108108108108 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "38722df2-3e5a-411e-abbc-c4fe013b2383",
+    "manuscript_title": "虎门销烟文献中电子烟缺席的存在论阐释 ——基于量化模型的史学研究",
+    "author_name": "Xongkoro",
+    "institution": "南疆高等历史职业技术专科大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:33:42.01948+00:00",
+    "avg_score": 4.108108108108108,
+    "pdf_path": "38722df2-3e5a-411e-abbc-c4fe013b2383/Xongkoro_2788801381_qq_com.pdf",
+    "zone": "septic"
+}

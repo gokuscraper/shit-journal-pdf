@@ -1,0 +1,19 @@
+【标题】: 关于地球如何找到“斗罗大陆”的可行性研究
+【作者】: 余树同学
+【机构】: 维尔纳学院（Verner College）
+【zone】: latrine
+【时间】: 2026-03-03T11:56:44.268057+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ccd9efc6-a157-4bb6-a443-42d783e12e82",
+    "manuscript_title": "关于地球如何找到“斗罗大陆”的可行性研究",
+    "author_name": "余树同学",
+    "institution": "维尔纳学院（Verner College）",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:56:44.268057+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "ccd9efc6-a157-4bb6-a443-42d783e12e82/_____3185885579_qq_com.pdf",
+    "zone": "latrine"
+}

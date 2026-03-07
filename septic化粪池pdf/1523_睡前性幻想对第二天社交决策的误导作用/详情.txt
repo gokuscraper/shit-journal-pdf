@@ -1,0 +1,19 @@
+【标题】: 睡前性幻想对第二天社交决策的误导作用
+【作者】: Dr. MANNN
+【机构】: University of SHIT
+【zone】: septic
+【时间】: 2026-02-25T12:51:08.14111+00:00
+【评分】: 平均 4.4 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "07cc2110-cff2-4146-a3eb-736f193bde6b",
+    "manuscript_title": "睡前性幻想对第二天社交决策的误导作用",
+    "author_name": "Dr. MANNN",
+    "institution": "University of SHIT",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:51:08.14111+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "07cc2110-cff2-4146-a3eb-736f193bde6b/Dr__MANNN_Admin_Username_zd7rx_onmicrosoft_com.pdf",
+    "zone": "septic"
+}

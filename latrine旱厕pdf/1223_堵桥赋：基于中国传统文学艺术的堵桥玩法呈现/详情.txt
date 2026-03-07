@@ -1,0 +1,19 @@
+【标题】: 堵桥赋：基于中国传统文学艺术的堵桥玩法呈现
+【作者】: Shine.
+【机构】: 三角洲郑州高等研究院
+【zone】: latrine
+【时间】: 2026-03-03T09:31:31.805982+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "308bd0e7-0062-48d2-82a0-c51e8aaed7d6",
+    "manuscript_title": "堵桥赋：基于中国传统文学艺术的堵桥玩法呈现",
+    "author_name": "Shine.",
+    "institution": "三角洲郑州高等研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:31:31.805982+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "308bd0e7-0062-48d2-82a0-c51e8aaed7d6/Shine__3548522219_qq_com.pdf",
+    "zone": "latrine"
+}

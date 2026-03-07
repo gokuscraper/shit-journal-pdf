@@ -1,0 +1,19 @@
+【标题】: 粪便体外循环供能设施的技术创新与可持续发展研究
+【作者】: 山田凉的铁锤头鲨
+【机构】: 南京市田家炳高级中学
+【zone】: latrine
+【时间】: 2026-02-24T05:16:02.846658+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "bce6b3b6-3c9a-47d1-9685-c2228b683cfa",
+    "manuscript_title": "粪便体外循环供能设施的技术创新与可持续发展研究",
+    "author_name": "山田凉的铁锤头鲨",
+    "institution": "南京市田家炳高级中学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T05:16:02.846658+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "bce6b3b6-3c9a-47d1-9685-c2228b683cfa/paper.pdf",
+    "zone": "latrine"
+}

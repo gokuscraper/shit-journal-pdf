@@ -1,0 +1,19 @@
+【标题】: 基于LSTM的乘用车模块化构型硬点优化研究
+【作者】: 爱素型Leuko
+【机构】: 寄了大学
+【zone】: latrine
+【时间】: 2026-02-25T14:44:48.463337+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "f9932884-3eb8-42f1-8928-1d1af286f805",
+    "manuscript_title": "基于LSTM的乘用车模块化构型硬点优化研究",
+    "author_name": "爱素型Leuko",
+    "institution": "寄了大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:44:48.463337+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "f9932884-3eb8-42f1-8928-1d1af286f805/___Leuko_leukofanyoyo831_163_com.pdf",
+    "zone": "latrine"
+}

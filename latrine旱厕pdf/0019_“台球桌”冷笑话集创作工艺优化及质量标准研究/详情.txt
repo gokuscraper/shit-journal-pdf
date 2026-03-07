@@ -1,0 +1,19 @@
+【标题】: “台球桌”冷笑话集创作工艺优化及质量标准研究
+【作者】: 指间流云
+【机构】: xx中医药大学附属冷笑话研究所
+【zone】: latrine
+【时间】: 2026-02-23T12:45:41.492116+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "df114de2-76bc-4da5-bc71-344da9d14a54",
+    "manuscript_title": "“台球桌”冷笑话集创作工艺优化及质量标准研究",
+    "author_name": "指间流云",
+    "institution": "xx中医药大学附属冷笑话研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:45:41.492116+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "df114de2-76bc-4da5-bc71-344da9d14a54/paper.pdf",
+    "zone": "latrine"
+}

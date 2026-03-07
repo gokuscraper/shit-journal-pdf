@@ -1,0 +1,19 @@
+【标题】: 基于能量守恒、量子力学所提出的玄学四大定律
+【作者】: lazy dog
+【机构】: Daydream
+【zone】: septic
+【时间】: 2026-03-03T18:29:22.824774+00:00
+【评分】: 平均 3.9705882352941178 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "de250b75-8c62-4dd4-ab34-e71e989f19b4",
+    "manuscript_title": "基于能量守恒、量子力学所提出的玄学四大定律",
+    "author_name": "lazy dog",
+    "institution": "Daydream",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T18:29:22.824774+00:00",
+    "avg_score": 3.9705882352941178,
+    "pdf_path": "de250b75-8c62-4dd4-ab34-e71e989f19b4/lazy_dog_zdd20060109_163_com.pdf",
+    "zone": "septic"
+}

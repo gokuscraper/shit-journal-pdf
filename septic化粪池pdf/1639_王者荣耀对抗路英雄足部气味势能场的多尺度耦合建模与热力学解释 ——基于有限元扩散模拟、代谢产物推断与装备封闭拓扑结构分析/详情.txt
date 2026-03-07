@@ -1,0 +1,19 @@
+【标题】: 王者荣耀对抗路英雄足部气味势能场的多尺度耦合建模与热力学解释 ——基于有限元扩散模拟、代谢产物推断与装备封闭拓扑结构分析
+【作者】: Akashi Jie
+【机构】: 魏都脚气防治所
+【zone】: septic
+【时间】: 2026-03-01T23:20:44.315868+00:00
+【评分】: 平均 3.973684210526316 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e7244f50-7c9b-4661-a39c-7de02cea4b89",
+    "manuscript_title": "王者荣耀对抗路英雄足部气味势能场的多尺度耦合建模与热力学解释 ——基于有限元扩散模拟、代谢产物推断与装备封闭拓扑结构分析",
+    "author_name": "Akashi Jie",
+    "institution": "魏都脚气防治所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T23:20:44.315868+00:00",
+    "avg_score": 3.973684210526316,
+    "pdf_path": "e7244f50-7c9b-4661-a39c-7de02cea4b89/Akashi_Jie_lyujie0628_gmail_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 食粪行为作为营养回收途径的科学审视
+【作者】: zandik
+【机构】: Akademiya, Sumeru , Teyvat
+【zone】: latrine
+【时间】: 2026-02-25T04:41:51.269077+00:00
+【评分】: 平均 2.8 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c395eee1-b813-45ad-8dbf-7581aa5a42fb",
+    "manuscript_title": "食粪行为作为营养回收途径的科学审视",
+    "author_name": "zandik",
+    "institution": "Akademiya, Sumeru , Teyvat",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-02-25T04:41:51.269077+00:00",
+    "avg_score": 2.8,
+    "pdf_path": "c395eee1-b813-45ad-8dbf-7581aa5a42fb/zandik_keviny54284860_163_com.pdf",
+    "zone": "latrine"
+}

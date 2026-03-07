@@ -1,0 +1,19 @@
+【标题】: 城市居室环境中蜚蠊目昆虫（Blattella germanica）的种群密度对特定二次元亚文化群体生存状态的相关性评估
+【作者】: dream梦想
+【机构】: 罗德岛
+【zone】: latrine
+【时间】: 2026-02-25T06:10:35.24842+00:00
+【评分】: 平均 4.1875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "dc56aee8-e092-405c-8994-522028d415e7",
+    "manuscript_title": "城市居室环境中蜚蠊目昆虫（Blattella germanica）的种群密度对特定二次元亚文化群体生存状态的相关性评估",
+    "author_name": "dream梦想",
+    "institution": "罗德岛",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T06:10:35.24842+00:00",
+    "avg_score": 4.1875,
+    "pdf_path": "dc56aee8-e092-405c-8994-522028d415e7/dream___861345542_qq_com.pdf",
+    "zone": "latrine"
+}

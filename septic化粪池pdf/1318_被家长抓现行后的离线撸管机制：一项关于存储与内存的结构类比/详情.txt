@@ -1,0 +1,19 @@
+【标题】: 被家长抓现行后的离线撸管机制：一项关于存储与内存的结构类比
+【作者】: Timmy
+【机构】: Massey University
+【zone】: septic
+【时间】: 2026-02-28T07:46:42.785304+00:00
+【评分】: 平均 4.677966101694915 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "23b84cb4-0d65-4f36-90ea-202e96fcd7a3",
+    "manuscript_title": "被家长抓现行后的离线撸管机制：一项关于存储与内存的结构类比",
+    "author_name": "Timmy",
+    "institution": "Massey University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:46:42.785304+00:00",
+    "avg_score": 4.677966101694915,
+    "pdf_path": "23b84cb4-0d65-4f36-90ea-202e96fcd7a3/Timmy_3393069837_qq_com.pdf",
+    "zone": "septic"
+}

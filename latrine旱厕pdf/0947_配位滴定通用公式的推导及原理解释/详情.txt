@@ -1,0 +1,19 @@
+【标题】: 配位滴定通用公式的推导及原理解释
+【作者】: R. Li
+【机构】: Edge Institute of Technology
+【zone】: latrine
+【时间】: 2026-02-25T13:13:21.777862+00:00
+【评分】: 平均 2.8 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "58fb4816-73eb-4328-b3d9-d9aec6f7b175",
+    "manuscript_title": "配位滴定通用公式的推导及原理解释",
+    "author_name": "R. Li",
+    "institution": "Edge Institute of Technology",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-25T13:13:21.777862+00:00",
+    "avg_score": 2.8,
+    "pdf_path": "58fb4816-73eb-4328-b3d9-d9aec6f7b175/R__Li_lithiummelts_outlook_jp.pdf",
+    "zone": "latrine"
+}

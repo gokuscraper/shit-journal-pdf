@@ -1,0 +1,19 @@
+【标题】: 驳罗伯咭尔（Robert Peel）创警说 ——兼论衙役制度
+【作者】: chow
+【机构】: 逆地臭大学，新罗
+【zone】: septic
+【时间】: 2026-03-02T20:04:29.873302+00:00
+【评分】: 平均 4.35 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3b24ee31-4517-4093-95f4-d3bda20580a7",
+    "manuscript_title": "驳罗伯咭尔（Robert Peel）创警说 ——兼论衙役制度",
+    "author_name": "chow",
+    "institution": "逆地臭大学，新罗",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T20:04:29.873302+00:00",
+    "avg_score": 4.35,
+    "pdf_path": "3b24ee31-4517-4093-95f4-d3bda20580a7/chow_chowwwzh_gmail_com.pdf",
+    "zone": "septic"
+}

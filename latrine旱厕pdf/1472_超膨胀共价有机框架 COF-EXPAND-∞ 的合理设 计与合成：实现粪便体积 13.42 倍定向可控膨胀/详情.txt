@@ -1,0 +1,19 @@
+【标题】: 超膨胀共价有机框架 COF-EXPAND-∞ 的合理设 计与合成：实现粪便体积 13.42 倍定向可控膨胀
+【作者】: 我爱答辩-答辩之神
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-03-03T07:18:04.583805+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1063a8a0-7ce3-47fc-9af2-a6d722ba9f79",
+    "manuscript_title": "超膨胀共价有机框架 COF-EXPAND-∞ 的合理设 计与合成：实现粪便体积 13.42 倍定向可控膨胀",
+    "author_name": "我爱答辩-答辩之神",
+    "institution": "屎壳郎大学",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T07:18:04.583805+00:00",
+    "avg_score": 0,
+    "pdf_path": "1063a8a0-7ce3-47fc-9af2-a6d722ba9f79/__________dxmplgm_gmail_com.pdf",
+    "zone": "latrine"
+}
