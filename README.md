@@ -1,5 +1,7 @@
 # shit期刊全文数据集（含代码）
 
+# A web scraper for collecting preprints from Shit Journal.
+
 这个项目用Python采集整理了 shit 期刊的所有论文，
 
 后续会不断更新，
