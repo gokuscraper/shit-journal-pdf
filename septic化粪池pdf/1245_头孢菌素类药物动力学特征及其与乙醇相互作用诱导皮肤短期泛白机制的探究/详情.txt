@@ -1,0 +1,19 @@
+【标题】: 头孢菌素类药物动力学特征及其与乙醇相互作用诱导皮肤短期泛白机制的探究
+【作者】: zAnd1ng
+【机构】: ZD科研所
+【zone】: septic
+【时间】: 2026-03-02T04:59:22.471078+00:00
+【评分】: 平均 4.666666666666667 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2e4fc3ae-0f60-49a9-b98d-c113a86b827c",
+    "manuscript_title": "头孢菌素类药物动力学特征及其与乙醇相互作用诱导皮肤短期泛白机制的探究",
+    "author_name": "zAnd1ng",
+    "institution": "ZD科研所",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-02T04:59:22.471078+00:00",
+    "avg_score": 4.666666666666667,
+    "pdf_path": "2e4fc3ae-0f60-49a9-b98d-c113a86b827c/zAnd1ng_zhangyan54172010_163_com.pdf",
+    "zone": "septic"
+}

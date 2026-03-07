@@ -1,0 +1,19 @@
+【标题】: 递归式学术：基于大语言模型批改“由大语言模型生成的作业”的稳定性预测
+【作者】: TreeNewBee
+【机构】: 稀泥大学赛博投降与逻辑坍缩研究所
+【zone】: septic
+【时间】: 2026-03-03T17:09:29.016557+00:00
+【评分】: 平均 4.444444444444445 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "523755b8-9135-4bc7-921b-f82199bc2ef6",
+    "manuscript_title": "递归式学术：基于大语言模型批改“由大语言模型生成的作业”的稳定性预测",
+    "author_name": "TreeNewBee",
+    "institution": "稀泥大学赛博投降与逻辑坍缩研究所",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T17:09:29.016557+00:00",
+    "avg_score": 4.444444444444445,
+    "pdf_path": "523755b8-9135-4bc7-921b-f82199bc2ef6/TreeNewBee_sunnydogw_gmail_com.pdf",
+    "zone": "septic"
+}

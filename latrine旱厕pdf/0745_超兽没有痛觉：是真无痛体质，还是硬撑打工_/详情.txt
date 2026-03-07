@@ -1,0 +1,19 @@
+【标题】: 超兽没有痛觉：是真无痛体质，还是硬撑打工?
+【作者】: 吉吉国王
+【机构】: Gouxiongling Jiji Palace Mental Health Research Institute
+【zone】: latrine
+【时间】: 2026-02-28T06:16:33.666348+00:00
+【评分】: 平均 4.333333333333333 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "75087c5e-e303-4cb7-9b29-b20e65d4078f",
+    "manuscript_title": "超兽没有痛觉：是真无痛体质，还是硬撑打工?",
+    "author_name": "吉吉国王",
+    "institution": "Gouxiongling Jiji Palace Mental Health Research Institute",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:16:33.666348+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "75087c5e-e303-4cb7-9b29-b20e65d4078f/_____wh990273520_163_com.pdf",
+    "zone": "latrine"
+}

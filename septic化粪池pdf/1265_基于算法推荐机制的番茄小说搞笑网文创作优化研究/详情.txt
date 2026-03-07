@@ -1,0 +1,19 @@
+【标题】: 基于算法推荐机制的番茄小说搞笑网文创作优化研究
+【作者】: 彭彩
+【机构】: 被逼疯的网文作者协会资助
+【zone】: septic
+【时间】: 2026-03-02T17:01:12.499864+00:00
+【评分】: 平均 4.216216216216216 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2b50da7f-f016-4a5b-8f65-51d4b9fd64ac",
+    "manuscript_title": "基于算法推荐机制的番茄小说搞笑网文创作优化研究",
+    "author_name": "彭彩",
+    "institution": "被逼疯的网文作者协会资助",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T17:01:12.499864+00:00",
+    "avg_score": 4.216216216216216,
+    "pdf_path": "2b50da7f-f016-4a5b-8f65-51d4b9fd64ac/___ruanxinyi293_gmail_com.pdf",
+    "zone": "septic"
+}

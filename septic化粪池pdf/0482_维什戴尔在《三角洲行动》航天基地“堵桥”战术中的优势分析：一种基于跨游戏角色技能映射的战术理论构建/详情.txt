@@ -1,0 +1,19 @@
+【标题】: 维什戴尔在《三角洲行动》航天基地“堵桥”战术中的优势分析：一种基于跨游戏角色技能映射的战术理论构建
+【作者】: 美洲大蠊
+【机构】: Rhode Island Pharmaceuticals,Katzdale Branch
+【zone】: septic
+【时间】: 2026-03-02T12:22:46.722799+00:00
+【评分】: 平均 4.157894736842105 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9c553d0b-a0fe-4466-bc4d-6fab0980cb5a",
+    "manuscript_title": "维什戴尔在《三角洲行动》航天基地“堵桥”战术中的优势分析：一种基于跨游戏角色技能映射的战术理论构建",
+    "author_name": "美洲大蠊",
+    "institution": "Rhode Island Pharmaceuticals,Katzdale Branch",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T12:22:46.722799+00:00",
+    "avg_score": 4.157894736842105,
+    "pdf_path": "9c553d0b-a0fe-4466-bc4d-6fab0980cb5a/_____873813923_qq_com.pdf",
+    "zone": "septic"
+}

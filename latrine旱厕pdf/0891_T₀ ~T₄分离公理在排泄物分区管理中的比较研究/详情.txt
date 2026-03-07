@@ -1,0 +1,19 @@
+【标题】: T₀ ~T₄分离公理在排泄物分区管理中的比较研究
+【作者】: iweon
+【机构】: BONSUN
+【zone】: latrine
+【时间】: 2026-02-27T12:39:20.605365+00:00
+【评分】: 平均 3.3333333333333335 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "607b26f5-ae41-4858-9109-cfb928ed45e3",
+    "manuscript_title": "T₀ ~T₄分离公理在排泄物分区管理中的比较研究",
+    "author_name": "iweon",
+    "institution": "BONSUN",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-02-27T12:39:20.605365+00:00",
+    "avg_score": 3.3333333333333335,
+    "pdf_path": "607b26f5-ae41-4858-9109-cfb928ed45e3/iweon_569697108_qq_com.pdf",
+    "zone": "latrine"
+}

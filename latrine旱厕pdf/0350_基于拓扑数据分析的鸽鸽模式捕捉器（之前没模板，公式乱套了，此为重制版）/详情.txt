@@ -1,0 +1,19 @@
+【标题】: 基于拓扑数据分析的鸽鸽模式捕捉器（之前没模板，公式乱套了，此为重制版）
+【作者】: Prof. Ctrl+Z
+【机构】: MIT (Massachusetts Institute of Trash)
+【zone】: latrine
+【时间】: 2026-02-25T16:00:24.422826+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "af4207d7-9f7d-425c-9751-1ac2d8b36d50",
+    "manuscript_title": "基于拓扑数据分析的鸽鸽模式捕捉器（之前没模板，公式乱套了，此为重制版）",
+    "author_name": "Prof. Ctrl+Z",
+    "institution": "MIT (Massachusetts Institute of Trash)",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-02-25T16:00:24.422826+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "af4207d7-9f7d-425c-9751-1ac2d8b36d50/Prof__Ctrl_Z_1469830884_qq_com.pdf",
+    "zone": "latrine"
+}

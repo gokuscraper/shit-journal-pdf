@@ -1,0 +1,19 @@
+【标题】: 哈基米🐱、奶龙🐉与叮咚鸡🐔
+【作者】: 真是美味啊
+【机构】: 皮城大学哈基米研究中心
+【zone】: sediment
+【时间】: 2026-02-25T10:53:07.280951+00:00
+【评分】: 平均 1.7630434782608695 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "419cd0ba-b1e5-4cba-941e-844bfe0d5dd0",
+    "manuscript_title": "哈基米🐱、奶龙🐉与叮咚鸡🐔",
+    "author_name": "真是美味啊",
+    "institution": "皮城大学哈基米研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:53:07.280951+00:00",
+    "avg_score": 1.7630434782608695,
+    "pdf_path": "419cd0ba-b1e5-4cba-941e-844bfe0d5dd0/______lingweima_yandex_ru.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 常凯申微操心理学原理
+【作者】: 常凯申爱嫖娼
+【机构】: 凯申物流公司
+【zone】: sediment
+【时间】: 2026-02-28T13:47:50.737396+00:00
+【评分】: 平均 3.7804878048780486 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bb9ab2b4-69b3-4273-9ef9-6229e5e84cae",
+    "manuscript_title": "常凯申微操心理学原理",
+    "author_name": "常凯申爱嫖娼",
+    "institution": "凯申物流公司",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T13:47:50.737396+00:00",
+    "avg_score": 3.7804878048780486,
+    "pdf_path": "bb9ab2b4-69b3-4273-9ef9-6229e5e84cae/_______3122982162_qq_com.pdf",
+    "zone": "sediment"
+}

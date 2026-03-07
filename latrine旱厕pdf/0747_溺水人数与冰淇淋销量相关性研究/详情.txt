@@ -1,0 +1,19 @@
+【标题】: 溺水人数与冰淇淋销量相关性研究
+【作者】: 梦语awa
+【机构】: 清华附中郑州学校
+【zone】: latrine
+【时间】: 2026-02-25T15:06:00.850603+00:00
+【评分】: 平均 3.4615384615384617 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "74b814ff-3662-4769-8285-242e1612216f",
+    "manuscript_title": "溺水人数与冰淇淋销量相关性研究",
+    "author_name": "梦语awa",
+    "institution": "清华附中郑州学校",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T15:06:00.850603+00:00",
+    "avg_score": 3.4615384615384617,
+    "pdf_path": "74b814ff-3662-4769-8285-242e1612216f/__awa_ukenyanko_126_com.pdf",
+    "zone": "latrine"
+}

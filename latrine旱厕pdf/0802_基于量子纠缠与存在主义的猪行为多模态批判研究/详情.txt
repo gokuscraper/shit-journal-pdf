@@ -1,0 +1,19 @@
+【标题】: 基于量子纠缠与存在主义的猪行为多模态批判研究
+【作者】: 赤石英雄
+【机构】: Pighub Labs
+【zone】: latrine
+【时间】: 2026-02-24T04:42:49.698142+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6cdaa618-dd59-4109-b248-00c4becd045c",
+    "manuscript_title": "基于量子纠缠与存在主义的猪行为多模态批判研究",
+    "author_name": "赤石英雄",
+    "institution": "Pighub Labs",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T04:42:49.698142+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "6cdaa618-dd59-4109-b248-00c4becd045c/paper.pdf",
+    "zone": "latrine"
+}

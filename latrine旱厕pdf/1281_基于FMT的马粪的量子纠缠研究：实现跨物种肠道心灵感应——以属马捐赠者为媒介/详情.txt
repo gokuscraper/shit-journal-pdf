@@ -1,0 +1,19 @@
+【标题】: 基于FMT的马粪的量子纠缠研究：实现跨物种肠道心灵感应——以属马捐赠者为媒介
+【作者】: D.R.H.
+【机构】: 粪球巨量产出大学
+【zone】: latrine
+【时间】: 2026-02-27T08:36:47.938002+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "28f0ee89-01b0-4af8-b9eb-4b5fb5b34d4d",
+    "manuscript_title": "基于FMT的马粪的量子纠缠研究：实现跨物种肠道心灵感应——以属马捐赠者为媒介",
+    "author_name": "D.R.H.",
+    "institution": "粪球巨量产出大学",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-27T08:36:47.938002+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "28f0ee89-01b0-4af8-b9eb-4b5fb5b34d4d/D_R_H__3307528544_qq_com.pdf",
+    "zone": "latrine"
+}

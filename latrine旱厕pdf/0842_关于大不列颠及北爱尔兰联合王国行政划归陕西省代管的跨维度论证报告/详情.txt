@@ -1,0 +1,19 @@
+【标题】: 关于大不列颠及北爱尔兰联合王国行政划归陕西省代管的跨维度论证报告
+【作者】: zznese
+【机构】: Dog Shit University
+【zone】: latrine
+【时间】: 2026-02-28T09:55:42.492936+00:00
+【评分】: 平均 4.9 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "685f3251-f926-4b12-a145-eae194a7086a",
+    "manuscript_title": "关于大不列颠及北爱尔兰联合王国行政划归陕西省代管的跨维度论证报告",
+    "author_name": "zznese",
+    "institution": "Dog Shit University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:55:42.492936+00:00",
+    "avg_score": 4.9,
+    "pdf_path": "685f3251-f926-4b12-a145-eae194a7086a/zznese_zhangzhinan0415_gmail_com.pdf",
+    "zone": "latrine"
+}

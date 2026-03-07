@@ -1,0 +1,19 @@
+【标题】: 关于五羊左手导管右手抽烟的可行性验证
+【作者】: 屎欢你
+【机构】: 平安宾馆
+【zone】: septic
+【时间】: 2026-03-01T14:25:12.259741+00:00
+【评分】: 平均 3.925925925925926 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "95b71910-f00f-47b3-bab9-607afb0fb6be",
+    "manuscript_title": "关于五羊左手导管右手抽烟的可行性验证",
+    "author_name": "屎欢你",
+    "institution": "平安宾馆",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:25:12.259741+00:00",
+    "avg_score": 3.925925925925926,
+    "pdf_path": "95b71910-f00f-47b3-bab9-607afb0fb6be/____1665324238_qq_com.pdf",
+    "zone": "septic"
+}

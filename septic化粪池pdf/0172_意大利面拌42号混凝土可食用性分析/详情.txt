@@ -1,0 +1,19 @@
+【标题】: 意大利面拌42号混凝土可食用性分析
+【作者】: 企鹅
+【机构】: 南极大学
+【zone】: septic
+【时间】: 2026-03-02T06:03:02.707602+00:00
+【评分】: 平均 3.9761904761904763 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c9b617a5-58cc-4f0f-aada-8857f233c1df",
+    "manuscript_title": "意大利面拌42号混凝土可食用性分析",
+    "author_name": "企鹅",
+    "institution": "南极大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T06:03:02.707602+00:00",
+    "avg_score": 3.9761904761904763,
+    "pdf_path": "c9b617a5-58cc-4f0f-aada-8857f233c1df/___3554970477_qq_com.pdf",
+    "zone": "septic"
+}

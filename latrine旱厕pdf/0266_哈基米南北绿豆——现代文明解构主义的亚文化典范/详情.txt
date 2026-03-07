@@ -1,0 +1,19 @@
+【标题】: 哈基米南北绿豆——现代文明解构主义的亚文化典范
+【作者】: 千代温水/DeepJohn
+【机构】: 国立千代田唐纨大学（NAUT）
+【zone】: latrine
+【时间】: 2026-03-03T08:29:39.681781+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "bba2afbe-d60f-4fd8-b690-995987bf65d0",
+    "manuscript_title": "哈基米南北绿豆——现代文明解构主义的亚文化典范",
+    "author_name": "千代温水/DeepJohn",
+    "institution": "国立千代田唐纨大学（NAUT）",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T08:29:39.681781+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "bba2afbe-d60f-4fd8-b690-995987bf65d0/_____DeepJohn_reawasubaru_gmail_com.pdf",
+    "zone": "latrine"
+}

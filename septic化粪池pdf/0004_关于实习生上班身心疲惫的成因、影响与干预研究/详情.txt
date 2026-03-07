@@ -1,0 +1,19 @@
+【标题】: 关于实习生上班身心疲惫的成因、影响与干预研究
+【作者】: 小其同学
+【机构】: 嘉禾大学
+【zone】: septic
+【时间】: 2026-03-02T06:58:44.640587+00:00
+【评分】: 平均 4.2 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fef2bbb3-ba61-416c-b9eb-6dd8f7add197",
+    "manuscript_title": "关于实习生上班身心疲惫的成因、影响与干预研究",
+    "author_name": "小其同学",
+    "institution": "嘉禾大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T06:58:44.640587+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "fef2bbb3-ba61-416c-b9eb-6dd8f7add197/_____2519453595_qq_com.pdf",
+    "zone": "septic"
+}

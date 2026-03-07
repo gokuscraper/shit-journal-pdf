@@ -1,0 +1,19 @@
+【标题】: 宿舍早八起不来与量子纠缠理论的研究
+【作者】: 狗熊岭扛把子
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-23T14:04:24.831535+00:00
+【评分】: 平均 2.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1af426c3-72dc-4d56-b967-31ce2b4b99a6",
+    "manuscript_title": "宿舍早八起不来与量子纠缠理论的研究",
+    "author_name": "狗熊岭扛把子",
+    "institution": "家里蹲大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:04:24.831535+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "1af426c3-72dc-4d56-b967-31ce2b4b99a6/paper.pdf",
+    "zone": "latrine"
+}

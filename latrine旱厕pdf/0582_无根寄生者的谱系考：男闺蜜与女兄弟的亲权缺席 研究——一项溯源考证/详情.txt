@@ -1,0 +1,19 @@
+【标题】: 无根寄生者的谱系考：男闺蜜与女兄弟的亲权缺席 研究——一项溯源考证
+【作者】: 寻屎猎犬
+【机构】: University of Fecal Engineering and Sanitaryware
+【zone】: latrine
+【时间】: 2026-02-27T12:34:14.371118+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8c82a9ac-b421-4895-910b-66eac3939509",
+    "manuscript_title": "无根寄生者的谱系考：男闺蜜与女兄弟的亲权缺席 研究——一项溯源考证",
+    "author_name": "寻屎猎犬",
+    "institution": "University of Fecal Engineering and Sanitaryware",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T12:34:14.371118+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "8c82a9ac-b421-4895-910b-66eac3939509/_____2764342828_qq_com.pdf",
+    "zone": "latrine"
+}

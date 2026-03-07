@@ -1,0 +1,19 @@
+【标题】: “哈基米巴别塔”：一个网络迷因的多重意义争夺与数字时代的“伪共振”现象研究
+【作者】: Dr. Manbo
+【机构】: University of Hachimi
+【zone】: septic
+【时间】: 2026-02-27T01:58:32.03971+00:00
+【评分】: 平均 4.585365853658536 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a91349f4-5212-468f-a16d-9b4e3db497f6",
+    "manuscript_title": "“哈基米巴别塔”：一个网络迷因的多重意义争夺与数字时代的“伪共振”现象研究",
+    "author_name": "Dr. Manbo",
+    "institution": "University of Hachimi",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T01:58:32.03971+00:00",
+    "avg_score": 4.585365853658536,
+    "pdf_path": "a91349f4-5212-468f-a16d-9b4e3db497f6/Dr__Manbo_569157520_qq_com.pdf",
+    "zone": "septic"
+}

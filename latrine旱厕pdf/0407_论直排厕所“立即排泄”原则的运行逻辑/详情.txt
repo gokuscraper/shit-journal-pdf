@@ -1,0 +1,19 @@
+【标题】: 论直排厕所“立即排泄”原则的运行逻辑
+【作者】: 不靠谱的糖饼
+【机构】: 通气沟研究所
+【zone】: latrine
+【时间】: 2026-02-20T18:24:54.554556+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a74401ae-40b4-4138-838b-4b278c761def",
+    "manuscript_title": "论直排厕所“立即排泄”原则的运行逻辑",
+    "author_name": "不靠谱的糖饼",
+    "institution": "通气沟研究所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T18:24:54.554556+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "a74401ae-40b4-4138-838b-4b278c761def/paper.pdf",
+    "zone": "latrine"
+}

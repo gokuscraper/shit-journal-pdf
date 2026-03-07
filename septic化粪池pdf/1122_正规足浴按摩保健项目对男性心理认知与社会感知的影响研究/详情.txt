@@ -1,0 +1,19 @@
+【标题】: 正规足浴按摩保健项目对男性心理认知与社会感知的影响研究
+【作者】: M77 Star Cloud King
+【机构】: Stay Home University
+【zone】: septic
+【时间】: 2026-03-03T01:34:26.034801+00:00
+【评分】: 平均 4.404255319148937 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3f905924-c875-430f-bd45-afee98873ec9",
+    "manuscript_title": "正规足浴按摩保健项目对男性心理认知与社会感知的影响研究",
+    "author_name": "M77 Star Cloud King",
+    "institution": "Stay Home University",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T01:34:26.034801+00:00",
+    "avg_score": 4.404255319148937,
+    "pdf_path": "3f905924-c875-430f-bd45-afee98873ec9/M77_Star_Cloud_King_lizhijian595_163_com.pdf",
+    "zone": "septic"
+}

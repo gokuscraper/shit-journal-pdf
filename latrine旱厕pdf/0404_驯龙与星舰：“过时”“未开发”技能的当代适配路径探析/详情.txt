@@ -1,0 +1,19 @@
+【标题】: 驯龙与星舰：“过时”“未开发”技能的当代适配路径探析
+【作者】: e.g.管饭管饱
+【机构】: e.g.他乡遇故史大学
+【zone】: latrine
+【时间】: 2026-03-03T08:31:04.633752+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a7960a65-67de-41dc-a34e-c811a90a3243",
+    "manuscript_title": "驯龙与星舰：“过时”“未开发”技能的当代适配路径探析",
+    "author_name": "e.g.管饭管饱",
+    "institution": "e.g.他乡遇故史大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:31:04.633752+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a7960a65-67de-41dc-a34e-c811a90a3243/e_g______1214005211_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: Why Squatting Is the Anatomically Natural Defecation Posture for Humans
+【作者】: 屎荒者
+【机构】: China University of Homebody University
+【zone】: latrine
+【时间】: 2026-02-25T09:20:28.224735+00:00
+【评分】: 平均 1.6923076923076923 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "51437fde-7b69-4454-8f49-643fb4d5805b",
+    "manuscript_title": "Why Squatting Is the Anatomically Natural Defecation Posture for Humans",
+    "author_name": "屎荒者",
+    "institution": "China University of Homebody University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T09:20:28.224735+00:00",
+    "avg_score": 1.6923076923076923,
+    "pdf_path": "51437fde-7b69-4454-8f49-643fb4d5805b/____1789321892_qq_com.pdf",
+    "zone": "latrine"
+}

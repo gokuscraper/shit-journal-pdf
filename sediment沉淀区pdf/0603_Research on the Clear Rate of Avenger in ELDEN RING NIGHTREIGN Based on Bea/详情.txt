@@ -1,0 +1,19 @@
+【标题】: Research on the Clear Rate of Avenger in ELDEN RING NIGHTREIGN Based on Beast Claw Triple Fold
+【作者】: Wagner Zeno
+【机构】: Threshold Cognitive University
+【zone】: sediment
+【时间】: 2026-03-02T11:00:59.032006+00:00
+【评分】: 平均 3.090909090909091 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "89807765-161c-42be-ac92-5ba235ae6482",
+    "manuscript_title": "Research on the Clear Rate of Avenger in ELDEN RING NIGHTREIGN Based on Beast Claw Triple Fold",
+    "author_name": "Wagner Zeno",
+    "institution": "Threshold Cognitive University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T11:00:59.032006+00:00",
+    "avg_score": 3.090909090909091,
+    "pdf_path": "89807765-161c-42be-ac92-5ba235ae6482/Wagner_Zeno_1136816637_qq_com.pdf",
+    "zone": "sediment"
+}

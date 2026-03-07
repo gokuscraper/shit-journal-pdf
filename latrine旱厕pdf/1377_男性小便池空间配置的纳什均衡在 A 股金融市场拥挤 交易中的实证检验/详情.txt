@@ -1,0 +1,19 @@
+【标题】: 男性小便池空间配置的纳什均衡在 A 股金融市场拥挤 交易中的实证检验
+【作者】: 堂吉蝌蚪
+【机构】: 上海提篮桥高等研究院
+【zone】: latrine
+【时间】: 2026-02-22T11:10:25.593906+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1ccbd8fe-4d57-4025-9f23-6afc6b3cf858",
+    "manuscript_title": "男性小便池空间配置的纳什均衡在 A 股金融市场拥挤 交易中的实证检验",
+    "author_name": "堂吉蝌蚪",
+    "institution": "上海提篮桥高等研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T11:10:25.593906+00:00",
+    "avg_score": 0,
+    "pdf_path": "1ccbd8fe-4d57-4025-9f23-6afc6b3cf858/paper.pdf",
+    "zone": "latrine"
+}

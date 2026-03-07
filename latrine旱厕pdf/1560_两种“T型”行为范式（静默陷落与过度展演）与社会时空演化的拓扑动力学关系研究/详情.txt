@@ -1,0 +1,19 @@
+【标题】: 两种“T型”行为范式（静默陷落与过度展演）与社会时空演化的拓扑动力学关系研究
+【作者】: CapybaraKing
+【机构】: e.g.Zoo
+【zone】: latrine
+【时间】: 2026-03-01T08:47:31.277125+00:00
+【评分】: 平均 3.36 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "03489d76-93fd-4b34-8ad5-f66119c4704c",
+    "manuscript_title": "两种“T型”行为范式（静默陷落与过度展演）与社会时空演化的拓扑动力学关系研究",
+    "author_name": "CapybaraKing",
+    "institution": "e.g.Zoo",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:47:31.277125+00:00",
+    "avg_score": 3.36,
+    "pdf_path": "03489d76-93fd-4b34-8ad5-f66119c4704c/CapybaraKing_3455403539_qq_com.pdf",
+    "zone": "latrine"
+}

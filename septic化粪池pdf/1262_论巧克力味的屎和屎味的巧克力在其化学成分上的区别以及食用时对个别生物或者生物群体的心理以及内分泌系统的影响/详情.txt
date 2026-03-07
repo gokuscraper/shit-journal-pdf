@@ -1,0 +1,19 @@
+【标题】: 论巧克力味的屎和屎味的巧克力在其化学成分上的区别以及食用时对个别生物或者生物群体的心理以及内分泌系统的影响
+【作者】: herbplant
+【机构】: 332实验院
+【zone】: septic
+【时间】: 2026-03-02T09:58:31.859391+00:00
+【评分】: 平均 4.538461538461538 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2bd09a4c-2dbd-4170-adc9-8cd3da670561",
+    "manuscript_title": "论巧克力味的屎和屎味的巧克力在其化学成分上的区别以及食用时对个别生物或者生物群体的心理以及内分泌系统的影响",
+    "author_name": "herbplant",
+    "institution": "332实验院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T09:58:31.859391+00:00",
+    "avg_score": 4.538461538461538,
+    "pdf_path": "2bd09a4c-2dbd-4170-adc9-8cd3da670561/herbplant_1215780154_qq_com.pdf",
+    "zone": "septic"
+}

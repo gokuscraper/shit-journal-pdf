@@ -1,0 +1,19 @@
+【标题】: 乱世苦命鸳鸯的情感心理学：董卓吕布依恋理论与 虐恋循环的实证分析
+【作者】: 大哲学家Minacle
+【机构】: 三国乱世高内耗情感科学院
+【zone】: latrine
+【时间】: 2026-02-24T23:44:57.121031+00:00
+【评分】: 平均 3.96 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "de00e34d-ad90-4673-a66b-94bde3c62c9d",
+    "manuscript_title": "乱世苦命鸳鸯的情感心理学：董卓吕布依恋理论与 虐恋循环的实证分析",
+    "author_name": "大哲学家Minacle",
+    "institution": "三国乱世高内耗情感科学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T23:44:57.121031+00:00",
+    "avg_score": 3.96,
+    "pdf_path": "de00e34d-ad90-4673-a66b-94bde3c62c9d/____Minacle_2382244646_qq_com.pdf",
+    "zone": "latrine"
+}

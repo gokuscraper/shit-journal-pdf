@@ -1,0 +1,19 @@
+【标题】: 论现代：“赛博人abagui到底有多爽？”作答困境折射的安慰剂效应在超能力者钢筋25号混凝土搅拌车下的深度思索
+【作者】: abagui
+【机构】: abagui大学
+【zone】: latrine
+【时间】: 2026-02-22T15:08:18.415177+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "59fd1ca7-7098-47dc-829a-ec922f8b961b",
+    "manuscript_title": "论现代：“赛博人abagui到底有多爽？”作答困境折射的安慰剂效应在超能力者钢筋25号混凝土搅拌车下的深度思索",
+    "author_name": "abagui",
+    "institution": "abagui大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T15:08:18.415177+00:00",
+    "avg_score": 0,
+    "pdf_path": "59fd1ca7-7098-47dc-829a-ec922f8b961b/paper.pdf",
+    "zone": "latrine"
+}

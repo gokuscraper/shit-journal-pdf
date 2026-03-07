@@ -1,0 +1,19 @@
+【标题】: 从顶刊拒稿到SHIT首发：当代青年学者的学术摆烂叙事分析
+【作者】: 既白
+【机构】: 西南联合大学
+【zone】: septic
+【时间】: 2026-02-28T14:06:57.185504+00:00
+【评分】: 平均 4.731343283582089 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "92e0bcf5-8f27-43aa-a914-e9dfa09a0d09",
+    "manuscript_title": "从顶刊拒稿到SHIT首发：当代青年学者的学术摆烂叙事分析",
+    "author_name": "既白",
+    "institution": "西南联合大学",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-28T14:06:57.185504+00:00",
+    "avg_score": 4.731343283582089,
+    "pdf_path": "92e0bcf5-8f27-43aa-a914-e9dfa09a0d09/___a248738_outlook_com.pdf",
+    "zone": "septic"
+}

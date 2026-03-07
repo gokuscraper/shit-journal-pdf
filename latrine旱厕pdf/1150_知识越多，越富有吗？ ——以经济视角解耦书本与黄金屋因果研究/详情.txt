@@ -1,0 +1,19 @@
+【标题】: 知识越多，越富有吗？ ——以经济视角解耦书本与黄金屋因果研究
+【作者】: 豪斯曼·奥特曼
+【机构】: SSC University
+【zone】: latrine
+【时间】: 2026-03-01T07:33:33.700935+00:00
+【评分】: 平均 4.214285714285714 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3c527734-5e3f-41ca-979b-6e6590954683",
+    "manuscript_title": "知识越多，越富有吗？ ——以经济视角解耦书本与黄金屋因果研究",
+    "author_name": "豪斯曼·奥特曼",
+    "institution": "SSC University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T07:33:33.700935+00:00",
+    "avg_score": 4.214285714285714,
+    "pdf_path": "3c527734-5e3f-41ca-979b-6e6590954683/________jn051005_qq_com.pdf",
+    "zone": "latrine"
+}

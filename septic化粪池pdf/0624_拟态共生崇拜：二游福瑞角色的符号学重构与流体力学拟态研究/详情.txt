@@ -1,0 +1,19 @@
+【标题】: 拟态共生崇拜：二游福瑞角色的符号学重构与流体力学拟态研究
+【作者】: 拉矢人
+【机构】: 家里蹲大学
+【zone】: septic
+【时间】: 2026-03-02T03:31:14.548272+00:00
+【评分】: 平均 4.117647058823529 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "85f0eb9d-cfec-4ccc-bff4-2f9fa191c7f8",
+    "manuscript_title": "拟态共生崇拜：二游福瑞角色的符号学重构与流体力学拟态研究",
+    "author_name": "拉矢人",
+    "institution": "家里蹲大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T03:31:14.548272+00:00",
+    "avg_score": 4.117647058823529,
+    "pdf_path": "85f0eb9d-cfec-4ccc-bff4-2f9fa191c7f8/____1590259064_qq_com.pdf",
+    "zone": "septic"
+}

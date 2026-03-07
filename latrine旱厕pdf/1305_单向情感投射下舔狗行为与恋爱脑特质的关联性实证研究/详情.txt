@@ -1,0 +1,19 @@
+【标题】: 单向情感投射下舔狗行为与恋爱脑特质的关联性实证研究
+【作者】: 心碎院士
+【机构】: 单向情感研究所
+【zone】: latrine
+【时间】: 2026-03-03T09:59:49.787066+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "25e2a062-d91d-406a-87e9-5c4a4f91abf2",
+    "manuscript_title": "单向情感投射下舔狗行为与恋爱脑特质的关联性实证研究",
+    "author_name": "心碎院士",
+    "institution": "单向情感研究所",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T09:59:49.787066+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "25e2a062-d91d-406a-87e9-5c4a4f91abf2/_____zhangyifeng35_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论高度自控伪装正常人的抑郁症患者缓解病情的办法
+【作者】: 夜屿沉
+【机构】: bigshit一坨
+【zone】: septic
+【时间】: 2026-03-02T17:40:37.859657+00:00
+【评分】: 平均 3.877551020408163 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7df3ac28-2166-4922-a973-f84ffde94dbc",
+    "manuscript_title": "论高度自控伪装正常人的抑郁症患者缓解病情的办法",
+    "author_name": "夜屿沉",
+    "institution": "bigshit一坨",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-03-02T17:40:37.859657+00:00",
+    "avg_score": 3.877551020408163,
+    "pdf_path": "7df3ac28-2166-4922-a973-f84ffde94dbc/____twoy421_gmail_com.pdf",
+    "zone": "septic"
+}

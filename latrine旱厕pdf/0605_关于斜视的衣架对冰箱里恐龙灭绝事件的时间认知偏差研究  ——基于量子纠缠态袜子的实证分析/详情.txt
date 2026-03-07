@@ -1,0 +1,19 @@
+【标题】: 关于斜视的衣架对冰箱里恐龙灭绝事件的时间认知偏差研究  ——基于量子纠缠态袜子的实证分析
+【作者】: Luuuuucas
+【机构】: 211yjy
+【zone】: latrine
+【时间】: 2026-02-22T11:13:15.146994+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8905ce42-0ea3-413a-af68-bd5285c46218",
+    "manuscript_title": "关于斜视的衣架对冰箱里恐龙灭绝事件的时间认知偏差研究  ——基于量子纠缠态袜子的实证分析",
+    "author_name": "Luuuuucas",
+    "institution": "211yjy",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T11:13:15.146994+00:00",
+    "avg_score": 0,
+    "pdf_path": "8905ce42-0ea3-413a-af68-bd5285c46218/paper.pdf",
+    "zone": "latrine"
+}

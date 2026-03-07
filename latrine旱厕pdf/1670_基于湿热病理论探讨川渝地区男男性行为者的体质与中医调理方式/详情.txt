@@ -1,0 +1,19 @@
+【标题】: 基于湿热病理论探讨川渝地区男男性行为者的体质与中医调理方式
+【作者】: 便闭患者
+【机构】: 人中黄研究所
+【zone】: latrine
+【时间】: 2026-02-23T13:47:56.852174+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ec6cfde2-8745-4d9b-b3ef-04a4cc6d14b8",
+    "manuscript_title": "基于湿热病理论探讨川渝地区男男性行为者的体质与中医调理方式",
+    "author_name": "便闭患者",
+    "institution": "人中黄研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T13:47:56.852174+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "ec6cfde2-8745-4d9b-b3ef-04a4cc6d14b8/paper.pdf",
+    "zone": "latrine"
+}

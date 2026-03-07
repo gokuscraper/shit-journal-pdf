@@ -1,0 +1,19 @@
+【标题】: 恋爱心理学视角下男追女的行为模式与心理机制研究
+【作者】: ikun Duan
+【机构】: 伽利沃大学
+【zone】: sediment
+【时间】: 2026-03-01T15:04:49.980621+00:00
+【评分】: 平均 3.0476190476190474 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "327fe9a0-33fd-4b2d-8b1b-669bc60fde50",
+    "manuscript_title": "恋爱心理学视角下男追女的行为模式与心理机制研究",
+    "author_name": "ikun Duan",
+    "institution": "伽利沃大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T15:04:49.980621+00:00",
+    "avg_score": 3.0476190476190474,
+    "pdf_path": "327fe9a0-33fd-4b2d-8b1b-669bc60fde50/ikun_Duan_1161050439_qq_com.pdf",
+    "zone": "sediment"
+}

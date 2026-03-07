@@ -1,0 +1,19 @@
+【标题】: A Novel Combined Therapeutic Paradigm Integration of Anno Tangxiao and Tangku Technologies for Penguin-Redstone Syndrome Management
+【作者】: Wowcw
+【机构】: Hakimi University
+【zone】: latrine
+【时间】: 2026-02-23T14:19:26.534679+00:00
+【评分】: 平均 1.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "76c5715e-8f9f-46bf-a56c-9a187f4257ba",
+    "manuscript_title": "A Novel Combined Therapeutic Paradigm Integration of Anno Tangxiao and Tangku Technologies for Penguin-Redstone Syndrome Management",
+    "author_name": "Wowcw",
+    "institution": "Hakimi University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:19:26.534679+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "76c5715e-8f9f-46bf-a56c-9a187f4257ba/paper.pdf",
+    "zone": "latrine"
+}

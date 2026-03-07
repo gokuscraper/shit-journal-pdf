@@ -1,0 +1,19 @@
+【标题】: 基于蒯因整体论下对大模型的研究
+【作者】: Dr.Won
+【机构】: 独立学者
+【zone】: latrine
+【时间】: 2026-02-26T00:47:07.775635+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5aa3b9d6-eda8-41cf-a5f7-c8b26ce65f63",
+    "manuscript_title": "基于蒯因整体论下对大模型的研究",
+    "author_name": "Dr.Won",
+    "institution": "独立学者",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T00:47:07.775635+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "5aa3b9d6-eda8-41cf-a5f7-c8b26ce65f63/Dr_Won_oxrico_outlook_com.pdf",
+    "zone": "latrine"
+}

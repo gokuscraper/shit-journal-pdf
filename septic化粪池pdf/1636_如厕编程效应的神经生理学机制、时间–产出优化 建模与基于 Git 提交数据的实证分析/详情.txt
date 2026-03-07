@@ -1,0 +1,19 @@
+【标题】: 如厕编程效应的神经生理学机制、时间–产出优化 建模与基于 Git 提交数据的实证分析
+【作者】: Finn
+【机构】: 白瓷大学
+【zone】: septic
+【时间】: 2026-03-02T16:42:39.793319+00:00
+【评分】: 平均 4.6571428571428575 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e6aa87d6-0b42-4c13-ba05-2f6370016c53",
+    "manuscript_title": "如厕编程效应的神经生理学机制、时间–产出优化 建模与基于 Git 提交数据的实证分析",
+    "author_name": "Finn",
+    "institution": "白瓷大学",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T16:42:39.793319+00:00",
+    "avg_score": 4.6571428571428575,
+    "pdf_path": "e6aa87d6-0b42-4c13-ba05-2f6370016c53/Finn_fxiaoyang666_gmail_com.pdf",
+    "zone": "septic"
+}

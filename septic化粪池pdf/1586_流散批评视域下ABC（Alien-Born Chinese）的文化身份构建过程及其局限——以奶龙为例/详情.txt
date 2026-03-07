@@ -1,0 +1,19 @@
+【标题】: 流散批评视域下ABC（Alien-Born Chinese）的文化身份构建过程及其局限——以奶龙为例
+【作者】: 孙笑川
+【机构】: 抽象工作室
+【zone】: septic
+【时间】: 2026-03-03T03:49:24.046455+00:00
+【评分】: 平均 4.078947368421052 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e18f4436-a789-4f0e-bc1c-a2a2b6c4a644",
+    "manuscript_title": "流散批评视域下ABC（Alien-Born Chinese）的文化身份构建过程及其局限——以奶龙为例",
+    "author_name": "孙笑川",
+    "institution": "抽象工作室",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T03:49:24.046455+00:00",
+    "avg_score": 4.078947368421052,
+    "pdf_path": "e18f4436-a789-4f0e-bc1c-a2a2b6c4a644/____2380219350_qq_com.pdf",
+    "zone": "septic"
+}

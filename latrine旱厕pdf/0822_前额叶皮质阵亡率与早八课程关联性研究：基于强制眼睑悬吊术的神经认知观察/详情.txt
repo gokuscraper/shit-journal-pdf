@@ -1,0 +1,19 @@
+【标题】: 前额叶皮质阵亡率与早八课程关联性研究：基于强制眼睑悬吊术的神经认知观察
+【作者】: 史蒂尔·阿丝莉普 (Still Asleep)
+【机构】: Quantum Laboratory of Wake-Sleep Superposition States
+【zone】: latrine
+【时间】: 2026-03-03T10:25:13.306197+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6a99620e-92ad-4fc8-b217-ddff44621345",
+    "manuscript_title": "前额叶皮质阵亡率与早八课程关联性研究：基于强制眼睑悬吊术的神经认知观察",
+    "author_name": "史蒂尔·阿丝莉普 (Still Asleep)",
+    "institution": "Quantum Laboratory of Wake-Sleep Superposition States",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:25:13.306197+00:00",
+    "avg_score": 0,
+    "pdf_path": "6a99620e-92ad-4fc8-b217-ddff44621345/__________Still_Asleep__still_asleep_shu_edu_cn.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 大便守恒定律的研究扩充与非严谨性推导研究
+【作者】: 屎壳郎
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-02-22T14:29:58.871529+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "f50b62ff-65be-4c59-ae2a-ad7f991e4c14",
+    "manuscript_title": "大便守恒定律的研究扩充与非严谨性推导研究",
+    "author_name": "屎壳郎",
+    "institution": "屎壳郎大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T14:29:58.871529+00:00",
+    "avg_score": 0,
+    "pdf_path": "f50b62ff-65be-4c59-ae2a-ad7f991e4c14/paper.pdf",
+    "zone": "latrine"
+}

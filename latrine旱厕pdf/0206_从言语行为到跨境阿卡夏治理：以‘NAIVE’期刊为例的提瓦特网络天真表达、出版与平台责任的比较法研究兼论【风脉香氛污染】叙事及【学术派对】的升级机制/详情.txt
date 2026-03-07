@@ -1,0 +1,19 @@
+【标题】: 从言语行为到跨境阿卡夏治理：以‘NAIVE’期刊为例的提瓦特网络天真表达、出版与平台责任的比较法研究兼论【风脉香氛污染】叙事及【学术派对】的升级机制
+【作者】: 法式螺翔
+【机构】: Akademiya发酵系 🌿📚
+【zone】: latrine
+【时间】: 2026-02-28T02:18:09.484591+00:00
+【评分】: 平均 3.625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c5ba141e-441d-4441-b115-a3fc436110e4",
+    "manuscript_title": "从言语行为到跨境阿卡夏治理：以‘NAIVE’期刊为例的提瓦特网络天真表达、出版与平台责任的比较法研究兼论【风脉香氛污染】叙事及【学术派对】的升级机制",
+    "author_name": "法式螺翔",
+    "institution": "Akademiya发酵系 🌿📚",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T02:18:09.484591+00:00",
+    "avg_score": 3.625,
+    "pdf_path": "c5ba141e-441d-4441-b115-a3fc436110e4/_____kujonastudio_gmail_com.pdf",
+    "zone": "latrine"
+}

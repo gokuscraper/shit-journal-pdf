@@ -1,0 +1,19 @@
+【标题】: 人类自体分泌物摄入行为的小样本探索与宇宙加权推断：基于30名室友及群众的深度访谈
+【作者】: 股扭者
+【机构】: Snp Institute
+【zone】: septic
+【时间】: 2026-02-25T08:28:50.767724+00:00
+【评分】: 平均 4.433333333333334 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "706ab309-344c-4fb3-a2fc-f7eddd214c56",
+    "manuscript_title": "人类自体分泌物摄入行为的小样本探索与宇宙加权推断：基于30名室友及群众的深度访谈",
+    "author_name": "股扭者",
+    "institution": "Snp Institute",
+    "viscosity": "semi",
+    "discipline": "engineering",
+    "created_at": "2026-02-25T08:28:50.767724+00:00",
+    "avg_score": 4.433333333333334,
+    "pdf_path": "706ab309-344c-4fb3-a2fc-f7eddd214c56/____2482212609_qq_com.pdf",
+    "zone": "septic"
+}

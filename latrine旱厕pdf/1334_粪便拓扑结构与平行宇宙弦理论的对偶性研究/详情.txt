@@ -1,0 +1,19 @@
+【标题】: 粪便拓扑结构与平行宇宙弦理论的对偶性研究
+【作者】: 埃及法老
+【机构】: 麻省理工
+【zone】: latrine
+【时间】: 2026-02-23T08:46:32.537776+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "227cc7f8-aba5-434c-8de3-1dacb6d7c656",
+    "manuscript_title": "粪便拓扑结构与平行宇宙弦理论的对偶性研究",
+    "author_name": "埃及法老",
+    "institution": "麻省理工",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:46:32.537776+00:00",
+    "avg_score": 0,
+    "pdf_path": "227cc7f8-aba5-434c-8de3-1dacb6d7c656/paper.pdf",
+    "zone": "latrine"
+}

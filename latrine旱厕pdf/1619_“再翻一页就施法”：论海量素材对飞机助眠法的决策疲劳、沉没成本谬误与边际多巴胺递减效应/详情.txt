@@ -1,0 +1,19 @@
+【标题】: “再翻一页就施法”：论海量素材对飞机助眠法的决策疲劳、沉没成本谬误与边际多巴胺递减效应
+【作者】: 阴伟达
+【机构】:  Wharton School of the University of Pennsylvania
+【zone】: latrine
+【时间】: 2026-02-28T06:33:22.901665+00:00
+【评分】: 平均 4.4 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e4d26040-e5da-40a9-9181-a9a099d9d075",
+    "manuscript_title": "“再翻一页就施法”：论海量素材对飞机助眠法的决策疲劳、沉没成本谬误与边际多巴胺递减效应",
+    "author_name": "阴伟达",
+    "institution": " Wharton School of the University of Pennsylvania",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-28T06:33:22.901665+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "e4d26040-e5da-40a9-9181-a9a099d9d075/____chencynthia579_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 巨婴综合症对MOBA游戏-Dota2竞技表现的抑制与代偿研究
+【作者】: Ch1cken
+【机构】: OK蜀汉
+【zone】: septic
+【时间】: 2026-03-02T07:34:35.626496+00:00
+【评分】: 平均 4.0588235294117645 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8be4b29c-e144-408c-9429-25c7a0ceab86",
+    "manuscript_title": "巨婴综合症对MOBA游戏-Dota2竞技表现的抑制与代偿研究",
+    "author_name": "Ch1cken",
+    "institution": "OK蜀汉",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:34:35.626496+00:00",
+    "avg_score": 4.0588235294117645,
+    "pdf_path": "8be4b29c-e144-408c-9429-25c7a0ceab86/Ch1cken_2096000315_qq_com.pdf",
+    "zone": "septic"
+}

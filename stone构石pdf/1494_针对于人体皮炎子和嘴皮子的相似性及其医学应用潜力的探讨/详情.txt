@@ -1,0 +1,19 @@
+【标题】: 针对于人体皮炎子和嘴皮子的相似性及其医学应用潜力的探讨
+【作者】: zandik
+【机构】: Akademiya, Sumeru , Teyvat
+【zone】: stone
+【时间】: 2026-02-25T03:40:35.264884+00:00
+【评分】: 平均 4.7100840336134455 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "0c8b80b4-01f2-4bea-87a5-0815182dd064",
+    "manuscript_title": "针对于人体皮炎子和嘴皮子的相似性及其医学应用潜力的探讨",
+    "author_name": "zandik",
+    "institution": "Akademiya, Sumeru , Teyvat",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-25T03:40:35.264884+00:00",
+    "avg_score": 4.7100840336134455,
+    "pdf_path": "0c8b80b4-01f2-4bea-87a5-0815182dd064/zandik_keviny54284860_163_com.pdf",
+    "zone": "stone"
+}

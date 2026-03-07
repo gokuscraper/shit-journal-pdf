@@ -1,0 +1,19 @@
+【标题】: 人类如厕行为中大小便同步进行与分开进行的对比研究
+【作者】: C.s.Yinxoi
+【机构】: 加里敦大学屎尿屁研究院
+【zone】: latrine
+【时间】: 2026-02-25T10:35:54.643931+00:00
+【评分】: 平均 3.8125 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "667b82f5-98b1-4243-8d27-1eda5c256b9d",
+    "manuscript_title": "人类如厕行为中大小便同步进行与分开进行的对比研究",
+    "author_name": "C.s.Yinxoi",
+    "institution": "加里敦大学屎尿屁研究院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:35:54.643931+00:00",
+    "avg_score": 3.8125,
+    "pdf_path": "667b82f5-98b1-4243-8d27-1eda5c256b9d/C_s_Yinxoi_ad5nc1341_outlook_com.pdf",
+    "zone": "latrine"
+}

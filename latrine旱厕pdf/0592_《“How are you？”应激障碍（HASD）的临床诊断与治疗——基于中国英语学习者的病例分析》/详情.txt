@@ -1,0 +1,19 @@
+【标题】: 《“How are you？”应激障碍（HASD）的临床诊断与治疗——基于中国英语学习者的病例分析》
+【作者】: 梅梅·HAN
+【机构】: 非自愿条件反射研究院
+【zone】: latrine
+【时间】: 2026-02-28T06:12:22.554393+00:00
+【评分】: 平均 3.909090909090909 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8b694390-ac22-4a69-b32e-1786dff56a0c",
+    "manuscript_title": "《“How are you？”应激障碍（HASD）的临床诊断与治疗——基于中国英语学习者的病例分析》",
+    "author_name": "梅梅·HAN",
+    "institution": "非自愿条件反射研究院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:12:22.554393+00:00",
+    "avg_score": 3.909090909090909,
+    "pdf_path": "8b694390-ac22-4a69-b32e-1786dff56a0c/___HAN_750725685_qq_com.pdf",
+    "zone": "latrine"
+}

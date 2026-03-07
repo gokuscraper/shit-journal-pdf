@@ -1,0 +1,19 @@
+【标题】: 悼明之亡，揭清之失：Project SEKAI的遗民叙事
+【作者】: 弗兰德斯·哈比比·哈耶克
+【机构】: 雅利安国立民俗与社会学大学
+【zone】: latrine
+【时间】: 2026-02-23T11:26:41.096449+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b5a9cc8b-ba5b-4b03-8c93-8dfca6bbdfb4",
+    "manuscript_title": "悼明之亡，揭清之失：Project SEKAI的遗民叙事",
+    "author_name": "弗兰德斯·哈比比·哈耶克",
+    "institution": "雅利安国立民俗与社会学大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T11:26:41.096449+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "b5a9cc8b-ba5b-4b03-8c93-8dfca6bbdfb4/paper.pdf",
+    "zone": "latrine"
+}

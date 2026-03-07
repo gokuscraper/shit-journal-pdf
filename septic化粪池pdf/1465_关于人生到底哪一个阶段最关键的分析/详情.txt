@@ -1,0 +1,19 @@
+【标题】: 关于人生到底哪一个阶段最关键的分析
+【作者】: 答辩管理员
+【机构】: 答辩研究所
+【zone】: septic
+【时间】: 2026-03-01T11:09:42.586294+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "10b6f88c-dcd0-4c10-995d-66d1b3ba294c",
+    "manuscript_title": "关于人生到底哪一个阶段最关键的分析",
+    "author_name": "答辩管理员",
+    "institution": "答辩研究所",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-01T11:09:42.586294+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "10b6f88c-dcd0-4c10-995d-66d1b3ba294c/______3428356423_qq_com.pdf",
+    "zone": "septic"
+}

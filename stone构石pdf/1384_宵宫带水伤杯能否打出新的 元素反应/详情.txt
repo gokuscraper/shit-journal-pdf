@@ -1,0 +1,19 @@
+【标题】: 宵宫带水伤杯能否打出新的 元素反应
+【作者】: 林燮
+【机构】: L-X university
+【zone】: stone
+【时间】: 2026-02-27T18:43:11.258192+00:00
+【评分】: 平均 4.819112627986348 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1b913481-9200-4493-9233-13ea2dc41ac7",
+    "manuscript_title": "宵宫带水伤杯能否打出新的 元素反应",
+    "author_name": "林燮",
+    "institution": "L-X university",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T18:43:11.258192+00:00",
+    "avg_score": 4.819112627986348,
+    "pdf_path": "1b913481-9200-4493-9233-13ea2dc41ac7/___1740260104_qq_com.pdf",
+    "zone": "stone"
+}

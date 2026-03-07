@@ -1,0 +1,19 @@
+【标题】: 福与逼的辩证法：现代通假字的认知神经动力学与相变机制研究
+【作者】: 马蹄哒哒哒芬
+【机构】: Ciksour University
+【zone】: stone
+【时间】: 2026-03-02T10:46:11.380032+00:00
+【评分】: 平均 4.741935483870968 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2c3e4d00-a238-4882-b100-bf2b8b2a31c9",
+    "manuscript_title": "福与逼的辩证法：现代通假字的认知神经动力学与相变机制研究",
+    "author_name": "马蹄哒哒哒芬",
+    "institution": "Ciksour University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:46:11.380032+00:00",
+    "avg_score": 4.741935483870968,
+    "pdf_path": "2c3e4d00-a238-4882-b100-bf2b8b2a31c9/_______2439634381_qq_com.pdf",
+    "zone": "stone"
+}

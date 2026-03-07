@@ -1,0 +1,19 @@
+【标题】: 消失的袜子现象：洗衣黑洞的统计和理论研究
+【作者】: shiting
+【机构】: 臭臭大学
+【zone】: septic
+【时间】: 2026-03-04T01:15:36.087716+00:00
+【评分】: 平均 4.294117647058823 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "20a8ba76-aee3-4945-bae1-c234d541f721",
+    "manuscript_title": "消失的袜子现象：洗衣黑洞的统计和理论研究",
+    "author_name": "shiting",
+    "institution": "臭臭大学",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-04T01:15:36.087716+00:00",
+    "avg_score": 4.294117647058823,
+    "pdf_path": "20a8ba76-aee3-4945-bae1-c234d541f721/shiting_rosiewei8666_gmail_com.pdf",
+    "zone": "septic"
+}

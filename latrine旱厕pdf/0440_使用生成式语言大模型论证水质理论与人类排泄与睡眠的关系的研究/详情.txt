@@ -1,0 +1,19 @@
+【标题】: 使用生成式语言大模型论证水质理论与人类排泄与睡眠的关系的研究
+【作者】: 我是牛dun的弟弟马pnu
+【机构】: 美国科学院人类排泄物研究所
+【zone】: latrine
+【时间】: 2026-03-01T19:20:24.158376+00:00
+【评分】: 平均 3.2857142857142856 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a2dedb64-0f40-418f-a0f8-0455265b4fda",
+    "manuscript_title": "使用生成式语言大模型论证水质理论与人类排泄与睡眠的关系的研究",
+    "author_name": "我是牛dun的弟弟马pnu",
+    "institution": "美国科学院人类排泄物研究所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T19:20:24.158376+00:00",
+    "avg_score": 3.2857142857142856,
+    "pdf_path": "a2dedb64-0f40-418f-a0f8-0455265b4fda/___dun____pnu_somebodyxh_outlook_com.pdf",
+    "zone": "latrine"
+}

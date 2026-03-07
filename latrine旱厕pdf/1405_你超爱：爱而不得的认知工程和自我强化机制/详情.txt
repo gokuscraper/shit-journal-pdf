@@ -1,0 +1,19 @@
+【标题】: 你超爱：爱而不得的认知工程和自我强化机制
+【作者】: 小农民大酒蒙子
+【机构】: 桥洞
+【zone】: latrine
+【时间】: 2026-03-01T12:39:36.023922+00:00
+【评分】: 平均 3.857142857142857 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "193c41a1-84fd-43dc-804c-c87adf38c7cf",
+    "manuscript_title": "你超爱：爱而不得的认知工程和自我强化机制",
+    "author_name": "小农民大酒蒙子",
+    "institution": "桥洞",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T12:39:36.023922+00:00",
+    "avg_score": 3.857142857142857,
+    "pdf_path": "193c41a1-84fd-43dc-804c-c87adf38c7cf/________huang_ceci0807_gmail_com.pdf",
+    "zone": "latrine"
+}

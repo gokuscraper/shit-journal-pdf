@@ -1,0 +1,19 @@
+【标题】: 哲人王的回归：论拉普拉斯妖式超级计算机作为人类发展最高指导者的必然性与优越性
+【作者】: 阳
+【机构】: 食指
+【zone】: latrine
+【时间】: 2026-02-23T07:24:56.388979+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "360567a0-e046-42d6-a1c1-7b55de25ec0d",
+    "manuscript_title": "哲人王的回归：论拉普拉斯妖式超级计算机作为人类发展最高指导者的必然性与优越性",
+    "author_name": "阳",
+    "institution": "食指",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:24:56.388979+00:00",
+    "avg_score": 0,
+    "pdf_path": "360567a0-e046-42d6-a1c1-7b55de25ec0d/paper.pdf",
+    "zone": "latrine"
+}

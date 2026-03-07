@@ -1,0 +1,19 @@
+【标题】: 基于广义相对论与非牛顿流体力学的“带薪排泄”时空膨胀效应分析及最优驻留时长模型
+【作者】: Aether
+【机构】: University of Paid Slacking, UK
+【zone】: latrine
+【时间】: 2026-02-28T07:08:41.409341+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "c64c4b89-c8bf-40cf-83d5-d8f665f5fb06",
+    "manuscript_title": "基于广义相对论与非牛顿流体力学的“带薪排泄”时空膨胀效应分析及最优驻留时长模型",
+    "author_name": "Aether",
+    "institution": "University of Paid Slacking, UK",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:08:41.409341+00:00",
+    "avg_score": 0,
+    "pdf_path": "c64c4b89-c8bf-40cf-83d5-d8f665f5fb06/Aether_2675030133_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 大残一枪死：无畏契约中的虚拟战场中的信息失真及其对团队协作效率的影响机制研究 
+【作者】: ovo
+【机构】: Stanford University
+【zone】: latrine
+【时间】: 2026-03-03T09:56:57.196051+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ff5132d9-b745-4b9f-ac28-d9de852667ee",
+    "manuscript_title": "大残一枪死：无畏契约中的虚拟战场中的信息失真及其对团队协作效率的影响机制研究 ",
+    "author_name": "ovo",
+    "institution": "Stanford University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T09:56:57.196051+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "ff5132d9-b745-4b9f-ac28-d9de852667ee/ovo_100710he_gmail_com.pdf",
+    "zone": "latrine"
+}

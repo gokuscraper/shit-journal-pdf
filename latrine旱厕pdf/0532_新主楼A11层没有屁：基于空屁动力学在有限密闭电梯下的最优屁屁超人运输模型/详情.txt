@@ -1,0 +1,19 @@
+【标题】: 新主楼A11层没有屁：基于空屁动力学在有限密闭电梯下的最优屁屁超人运输模型
+【作者】: 斤三金
+【机构】: 北京航空航天大学，清华健身学院School of Tsinghua’s Gym 
+【zone】: latrine
+【时间】: 2026-02-28T15:04:28.81123+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "94533392-5ca7-4ab0-8a3b-f5810175309e",
+    "manuscript_title": "新主楼A11层没有屁：基于空屁动力学在有限密闭电梯下的最优屁屁超人运输模型",
+    "author_name": "斤三金",
+    "institution": "北京航空航天大学，清华健身学院School of Tsinghua’s Gym ",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T15:04:28.81123+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "94533392-5ca7-4ab0-8a3b-f5810175309e/____jungsyen_163_com.pdf",
+    "zone": "latrine"
+}

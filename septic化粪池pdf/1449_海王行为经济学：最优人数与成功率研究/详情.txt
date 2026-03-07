@@ -1,0 +1,19 @@
+【标题】: 海王行为经济学：最优人数与成功率研究
+【作者】: 如厕博士
+【机构】: Shit Research Institute
+【zone】: septic
+【时间】: 2026-03-03T13:55:58.434166+00:00
+【评分】: 平均 4.225 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "12cbcca1-58a4-4780-9934-7f4ec134ab75",
+    "manuscript_title": "海王行为经济学：最优人数与成功率研究",
+    "author_name": "如厕博士",
+    "institution": "Shit Research Institute",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T13:55:58.434166+00:00",
+    "avg_score": 4.225,
+    "pdf_path": "12cbcca1-58a4-4780-9934-7f4ec134ab75/_____zlheng1984_163_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: Correlation Between Urinary Stream Stability and Manuscript Acceptance Rate: A Cross-Nation Retrospective Analysis \n 尿流稳定性与稿件录用率的相关性：一项跨国回顾性分析
+【作者】: nmlgbd
+【机构】: 我哪来的单位
+【zone】: latrine
+【时间】: 2026-02-23T14:38:27.768656+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "373fd9f1-ed69-46cc-b53e-5f2fd286ca63",
+    "manuscript_title": "Correlation Between Urinary Stream Stability and Manuscript Acceptance Rate: A Cross-Nation Retrospective Analysis \\n 尿流稳定性与稿件录用率的相关性：一项跨国回顾性分析",
+    "author_name": "nmlgbd",
+    "institution": "我哪来的单位",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:38:27.768656+00:00",
+    "avg_score": 0,
+    "pdf_path": "373fd9f1-ed69-46cc-b53e-5f2fd286ca63/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 遗传生物学：论贝利亚与奶龙繁衍后代的可能性性
+【作者】: Dr.godshit
+【机构】: 生物自然繁衍学说组
+【zone】: latrine
+【时间】: 2026-02-25T08:04:23.768218+00:00
+【评分】: 平均 3.7727272727272725 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2025b97c-d696-4387-b6e8-314cc2d028d2",
+    "manuscript_title": "遗传生物学：论贝利亚与奶龙繁衍后代的可能性性",
+    "author_name": "Dr.godshit",
+    "institution": "生物自然繁衍学说组",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:04:23.768218+00:00",
+    "avg_score": 3.7727272727272725,
+    "pdf_path": "2025b97c-d696-4387-b6e8-314cc2d028d2/Dr_godshit_adew12345_2023_qq_com.pdf",
+    "zone": "latrine"
+}

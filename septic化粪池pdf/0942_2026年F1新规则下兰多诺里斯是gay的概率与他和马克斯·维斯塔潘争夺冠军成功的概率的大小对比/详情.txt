@@ -1,0 +1,19 @@
+【标题】: 2026年F1新规则下兰多诺里斯是gay的概率与他和马克斯·维斯塔潘争夺冠军成功的概率的大小对比 
+【作者】: 爱吃石shitnigger
+【机构】: STAY AT HOME UNIVERSITY(屎尿屁大一统专业博士）
+【zone】: septic
+【时间】: 2026-03-02T07:40:04.689296+00:00
+【评分】: 平均 4.222222222222222 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5929c4c6-49f4-4bbe-8f5c-c4e18574c021",
+    "manuscript_title": "2026年F1新规则下兰多诺里斯是gay的概率与他和马克斯·维斯塔潘争夺冠军成功的概率的大小对比 ",
+    "author_name": "爱吃石shitnigger",
+    "institution": "STAY AT HOME UNIVERSITY(屎尿屁大一统专业博士）",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:40:04.689296+00:00",
+    "avg_score": 4.222222222222222,
+    "pdf_path": "5929c4c6-49f4-4bbe-8f5c-c4e18574c021/___shitnigger_3844050954_qq_com.pdf",
+    "zone": "septic"
+}

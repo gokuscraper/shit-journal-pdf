@@ -1,0 +1,19 @@
+【标题】: 光的力学证明：迪迦奥特曼战斗力量化研究——基于能量输出与工程学指标换算
+【作者】: Leo大王
+【机构】: 全宇宙最强 INTJ 协会
+【zone】: septic
+【时间】: 2026-03-02T06:11:39.924037+00:00
+【评分】: 平均 4.5964912280701755 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3ecf7cea-e274-4d8d-8b61-0c21d870cf5f",
+    "manuscript_title": "光的力学证明：迪迦奥特曼战斗力量化研究——基于能量输出与工程学指标换算",
+    "author_name": "Leo大王",
+    "institution": "全宇宙最强 INTJ 协会",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T06:11:39.924037+00:00",
+    "avg_score": 4.5964912280701755,
+    "pdf_path": "3ecf7cea-e274-4d8d-8b61-0c21d870cf5f/Leo___2463434690_qq_com.pdf",
+    "zone": "septic"
+}

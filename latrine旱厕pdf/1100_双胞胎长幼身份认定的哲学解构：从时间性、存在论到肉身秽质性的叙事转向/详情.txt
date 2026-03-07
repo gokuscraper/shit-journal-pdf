@@ -1,0 +1,19 @@
+【标题】: 双胞胎长幼身份认定的哲学解构：从时间性、存在论到肉身秽质性的叙事转向
+【作者】: 孬出孬进
+【机构】: Liminal Waste University
+【zone】: latrine
+【时间】: 2026-02-23T07:34:14.151089+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "43a75a6b-e872-498a-ab14-0a4f54e57312",
+    "manuscript_title": "双胞胎长幼身份认定的哲学解构：从时间性、存在论到肉身秽质性的叙事转向",
+    "author_name": "孬出孬进",
+    "institution": "Liminal Waste University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:34:14.151089+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "43a75a6b-e872-498a-ab14-0a4f54e57312/paper.pdf",
+    "zone": "latrine"
+}

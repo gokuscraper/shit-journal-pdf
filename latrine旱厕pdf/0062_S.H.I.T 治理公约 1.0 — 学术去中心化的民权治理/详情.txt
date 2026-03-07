@@ -1,0 +1,19 @@
+【标题】: S.H.I.T 治理公约 1.0 — 学术去中心化的民权治理
+【作者】: Dr. Max Verstap
+【机构】: Tungwah Senior High School
+【zone】: latrine
+【时间】: 2026-02-28T09:34:51.842629+00:00
+【评分】: 平均 3.7 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d88c4ba5-e571-4004-a347-3ecdb60ee54f",
+    "manuscript_title": "S.H.I.T 治理公约 1.0 — 学术去中心化的民权治理",
+    "author_name": "Dr. Max Verstap",
+    "institution": "Tungwah Senior High School",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:34:51.842629+00:00",
+    "avg_score": 3.7,
+    "pdf_path": "d88c4ba5-e571-4004-a347-3ecdb60ee54f/Dr__Max_Verstap_2934785965_qq_com.pdf",
+    "zone": "latrine"
+}

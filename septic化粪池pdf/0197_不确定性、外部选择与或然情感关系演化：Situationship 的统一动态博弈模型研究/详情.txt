@@ -1,0 +1,19 @@
+【标题】: 不确定性、外部选择与或然情感关系演化：Situationship 的统一动态博弈模型研究
+【作者】: 御屎Dave
+【机构】: Delashit Data Science Laboratory
+【zone】: septic
+【时间】: 2026-03-02T11:51:33.312635+00:00
+【评分】: 平均 3.966666666666667 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c63184e6-1a58-4153-a156-c7823f8f63e5",
+    "manuscript_title": "不确定性、外部选择与或然情感关系演化：Situationship 的统一动态博弈模型研究",
+    "author_name": "御屎Dave",
+    "institution": "Delashit Data Science Laboratory",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T11:51:33.312635+00:00",
+    "avg_score": 3.966666666666667,
+    "pdf_path": "c63184e6-1a58-4153-a156-c7823f8f63e5/__Dave_bojue13654543_163_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 在终端中反复执行 ls 是否具有镇静作用？
+【作者】: 学术造粪机
+【机构】: 国际屎务大学
+【zone】: latrine
+【时间】: 2026-02-25T04:56:41.510091+00:00
+【评分】: 平均 4.4 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "820338ed-84af-4603-afe7-b55680738817",
+    "manuscript_title": "在终端中反复执行 ls 是否具有镇静作用？",
+    "author_name": "学术造粪机",
+    "institution": "国际屎务大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:56:41.510091+00:00",
+    "avg_score": 4.4,
+    "pdf_path": "820338ed-84af-4603-afe7-b55680738817/______bdathe_outlook_com.pdf",
+    "zone": "latrine"
+}

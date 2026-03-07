@@ -1,0 +1,19 @@
+【标题】: 为什么大家喜欢四季夏目——从四大角度解读其在二次元角色塑造中的成功逻辑
+【作者】: miko酱
+【机构】: ELB骇人轰炸研究所
+【zone】: latrine
+【时间】: 2026-03-03T11:39:13.747709+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f78d2efd-7838-44a3-90c7-705d8fbba4a3",
+    "manuscript_title": "为什么大家喜欢四季夏目——从四大角度解读其在二次元角色塑造中的成功逻辑",
+    "author_name": "miko酱",
+    "institution": "ELB骇人轰炸研究所",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T11:39:13.747709+00:00",
+    "avg_score": 0,
+    "pdf_path": "f78d2efd-7838-44a3-90c7-705d8fbba4a3/miko__mig08021026_163_com.pdf",
+    "zone": "latrine"
+}

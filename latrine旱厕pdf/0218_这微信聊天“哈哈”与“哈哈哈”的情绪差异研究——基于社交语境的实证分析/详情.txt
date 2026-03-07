@@ -1,0 +1,19 @@
+【标题】: 这微信聊天“哈哈”与“哈哈哈”的情绪差异研究——基于社交语境的实证分析
+【作者】: Echove
+【机构】: Jialidun University
+【zone】: latrine
+【时间】: 2026-03-03T06:10:37.855162+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c3d85114-de05-4693-9ba1-cdd26a59274b",
+    "manuscript_title": "这微信聊天“哈哈”与“哈哈哈”的情绪差异研究——基于社交语境的实证分析",
+    "author_name": "Echove",
+    "institution": "Jialidun University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T06:10:37.855162+00:00",
+    "avg_score": 0,
+    "pdf_path": "c3d85114-de05-4693-9ba1-cdd26a59274b/Echove_2996203215_qq_com.pdf",
+    "zone": "latrine"
+}

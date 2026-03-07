@@ -1,0 +1,19 @@
+【标题】: 怎么停止期待一个你明知不可能的人
+【作者】: 文森
+【机构】: 新加坡UWC Dover校区
+【zone】: stone
+【时间】: 2026-03-04T00:39:13.752381+00:00
+【评分】: 平均 4.852564102564102 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ab61ed09-69fb-4b0b-9a00-760c5cb548b9",
+    "manuscript_title": "怎么停止期待一个你明知不可能的人",
+    "author_name": "文森",
+    "institution": "新加坡UWC Dover校区",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-04T00:39:13.752381+00:00",
+    "avg_score": 4.852564102564102,
+    "pdf_path": "ab61ed09-69fb-4b0b-9a00-760c5cb548b9/___yang134397_gapps_uwcsea_edu_sg.pdf",
+    "zone": "stone"
+}

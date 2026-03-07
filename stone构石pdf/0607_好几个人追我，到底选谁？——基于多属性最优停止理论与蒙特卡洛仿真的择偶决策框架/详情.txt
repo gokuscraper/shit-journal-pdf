@@ -1,0 +1,19 @@
+【标题】: 好几个人追我，到底选谁？——基于多属性最优停止理论与蒙特卡洛仿真的择偶决策框架
+【作者】: Dr. 阿波
+【机构】: Northwestern University
+【zone】: stone
+【时间】: 2026-03-03T01:19:16.940638+00:00
+【评分】: 平均 4.772277227722772 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "88bee4eb-07e1-4a39-8bc4-b91375b36f51",
+    "manuscript_title": "好几个人追我，到底选谁？——基于多属性最优停止理论与蒙特卡洛仿真的择偶决策框架",
+    "author_name": "Dr. 阿波",
+    "institution": "Northwestern University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T01:19:16.940638+00:00",
+    "avg_score": 4.772277227722772,
+    "pdf_path": "88bee4eb-07e1-4a39-8bc4-b91375b36f51/Dr_____jacoblian_u_northwestern_edu.pdf",
+    "zone": "stone"
+}

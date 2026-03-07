@@ -1,0 +1,19 @@
+【标题】: 狗屎是如何形成的
+【作者】: admin
+【机构】: 123
+【zone】: sediment
+【时间】: 2026-02-26T01:45:54.233357+00:00
+【评分】: 平均 1.6875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4a54dfd3-84a3-4996-950b-ed9c54a8216c",
+    "manuscript_title": "狗屎是如何形成的",
+    "author_name": "admin",
+    "institution": "123",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T01:45:54.233357+00:00",
+    "avg_score": 1.6875,
+    "pdf_path": "4a54dfd3-84a3-4996-950b-ed9c54a8216c/admin_1229857728_qq_com.pdf",
+    "zone": "sediment"
+}

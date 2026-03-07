@@ -1,0 +1,19 @@
+【标题】: Review and Prospect on the Research Progress of Functional Microspheres for Oil Displacement
+【作者】: 石油排泄罐
+【机构】: 石油大学
+【zone】: sediment
+【时间】: 2026-03-03T14:54:20.532405+00:00
+【评分】: 平均 2.4615384615384617 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "79d7853f-1ae6-410a-b2ac-e9802d61c435",
+    "manuscript_title": "Review and Prospect on the Research Progress of Functional Microspheres for Oil Displacement",
+    "author_name": "石油排泄罐",
+    "institution": "石油大学",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T14:54:20.532405+00:00",
+    "avg_score": 2.4615384615384617,
+    "pdf_path": "79d7853f-1ae6-410a-b2ac-e9802d61c435/______969195251_qq_com.pdf",
+    "zone": "sediment"
+}

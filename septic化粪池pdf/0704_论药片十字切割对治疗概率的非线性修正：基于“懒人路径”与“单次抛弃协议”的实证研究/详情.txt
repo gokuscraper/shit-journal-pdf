@@ -1,0 +1,19 @@
+【标题】: 论药片十字切割对治疗概率的非线性修正：基于“懒人路径”与“单次抛弃协议”的实证研究
+【作者】: 十六夜芽衣
+【机构】: University of TiantianChou
+【zone】: septic
+【时间】: 2026-03-02T09:01:36.779142+00:00
+【评分】: 平均 4.315789473684211 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7b5023e5-1e55-4254-a7aa-90c5744a831a",
+    "manuscript_title": "论药片十字切割对治疗概率的非线性修正：基于“懒人路径”与“单次抛弃协议”的实证研究",
+    "author_name": "十六夜芽衣",
+    "institution": "University of TiantianChou",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-02T09:01:36.779142+00:00",
+    "avg_score": 4.315789473684211,
+    "pdf_path": "7b5023e5-1e55-4254-a7aa-90c5744a831a/______jiayi_clear_outlook_com.pdf",
+    "zone": "septic"
+}

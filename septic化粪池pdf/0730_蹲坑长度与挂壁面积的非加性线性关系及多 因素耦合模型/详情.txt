@@ -1,0 +1,19 @@
+【标题】: 蹲坑长度与挂壁面积的非加性线性关系及多 因素耦合模型
+【作者】: JordanW
+【机构】: 459研究院AnLab, JW Lab
+【zone】: septic
+【时间】: 2026-03-03T17:12:25.338958+00:00
+【评分】: 平均 4.513513513513513 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7711c607-f905-4df2-bfe6-241ec6785c7a",
+    "manuscript_title": "蹲坑长度与挂壁面积的非加性线性关系及多 因素耦合模型",
+    "author_name": "JordanW",
+    "institution": "459研究院AnLab, JW Lab",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T17:12:25.338958+00:00",
+    "avg_score": 4.513513513513513,
+    "pdf_path": "7711c607-f905-4df2-bfe6-241ec6785c7a/JordanW_16622356879_163_com.pdf",
+    "zone": "septic"
+}

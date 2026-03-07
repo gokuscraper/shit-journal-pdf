@@ -1,0 +1,19 @@
+【标题】: 实习生工位高效摸鱼策略研究——以刷抖音为例
+【作者】: Mr.Shift
+【机构】: HomeStay University
+【zone】: latrine
+【时间】: 2026-03-03T07:08:11.560641+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6c69fc8d-7252-4ef0-b980-94bdd296f097",
+    "manuscript_title": "实习生工位高效摸鱼策略研究——以刷抖音为例",
+    "author_name": "Mr.Shift",
+    "institution": "HomeStay University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:08:11.560641+00:00",
+    "avg_score": 0,
+    "pdf_path": "6c69fc8d-7252-4ef0-b980-94bdd296f097/Mr_Shift_zzj1442265879_gmail_com.pdf",
+    "zone": "latrine"
+}

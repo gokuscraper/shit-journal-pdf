@@ -1,0 +1,19 @@
+【标题】: 基于角动量扰动理论的一级方程式大奖赛对地球自转周期影响的研究
+【作者】: tony小熊
+【机构】: STAY AT HOME UNIVERSITY
+【zone】: latrine
+【时间】: 2026-02-27T14:39:21.980122+00:00
+【评分】: 平均 4.173913043478261 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f81c93f0-c8f5-4840-9933-9926d0c231d4",
+    "manuscript_title": "基于角动量扰动理论的一级方程式大奖赛对地球自转周期影响的研究",
+    "author_name": "tony小熊",
+    "institution": "STAY AT HOME UNIVERSITY",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:39:21.980122+00:00",
+    "avg_score": 4.173913043478261,
+    "pdf_path": "f81c93f0-c8f5-4840-9933-9926d0c231d4/tony___zhangtianyi0311_outlook_com.pdf",
+    "zone": "latrine"
+}

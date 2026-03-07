@@ -1,0 +1,19 @@
+【标题】: 《当代爱情的不确定性原理：一项基于已读不回现象的准实验研究（含情绪灾变模拟）》
+【作者】: Yuu.
+【机构】: Northeastern University
+【zone】: latrine
+【时间】: 2026-02-24T00:21:46.35206+00:00
+【评分】: 平均 3.1666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "63a33773-55c5-4b88-8b4c-3d99047ceb9e",
+    "manuscript_title": "《当代爱情的不确定性原理：一项基于已读不回现象的准实验研究（含情绪灾变模拟）》",
+    "author_name": "Yuu.",
+    "institution": "Northeastern University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T00:21:46.35206+00:00",
+    "avg_score": 3.1666666666666665,
+    "pdf_path": "63a33773-55c5-4b88-8b4c-3d99047ceb9e/paper.pdf",
+    "zone": "latrine"
+}

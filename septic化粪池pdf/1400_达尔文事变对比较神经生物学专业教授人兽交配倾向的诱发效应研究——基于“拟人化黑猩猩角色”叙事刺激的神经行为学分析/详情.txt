@@ -1,0 +1,19 @@
+【标题】: 达尔文事变对比较神经生物学专业教授人兽交配倾向的诱发效应研究——基于“拟人化黑猩猩角色”叙事刺激的神经行为学分析
+【作者】: Brian Griffin
+【机构】: Pennis University 
+【zone】: septic
+【时间】: 2026-02-27T12:57:05.69288+00:00
+【评分】: 平均 4.783783783783784 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "19cb2086-aae1-4cb0-8288-ae1f6904860f",
+    "manuscript_title": "达尔文事变对比较神经生物学专业教授人兽交配倾向的诱发效应研究——基于“拟人化黑猩猩角色”叙事刺激的神经行为学分析",
+    "author_name": "Brian Griffin",
+    "institution": "Pennis University ",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-27T12:57:05.69288+00:00",
+    "avg_score": 4.783783783783784,
+    "pdf_path": "19cb2086-aae1-4cb0-8288-ae1f6904860f/Brian_Griffin_petergriffintianyi_gmail_com.pdf",
+    "zone": "septic"
+}

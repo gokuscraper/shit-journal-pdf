@@ -1,0 +1,19 @@
+【标题】: spa中亲密接触致使赛博飞升的体位教学 ——基于神力科莎争锋的案例分析
+【作者】: Boyo
+【机构】: BOYO Racing
+【zone】: sediment
+【时间】: 2026-03-02T10:07:54.600371+00:00
+【评分】: 平均 2.393939393939394 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "57f92c52-f583-4837-aad9-1ee1e102843e",
+    "manuscript_title": "spa中亲密接触致使赛博飞升的体位教学 ——基于神力科莎争锋的案例分析",
+    "author_name": "Boyo",
+    "institution": "BOYO Racing",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:07:54.600371+00:00",
+    "avg_score": 2.393939393939394,
+    "pdf_path": "57f92c52-f583-4837-aad9-1ee1e102843e/Boyo_3325457971_qq_com.pdf",
+    "zone": "sediment"
+}

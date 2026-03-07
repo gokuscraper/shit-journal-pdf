@@ -1,0 +1,19 @@
+【标题】: 如何评估具有创造力的荒谬？引入 S.H.I.T.-Bench 评估非传统研究
+【作者】: pooppping
+【机构】: 南京哪个大学
+【zone】: latrine
+【时间】: 2026-02-25T15:54:54.53118+00:00
+【评分】: 平均 2.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "20dff4d0-8800-4242-8594-56c9f5b8c1b5",
+    "manuscript_title": "如何评估具有创造力的荒谬？引入 S.H.I.T.-Bench 评估非传统研究",
+    "author_name": "pooppping",
+    "institution": "南京哪个大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T15:54:54.53118+00:00",
+    "avg_score": 2.75,
+    "pdf_path": "20dff4d0-8800-4242-8594-56c9f5b8c1b5/pooppping_roy-huang_live_cn.pdf",
+    "zone": "latrine"
+}

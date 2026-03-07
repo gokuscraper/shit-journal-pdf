@@ -1,0 +1,19 @@
+【标题】: 论火影忍者玩家语言系统的火语者指数（HRE）的跨模态语义涌现与推断：Coke与鸽子神的对照研究
+【作者】: 生鱼钵炖猪
+【机构】: Dick University
+【zone】: latrine
+【时间】: 2026-03-01T04:28:42.699454+00:00
+【评分】: 平均 5.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7c033f2f-ba01-4548-9a60-8f47f2bcda20",
+    "manuscript_title": "论火影忍者玩家语言系统的火语者指数（HRE）的跨模态语义涌现与推断：Coke与鸽子神的对照研究",
+    "author_name": "生鱼钵炖猪",
+    "institution": "Dick University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T04:28:42.699454+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "7c033f2f-ba01-4548-9a60-8f47f2bcda20/______498019721_qq_com.pdf",
+    "zone": "latrine"
+}

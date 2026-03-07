@@ -1,0 +1,19 @@
+【标题】: 阴间美联储的失控：手持式高频冥币发射器如何 导致冥界发生津巴布韦式恶性通胀
+【作者】: 阴伟达
+【机构】:  Wharton School of the University of Pennsylvania
+【zone】: latrine
+【时间】: 2026-02-28T07:14:32.175762+00:00
+【评分】: 平均 2.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "11826a8b-e450-428a-9c3d-9851679790cf",
+    "manuscript_title": "阴间美联储的失控：手持式高频冥币发射器如何 导致冥界发生津巴布韦式恶性通胀",
+    "author_name": "阴伟达",
+    "institution": " Wharton School of the University of Pennsylvania",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:14:32.175762+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "11826a8b-e450-428a-9c3d-9851679790cf/____chencynthia579_gmail_com.pdf",
+    "zone": "latrine"
+}

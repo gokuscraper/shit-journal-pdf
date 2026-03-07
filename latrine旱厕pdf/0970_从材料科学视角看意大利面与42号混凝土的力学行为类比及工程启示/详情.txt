@@ -1,0 +1,19 @@
+【标题】: 从材料科学视角看意大利面与42号混凝土的力学行为类比及工程启示
+【作者】: cc91x
+【机构】: 永新坊公共厕所
+【zone】: latrine
+【时间】: 2026-02-23T08:00:35.946616+00:00
+【评分】: 平均 1.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "56a75f24-394c-4dd8-b0cd-e16839b4d1e3",
+    "manuscript_title": "从材料科学视角看意大利面与42号混凝土的力学行为类比及工程启示",
+    "author_name": "cc91x",
+    "institution": "永新坊公共厕所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:00:35.946616+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "56a75f24-394c-4dd8-b0cd-e16839b4d1e3/paper.pdf",
+    "zone": "latrine"
+}

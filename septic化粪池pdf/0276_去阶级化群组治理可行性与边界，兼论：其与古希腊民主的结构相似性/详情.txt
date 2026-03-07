@@ -1,0 +1,19 @@
+【标题】: 去阶级化群组治理可行性与边界，兼论：其与古希腊民主的结构相似性
+【作者】: Dr. Idiot
+【机构】: University of SHIT
+【zone】: septic
+【时间】: 2026-02-27T11:50:11.384265+00:00
+【评分】: 平均 4.352941176470588 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ba37cde6-e9d0-42ec-ae08-46f982b02c7a",
+    "manuscript_title": "去阶级化群组治理可行性与边界，兼论：其与古希腊民主的结构相似性",
+    "author_name": "Dr. Idiot",
+    "institution": "University of SHIT",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T11:50:11.384265+00:00",
+    "avg_score": 4.352941176470588,
+    "pdf_path": "ba37cde6-e9d0-42ec-ae08-46f982b02c7a/Dr__Idiot_liuhanjie2009_outlook_com.pdf",
+    "zone": "septic"
+}

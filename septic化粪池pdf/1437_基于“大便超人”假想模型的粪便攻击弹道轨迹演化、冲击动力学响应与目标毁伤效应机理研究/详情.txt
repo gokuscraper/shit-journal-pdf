@@ -1,0 +1,19 @@
+【标题】: 基于“大便超人”假想模型的粪便攻击弹道轨迹演化、冲击动力学响应与目标毁伤效应机理研究 
+【作者】: Z.Y.Bullet
+【机构】: Doodie Institute
+【zone】: septic
+【时间】: 2026-02-27T02:51:05.885075+00:00
+【评分】: 平均 4.666666666666667 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "14bbc53c-5369-49e6-a0d7-5c451cbfd84b",
+    "manuscript_title": "基于“大便超人”假想模型的粪便攻击弹道轨迹演化、冲击动力学响应与目标毁伤效应机理研究 ",
+    "author_name": "Z.Y.Bullet",
+    "institution": "Doodie Institute",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T02:51:05.885075+00:00",
+    "avg_score": 4.666666666666667,
+    "pdf_path": "14bbc53c-5369-49e6-a0d7-5c451cbfd84b/Z_Y_Bullet_1664049336_qq_com.pdf",
+    "zone": "septic"
+}

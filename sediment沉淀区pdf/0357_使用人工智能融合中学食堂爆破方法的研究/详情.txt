@@ -1,0 +1,19 @@
+【标题】: 使用人工智能融合中学食堂爆破方法的研究
+【作者】: XTD_lcd
+【机构】: Hongfan University
+【zone】: sediment
+【时间】: 2026-03-02T14:30:25.451298+00:00
+【评分】: 平均 3.2954545454545454 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ae13c0a3-9666-4bb0-8090-f1bb31011a28",
+    "manuscript_title": "使用人工智能融合中学食堂爆破方法的研究",
+    "author_name": "XTD_lcd",
+    "institution": "Hongfan University",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T14:30:25.451298+00:00",
+    "avg_score": 3.2954545454545454,
+    "pdf_path": "ae13c0a3-9666-4bb0-8090-f1bb31011a28/XTD_lcd_xtd_lcd_hf001_unreal.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 中国青年虚无主义体验的形成机制与生命意义重建路径研究
+【作者】: Truth of the shit
+【机构】: The university of ED
+【zone】: stone
+【时间】: 2026-03-01T10:00:07.56179+00:00
+【评分】: 平均 4.887429643527205 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "7bce9b92-88ef-4f58-ad9b-e84850799939",
+    "manuscript_title": "中国青年虚无主义体验的形成机制与生命意义重建路径研究",
+    "author_name": "Truth of the shit",
+    "institution": "The university of ED",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-01T10:00:07.56179+00:00",
+    "avg_score": 4.887429643527205,
+    "pdf_path": "7bce9b92-88ef-4f58-ad9b-e84850799939/Truth_of_the_shit_Ashtonqwe_proton_me.pdf",
+    "zone": "stone"
+}

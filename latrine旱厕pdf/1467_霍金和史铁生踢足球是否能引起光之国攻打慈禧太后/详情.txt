@@ -1,0 +1,19 @@
+【标题】: 霍金和史铁生踢足球是否能引起光之国攻打慈禧太后
+【作者】: 贝利亚
+【机构】: 棍母大学
+【zone】: latrine
+【时间】: 2026-02-22T10:51:41.646514+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "108ddbae-0527-4051-9143-9600daff8e2d",
+    "manuscript_title": "霍金和史铁生踢足球是否能引起光之国攻打慈禧太后",
+    "author_name": "贝利亚",
+    "institution": "棍母大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T10:51:41.646514+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "108ddbae-0527-4051-9143-9600daff8e2d/paper.pdf",
+    "zone": "latrine"
+}

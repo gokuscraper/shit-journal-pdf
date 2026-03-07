@@ -1,0 +1,19 @@
+【标题】: 回收：窜稀时排出的湿软大便硬化回收回直肠的可行性
+【作者】: Dr.godshit
+【机构】: 消化生理工程研究
+【zone】: septic
+【时间】: 2026-02-25T07:30:07.161632+00:00
+【评分】: 平均 4.264705882352941 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1510de42-6c66-47fd-a02d-8e261963ef21",
+    "manuscript_title": "回收：窜稀时排出的湿软大便硬化回收回直肠的可行性",
+    "author_name": "Dr.godshit",
+    "institution": "消化生理工程研究",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-02-25T07:30:07.161632+00:00",
+    "avg_score": 4.264705882352941,
+    "pdf_path": "1510de42-6c66-47fd-a02d-8e261963ef21/Dr_godshit_adew12345_2023_qq_com.pdf",
+    "zone": "septic"
+}

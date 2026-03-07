@@ -1,0 +1,19 @@
+【标题】: 非确定性流体喷射：华莱士诱导下肛门括约肌功能障碍的复杂度分析
+【作者】: XBLY
+【机构】: 食物与排泄物计算研究所
+【zone】: septic
+【时间】: 2026-03-02T19:50:04.797003+00:00
+【评分】: 平均 4.766666666666667 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a3628c9c-cc44-4976-98eb-a2e820a8229b",
+    "manuscript_title": "非确定性流体喷射：华莱士诱导下肛门括约肌功能障碍的复杂度分析",
+    "author_name": "XBLY",
+    "institution": "食物与排泄物计算研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T19:50:04.797003+00:00",
+    "avg_score": 4.766666666666667,
+    "pdf_path": "a3628c9c-cc44-4976-98eb-a2e820a8229b/XBLY_1292745028_qq_com.pdf",
+    "zone": "septic"
+}

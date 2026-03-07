@@ -1,0 +1,19 @@
+【标题】: 我写的这篇到底是不是 S.H.I.T 论文？
+【作者】: SHITKING
+【机构】: University of Shit King
+【zone】: septic
+【时间】: 2026-02-28T15:31:08.287316+00:00
+【评分】: 平均 4.410958904109589 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "70649c40-9b61-4e95-8da0-2b289dc9ae38",
+    "manuscript_title": "我写的这篇到底是不是 S.H.I.T 论文？",
+    "author_name": "SHITKING",
+    "institution": "University of Shit King",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T15:31:08.287316+00:00",
+    "avg_score": 4.410958904109589,
+    "pdf_path": "70649c40-9b61-4e95-8da0-2b289dc9ae38/SHITKING_shitking2026_163_com.pdf",
+    "zone": "septic"
+}

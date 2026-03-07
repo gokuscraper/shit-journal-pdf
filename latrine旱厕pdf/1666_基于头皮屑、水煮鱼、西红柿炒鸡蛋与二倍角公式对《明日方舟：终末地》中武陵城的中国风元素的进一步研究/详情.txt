@@ -1,0 +1,19 @@
+【标题】: 基于头皮屑、水煮鱼、西红柿炒鸡蛋与二倍角公式对《明日方舟：终末地》中武陵城的中国风元素的进一步研究
+【作者】: Era Eve
+【机构】: No.4 Valley，China
+【zone】: latrine
+【时间】: 2026-03-03T10:44:11.380204+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ec210506-36d9-44d0-8422-cb734cb70657",
+    "manuscript_title": "基于头皮屑、水煮鱼、西红柿炒鸡蛋与二倍角公式对《明日方舟：终末地》中武陵城的中国风元素的进一步研究",
+    "author_name": "Era Eve",
+    "institution": "No.4 Valley，China",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T10:44:11.380204+00:00",
+    "avg_score": 0,
+    "pdf_path": "ec210506-36d9-44d0-8422-cb734cb70657/Era_Eve_2863262355_qq_com.pdf",
+    "zone": "latrine"
+}

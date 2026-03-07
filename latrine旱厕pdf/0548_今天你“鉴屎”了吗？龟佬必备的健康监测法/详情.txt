@@ -1,0 +1,19 @@
+【标题】: 今天你“鉴屎”了吗？龟佬必备的健康监测法
+【作者】: Daren Wang
+【机构】: Shit State University
+【zone】: latrine
+【时间】: 2026-02-27T08:36:31.800765+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "926028a2-8b10-40a4-af29-b1b37eed8a5e",
+    "manuscript_title": "今天你“鉴屎”了吗？龟佬必备的健康监测法",
+    "author_name": "Daren Wang",
+    "institution": "Shit State University",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-27T08:36:31.800765+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "926028a2-8b10-40a4-af29-b1b37eed8a5e/Daren_Wang_2514901438_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论老贝榨对于三角洲行动干员排便顺畅性的影响
+【作者】: e.g.pee
+【机构】: e.g.jiangnan university
+【zone】: latrine
+【时间】: 2026-02-23T12:56:28.676281+00:00
+【评分】: 平均 4.166666666666667 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "0f638559-7c55-4143-a3bc-c7ae5bb0e02c",
+    "manuscript_title": "论老贝榨对于三角洲行动干员排便顺畅性的影响",
+    "author_name": "e.g.pee",
+    "institution": "e.g.jiangnan university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:56:28.676281+00:00",
+    "avg_score": 4.166666666666667,
+    "pdf_path": "0f638559-7c55-4143-a3bc-c7ae5bb0e02c/paper.pdf",
+    "zone": "latrine"
+}

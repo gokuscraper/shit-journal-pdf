@@ -1,0 +1,19 @@
+【标题】: 双骄时代：基于职业生涯与成长背景的梅西、C罗比较分析
+【作者】: 逃离实验室的Arabidopsis
+【机构】: 川带农砖
+【zone】: latrine
+【时间】: 2026-03-03T08:22:29.588328+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a3272685-3d5d-451a-a46e-f9980cd33fb6",
+    "manuscript_title": "双骄时代：基于职业生涯与成长背景的梅西、C罗比较分析",
+    "author_name": "逃离实验室的Arabidopsis",
+    "institution": "川带农砖",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T08:22:29.588328+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "a3272685-3d5d-451a-a46e-f9980cd33fb6/______Arabidopsis_1172872602_qq_com.pdf",
+    "zone": "latrine"
+}

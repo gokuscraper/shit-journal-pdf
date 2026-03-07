@@ -1,0 +1,19 @@
+【标题】: 肠道蠕动与地缘政治：东罗马帝国晚期君主排泄频率对奥斯曼帝国崛起之非线性动力学影响研究
+【作者】: S.B.Shiter
+【机构】: Aminos National University
+【zone】: septic
+【时间】: 2026-03-02T11:56:08.14303+00:00
+【评分】: 平均 4.55 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b5893628-3bae-42dc-a561-643ca6cb7cd1",
+    "manuscript_title": "肠道蠕动与地缘政治：东罗马帝国晚期君主排泄频率对奥斯曼帝国崛起之非线性动力学影响研究",
+    "author_name": "S.B.Shiter",
+    "institution": "Aminos National University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T11:56:08.14303+00:00",
+    "avg_score": 4.55,
+    "pdf_path": "b5893628-3bae-42dc-a561-643ca6cb7cd1/S_B_Shiter_lmy040607_163_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: BanG Dream玩家寿命高于三国杀玩家
+【作者】: 洛天依の狗
+【机构】: 花咲川中专
+【zone】: latrine
+【时间】: 2026-02-21T18:55:58.856172+00:00
+【评分】: 平均 3.75 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ec57a5e6-f98d-491d-ba51-393a60795fa7",
+    "manuscript_title": "BanG Dream玩家寿命高于三国杀玩家",
+    "author_name": "洛天依の狗",
+    "institution": "花咲川中专",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-02-21T18:55:58.856172+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "ec57a5e6-f98d-491d-ba51-393a60795fa7/paper.pdf",
+    "zone": "latrine"
+}

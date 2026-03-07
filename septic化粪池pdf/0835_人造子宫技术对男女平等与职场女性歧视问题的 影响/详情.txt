@@ -1,0 +1,19 @@
+【标题】: 人造子宫技术对男女平等与职场女性歧视问题的 影响
+【作者】: relx5
+【机构】: TJU
+【zone】: septic
+【时间】: 2026-03-02T13:06:38.229519+00:00
+【评分】: 平均 4.538461538461538 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "68dc6c92-784f-4f64-ae71-4c0107778043",
+    "manuscript_title": "人造子宫技术对男女平等与职场女性歧视问题的 影响",
+    "author_name": "relx5",
+    "institution": "TJU",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T13:06:38.229519+00:00",
+    "avg_score": 4.538461538461538,
+    "pdf_path": "68dc6c92-784f-4f64-ae71-4c0107778043/relx5_gyh50650_163_com.pdf",
+    "zone": "septic"
+}

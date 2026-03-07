@@ -1,0 +1,19 @@
+【标题】: 职场非线性劳动力再生产（NLR）对宏观经济增长的内生性贡献研究
+【作者】: 摸鱼界的苏格拉底
+【机构】: Institute of Fish-Touching
+【zone】: septic
+【时间】: 2026-03-03T14:25:54.969486+00:00
+【评分】: 平均 3.857142857142857 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f6ad6ad7-ac4e-4a09-9298-170927453bbe",
+    "manuscript_title": "职场非线性劳动力再生产（NLR）对宏观经济增长的内生性贡献研究",
+    "author_name": "摸鱼界的苏格拉底",
+    "institution": "Institute of Fish-Touching",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T14:25:54.969486+00:00",
+    "avg_score": 3.857142857142857,
+    "pdf_path": "f6ad6ad7-ac4e-4a09-9298-170927453bbe/_________ilyafta_gmail_com.pdf",
+    "zone": "septic"
+}

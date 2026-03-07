@@ -1,0 +1,19 @@
+【标题】: 豆包也能成为构石吗
+【作者】: khaire
+【机构】: 白馒头豆包店
+【zone】: latrine
+【时间】: 2026-03-03T09:30:56.475641+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "039baa8f-cbbb-458b-a208-31b37f7974b6",
+    "manuscript_title": "豆包也能成为构石吗",
+    "author_name": "khaire",
+    "institution": "白馒头豆包店",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T09:30:56.475641+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "039baa8f-cbbb-458b-a208-31b37f7974b6/khaire_khaire9315_gmail_com.pdf",
+    "zone": "latrine"
+}

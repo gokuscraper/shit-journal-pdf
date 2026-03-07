@@ -1,0 +1,19 @@
+【标题】: 基于人类排泄物对大肠菌群逆向研究的理论可行性研究
+【作者】: 凡世豪
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-02-23T06:28:29.42312+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "dd3fe786-0220-4775-9471-b468be68ef00",
+    "manuscript_title": "基于人类排泄物对大肠菌群逆向研究的理论可行性研究",
+    "author_name": "凡世豪",
+    "institution": "屎壳郎大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T06:28:29.42312+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "dd3fe786-0220-4775-9471-b468be68ef00/paper.pdf",
+    "zone": "latrine"
+}

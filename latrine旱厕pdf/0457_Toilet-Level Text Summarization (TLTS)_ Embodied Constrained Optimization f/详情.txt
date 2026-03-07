@@ -1,0 +1,19 @@
+【标题】: Toilet-Level Text Summarization (TLTS): Embodied Constrained Optimization for Micro-Duration Information Allocation
+【作者】: Toiletの上の沉思者
+【机构】: Hong Kong MultiShit Univeristy
+【zone】: latrine
+【时间】: 2026-02-23T18:32:54.9738+00:00
+【评分】: 平均 2.3333333333333335 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a0d301af-2d73-43c1-a8b8-0f60668d476f",
+    "manuscript_title": "Toilet-Level Text Summarization (TLTS): Embodied Constrained Optimization for Micro-Duration Information Allocation",
+    "author_name": "Toiletの上の沉思者",
+    "institution": "Hong Kong MultiShit Univeristy",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T18:32:54.9738+00:00",
+    "avg_score": 2.3333333333333335,
+    "pdf_path": "a0d301af-2d73-43c1-a8b8-0f60668d476f/paper.pdf",
+    "zone": "latrine"
+}

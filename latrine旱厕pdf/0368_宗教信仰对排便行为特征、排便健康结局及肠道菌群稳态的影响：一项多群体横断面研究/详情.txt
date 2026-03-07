@@ -1,0 +1,19 @@
+【标题】: 宗教信仰对排便行为特征、排便健康结局及肠道菌群稳态的影响：一项多群体横断面研究
+【作者】: cntyo 
+【机构】: 东京大学
+【zone】: latrine
+【时间】: 2026-02-25T04:46:52.121487+00:00
+【评分】: 平均 3.2222222222222223 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ac809264-a0ea-4d02-953f-0d6cf01ba281",
+    "manuscript_title": "宗教信仰对排便行为特征、排便健康结局及肠道菌群稳态的影响：一项多群体横断面研究",
+    "author_name": "cntyo ",
+    "institution": "东京大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:46:52.121487+00:00",
+    "avg_score": 3.2222222222222223,
+    "pdf_path": "ac809264-a0ea-4d02-953f-0d6cf01ba281/cntyo__3979264541_qq_com.pdf",
+    "zone": "latrine"
+}

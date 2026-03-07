@@ -1,0 +1,19 @@
+【标题】: 大便是人类意识形态的结合
+【作者】: 海绵1223
+【机构】: 皮城大学
+【zone】: latrine
+【时间】: 2026-02-23T08:15:24.043628+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "86cb1f20-4463-4251-a1df-6a7f4f5deb04",
+    "manuscript_title": "大便是人类意识形态的结合",
+    "author_name": "海绵1223",
+    "institution": "皮城大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:15:24.043628+00:00",
+    "avg_score": 0,
+    "pdf_path": "86cb1f20-4463-4251-a1df-6a7f4f5deb04/paper.pdf",
+    "zone": "latrine"
+}

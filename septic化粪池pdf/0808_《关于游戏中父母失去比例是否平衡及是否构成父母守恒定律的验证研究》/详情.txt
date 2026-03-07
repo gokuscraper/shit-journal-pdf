@@ -1,0 +1,19 @@
+【标题】: 《关于游戏中父母失去比例是否平衡及是否构成父母守恒定律的验证研究》
+【作者】: Alvis Junyi Zhou
+【机构】: 比比拉布社会研究大学
+【zone】: septic
+【时间】: 2026-02-25T08:31:01.578202+00:00
+【评分】: 平均 3.8484848484848486 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6c37f0b9-b88d-4f54-86ca-5bd318189d53",
+    "manuscript_title": "《关于游戏中父母失去比例是否平衡及是否构成父母守恒定律的验证研究》",
+    "author_name": "Alvis Junyi Zhou",
+    "institution": "比比拉布社会研究大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:31:01.578202+00:00",
+    "avg_score": 3.8484848484848486,
+    "pdf_path": "6c37f0b9-b88d-4f54-86ca-5bd318189d53/Alvis_Junyi_Zhou_548515109_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 大学宿舍最后上床者的熄灯困境一项关于黑暗、权力与集体无意识的权力博弈结构
+【作者】: 拉不出三斤shit
+【机构】: 马来西亚北方大学
+【zone】: latrine
+【时间】: 2026-02-28T15:42:11.41346+00:00
+【评分】: 平均 2.6875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "300ebe65-c1b6-49a7-a864-c97636fea56f",
+    "manuscript_title": "大学宿舍最后上床者的熄灯困境一项关于黑暗、权力与集体无意识的权力博弈结构",
+    "author_name": "拉不出三斤shit",
+    "institution": "马来西亚北方大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T15:42:11.41346+00:00",
+    "avg_score": 2.6875,
+    "pdf_path": "300ebe65-c1b6-49a7-a864-c97636fea56f/_____shit_1796411259_qq_com.pdf",
+    "zone": "latrine"
+}

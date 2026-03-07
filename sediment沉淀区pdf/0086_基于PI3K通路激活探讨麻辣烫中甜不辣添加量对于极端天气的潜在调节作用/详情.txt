@@ -1,0 +1,19 @@
+【标题】: 基于PI3K通路激活探讨麻辣烫中甜不辣添加量对于极端天气的潜在调节作用
+【作者】: 拥有拖车的菖蒲
+【机构】: 长城大学
+【zone】: sediment
+【时间】: 2026-03-02T13:51:32.015522+00:00
+【评分】: 平均 3.7317073170731705 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d5bbfa85-501e-45e7-ba5c-df70bb607f0a",
+    "manuscript_title": "基于PI3K通路激活探讨麻辣烫中甜不辣添加量对于极端天气的潜在调节作用",
+    "author_name": "拥有拖车的菖蒲",
+    "institution": "长城大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T13:51:32.015522+00:00",
+    "avg_score": 3.7317073170731705,
+    "pdf_path": "d5bbfa85-501e-45e7-ba5c-df70bb607f0a/________yyzhang92-c_my_cityu_edu_hk.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 黄金王座影响下战锤40K人类帝国的社会进步性研究
+【作者】: Dear.屎大颗
+【机构】: 加里敦大学（University of Garyton）
+【zone】: sediment
+【时间】: 2026-03-03T00:33:57.090386+00:00
+【评分】: 平均 2.9814814814814814 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ee8f0ce6-1bce-4f51-a76e-65e992076a30",
+    "manuscript_title": "黄金王座影响下战锤40K人类帝国的社会进步性研究",
+    "author_name": "Dear.屎大颗",
+    "institution": "加里敦大学（University of Garyton）",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T00:33:57.090386+00:00",
+    "avg_score": 2.9814814814814814,
+    "pdf_path": "ee8f0ce6-1bce-4f51-a76e-65e992076a30/Dear_____zhoufangxv2000_163_com.pdf",
+    "zone": "sediment"
+}

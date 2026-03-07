@@ -1,0 +1,19 @@
+【标题】: 随着温度的升高，肉制品会越煮越硬
+【作者】: 屎尿屁三态转换主宰
+【机构】: 达不溜c大学
+【zone】: latrine
+【时间】: 2026-02-23T12:29:10.597241+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fea68f47-be19-442c-b763-7825fd36598d",
+    "manuscript_title": "随着温度的升高，肉制品会越煮越硬",
+    "author_name": "屎尿屁三态转换主宰",
+    "institution": "达不溜c大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:29:10.597241+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "fea68f47-be19-442c-b763-7825fd36598d/paper.pdf",
+    "zone": "latrine"
+}

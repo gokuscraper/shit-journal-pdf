@@ -1,0 +1,19 @@
+【标题】: From Excrement to Edibility  A Recursive Study on the Circulation of Structured Academic Residue
+【作者】: 厕所老八
+【机构】: 佩奇大学
+【zone】: latrine
+【时间】: 2026-02-23T01:00:45.387071+00:00
+【评分】: 平均 2.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "25f3bc09-1754-42c5-b760-21a3290b40f6",
+    "manuscript_title": "From Excrement to Edibility  A Recursive Study on the Circulation of Structured Academic Residue",
+    "author_name": "厕所老八",
+    "institution": "佩奇大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T01:00:45.387071+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "25f3bc09-1754-42c5-b760-21a3290b40f6/paper.pdf",
+    "zone": "latrine"
+}

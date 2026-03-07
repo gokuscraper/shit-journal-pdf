@@ -1,0 +1,19 @@
+【标题】: 基于多物理场耦合的虹便（SHIT）冲挂现象动力学分析及对策研究
+【作者】: Dr Meng
+【机构】: 广东省佛山市华材职业技术学校
+【zone】: latrine
+【时间】: 2026-02-25T07:24:06.546981+00:00
+【评分】: 平均 4.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1ebae90f-b3b5-4bec-9dfa-4399f3911418",
+    "manuscript_title": "基于多物理场耦合的虹便（SHIT）冲挂现象动力学分析及对策研究",
+    "author_name": "Dr Meng",
+    "institution": "广东省佛山市华材职业技术学校",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:24:06.546981+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "1ebae90f-b3b5-4bec-9dfa-4399f3911418/Dr_Meng_mengxiaolang2010_gmail_com.pdf",
+    "zone": "latrine"
+}

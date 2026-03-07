@@ -1,0 +1,19 @@
+【标题】: 入学后排便模式改变与学术环境压力的关联：一项基于问卷的横断面研究
+【作者】: BCM屎王
+【机构】: 鲁村村东公共厕所
+【zone】: latrine
+【时间】: 2026-02-28T12:57:41.830358+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f87c68d8-b104-447b-a931-8cd249d523b9",
+    "manuscript_title": "入学后排便模式改变与学术环境压力的关联：一项基于问卷的横断面研究",
+    "author_name": "BCM屎王",
+    "institution": "鲁村村东公共厕所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T12:57:41.830358+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "f87c68d8-b104-447b-a931-8cd249d523b9/BCM___kingofshit_gmail_com.pdf",
+    "zone": "latrine"
+}

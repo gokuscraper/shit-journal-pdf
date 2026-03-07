@@ -1,0 +1,19 @@
+【标题】: 融合时序轨迹与49维特征反演的双色球开奖预测模型：一项关于隐藏规律的探索
+【作者】: meat Wang
+【机构】: 山东柯基大学
+【zone】: latrine
+【时间】: 2026-02-20T13:32:37.865053+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3e4032ea-b20f-4c9d-82ac-c82fcb037106",
+    "manuscript_title": "融合时序轨迹与49维特征反演的双色球开奖预测模型：一项关于隐藏规律的探索",
+    "author_name": "meat Wang",
+    "institution": "山东柯基大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T13:32:37.865053+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "3e4032ea-b20f-4c9d-82ac-c82fcb037106/paper.pdf",
+    "zone": "latrine"
+}

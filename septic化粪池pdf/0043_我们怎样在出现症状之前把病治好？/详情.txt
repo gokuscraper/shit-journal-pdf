@@ -1,0 +1,19 @@
+【标题】: 我们怎样在出现症状之前把病治好？
+【作者】: Leon si E'lean
+【机构】: 里昂西厄林思想研究院
+【zone】: septic
+【时间】: 2026-03-01T17:52:30.888316+00:00
+【评分】: 平均 4.181818181818182 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "db1b7c91-fc65-4243-ab79-626d93b0c3b3",
+    "manuscript_title": "我们怎样在出现症状之前把病治好？",
+    "author_name": "Leon si E'lean",
+    "institution": "里昂西厄林思想研究院",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-03-01T17:52:30.888316+00:00",
+    "avg_score": 4.181818181818182,
+    "pdf_path": "db1b7c91-fc65-4243-ab79-626d93b0c3b3/Leon_si_E_lean_2181965889_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于Herschel–Bulkley模型的人类排泄物非牛顿流变参数反演与临界屈服应力识别方法
+【作者】: 我是吃屎大王
+【机构】: 逐海具身科技
+【zone】: latrine
+【时间】: 2026-02-28T10:17:31.569216+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "25f6ca92-901e-4121-b955-00c675413b28",
+    "manuscript_title": "基于Herschel–Bulkley模型的人类排泄物非牛顿流变参数反演与临界屈服应力识别方法",
+    "author_name": "我是吃屎大王",
+    "institution": "逐海具身科技",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T10:17:31.569216+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "25f6ca92-901e-4121-b955-00c675413b28/_______humphreywangsina_outlook_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 鞭尸和打团的对立：第五人格rxz与txz百年之争与游戏平衡性的研究
+【作者】: 聆春意
+【机构】: North Market Slope Medical College 
+【zone】: septic
+【时间】: 2026-03-02T15:34:57.825526+00:00
+【评分】: 平均 4.603174603174603 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "855def3d-aa2f-4ad4-8aef-d3a5d8e1f7b9",
+    "manuscript_title": "鞭尸和打团的对立：第五人格rxz与txz百年之争与游戏平衡性的研究",
+    "author_name": "聆春意",
+    "institution": "North Market Slope Medical College ",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T15:34:57.825526+00:00",
+    "avg_score": 4.603174603174603,
+    "pdf_path": "855def3d-aa2f-4ad4-8aef-d3a5d8e1f7b9/____3077126458_qq_com.pdf",
+    "zone": "septic"
+}

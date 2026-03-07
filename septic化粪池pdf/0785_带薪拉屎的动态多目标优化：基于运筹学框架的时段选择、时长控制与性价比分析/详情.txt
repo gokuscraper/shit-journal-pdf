@@ -1,0 +1,19 @@
+【标题】: 带薪拉屎的动态多目标优化：基于运筹学框架的时段选择、时长控制与性价比分析
+【作者】: Shark Chilli
+【机构】: 不详
+【zone】: septic
+【时间】: 2026-03-02T03:40:09.394544+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "6f6ef811-a787-4c17-98b7-57fd1100415a",
+    "manuscript_title": "带薪拉屎的动态多目标优化：基于运筹学框架的时段选择、时长控制与性价比分析",
+    "author_name": "Shark Chilli",
+    "institution": "不详",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T03:40:09.394544+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "6f6ef811-a787-4c17-98b7-57fd1100415a/Shark_Chilli_1634204490_qq_com.pdf",
+    "zone": "septic"
+}

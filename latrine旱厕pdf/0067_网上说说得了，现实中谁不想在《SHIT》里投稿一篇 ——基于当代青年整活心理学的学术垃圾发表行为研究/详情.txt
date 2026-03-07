@@ -1,0 +1,19 @@
+【标题】: 网上说说得了，现实中谁不想在《SHIT》里投稿一篇 ——基于当代青年整活心理学的学术垃圾发表行为研究
+【作者】: 饿死鬼
+【机构】: WC University
+【zone】: latrine
+【时间】: 2026-03-03T09:46:47.01871+00:00
+【评分】: 平均 5.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d7fb1811-0d70-4980-9ac6-1e86bfd88ddf",
+    "manuscript_title": "网上说说得了，现实中谁不想在《SHIT》里投稿一篇 ——基于当代青年整活心理学的学术垃圾发表行为研究",
+    "author_name": "饿死鬼",
+    "institution": "WC University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T09:46:47.01871+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "d7fb1811-0d70-4980-9ac6-1e86bfd88ddf/____3236858008_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 娱乐圈打嗝现象的跨文化符号学研究：从物理振动到精神启示的猎奇之旅
+【作者】: 当归shit
+【机构】: 嘉丽敦大学
+【zone】: latrine
+【时间】: 2026-02-25T09:07:48.360856+00:00
+【评分】: 平均 2.4 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a66f5b39-2e14-4bae-bcc8-ba21a5c0576e",
+    "manuscript_title": "娱乐圈打嗝现象的跨文化符号学研究：从物理振动到精神启示的猎奇之旅",
+    "author_name": "当归shit",
+    "institution": "嘉丽敦大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T09:07:48.360856+00:00",
+    "avg_score": 2.4,
+    "pdf_path": "a66f5b39-2e14-4bae-bcc8-ba21a5c0576e/__shit_m13294436117_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 《三角洲行动——栓动狙击步枪当前版本效能与局限探究》
+【作者】: 西南大苍蝇
+【机构】: GTI联合研究院
+【zone】: latrine
+【时间】: 2026-03-03T07:11:22.067637+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "eebc005c-1946-4f17-9a41-c002d280b54b",
+    "manuscript_title": "《三角洲行动——栓动狙击步枪当前版本效能与局限探究》",
+    "author_name": "西南大苍蝇",
+    "institution": "GTI联合研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:11:22.067637+00:00",
+    "avg_score": 0,
+    "pdf_path": "eebc005c-1946-4f17-9a41-c002d280b54b/______1289414872_qq_com.pdf",
+    "zone": "latrine"
+}

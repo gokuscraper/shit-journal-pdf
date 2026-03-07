@@ -1,0 +1,19 @@
+【标题】: 舔狗行为的最优停止问题: 基于动态规划与蒙 特卡洛模拟的情感投资回报研究
+【作者】: 人善被人欺
+【机构】: AAA北美舔狗研究院
+【zone】: septic
+【时间】: 2026-03-03T01:49:48.178474+00:00
+【评分】: 平均 4.672727272727273 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "90f7a69c-4aa1-4dd7-b09a-9ca3af4946c3",
+    "manuscript_title": "舔狗行为的最优停止问题: 基于动态规划与蒙 特卡洛模拟的情感投资回报研究",
+    "author_name": "人善被人欺",
+    "institution": "AAA北美舔狗研究院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T01:49:48.178474+00:00",
+    "avg_score": 4.672727272727273,
+    "pdf_path": "90f7a69c-4aa1-4dd7-b09a-9ca3af4946c3/______jahuang2007_gmail_com.pdf",
+    "zone": "septic"
+}

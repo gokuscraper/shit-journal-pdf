@@ -1,0 +1,19 @@
+【标题】: 论不同空间维度下物体的运动关系
+【作者】: 六边形科学
+【机构】: 全能科学院
+【zone】: latrine
+【时间】: 2026-02-27T06:05:32.797086+00:00
+【评分】: 平均 3.6153846153846154 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "78ab68f5-49d8-44eb-81ab-3ea34097f380",
+    "manuscript_title": "论不同空间维度下物体的运动关系",
+    "author_name": "六边形科学",
+    "institution": "全能科学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T06:05:32.797086+00:00",
+    "avg_score": 3.6153846153846154,
+    "pdf_path": "78ab68f5-49d8-44eb-81ab-3ea34097f380/______1209884898_qq_com.pdf",
+    "zone": "latrine"
+}

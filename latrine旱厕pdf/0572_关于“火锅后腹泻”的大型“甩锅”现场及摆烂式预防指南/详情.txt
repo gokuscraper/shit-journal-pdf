@@ -1,0 +1,19 @@
+【标题】: 关于“火锅后腹泻”的大型“甩锅”现场及摆烂式预防指南
+【作者】: poop
+【机构】: xxxxxxx
+【zone】: latrine
+【时间】: 2026-02-27T06:38:43.007229+00:00
+【评分】: 平均 3.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8e27a87c-c15c-45e8-ad7f-3279bd4e10b2",
+    "manuscript_title": "关于“火锅后腹泻”的大型“甩锅”现场及摆烂式预防指南",
+    "author_name": "poop",
+    "institution": "xxxxxxx",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T06:38:43.007229+00:00",
+    "avg_score": 3.5,
+    "pdf_path": "8e27a87c-c15c-45e8-ad7f-3279bd4e10b2/poop_3635865415_qq_com.pdf",
+    "zone": "latrine"
+}

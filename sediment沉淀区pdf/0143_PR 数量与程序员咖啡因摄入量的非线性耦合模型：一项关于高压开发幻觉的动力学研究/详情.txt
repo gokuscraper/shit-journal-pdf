@@ -1,0 +1,19 @@
+【标题】: PR 数量与程序员咖啡因摄入量的非线性耦合模型：一项关于高压开发幻觉的动力学研究
+【作者】: huntyi
+【机构】: 西南人才库
+【zone】: sediment
+【时间】: 2026-03-03T03:13:58.130936+00:00
+【评分】: 平均 3.71875 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "cdd6bb12-e6d6-4abc-8825-518b032e44d0",
+    "manuscript_title": "PR 数量与程序员咖啡因摄入量的非线性耦合模型：一项关于高压开发幻觉的动力学研究",
+    "author_name": "huntyi",
+    "institution": "西南人才库",
+    "viscosity": "semi",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T03:13:58.130936+00:00",
+    "avg_score": 3.71875,
+    "pdf_path": "cdd6bb12-e6d6-4abc-8825-518b032e44d0/huntyi_huntyi_linux_do.pdf",
+    "zone": "sediment"
+}

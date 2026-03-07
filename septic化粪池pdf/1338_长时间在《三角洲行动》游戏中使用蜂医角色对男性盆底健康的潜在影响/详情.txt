@@ -1,0 +1,19 @@
+【标题】: 长时间在《三角洲行动》游戏中使用蜂医角色对男性盆底健康的潜在影响
+【作者】: Dr.Chujicheng
+【机构】: wei fang  412
+【zone】: septic
+【时间】: 2026-03-02T14:28:00.050923+00:00
+【评分】: 平均 4.170212765957447 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "21ca3a98-ea60-45af-b2a0-d8a1fbd60b65",
+    "manuscript_title": "长时间在《三角洲行动》游戏中使用蜂医角色对男性盆底健康的潜在影响",
+    "author_name": "Dr.Chujicheng",
+    "institution": "wei fang  412",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-03-02T14:28:00.050923+00:00",
+    "avg_score": 4.170212765957447,
+    "pdf_path": "21ca3a98-ea60-45af-b2a0-d8a1fbd60b65/Dr_Chujicheng_17861528090_163_com.pdf",
+    "zone": "septic"
+}

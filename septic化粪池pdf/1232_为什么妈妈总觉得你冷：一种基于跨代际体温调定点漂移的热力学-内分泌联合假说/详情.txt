@@ -1,0 +1,19 @@
+【标题】: 为什么妈妈总觉得你冷：一种基于跨代际体温调定点漂移的热力学-内分泌联合假说
+【作者】: Ramil
+【机构】: Wild Chicken University
+【zone】: septic
+【时间】: 2026-03-02T09:36:06.513706+00:00
+【评分】: 平均 4.578947368421052 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2fb64344-7032-4997-9dcc-61f5e07500e1",
+    "manuscript_title": "为什么妈妈总觉得你冷：一种基于跨代际体温调定点漂移的热力学-内分泌联合假说",
+    "author_name": "Ramil",
+    "institution": "Wild Chicken University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T09:36:06.513706+00:00",
+    "avg_score": 4.578947368421052,
+    "pdf_path": "2fb64344-7032-4997-9dcc-61f5e07500e1/Ramil_489535663_qq_com.pdf",
+    "zone": "septic"
+}

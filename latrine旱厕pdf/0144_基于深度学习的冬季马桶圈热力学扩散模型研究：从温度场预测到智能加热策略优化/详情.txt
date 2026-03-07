@@ -1,0 +1,19 @@
+【标题】: 基于深度学习的冬季马桶圈热力学扩散模型研究：从温度场预测到智能加热策略优化
+【作者】: wey pee
+【机构】: 中国排泄科学院工程热物理研究所
+【zone】: latrine
+【时间】: 2026-02-25T16:56:04.229864+00:00
+【评分】: 平均 3.9 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cdad08ce-b7d7-4504-a92b-c670d7e22ad0",
+    "manuscript_title": "基于深度学习的冬季马桶圈热力学扩散模型研究：从温度场预测到智能加热策略优化",
+    "author_name": "wey pee",
+    "institution": "中国排泄科学院工程热物理研究所",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-02-25T16:56:04.229864+00:00",
+    "avg_score": 3.9,
+    "pdf_path": "cdad08ce-b7d7-4504-a92b-c670d7e22ad0/wey_pee_maguotong20001202_163_com.pdf",
+    "zone": "latrine"
+}

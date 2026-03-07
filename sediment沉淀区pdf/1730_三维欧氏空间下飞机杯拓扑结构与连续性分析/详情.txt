@@ -1,0 +1,19 @@
+【标题】: 三维欧氏空间下飞机杯拓扑结构与连续性分析
+【作者】: iweon
+【机构】: BONSUN
+【zone】: sediment
+【时间】: 2026-03-03T01:04:54.835159+00:00
+【评分】: 平均 3.367088607594937 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "f7bde2c4-6d24-41eb-af00-cfb401a8079e",
+    "manuscript_title": "三维欧氏空间下飞机杯拓扑结构与连续性分析",
+    "author_name": "iweon",
+    "institution": "BONSUN",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T01:04:54.835159+00:00",
+    "avg_score": 3.367088607594937,
+    "pdf_path": "f7bde2c4-6d24-41eb-af00-cfb401a8079e/iweon_569697108_qq_com.pdf",
+    "zone": "sediment"
+}

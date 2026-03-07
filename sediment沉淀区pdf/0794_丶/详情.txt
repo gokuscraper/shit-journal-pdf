@@ -1,0 +1,19 @@
+【标题】: 丶
+【作者】: …
+【机构】: ∴
+【zone】: sediment
+【时间】: 2026-02-24T15:21:13.971101+00:00
+【评分】: 平均 1.9333333333333333 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6e17634f-3fce-4302-a965-dad849218911",
+    "manuscript_title": "丶",
+    "author_name": "…",
+    "institution": "∴",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T15:21:13.971101+00:00",
+    "avg_score": 1.9333333333333333,
+    "pdf_path": "6e17634f-3fce-4302-a965-dad849218911/paper.pdf",
+    "zone": "sediment"
+}

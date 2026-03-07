@@ -1,0 +1,19 @@
+【标题】: 论限制16岁以下未成年人上网的合理性与必要性 ——基于神经法学、数字存在论与认知免疫学的跨学科研究
+【作者】: Stewart Griffin
+【机构】: Hangzhou G.T.I Institute
+【zone】: septic
+【时间】: 2026-03-02T11:46:11.252154+00:00
+【评分】: 平均 4.764705882352941 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "4b9b9d98-a9c2-45cd-8e38-29b3fde6ba8b",
+    "manuscript_title": "论限制16岁以下未成年人上网的合理性与必要性 ——基于神经法学、数字存在论与认知免疫学的跨学科研究",
+    "author_name": "Stewart Griffin",
+    "institution": "Hangzhou G.T.I Institute",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T11:46:11.252154+00:00",
+    "avg_score": 4.764705882352941,
+    "pdf_path": "4b9b9d98-a9c2-45cd-8e38-29b3fde6ba8b/Stewart_Griffin_krianov_official_outlook_com.pdf",
+    "zone": "septic"
+}

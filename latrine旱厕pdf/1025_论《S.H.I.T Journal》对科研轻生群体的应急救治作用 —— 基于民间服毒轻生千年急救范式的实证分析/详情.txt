@@ -1,0 +1,19 @@
+【标题】: 论《S.H.I.T Journal》对科研轻生群体的应急救治作用 —— 基于民间服毒轻生千年急救范式的实证分析
+【作者】: 粪粪不平
+【机构】: Z&K University
+【zone】: latrine
+【时间】: 2026-02-28T15:00:32.807599+00:00
+【评分】: 平均 4.6923076923076925 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4f01cae2-1a00-4ce4-b0d5-ffa26de564ca",
+    "manuscript_title": "论《S.H.I.T Journal》对科研轻生群体的应急救治作用 —— 基于民间服毒轻生千年急救范式的实证分析",
+    "author_name": "粪粪不平",
+    "institution": "Z&K University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T15:00:32.807599+00:00",
+    "avg_score": 4.6923076923076925,
+    "pdf_path": "4f01cae2-1a00-4ce4-b0d5-ffa26de564ca/_____iakoug_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 声纹 - 视觉耦合元模型的跨域范式迁移： 鸡你太美标志性符号体系对全球说唱表演与篮球竞技体系的结构性影响研究
+【作者】: 酯铟铌钛镁
+【机构】: 鸡尼大学
+【zone】: latrine
+【时间】: 2026-02-28T08:45:37.206+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "f9b41419-cc2d-42dc-83cd-cc7358b7fc44",
+    "manuscript_title": "声纹 - 视觉耦合元模型的跨域范式迁移： 鸡你太美标志性符号体系对全球说唱表演与篮球竞技体系的结构性影响研究",
+    "author_name": "酯铟铌钛镁",
+    "institution": "鸡尼大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:45:37.206+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "f9b41419-cc2d-42dc-83cd-cc7358b7fc44/______kevshishi_foxmail_com.pdf",
+    "zone": "latrine"
+}

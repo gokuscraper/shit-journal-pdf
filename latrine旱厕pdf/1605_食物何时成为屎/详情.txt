@@ -1,0 +1,19 @@
+【标题】: 食物何时成为屎
+【作者】: Jay Chong
+【机构】: 国立首尔大学
+【zone】: latrine
+【时间】: 2026-02-23T10:06:46.974248+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e3632200-e4cf-4cca-a653-c36be67a4007",
+    "manuscript_title": "食物何时成为屎",
+    "author_name": "Jay Chong",
+    "institution": "国立首尔大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:06:46.974248+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "e3632200-e4cf-4cca-a653-c36be67a4007/paper.pdf",
+    "zone": "latrine"
+}

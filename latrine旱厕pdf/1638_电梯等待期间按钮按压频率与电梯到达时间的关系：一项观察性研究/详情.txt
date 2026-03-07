@@ -1,0 +1,19 @@
+【标题】: 电梯等待期间按钮按压频率与电梯到达时间的关系：一项观察性研究
+【作者】: 方便面
+【机构】: University of Latrine
+【zone】: latrine
+【时间】: 2026-02-23T09:05:22.594747+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e7218279-bc85-40ec-ac41-af336da36048",
+    "manuscript_title": "电梯等待期间按钮按压频率与电梯到达时间的关系：一项观察性研究",
+    "author_name": "方便面",
+    "institution": "University of Latrine",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:05:22.594747+00:00",
+    "avg_score": 0,
+    "pdf_path": "e7218279-bc85-40ec-ac41-af336da36048/paper.pdf",
+    "zone": "latrine"
+}

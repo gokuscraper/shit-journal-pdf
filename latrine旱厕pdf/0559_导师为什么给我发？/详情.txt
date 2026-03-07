@@ -1,0 +1,19 @@
+【标题】: 导师为什么给我发？
+【作者】: 噜噜侠
+【机构】: 摸鱼大学
+【zone】: latrine
+【时间】: 2026-03-03T10:18:19.600072+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "903f7b2e-47bb-4843-baa5-b21c71e68d52",
+    "manuscript_title": "导师为什么给我发？",
+    "author_name": "噜噜侠",
+    "institution": "摸鱼大学",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T10:18:19.600072+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "903f7b2e-47bb-4843-baa5-b21c71e68d52/____763617840_qq_com.pdf",
+    "zone": "latrine"
+}

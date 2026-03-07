@@ -1,0 +1,19 @@
+【标题】: 速八策略的热力学不稳定性：金铲铲宇宙中英雄聚合与羁绊凝胶化的蒙特卡洛模拟
+【作者】: shit hero
+【机构】: 989 univercity
+【zone】: latrine
+【时间】: 2026-02-27T14:36:40.243338+00:00
+【评分】: 平均 4.6923076923076925 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1f1d9c7b-454c-48ed-9d17-6774ee296c3c",
+    "manuscript_title": "速八策略的热力学不稳定性：金铲铲宇宙中英雄聚合与羁绊凝胶化的蒙特卡洛模拟",
+    "author_name": "shit hero",
+    "institution": "989 univercity",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T14:36:40.243338+00:00",
+    "avg_score": 4.6923076923076925,
+    "pdf_path": "1f1d9c7b-454c-48ed-9d17-6774ee296c3c/shit_hero_1359486941_qq_com.pdf",
+    "zone": "latrine"
+}

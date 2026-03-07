@@ -1,0 +1,19 @@
+【标题】: 学生课桌驻留时长与高精度工艺品加工精度的耦合关系研究
+【作者】: 地外来屎
+【机构】: 海外精密器械研究协会
+【zone】: latrine
+【时间】: 2026-03-03T09:29:42.835225+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "4af6c3d3-b41d-4a4c-a8f8-c4aef9fb7841",
+    "manuscript_title": "学生课桌驻留时长与高精度工艺品加工精度的耦合关系研究",
+    "author_name": "地外来屎",
+    "institution": "海外精密器械研究协会",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-03T09:29:42.835225+00:00",
+    "avg_score": 0,
+    "pdf_path": "4af6c3d3-b41d-4a4c-a8f8-c4aef9fb7841/_____example_example_com.pdf",
+    "zone": "latrine"
+}

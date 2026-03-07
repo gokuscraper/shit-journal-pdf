@@ -1,0 +1,19 @@
+【标题】: 有关于香蕉和肠道的综合论述（2）
+【作者】: 香蕉人
+【机构】: 香蕉学博士
+【zone】: latrine
+【时间】: 2026-02-25T11:47:36.89911+00:00
+【评分】: 平均 1.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9d4fe788-bb87-46b8-9dd7-a06b53dc6eef",
+    "manuscript_title": "有关于香蕉和肠道的综合论述（2）",
+    "author_name": "香蕉人",
+    "institution": "香蕉学博士",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:47:36.89911+00:00",
+    "avg_score": 1.5,
+    "pdf_path": "9d4fe788-bb87-46b8-9dd7-a06b53dc6eef/____3998496465_qq_com.pdf",
+    "zone": "latrine"
+}

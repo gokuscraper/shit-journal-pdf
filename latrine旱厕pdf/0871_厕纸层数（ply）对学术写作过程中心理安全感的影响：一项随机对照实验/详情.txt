@@ -1,0 +1,19 @@
+【标题】: 厕纸层数（ply）对学术写作过程中心理安全感的影响：一项随机对照实验
+【作者】: S. Ye
+【机构】: SHIT University
+【zone】: latrine
+【时间】: 2026-02-26T06:27:44.71917+00:00
+【评分】: 平均 4.535714285714286 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "63ac6768-179a-4b6c-ac1e-8bb250ed851c",
+    "manuscript_title": "厕纸层数（ply）对学术写作过程中心理安全感的影响：一项随机对照实验",
+    "author_name": "S. Ye",
+    "institution": "SHIT University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T06:27:44.71917+00:00",
+    "avg_score": 4.535714285714286,
+    "pdf_path": "63ac6768-179a-4b6c-ac1e-8bb250ed851c/S__Ye_ysr182_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于慢性便秘与精神振荡模型的数字自由传播机制研究—以ele为例
+【作者】: 便秘女王
+【机构】: 抖音和小红书大学
+【zone】: latrine
+【时间】: 2026-03-03T09:52:52.65206+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "05974f2e-1188-4a7a-9c9b-356cec04526f",
+    "manuscript_title": "基于慢性便秘与精神振荡模型的数字自由传播机制研究—以ele为例",
+    "author_name": "便秘女王",
+    "institution": "抖音和小红书大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:52:52.65206+00:00",
+    "avg_score": 0,
+    "pdf_path": "05974f2e-1188-4a7a-9c9b-356cec04526f/_____tingyao0916_gmail_com.pdf",
+    "zone": "latrine"
+}

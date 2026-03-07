@@ -1,0 +1,19 @@
+【标题】: 正太与女装
+【作者】: SM master
+【机构】: 下北泽大学
+【zone】: latrine
+【时间】: 2026-02-23T13:17:14.467811+00:00
+【评分】: 平均 2.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1b9a8137-7999-4757-8538-8bf1bb4be3bd",
+    "manuscript_title": "正太与女装",
+    "author_name": "SM master",
+    "institution": "下北泽大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T13:17:14.467811+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "1b9a8137-7999-4757-8538-8bf1bb4be3bd/paper.pdf",
+    "zone": "latrine"
+}

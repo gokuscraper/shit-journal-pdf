@@ -1,0 +1,19 @@
+【标题】: 企业数字技术应用同群效应的动因分析—基于共同股权网络视角
+【作者】: 砚云清
+【机构】: 长沙王者荣耀大学
+【zone】: sediment
+【时间】: 2026-03-01T14:11:03.292655+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "479207ff-3bff-4be0-a7a2-a89a11f422ad",
+    "manuscript_title": "企业数字技术应用同群效应的动因分析—基于共同股权网络视角",
+    "author_name": "砚云清",
+    "institution": "长沙王者荣耀大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:11:03.292655+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "479207ff-3bff-4be0-a7a2-a89a11f422ad/____xiongtty517_163_com.pdf",
+    "zone": "sediment"
+}

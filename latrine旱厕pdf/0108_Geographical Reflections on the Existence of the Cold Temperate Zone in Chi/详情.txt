@@ -1,0 +1,19 @@
+【标题】: Geographical Reflections on the Existence of the Cold Temperate Zone in China
+【作者】: A neurotic science student
+【机构】:  The Affiliated High School of Henan University
+【zone】: latrine
+【时间】: 2026-02-22T07:06:39.402566+00:00
+【评分】: 平均 2.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d3862b16-339e-46bb-92f4-6c6420991385",
+    "manuscript_title": "Geographical Reflections on the Existence of the Cold Temperate Zone in China",
+    "author_name": "A neurotic science student",
+    "institution": " The Affiliated High School of Henan University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T07:06:39.402566+00:00",
+    "avg_score": 2.0,
+    "pdf_path": "d3862b16-339e-46bb-92f4-6c6420991385/paper.pdf",
+    "zone": "latrine"
+}

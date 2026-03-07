@@ -1,0 +1,19 @@
+【标题】: 网络语境中“抽象程度”的可计算化定义与指数增长模型
+【作者】: Donald
+【机构】: Trump
+【zone】: latrine
+【时间】: 2026-02-25T14:00:35.008972+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "04824684-b56a-445a-b990-67bce8027313",
+    "manuscript_title": "网络语境中“抽象程度”的可计算化定义与指数增长模型",
+    "author_name": "Donald",
+    "institution": "Trump",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:00:35.008972+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "04824684-b56a-445a-b990-67bce8027313/Donald_tastooger_gmail_com.pdf",
+    "zone": "latrine"
+}

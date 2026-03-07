@@ -1,0 +1,19 @@
+【标题】: 论猪爸爸购买助听器对大耳朵图图阻止大头儿子考取天文学博士的影响
+【作者】: 一个秋千飞飞飞人
+【机构】: 哔哩哔哩
+【zone】: latrine
+【时间】: 2026-02-22T13:34:41.849383+00:00
+【评分】: 平均 4.2 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "ec429ff1-0ecb-41bc-b9a5-639930e9a210",
+    "manuscript_title": "论猪爸爸购买助听器对大耳朵图图阻止大头儿子考取天文学博士的影响",
+    "author_name": "一个秋千飞飞飞人",
+    "institution": "哔哩哔哩",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T13:34:41.849383+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "ec429ff1-0ecb-41bc-b9a5-639930e9a210/paper.pdf",
+    "zone": "latrine"
+}

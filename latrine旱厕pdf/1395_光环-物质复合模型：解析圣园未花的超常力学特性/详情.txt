@@ -1,0 +1,19 @@
+【标题】: 光环-物质复合模型：解析圣园未花的超常力学特性
+【作者】: 青柚cream
+【机构】: 亚伯拉罕大学
+【zone】: latrine
+【时间】: 2026-02-25T10:56:41.674042+00:00
+【评分】: 平均 1.6 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1a22ebfd-a405-4e0d-9fd3-baa0949d7b49",
+    "manuscript_title": "光环-物质复合模型：解析圣园未花的超常力学特性",
+    "author_name": "青柚cream",
+    "institution": "亚伯拉罕大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T10:56:41.674042+00:00",
+    "avg_score": 1.6,
+    "pdf_path": "1a22ebfd-a405-4e0d-9fd3-baa0949d7b49/__cream_2174341372_qq_com.pdf",
+    "zone": "latrine"
+}

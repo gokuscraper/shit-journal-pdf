@@ -1,0 +1,19 @@
+【标题】: 基于现有研究成果针对于皮炎子摄入食物的可行性分析
+【作者】: zandik
+【机构】: Akademiya, Sumeru , Teyvat
+【zone】: latrine
+【时间】: 2026-02-25T04:22:30.164458+00:00
+【评分】: 平均 4.478260869565218 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ba79269b-bbb4-4139-ad25-e978356c47a5",
+    "manuscript_title": "基于现有研究成果针对于皮炎子摄入食物的可行性分析",
+    "author_name": "zandik",
+    "institution": "Akademiya, Sumeru , Teyvat",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-25T04:22:30.164458+00:00",
+    "avg_score": 4.478260869565218,
+    "pdf_path": "ba79269b-bbb4-4139-ad25-e978356c47a5/zandik_keviny54284860_163_com.pdf",
+    "zone": "latrine"
+}

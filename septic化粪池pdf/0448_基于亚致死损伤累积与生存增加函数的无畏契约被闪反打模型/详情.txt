@@ -1,0 +1,19 @@
+【标题】: 基于亚致死损伤累积与生存增加函数的无畏契约被闪反打模型
+【作者】: Duamu.
+【机构】: 完美世界电竞平台
+【zone】: septic
+【时间】: 2026-03-03T17:28:15.206851+00:00
+【评分】: 平均 4.242424242424242 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a1c298c4-fd9e-4ba6-aa08-53de8893c29e",
+    "manuscript_title": "基于亚致死损伤累积与生存增加函数的无畏契约被闪反打模型",
+    "author_name": "Duamu.",
+    "institution": "完美世界电竞平台",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-03T17:28:15.206851+00:00",
+    "avg_score": 4.242424242424242,
+    "pdf_path": "a1c298c4-fd9e-4ba6-aa08-53de8893c29e/Duamu__3457054811_qq_com.pdf",
+    "zone": "septic"
+}

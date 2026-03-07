@@ -1,0 +1,19 @@
+【标题】: 论文章被shit拒稿究竟是因为质量达不到shit还是太过于shit
+【作者】: 搬石侠
+【机构】: 赛博糟粕研究院·互联网垃圾产出与评价中心
+【zone】: septic
+【时间】: 2026-02-28T11:02:38.275361+00:00
+【评分】: 平均 4.241379310344827 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bf7da701-291a-4ff4-8094-11b9a9f2c0f0",
+    "manuscript_title": "论文章被shit拒稿究竟是因为质量达不到shit还是太过于shit",
+    "author_name": "搬石侠",
+    "institution": "赛博糟粕研究院·互联网垃圾产出与评价中心",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T11:02:38.275361+00:00",
+    "avg_score": 4.241379310344827,
+    "pdf_path": "bf7da701-291a-4ff4-8094-11b9a9f2c0f0/____1093404503_qq_com.pdf",
+    "zone": "septic"
+}

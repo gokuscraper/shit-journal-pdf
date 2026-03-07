@@ -1,0 +1,19 @@
+【标题】: 论学术圈的黑暗森林法则：基于OpenReview去匿名化事件的博弈分析
+【作者】: SHIT_FELLOW
+【机构】: 宇宙社会学系防脱发实验室
+【zone】: latrine
+【时间】: 2026-02-28T06:26:05.746755+00:00
+【评分】: 平均 3.3333333333333335 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d76322ac-cf4d-4cb6-91c7-84e58e8bd372",
+    "manuscript_title": "论学术圈的黑暗森林法则：基于OpenReview去匿名化事件的博弈分析",
+    "author_name": "SHIT_FELLOW",
+    "institution": "宇宙社会学系防脱发实验室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:26:05.746755+00:00",
+    "avg_score": 3.3333333333333335,
+    "pdf_path": "d76322ac-cf4d-4cb6-91c7-84e58e8bd372/SHIT_FELLOW_2300801795_qq_com.pdf",
+    "zone": "latrine"
+}

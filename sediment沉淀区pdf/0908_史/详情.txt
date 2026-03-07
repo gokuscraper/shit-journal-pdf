@@ -1,0 +1,19 @@
+【标题】: 史
+【作者】: 鉴史家
+【机构】: 公共卫生间
+【zone】: sediment
+【时间】: 2026-02-25T07:09:24.394896+00:00
+【评分】: 平均 1.4024390243902438 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "54419ebb-a0f1-4421-91fb-43293339884c",
+    "manuscript_title": "史",
+    "author_name": "鉴史家",
+    "institution": "公共卫生间",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:09:24.394896+00:00",
+    "avg_score": 1.4024390243902438,
+    "pdf_path": "54419ebb-a0f1-4421-91fb-43293339884c/____2804495281_qq_com.pdf",
+    "zone": "sediment"
+}

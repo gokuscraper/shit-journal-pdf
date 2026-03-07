@@ -1,0 +1,19 @@
+【标题】: “我的刀盾”行为学：语义熵视角下抖音平台传播机制
+【作者】: 明天吃什么
+【机构】: 我的刀盾研究院
+【zone】: septic
+【时间】: 2026-03-01T15:29:19.458249+00:00
+【评分】: 平均 4.375 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5637694b-5e23-4eb2-8698-eb018b730f2f",
+    "manuscript_title": "“我的刀盾”行为学：语义熵视角下抖音平台传播机制",
+    "author_name": "明天吃什么",
+    "institution": "我的刀盾研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T15:29:19.458249+00:00",
+    "avg_score": 4.375,
+    "pdf_path": "5637694b-5e23-4eb2-8698-eb018b730f2f/______ziyangni2002_gmail_com.pdf",
+    "zone": "septic"
+}

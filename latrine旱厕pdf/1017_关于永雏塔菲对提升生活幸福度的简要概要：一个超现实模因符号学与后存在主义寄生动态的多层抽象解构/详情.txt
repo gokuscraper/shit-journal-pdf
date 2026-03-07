@@ -1,0 +1,19 @@
+【标题】: 关于永雏塔菲对提升生活幸福度的简要概要：一个超现实模因符号学与后存在主义寄生动态的多层抽象解构
+【作者】: Paperage
+【机构】: 永雏塔菲研究中心
+【zone】: latrine
+【时间】: 2026-03-03T11:34:06.53256+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5001ad08-d63e-4fa9-8743-b47e7a20e1eb",
+    "manuscript_title": "关于永雏塔菲对提升生活幸福度的简要概要：一个超现实模因符号学与后存在主义寄生动态的多层抽象解构",
+    "author_name": "Paperage",
+    "institution": "永雏塔菲研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T11:34:06.53256+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "5001ad08-d63e-4fa9-8743-b47e7a20e1eb/Paperage_3012672547_qq_com.pdf",
+    "zone": "latrine"
+}

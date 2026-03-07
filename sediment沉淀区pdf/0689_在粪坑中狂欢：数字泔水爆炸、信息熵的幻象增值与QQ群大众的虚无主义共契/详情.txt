@@ -1,0 +1,19 @@
+【标题】: 在粪坑中狂欢：数字泔水爆炸、信息熵的幻象增值与QQ群大众的虚无主义共契
+【作者】: 天天冲浪的牛
+【机构】: 银河系火星
+【zone】: sediment
+【时间】: 2026-03-02T09:53:39.32476+00:00
+【评分】: 平均 3.657142857142857 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7d1b5eae-8094-4e0c-a6ee-72c3c44b04a6",
+    "manuscript_title": "在粪坑中狂欢：数字泔水爆炸、信息熵的幻象增值与QQ群大众的虚无主义共契",
+    "author_name": "天天冲浪的牛",
+    "institution": "银河系火星",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T09:53:39.32476+00:00",
+    "avg_score": 3.657142857142857,
+    "pdf_path": "7d1b5eae-8094-4e0c-a6ee-72c3c44b04a6/_______1111111_dadwd_com.pdf",
+    "zone": "sediment"
+}

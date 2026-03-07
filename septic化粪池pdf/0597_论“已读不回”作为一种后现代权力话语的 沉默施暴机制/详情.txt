@@ -1,0 +1,19 @@
+【标题】: 论“已读不回”作为一种后现代权力话语的 沉默施暴机制
+【作者】: 屎条条
+【机构】: Wild Chicken University
+【zone】: septic
+【时间】: 2026-03-03T00:48:20.360771+00:00
+【评分】: 平均 4.421052631578948 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8aaef346-1f9e-44d5-87ef-209ca540198b",
+    "manuscript_title": "论“已读不回”作为一种后现代权力话语的 沉默施暴机制",
+    "author_name": "屎条条",
+    "institution": "Wild Chicken University",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T00:48:20.360771+00:00",
+    "avg_score": 4.421052631578948,
+    "pdf_path": "8aaef346-1f9e-44d5-87ef-209ca540198b/____niudun_paigu_student_edu_cn.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 男性群体计算机知识储存量与娘化程度的关联性及作用机制研究
+【作者】: Dr.SHIT LI
+【机构】: 盐城医科大学
+【zone】: sediment
+【时间】: 2026-03-02T07:40:39.128755+00:00
+【评分】: 平均 3.6333333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "515ad812-f05c-4e80-a7ce-277cfe309df7",
+    "manuscript_title": "男性群体计算机知识储存量与娘化程度的关联性及作用机制研究",
+    "author_name": "Dr.SHIT LI",
+    "institution": "盐城医科大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:40:39.128755+00:00",
+    "avg_score": 3.6333333333333333,
+    "pdf_path": "515ad812-f05c-4e80-a7ce-277cfe309df7/Dr_SHIT_LI_1418540045_qq_com.pdf",
+    "zone": "sediment"
+}

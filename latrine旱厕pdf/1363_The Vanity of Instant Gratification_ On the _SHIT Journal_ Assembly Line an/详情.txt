@@ -1,0 +1,19 @@
+【标题】: The Vanity of Instant Gratification: On the "SHIT Journal" Assembly Line and Its "Premium" Clientele
+【作者】: 解释一下这道题
+【机构】: 乌苏啤酒大学
+【zone】: latrine
+【时间】: 2026-02-28T08:18:55.140798+00:00
+【评分】: 平均 1.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "1ec8b54e-34eb-4efd-8654-004a409aa3a1",
+    "manuscript_title": "The Vanity of Instant Gratification: On the \"SHIT Journal\" Assembly Line and Its \"Premium\" Clientele",
+    "author_name": "解释一下这道题",
+    "institution": "乌苏啤酒大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:18:55.140798+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "1ec8b54e-34eb-4efd-8654-004a409aa3a1/________1935118272_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 从“镁池炸了”到“真香”：校园危机叙事的气味学解释与传播闭环模型
+【作者】: 秦屎皇
+【机构】: QJQ
+【zone】: septic
+【时间】: 2026-03-02T10:20:05.388498+00:00
+【评分】: 平均 4.235294117647059 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e5a2d424-88ea-4517-ad3c-d03f005c87ac",
+    "manuscript_title": "从“镁池炸了”到“真香”：校园危机叙事的气味学解释与传播闭环模型",
+    "author_name": "秦屎皇",
+    "institution": "QJQ",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:20:05.388498+00:00",
+    "avg_score": 4.235294117647059,
+    "pdf_path": "e5a2d424-88ea-4517-ad3c-d03f005c87ac/____cjhtzhh_163_com.pdf",
+    "zone": "septic"
+}

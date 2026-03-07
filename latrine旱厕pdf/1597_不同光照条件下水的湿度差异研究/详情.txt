@@ -1,0 +1,19 @@
+【标题】: 不同光照条件下水的湿度差异研究 
+【作者】: SeH2IT7
+【机构】: 屎壳郎大学
+【zone】: latrine
+【时间】: 2026-02-23T09:34:33.164119+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e2972cf3-aa8c-4ba4-8639-6877e256141f",
+    "manuscript_title": "不同光照条件下水的湿度差异研究 ",
+    "author_name": "SeH2IT7",
+    "institution": "屎壳郎大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:34:33.164119+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "e2972cf3-aa8c-4ba4-8639-6877e256141f/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 网络型一夫一妻制：未来婚姻结构形式的可能性推理研究
+【作者】: 飞飞鱼
+【机构】: 加里顿高等师范学院
+【zone】: septic
+【时间】: 2026-03-01T06:13:47.353641+00:00
+【评分】: 平均 3.96 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b6b741fe-4ea6-440e-9b57-bb4fc31d4f8f",
+    "manuscript_title": "网络型一夫一妻制：未来婚姻结构形式的可能性推理研究",
+    "author_name": "飞飞鱼",
+    "institution": "加里顿高等师范学院",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-01T06:13:47.353641+00:00",
+    "avg_score": 3.96,
+    "pdf_path": "b6b741fe-4ea6-440e-9b57-bb4fc31d4f8f/____shenshengffy_163_com.pdf",
+    "zone": "septic"
+}

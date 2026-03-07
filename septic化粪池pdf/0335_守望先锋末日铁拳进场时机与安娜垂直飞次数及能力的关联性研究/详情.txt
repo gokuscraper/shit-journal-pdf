@@ -1,0 +1,19 @@
+【标题】: 守望先锋末日铁拳进场时机与安娜垂直飞次数及能力的关联性研究
+【作者】: xxx
+【机构】: 爱娜tv
+【zone】: septic
+【时间】: 2026-03-03T16:07:20.481063+00:00
+【评分】: 平均 3.948717948717949 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b18713c2-d63c-45c1-a0cb-cc5cf3eceea9",
+    "manuscript_title": "守望先锋末日铁拳进场时机与安娜垂直飞次数及能力的关联性研究",
+    "author_name": "xxx",
+    "institution": "爱娜tv",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T16:07:20.481063+00:00",
+    "avg_score": 3.948717948717949,
+    "pdf_path": "b18713c2-d63c-45c1-a0cb-cc5cf3eceea9/xxx_1056030532_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 《土豆发芽程度对游戏流畅度的影响》
+【作者】: 233255277
+【机构】: 郑敬怡职业技术学校
+【zone】: latrine
+【时间】: 2026-02-23T14:26:53.374688+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "23d8a226-3304-4a32-b67f-f90d7557a807",
+    "manuscript_title": "《土豆发芽程度对游戏流畅度的影响》",
+    "author_name": "233255277",
+    "institution": "郑敬怡职业技术学校",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:26:53.374688+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "23d8a226-3304-4a32-b67f-f90d7557a807/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 阳具、乞丐与超真实泡沫：三角洲行动”格调弹夹“价格异动的叙事金融学分析
+【作者】: Rometheus
+【机构】: 格调研究所
+【zone】: septic
+【时间】: 2026-02-27T08:31:48.132308+00:00
+【评分】: 平均 4.730769230769231 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "60cbc47c-d762-4b23-a6f4-b91e3b59395e",
+    "manuscript_title": "阳具、乞丐与超真实泡沫：三角洲行动”格调弹夹“价格异动的叙事金融学分析",
+    "author_name": "Rometheus",
+    "institution": "格调研究所",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T08:31:48.132308+00:00",
+    "avg_score": 4.730769230769231,
+    "pdf_path": "60cbc47c-d762-4b23-a6f4-b91e3b59395e/Rometheus_394349188_qq_com.pdf",
+    "zone": "septic"
+}

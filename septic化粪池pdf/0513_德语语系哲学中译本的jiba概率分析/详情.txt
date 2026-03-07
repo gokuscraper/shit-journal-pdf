@@ -1,0 +1,19 @@
+【标题】: 德语语系哲学中译本的jiba概率分析
+【作者】: Long
+【机构】: LongLab
+【zone】: septic
+【时间】: 2026-02-27T16:22:32.30019+00:00
+【评分】: 平均 4.131578947368421 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "977ea0bb-48ec-43c6-9417-b82ba2a18e4c",
+    "manuscript_title": "德语语系哲学中译本的jiba概率分析",
+    "author_name": "Long",
+    "institution": "LongLab",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:22:32.30019+00:00",
+    "avg_score": 4.131578947368421,
+    "pdf_path": "977ea0bb-48ec-43c6-9417-b82ba2a18e4c/Long_364803906_qq_com.pdf",
+    "zone": "septic"
+}

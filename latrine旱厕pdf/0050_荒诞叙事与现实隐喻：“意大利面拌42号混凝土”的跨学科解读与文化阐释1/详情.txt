@@ -1,0 +1,19 @@
+【标题】: 荒诞叙事与现实隐喻：“意大利面拌42号混凝土”的跨学科解读与文化阐释1
+【作者】: auv
+【机构】: 坑里蹲大学
+【zone】: latrine
+【时间】: 2026-02-28T09:59:03.293725+00:00
+【评分】: 平均 4.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "da411c11-f4e5-4a8f-befb-6831ad70f440",
+    "manuscript_title": "荒诞叙事与现实隐喻：“意大利面拌42号混凝土”的跨学科解读与文化阐释1",
+    "author_name": "auv",
+    "institution": "坑里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:59:03.293725+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "da411c11-f4e5-4a8f-befb-6831ad70f440/auv_mzma2453479011_Outlook_com.pdf",
+    "zone": "latrine"
+}

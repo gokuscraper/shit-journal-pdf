@@ -1,0 +1,19 @@
+【标题】: 便秘更有助于玩福星？排泄时间序列对金铲铲之战福星阵容极限博弈的干预机制
+【作者】: 梨皮披萨
+【机构】: The University of Hong Kong
+【zone】: septic
+【时间】: 2026-03-02T10:30:50.466174+00:00
+【评分】: 平均 4.604651162790698 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a40a307d-9f2b-4451-86cb-4ab9e0bf7125",
+    "manuscript_title": "便秘更有助于玩福星？排泄时间序列对金铲铲之战福星阵容极限博弈的干预机制",
+    "author_name": "梨皮披萨",
+    "institution": "The University of Hong Kong",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-02T10:30:50.466174+00:00",
+    "avg_score": 4.604651162790698,
+    "pdf_path": "a40a307d-9f2b-4451-86cb-4ab9e0bf7125/_____u3633267_connect_hku_hk.pdf",
+    "zone": "septic"
+}

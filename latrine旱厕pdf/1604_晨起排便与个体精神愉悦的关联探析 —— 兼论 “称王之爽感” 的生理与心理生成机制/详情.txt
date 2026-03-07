@@ -1,0 +1,19 @@
+【标题】: 晨起排便与个体精神愉悦的关联探析 —— 兼论 “称王之爽感” 的生理与心理生成机制
+【作者】: 孤狼
+【机构】: 幸福便学院
+【zone】: latrine
+【时间】: 2026-03-01T11:40:00.96618+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e34e781f-f24e-44ed-9fa9-6b2aa75ef72b",
+    "manuscript_title": "晨起排便与个体精神愉悦的关联探析 —— 兼论 “称王之爽感” 的生理与心理生成机制",
+    "author_name": "孤狼",
+    "institution": "幸福便学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:40:00.96618+00:00",
+    "avg_score": 0,
+    "pdf_path": "e34e781f-f24e-44ed-9fa9-6b2aa75ef72b/___731197783_qq_com.pdf",
+    "zone": "latrine"
+}

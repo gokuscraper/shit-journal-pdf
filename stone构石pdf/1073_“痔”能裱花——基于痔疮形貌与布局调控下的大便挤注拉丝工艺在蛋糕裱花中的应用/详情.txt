@@ -1,0 +1,19 @@
+【标题】: “痔”能裱花——基于痔疮形貌与布局调控下的大便挤注拉丝工艺在蛋糕裱花中的应用
+【作者】: Jiaoda Jishi
+【机构】: Shiniaopi University
+【zone】: stone
+【时间】: 2026-03-02T15:43:12.049515+00:00
+【评分】: 平均 4.858895705521473 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "486a2c64-d2da-4d30-85be-7973d19f117f",
+    "manuscript_title": "“痔”能裱花——基于痔疮形貌与布局调控下的大便挤注拉丝工艺在蛋糕裱花中的应用",
+    "author_name": "Jiaoda Jishi",
+    "institution": "Shiniaopi University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T15:43:12.049515+00:00",
+    "avg_score": 4.858895705521473,
+    "pdf_path": "486a2c64-d2da-4d30-85be-7973d19f117f/Jiaoda_Jishi_15751869310_163_com.pdf",
+    "zone": "stone"
+}

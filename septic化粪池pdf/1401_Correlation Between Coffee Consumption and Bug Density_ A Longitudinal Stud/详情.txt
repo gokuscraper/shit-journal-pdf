@@ -1,0 +1,19 @@
+【标题】: Correlation Between Coffee Consumption and Bug Density: A Longitudinal Study of Sleep-Deprived Software Developers
+【作者】: 咖啡驱动工程师
+【机构】: Aﬀiliations and funding information
+【zone】: septic
+【时间】: 2026-03-02T16:16:17.993561+00:00
+【评分】: 平均 4.515151515151516 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "19c030b8-1865-41e8-b07a-51f136401c16",
+    "manuscript_title": "Correlation Between Coffee Consumption and Bug Density: A Longitudinal Study of Sleep-Deprived Software Developers",
+    "author_name": "咖啡驱动工程师",
+    "institution": "Aﬀiliations and funding information",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-02T16:16:17.993561+00:00",
+    "avg_score": 4.515151515151516,
+    "pdf_path": "19c030b8-1865-41e8-b07a-51f136401c16/________hengistchan_outlook_com.pdf",
+    "zone": "septic"
+}

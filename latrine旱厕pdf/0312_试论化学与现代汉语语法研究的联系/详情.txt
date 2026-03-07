@@ -1,0 +1,19 @@
+【标题】: 试论化学与现代汉语语法研究的联系
+【作者】: 真滴很奇妙
+【机构】: 山河大学
+【zone】: latrine
+【时间】: 2026-02-23T06:44:42.228965+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b57defbd-6580-44db-9e7e-3326a45f734e",
+    "manuscript_title": "试论化学与现代汉语语法研究的联系",
+    "author_name": "真滴很奇妙",
+    "institution": "山河大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T06:44:42.228965+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "b57defbd-6580-44db-9e7e-3326a45f734e/paper.pdf",
+    "zone": "latrine"
+}

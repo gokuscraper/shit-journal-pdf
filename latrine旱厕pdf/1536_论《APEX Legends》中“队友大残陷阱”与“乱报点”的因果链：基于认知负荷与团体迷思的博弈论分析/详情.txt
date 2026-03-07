@@ -1,0 +1,19 @@
+【标题】: 论《APEX Legends》中“队友大残陷阱”与“乱报点”的因果链：基于认知负荷与团体迷思的博弈论分析
+【作者】: blackshit
+【机构】: apex
+【zone】: latrine
+【时间】: 2026-02-28T11:34:45.466484+00:00
+【评分】: 平均 4.428571428571429 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "05ca8081-21c6-4626-8c0c-70920b471477",
+    "manuscript_title": "论《APEX Legends》中“队友大残陷阱”与“乱报点”的因果链：基于认知负荷与团体迷思的博弈论分析",
+    "author_name": "blackshit",
+    "institution": "apex",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T11:34:45.466484+00:00",
+    "avg_score": 4.428571428571429,
+    "pdf_path": "05ca8081-21c6-4626-8c0c-70920b471477/blackshit_cxmyjh7227_163_com.pdf",
+    "zone": "latrine"
+}

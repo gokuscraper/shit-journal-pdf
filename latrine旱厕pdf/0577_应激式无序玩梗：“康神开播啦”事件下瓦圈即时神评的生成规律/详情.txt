@@ -1,0 +1,19 @@
+【标题】: 应激式无序玩梗：“康神开播啦”事件下瓦圈即时神评的生成规律
+【作者】: 屎太垄
+【机构】: Shit Engineering University
+【zone】: latrine
+【时间】: 2026-02-28T15:25:13.6678+00:00
+【评分】: 平均 4.636363636363637 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8d702fff-7fb3-4b4b-a3b5-a366d105a23c",
+    "manuscript_title": "应激式无序玩梗：“康神开播啦”事件下瓦圈即时神评的生成规律",
+    "author_name": "屎太垄",
+    "institution": "Shit Engineering University",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T15:25:13.6678+00:00",
+    "avg_score": 4.636363636363637,
+    "pdf_path": "8d702fff-7fb3-4b4b-a3b5-a366d105a23c/____sun919321548_163_com.pdf",
+    "zone": "latrine"
+}

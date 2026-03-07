@@ -1,0 +1,19 @@
+【标题】: 梦境“性行为”的现实映射机制：春梦诱发的生理唤起—压抑耦合研究
+【作者】: Hermit
+【机构】: Dream Research Institute, Stay-at-Home University 
+【zone】: septic
+【时间】: 2026-03-01T08:41:51.872219+00:00
+【评分】: 平均 4.423076923076923 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "caf05787-5e36-4e28-bd83-16554966b934",
+    "manuscript_title": "梦境“性行为”的现实映射机制：春梦诱发的生理唤起—压抑耦合研究",
+    "author_name": "Hermit",
+    "institution": "Dream Research Institute, Stay-at-Home University ",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-01T08:41:51.872219+00:00",
+    "avg_score": 4.423076923076923,
+    "pdf_path": "caf05787-5e36-4e28-bd83-16554966b934/Hermit_1320948069_qq_com.pdf",
+    "zone": "septic"
+}

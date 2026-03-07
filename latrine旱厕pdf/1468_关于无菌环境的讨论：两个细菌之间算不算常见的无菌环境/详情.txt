@@ -1,0 +1,19 @@
+【标题】: 关于无菌环境的讨论：两个细菌之间算不算常见的无菌环境
+【作者】: 科比布莱恩特
+【机构】: HAINNU大穴
+【zone】: latrine
+【时间】: 2026-02-25T12:28:50.447434+00:00
+【评分】: 平均 2.6 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "0cde378a-0737-426d-bb21-e678055e449d",
+    "manuscript_title": "关于无菌环境的讨论：两个细菌之间算不算常见的无菌环境",
+    "author_name": "科比布莱恩特",
+    "institution": "HAINNU大穴",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:28:50.447434+00:00",
+    "avg_score": 2.6,
+    "pdf_path": "0cde378a-0737-426d-bb21-e678055e449d/_______wyy17631727973_qq_com.pdf",
+    "zone": "latrine"
+}

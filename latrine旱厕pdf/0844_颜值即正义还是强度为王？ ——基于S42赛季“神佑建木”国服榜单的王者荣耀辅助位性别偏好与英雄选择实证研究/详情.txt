@@ -1,0 +1,19 @@
+【标题】: 颜值即正义还是强度为王？ ——基于S42赛季“神佑建木”国服榜单的王者荣耀辅助位性别偏好与英雄选择实证研究
+【作者】: WaterDrop
+【机构】: 蓝色空间号人类活动行为观察院
+【zone】: latrine
+【时间】: 2026-02-28T11:26:53.808328+00:00
+【评分】: 平均 4.8 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "67f4e6ec-17e6-4f9f-adcb-8e954e8fef60",
+    "manuscript_title": "颜值即正义还是强度为王？ ——基于S42赛季“神佑建木”国服榜单的王者荣耀辅助位性别偏好与英雄选择实证研究",
+    "author_name": "WaterDrop",
+    "institution": "蓝色空间号人类活动行为观察院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T11:26:53.808328+00:00",
+    "avg_score": 4.8,
+    "pdf_path": "67f4e6ec-17e6-4f9f-adcb-8e954e8fef60/WaterDrop_caichengl_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 当说出“不是我吹牛b”时到底有没有吹牛b --量子力学视角下的辩证看待
+【作者】: 厚礼蟹
+【机构】: 中国碧池大学
+【zone】: latrine
+【时间】: 2026-02-28T09:46:40.394781+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "69f0fbe0-cc74-4145-b9c6-f79599a09207",
+    "manuscript_title": "当说出“不是我吹牛b”时到底有没有吹牛b --量子力学视角下的辩证看待",
+    "author_name": "厚礼蟹",
+    "institution": "中国碧池大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:46:40.394781+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "69f0fbe0-cc74-4145-b9c6-f79599a09207/____lp_lianpeng_163_com.pdf",
+    "zone": "latrine"
+}

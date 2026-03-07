@@ -1,0 +1,19 @@
+【标题】: 隔夜蒜薹与地三鲜口感“夯”性探究
+【作者】: 巨能拉
+【机构】: 二食堂二楼
+【zone】: latrine
+【时间】: 2026-03-03T09:30:49.646647+00:00
+【评分】: 平均 3.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "84836806-9f25-435d-9df0-0a50d6bedd6f",
+    "manuscript_title": "隔夜蒜薹与地三鲜口感“夯”性探究",
+    "author_name": "巨能拉",
+    "institution": "二食堂二楼",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T09:30:49.646647+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "84836806-9f25-435d-9df0-0a50d6bedd6f/____1974360644_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 从“井”至“光”：论信息宇宙、情感能量与存在本质的工程化实现
+【作者】: 艾因
+【机构】: 卡门研究所
+【zone】: latrine
+【时间】: 2026-02-25T12:07:23.79363+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "aad02476-2ab4-4cc0-8afc-7082afd433cc",
+    "manuscript_title": "从“井”至“光”：论信息宇宙、情感能量与存在本质的工程化实现",
+    "author_name": "艾因",
+    "institution": "卡门研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:07:23.79363+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "aad02476-2ab4-4cc0-8afc-7082afd433cc/___13100641846a_sina_com.pdf",
+    "zone": "latrine"
+}

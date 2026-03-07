@@ -1,0 +1,19 @@
+【标题】: 虚伪的牛顿：虚假的牛顿三定律
+【作者】: Doctor Beiken
+【机构】: Wild Chicken University
+【zone】: latrine
+【时间】: 2026-02-27T17:54:37.100538+00:00
+【评分】: 平均 4.05 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "07f27033-2b11-415a-bb97-0176db127665",
+    "manuscript_title": "虚伪的牛顿：虚假的牛顿三定律",
+    "author_name": "Doctor Beiken",
+    "institution": "Wild Chicken University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T17:54:37.100538+00:00",
+    "avg_score": 4.05,
+    "pdf_path": "07f27033-2b11-415a-bb97-0176db127665/Doctor_Beiken_3412823253_qq_com.pdf",
+    "zone": "latrine"
+}

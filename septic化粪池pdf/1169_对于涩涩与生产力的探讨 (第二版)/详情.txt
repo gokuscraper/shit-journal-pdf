@@ -1,0 +1,19 @@
+【标题】: 对于涩涩与生产力的探讨 (第二版)
+【作者】: 开不出花的树
+【机构】: 粘纤哩狠大学
+【zone】: septic
+【时间】: 2026-03-03T15:36:52.466757+00:00
+【评分】: 平均 4.1875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "39449246-becc-44a2-b3f7-e0d52d8b00a6",
+    "manuscript_title": "对于涩涩与生产力的探讨 (第二版)",
+    "author_name": "开不出花的树",
+    "institution": "粘纤哩狠大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T15:36:52.466757+00:00",
+    "avg_score": 4.1875,
+    "pdf_path": "39449246-becc-44a2-b3f7-e0d52d8b00a6/_______zj7481hm_gmail_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 便便神存在论：起源、现实与未来展望
+【作者】: 史学家
+【机构】: Academy of Polytheistic Historiography,
+【zone】: latrine
+【时间】: 2026-02-27T15:03:21.053218+00:00
+【评分】: 平均 4.590909090909091 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "8c3a7483-c6a5-41ad-80b9-77a7503eace5",
+    "manuscript_title": "便便神存在论：起源、现实与未来展望",
+    "author_name": "史学家",
+    "institution": "Academy of Polytheistic Historiography,",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T15:03:21.053218+00:00",
+    "avg_score": 4.590909090909091,
+    "pdf_path": "8c3a7483-c6a5-41ad-80b9-77a7503eace5/____1766236734_qq_com.pdf",
+    "zone": "latrine"
+}

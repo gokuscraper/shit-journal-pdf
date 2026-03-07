@@ -1,0 +1,19 @@
+【标题】: 有痔人类如厕时嚎叫对卫生间的声学及邻里关系影响
+【作者】: B.马桶.Blockaged.者
+【机构】: 湖南农业大学
+【zone】: latrine
+【时间】: 2026-02-25T07:44:00.380855+00:00
+【评分】: 平均 4.333333333333333 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "6b20eb41-8189-4e4a-ae04-cb13faaf0b14",
+    "manuscript_title": "有痔人类如厕时嚎叫对卫生间的声学及邻里关系影响",
+    "author_name": "B.马桶.Blockaged.者",
+    "institution": "湖南农业大学",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-25T07:44:00.380855+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "6b20eb41-8189-4e4a-ae04-cb13faaf0b14/B____Blockaged___5199279_qq_com.pdf",
+    "zone": "latrine"
+}

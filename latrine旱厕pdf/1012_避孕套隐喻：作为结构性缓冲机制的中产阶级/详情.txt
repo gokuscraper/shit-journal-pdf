@@ -1,0 +1,19 @@
+【标题】: 避孕套隐喻：作为结构性缓冲机制的中产阶级
+【作者】: 亦政
+【机构】: 窑子经济研究所Yaozi Economic Institute
+【zone】: latrine
+【时间】: 2026-02-27T09:37:10.320024+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5064980d-5125-4e35-8866-f28a5a6a599a",
+    "manuscript_title": "避孕套隐喻：作为结构性缓冲机制的中产阶级",
+    "author_name": "亦政",
+    "institution": "窑子经济研究所Yaozi Economic Institute",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T09:37:10.320024+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "5064980d-5125-4e35-8866-f28a5a6a599a/___zhuorandu0217_gmail_com.pdf",
+    "zone": "latrine"
+}

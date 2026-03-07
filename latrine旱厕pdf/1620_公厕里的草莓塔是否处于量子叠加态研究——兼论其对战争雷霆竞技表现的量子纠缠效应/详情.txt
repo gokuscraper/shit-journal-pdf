@@ -1,0 +1,19 @@
+【标题】: 公厕里的草莓塔是否处于量子叠加态研究——兼论其对战争雷霆竞技表现的量子纠缠效应
+【作者】: 超爱用黄油小姐
+【机构】: 勾史大学
+【zone】: latrine
+【时间】: 2026-02-23T13:48:17.647926+00:00
+【评分】: 平均 2.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e4d6275c-3d6a-4404-9dbb-cf137ab76095",
+    "manuscript_title": "公厕里的草莓塔是否处于量子叠加态研究——兼论其对战争雷霆竞技表现的量子纠缠效应",
+    "author_name": "超爱用黄油小姐",
+    "institution": "勾史大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T13:48:17.647926+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "e4d6275c-3d6a-4404-9dbb-cf137ab76095/paper.pdf",
+    "zone": "latrine"
+}

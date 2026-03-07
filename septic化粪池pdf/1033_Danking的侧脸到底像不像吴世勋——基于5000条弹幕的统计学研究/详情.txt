@@ -1,0 +1,19 @@
+【标题】: Danking的侧脸到底像不像吴世勋——基于5000条弹幕的统计学研究
+【作者】: 便便侠
+【机构】: 中国医科大学肛肠病研究所
+【zone】: septic
+【时间】: 2026-02-27T13:44:19.084989+00:00
+【评分】: 平均 4.615384615384615 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4df507ea-91e8-446d-aa70-a839c9f4eb2f",
+    "manuscript_title": "Danking的侧脸到底像不像吴世勋——基于5000条弹幕的统计学研究",
+    "author_name": "便便侠",
+    "institution": "中国医科大学肛肠病研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T13:44:19.084989+00:00",
+    "avg_score": 4.615384615384615,
+    "pdf_path": "4df507ea-91e8-446d-aa70-a839c9f4eb2f/____2970637896_qq_com.pdf",
+    "zone": "septic"
+}

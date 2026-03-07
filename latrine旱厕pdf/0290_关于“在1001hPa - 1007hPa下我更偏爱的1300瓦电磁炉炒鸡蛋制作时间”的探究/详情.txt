@@ -1,0 +1,19 @@
+【标题】: 关于“在1001hPa - 1007hPa下我更偏爱的1300瓦电磁炉炒鸡蛋制作时间”的探究
+【作者】: Dr.Riceall Puffer
+【机构】: Stayathome&toilet  University
+【zone】: latrine
+【时间】: 2026-02-27T16:24:21.739784+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "b7ca2133-2be5-4922-a93d-4ccacb9f7a8b",
+    "manuscript_title": "关于“在1001hPa - 1007hPa下我更偏爱的1300瓦电磁炉炒鸡蛋制作时间”的探究",
+    "author_name": "Dr.Riceall Puffer",
+    "institution": "Stayathome&toilet  University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:24:21.739784+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "b7ca2133-2be5-4922-a93d-4ccacb9f7a8b/Dr_Riceall_Puffer_3416240568_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 如何看待NTR与风味男同
+【作者】: 摆烂乐子人
+【机构】: SLZ
+【zone】: latrine
+【时间】: 2026-02-22T07:04:18.272531+00:00
+【评分】: 平均 3.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "58957f3c-624a-4d3c-9939-a7e051a97967",
+    "manuscript_title": "如何看待NTR与风味男同",
+    "author_name": "摆烂乐子人",
+    "institution": "SLZ",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T07:04:18.272531+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "58957f3c-624a-4d3c-9939-a7e051a97967/paper.pdf",
+    "zone": "latrine"
+}

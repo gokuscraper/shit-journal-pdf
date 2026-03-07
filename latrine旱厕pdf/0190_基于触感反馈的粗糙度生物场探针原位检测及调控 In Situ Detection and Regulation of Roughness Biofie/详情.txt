@@ -1,0 +1,19 @@
+【标题】: 基于触感反馈的粗糙度生物场探针原位检测及调控 In Situ Detection and Regulation of Roughness Biofield Probes Based on Haptic Feedback
+【作者】: Shitwill Find Itsway
+【机构】: Sichuan Habber Institute of Technology
+【zone】: latrine
+【时间】: 2026-02-27T05:22:25.532486+00:00
+【评分】: 平均 4.333333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c777f933-acb5-4ac0-8f28-0ce99c27ea94",
+    "manuscript_title": "基于触感反馈的粗糙度生物场探针原位检测及调控 In Situ Detection and Regulation of Roughness Biofield Probes Based on Haptic Feedback",
+    "author_name": "Shitwill Find Itsway",
+    "institution": "Sichuan Habber Institute of Technology",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T05:22:25.532486+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "c777f933-acb5-4ac0-8f28-0ce99c27ea94/Shitwill_Find_Itsway_sujijus_163_com.pdf",
+    "zone": "latrine"
+}

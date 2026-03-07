@@ -1,0 +1,19 @@
+【标题】: 基于靶向注射的急性嵌入式铜中毒与不可逆中枢神经抑制的相关性研究
+【作者】: shit-吴PF
+【机构】: 加里敦大学
+【zone】: latrine
+【时间】: 2026-02-28T08:23:40.540093+00:00
+【评分】: 平均 4.666666666666667 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1d6efa47-ce5c-4d88-981a-d90e18b116a6",
+    "manuscript_title": "基于靶向注射的急性嵌入式铜中毒与不可逆中枢神经抑制的相关性研究",
+    "author_name": "shit-吴PF",
+    "institution": "加里敦大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:23:40.540093+00:00",
+    "avg_score": 4.666666666666667,
+    "pdf_path": "1d6efa47-ce5c-4d88-981a-d90e18b116a6/shit__PF_1792401871_qq_com.pdf",
+    "zone": "latrine"
+}

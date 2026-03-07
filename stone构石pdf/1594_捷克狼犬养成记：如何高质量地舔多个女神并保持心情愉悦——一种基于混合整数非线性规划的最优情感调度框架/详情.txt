@@ -1,0 +1,19 @@
+【标题】: 捷克狼犬养成记：如何高质量地舔多个女神并保持心情愉悦——一种基于混合整数非线性规划的最优情感调度框架
+【作者】: Dr. 阿波
+【机构】: Northwestern University
+【zone】: stone
+【时间】: 2026-02-25T01:14:28.118142+00:00
+【评分】: 平均 4.859933499584373 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e255b247-bb24-4432-8cce-4e19d4073fa3",
+    "manuscript_title": "捷克狼犬养成记：如何高质量地舔多个女神并保持心情愉悦——一种基于混合整数非线性规划的最优情感调度框架",
+    "author_name": "Dr. 阿波",
+    "institution": "Northwestern University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-25T01:14:28.118142+00:00",
+    "avg_score": 4.859933499584373,
+    "pdf_path": "e255b247-bb24-4432-8cce-4e19d4073fa3/Dr_____jacoblian_u_northwestern_edu.pdf",
+    "zone": "stone"
+}

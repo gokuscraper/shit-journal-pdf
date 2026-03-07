@@ -1,0 +1,19 @@
+【标题】: “今天肯定不熬夜”作为仪式性语言的功能分析
+【作者】: 学术造粪机
+【机构】: 国际屎务大学（熬夜事件应急与评估中心）
+【zone】: latrine
+【时间】: 2026-02-25T04:45:37.323761+00:00
+【评分】: 平均 3.142857142857143 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8a2fddda-51fc-44d3-a5d5-144275e9483d",
+    "manuscript_title": "“今天肯定不熬夜”作为仪式性语言的功能分析",
+    "author_name": "学术造粪机",
+    "institution": "国际屎务大学（熬夜事件应急与评估中心）",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:45:37.323761+00:00",
+    "avg_score": 3.142857142857143,
+    "pdf_path": "8a2fddda-51fc-44d3-a5d5-144275e9483d/______bdathe_outlook_com.pdf",
+    "zone": "latrine"
+}

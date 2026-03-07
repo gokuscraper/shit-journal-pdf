@@ -1,0 +1,19 @@
+【标题】: 维度坍塌与世界观熵增：论《某罗大陆》在《完美某界》绝对霸权下的结构性脆断
+【作者】: 无敌铁头娃
+【机构】: 下水道有目共睹
+【zone】: latrine
+【时间】: 2026-02-28T21:19:23.892689+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5ac75273-600a-48c4-b84a-ac3c6bd01461",
+    "manuscript_title": "维度坍塌与世界观熵增：论《某罗大陆》在《完美某界》绝对霸权下的结构性脆断",
+    "author_name": "无敌铁头娃",
+    "institution": "下水道有目共睹",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T21:19:23.892689+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "5ac75273-600a-48c4-b84a-ac3c6bd01461/______yqwang_99_126_com.pdf",
+    "zone": "latrine"
+}

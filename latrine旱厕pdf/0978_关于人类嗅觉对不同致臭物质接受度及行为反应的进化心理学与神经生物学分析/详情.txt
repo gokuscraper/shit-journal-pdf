@@ -1,0 +1,19 @@
+【标题】: 关于人类嗅觉对不同致臭物质接受度及行为反应的进化心理学与神经生物学分析
+【作者】: 天使
+【机构】: 美国战争部
+【zone】: latrine
+【时间】: 2026-02-23T22:42:13.500932+00:00
+【评分】: 平均 3.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "54cdea8a-4eb8-47d8-a1d0-3f71829faef0",
+    "manuscript_title": "关于人类嗅觉对不同致臭物质接受度及行为反应的进化心理学与神经生物学分析",
+    "author_name": "天使",
+    "institution": "美国战争部",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T22:42:13.500932+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "54cdea8a-4eb8-47d8-a1d0-3f71829faef0/paper.pdf",
+    "zone": "latrine"
+}

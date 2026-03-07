@@ -1,0 +1,19 @@
+【标题】: 男性亲密关系中戏谑行为研究：从大便视频发送看情感转化
+【作者】: 菓果子狸
+【机构】: bilibili大学
+【zone】: latrine
+【时间】: 2026-02-22T13:15:06.071052+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "84366d1f-4d67-4079-adbb-707fb3644890",
+    "manuscript_title": "男性亲密关系中戏谑行为研究：从大便视频发送看情感转化",
+    "author_name": "菓果子狸",
+    "institution": "bilibili大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T13:15:06.071052+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "84366d1f-4d67-4079-adbb-707fb3644890/paper.pdf",
+    "zone": "latrine"
+}

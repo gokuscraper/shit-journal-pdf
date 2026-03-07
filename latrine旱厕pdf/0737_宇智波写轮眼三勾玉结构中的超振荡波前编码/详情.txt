@@ -1,0 +1,19 @@
+【标题】: 宇智波写轮眼三勾玉结构中的超振荡波前编码
+【作者】: zonazcy
+【机构】: 木叶医疗部视神经修复中心
+【zone】: latrine
+【时间】: 2026-02-25T12:41:49.884926+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7682a3c7-3e90-499e-b238-26638a75eea5",
+    "manuscript_title": "宇智波写轮眼三勾玉结构中的超振荡波前编码",
+    "author_name": "zonazcy",
+    "institution": "木叶医疗部视神经修复中心",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T12:41:49.884926+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "7682a3c7-3e90-499e-b238-26638a75eea5/zonazcy_zonazcy_gmail_com.pdf",
+    "zone": "latrine"
+}

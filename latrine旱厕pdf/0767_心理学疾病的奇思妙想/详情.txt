@@ -1,0 +1,19 @@
+【标题】: 心理学疾病的奇思妙想
+【作者】: 魔磨膜
+【机构】: 甜皮鼓大学
+【zone】: latrine
+【时间】: 2026-02-25T14:59:30.058397+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "71f6930c-0a88-4343-8f0e-40c9a501462d",
+    "manuscript_title": "心理学疾病的奇思妙想",
+    "author_name": "魔磨膜",
+    "institution": "甜皮鼓大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:59:30.058397+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "71f6930c-0a88-4343-8f0e-40c9a501462d/____1802852503_qq_com.pdf",
+    "zone": "latrine"
+}

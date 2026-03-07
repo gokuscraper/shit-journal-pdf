@@ -1,0 +1,19 @@
+【标题】: 《原神》角色菲林斯卡池全周期社区魔怔言论与排便行为的相关性及肛门括约肌双标收缩机制的构石排便学研究
+【作者】: 造粪屎者
+【机构】: Minzu University(Shit Campus)
+【zone】: latrine
+【时间】: 2026-02-27T13:53:35.628368+00:00
+【评分】: 平均 4.333333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bd779a7c-e7a0-4a5d-8efa-4ff470f8ba1c",
+    "manuscript_title": "《原神》角色菲林斯卡池全周期社区魔怔言论与排便行为的相关性及肛门括约肌双标收缩机制的构石排便学研究",
+    "author_name": "造粪屎者",
+    "institution": "Minzu University(Shit Campus)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T13:53:35.628368+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "bd779a7c-e7a0-4a5d-8efa-4ff470f8ba1c/_____2085911063_qq_com.pdf",
+    "zone": "latrine"
+}

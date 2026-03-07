@@ -1,0 +1,19 @@
+【标题】: 基于黄豆基人体有机燃料的单人大气外再入返回项目末端辅助减速系统
+【作者】: dr.wulong
+【机构】: 坎巴拉州立大学
+【zone】: latrine
+【时间】: 2026-02-23T09:37:44.173861+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "30e2b5df-4c41-4a06-a5c4-f18159868475",
+    "manuscript_title": "基于黄豆基人体有机燃料的单人大气外再入返回项目末端辅助减速系统",
+    "author_name": "dr.wulong",
+    "institution": "坎巴拉州立大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:37:44.173861+00:00",
+    "avg_score": 0,
+    "pdf_path": "30e2b5df-4c41-4a06-a5c4-f18159868475/paper.pdf",
+    "zone": "latrine"
+}

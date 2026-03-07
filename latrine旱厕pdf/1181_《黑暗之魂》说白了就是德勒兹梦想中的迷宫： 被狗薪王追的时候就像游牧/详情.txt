@@ -1,0 +1,19 @@
+【标题】: 《黑暗之魂》说白了就是德勒兹梦想中的迷宫： 被狗薪王追的时候就像游牧
+【作者】: dick kinson
+【机构】: 宫崎英高后花园大学
+【zone】: latrine
+【时间】: 2026-02-28T18:06:03.840714+00:00
+【评分】: 平均 4.428571428571429 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3674192f-476c-41ac-a858-8690c799ee2e",
+    "manuscript_title": "《黑暗之魂》说白了就是德勒兹梦想中的迷宫： 被狗薪王追的时候就像游牧",
+    "author_name": "dick kinson",
+    "institution": "宫崎英高后花园大学",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-28T18:06:03.840714+00:00",
+    "avg_score": 4.428571428571429,
+    "pdf_path": "3674192f-476c-41ac-a858-8690c799ee2e/dick_kinson_lzhuohao_wustl_edu.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 大脑与直肠的连接性研究：为什么食用意大利面需要混合钢筋混凝土——基于大脑接受ai信息处理与肠道活动分析
+【作者】: EXTRACTION Buffer
+【机构】: 匹诺康尼大学
+【zone】: sediment
+【时间】: 2026-03-01T12:08:13.464541+00:00
+【评分】: 平均 3.641025641025641 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "40e57af5-4a17-403c-a5d1-c9ef1b7c268e",
+    "manuscript_title": "大脑与直肠的连接性研究：为什么食用意大利面需要混合钢筋混凝土——基于大脑接受ai信息处理与肠道活动分析",
+    "author_name": "EXTRACTION Buffer",
+    "institution": "匹诺康尼大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T12:08:13.464541+00:00",
+    "avg_score": 3.641025641025641,
+    "pdf_path": "40e57af5-4a17-403c-a5d1-c9ef1b7c268e/EXTRACTION_Buffer_3955144709_qq_com.pdf",
+    "zone": "sediment"
+}

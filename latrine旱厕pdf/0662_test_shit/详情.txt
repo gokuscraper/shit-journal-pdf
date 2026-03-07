@@ -1,0 +1,19 @@
+【标题】: test_shit
+【作者】: tester
+【机构】: shit1
+【zone】: latrine
+【时间】: 2026-02-22T12:19:46.573788+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "80c22f21-8751-476a-b24d-663bdc9f5890",
+    "manuscript_title": "test_shit",
+    "author_name": "tester",
+    "institution": "shit1",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T12:19:46.573788+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "80c22f21-8751-476a-b24d-663bdc9f5890/paper.pdf",
+    "zone": "latrine"
+}

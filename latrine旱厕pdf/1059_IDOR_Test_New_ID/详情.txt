@@ -1,0 +1,19 @@
+【标题】: IDOR_Test_New_ID
+【作者】: admin
+【机构】: 123
+【zone】: latrine
+【时间】: 2026-02-26T01:51:12.552339+00:00
+【评分】: 平均 1.7058823529411764 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4a54dfd3-84a3-4996-950b-ed9c54a8216d",
+    "manuscript_title": "IDOR_Test_New_ID",
+    "author_name": "admin",
+    "institution": "123",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T01:51:12.552339+00:00",
+    "avg_score": 1.7058823529411764,
+    "pdf_path": "4a54dfd3-84a3-4996-950b-ed9c54a8216d/test.pdf",
+    "zone": "latrine"
+}

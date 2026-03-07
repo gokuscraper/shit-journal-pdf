@@ -1,0 +1,19 @@
+【标题】: 猫meme学导论  ——一项关于人类为何沉迷于让猫替自己说话的非严肃研究
+【作者】: 一个秋千飞飞飞人
+【机构】: 无
+【zone】: latrine
+【时间】: 2026-02-22T13:00:48.484561+00:00
+【评分】: 平均 4.16 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fb41e02f-190d-44fa-91cb-3597443027df",
+    "manuscript_title": "猫meme学导论  ——一项关于人类为何沉迷于让猫替自己说话的非严肃研究",
+    "author_name": "一个秋千飞飞飞人",
+    "institution": "无",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T13:00:48.484561+00:00",
+    "avg_score": 4.16,
+    "pdf_path": "fb41e02f-190d-44fa-91cb-3597443027df/paper.pdf",
+    "zone": "latrine"
+}

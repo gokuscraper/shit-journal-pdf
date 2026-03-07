@@ -1,0 +1,19 @@
+【标题】:  关于网络阴谋论者的大脑与粪便的相似性研究
+【作者】: Dr.Youke27890
+【机构】: 废料科学与高等蹲坑研究所 (Institute of Crap Science & Advanced Squatting)  
+【zone】: latrine
+【时间】: 2026-02-25T14:03:08.557914+00:00
+【评分】: 平均 4.214285714285714 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "90e9fdd0-9a99-4080-b1be-bfb043ad31b2",
+    "manuscript_title": " 关于网络阴谋论者的大脑与粪便的相似性研究",
+    "author_name": "Dr.Youke27890",
+    "institution": "废料科学与高等蹲坑研究所 (Institute of Crap Science & Advanced Squatting)  ",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-25T14:03:08.557914+00:00",
+    "avg_score": 4.214285714285714,
+    "pdf_path": "90e9fdd0-9a99-4080-b1be-bfb043ad31b2/Dr_Youke27890_youke27890_gmail_com.pdf",
+    "zone": "latrine"
+}

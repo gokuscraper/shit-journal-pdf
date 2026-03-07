@@ -1,0 +1,19 @@
+【标题】: 《上古卷轴5：天际》对宅男大学生现金流与笔记本配置关系的实证研究
+【作者】: 高手高高
+【机构】: game观察游玩者
+【zone】: latrine
+【时间】: 2026-02-28T03:30:39.131646+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cd75bde5-18f3-4dc0-a207-cde60fac8d1d",
+    "manuscript_title": "《上古卷轴5：天际》对宅男大学生现金流与笔记本配置关系的实证研究",
+    "author_name": "高手高高",
+    "institution": "game观察游玩者",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T03:30:39.131646+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "cd75bde5-18f3-4dc0-a207-cde60fac8d1d/_____zhuang*1_163_com.pdf",
+    "zone": "latrine"
+}

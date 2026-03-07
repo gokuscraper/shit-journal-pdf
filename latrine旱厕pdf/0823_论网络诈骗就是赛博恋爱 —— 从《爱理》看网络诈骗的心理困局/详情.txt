@@ -1,0 +1,19 @@
+【标题】: 论网络诈骗就是赛博恋爱 —— 从《爱理》看网络诈骗的心理困局
+【作者】: 冰冻柠檬汁
+【机构】: 江苏省射阳中学i
+【zone】: latrine
+【时间】: 2026-02-24T18:12:51.209748+00:00
+【评分】: 平均 3.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6a7aa2dc-9337-4790-8c59-e4d59e213ce7",
+    "manuscript_title": "论网络诈骗就是赛博恋爱 —— 从《爱理》看网络诈骗的心理困局",
+    "author_name": "冰冻柠檬汁",
+    "institution": "江苏省射阳中学i",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T18:12:51.209748+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "6a7aa2dc-9337-4790-8c59-e4d59e213ce7/paper.pdf",
+    "zone": "latrine"
+}

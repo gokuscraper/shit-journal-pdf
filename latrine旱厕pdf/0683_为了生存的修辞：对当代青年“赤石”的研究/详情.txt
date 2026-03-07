@@ -1,0 +1,19 @@
+【标题】: 为了生存的修辞：对当代青年“赤石”的研究
+【作者】: E.LOad
+【机构】: 某研究院
+【zone】: latrine
+【时间】: 2026-02-23T07:21:46.499546+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7dc4b6f1-6eab-486e-b270-528db7b411ca",
+    "manuscript_title": "为了生存的修辞：对当代青年“赤石”的研究",
+    "author_name": "E.LOad",
+    "institution": "某研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:21:46.499546+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "7dc4b6f1-6eab-486e-b270-528db7b411ca/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于游戏王的高浓度苦命鸳鸯制取方法研究
+【作者】: 煤球Xa0c
+【机构】: 禁漫天堂
+【zone】: latrine
+【时间】: 2026-02-23T08:45:22.821271+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "a8142aa4-2f2e-4df3-9680-a7645483ba17",
+    "manuscript_title": "基于游戏王的高浓度苦命鸳鸯制取方法研究",
+    "author_name": "煤球Xa0c",
+    "institution": "禁漫天堂",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:45:22.821271+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a8142aa4-2f2e-4df3-9680-a7645483ba17/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 传统权威的现代性重构：基于韦伯理论的华南宗族研究
+【作者】: 维多利亚
+【机构】: 够吧大学
+【zone】: latrine
+【时间】: 2026-02-23T07:37:20.739907+00:00
+【评分】: 平均 3.8333333333333335 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d36941fc-8dcf-43a3-b715-da4ebefbf112",
+    "manuscript_title": "传统权威的现代性重构：基于韦伯理论的华南宗族研究",
+    "author_name": "维多利亚",
+    "institution": "够吧大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:37:20.739907+00:00",
+    "avg_score": 3.8333333333333335,
+    "pdf_path": "d36941fc-8dcf-43a3-b715-da4ebefbf112/paper.pdf",
+    "zone": "latrine"
+}

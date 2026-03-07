@@ -1,0 +1,19 @@
+【标题】: 基于二次元与做梦中得出的高维模糊定理
+【作者】: 喜鸟
+【机构】: 紧惊精研究所
+【zone】: latrine
+【时间】: 2026-02-25T04:24:15.925548+00:00
+【评分】: 平均 3.7857142857142856 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "36642526-ae9e-43d7-a31f-4dccdc52d259",
+    "manuscript_title": "基于二次元与做梦中得出的高维模糊定理",
+    "author_name": "喜鸟",
+    "institution": "紧惊精研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T04:24:15.925548+00:00",
+    "avg_score": 3.7857142857142856,
+    "pdf_path": "36642526-ae9e-43d7-a31f-4dccdc52d259/___3039125063_qq_com.pdf",
+    "zone": "latrine"
+}

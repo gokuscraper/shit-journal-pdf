@@ -1,0 +1,19 @@
+【标题】: 窒息的爱：鼻塞对热恋期接吻时长的“生理性劝退”建模分析
+【作者】: 屎King
+【机构】: 解放单身实验室
+【zone】: latrine
+【时间】: 2026-02-28T06:49:59.263357+00:00
+【评分】: 平均 3.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a1197074-fedb-4839-952a-0b89e7b01dae",
+    "manuscript_title": "窒息的爱：鼻塞对热恋期接吻时长的“生理性劝退”建模分析",
+    "author_name": "屎King",
+    "institution": "解放单身实验室",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T06:49:59.263357+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "a1197074-fedb-4839-952a-0b89e7b01dae/_King_2780807192_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 碳基算力节点的性能归零路径： 关于短视频指令风暴与高糖电压脉冲的体系结构 级解构
+【作者】: 成为回族禁忌
+【机构】: University of Wildchicken
+【zone】: latrine
+【时间】: 2026-03-01T08:57:56.140899+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a2378964-c19c-44d8-b35f-f05db677e2ea",
+    "manuscript_title": "碳基算力节点的性能归零路径： 关于短视频指令风暴与高糖电压脉冲的体系结构 级解构",
+    "author_name": "成为回族禁忌",
+    "institution": "University of Wildchicken",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:57:56.140899+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "a2378964-c19c-44d8-b35f-f05db677e2ea/_______18062576243_163_com.pdf",
+    "zone": "latrine"
+}

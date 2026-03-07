@@ -1,0 +1,19 @@
+【标题】: 与少妇约会的场地安全性选择与评估：基于多约束风险最小化的运筹学框架
+【作者】: Dr. 阿波
+【机构】: Northwestern University
+【zone】: stone
+【时间】: 2026-02-28T18:09:05.206728+00:00
+【评分】: 平均 4.717062634989201 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b5b882bd-4ca3-4b89-aec0-a9a597f6ed73",
+    "manuscript_title": "与少妇约会的场地安全性选择与评估：基于多约束风险最小化的运筹学框架",
+    "author_name": "Dr. 阿波",
+    "institution": "Northwestern University",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-28T18:09:05.206728+00:00",
+    "avg_score": 4.717062634989201,
+    "pdf_path": "b5b882bd-4ca3-4b89-aec0-a9a597f6ed73/Dr_____jacoblian_u_northwestern_edu.pdf",
+    "zone": "stone"
+}

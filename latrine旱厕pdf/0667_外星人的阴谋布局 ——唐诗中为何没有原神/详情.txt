@@ -1,0 +1,19 @@
+【标题】: 外星人的阴谋布局 ——唐诗中为何没有原神
+【作者】: Tony·屎大颗
+【机构】: 宇宙原神历史文化研究委员会
+【zone】: latrine
+【时间】: 2026-03-03T10:03:42.03407+00:00
+【评分】: 平均 3.6666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "7fec1258-9bf2-4aa6-a559-7d952b47dc41",
+    "manuscript_title": "外星人的阴谋布局 ——唐诗中为何没有原神",
+    "author_name": "Tony·屎大颗",
+    "institution": "宇宙原神历史文化研究委员会",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T10:03:42.03407+00:00",
+    "avg_score": 3.6666666666666665,
+    "pdf_path": "7fec1258-9bf2-4aa6-a559-7d952b47dc41/Tony_____lx17835032280_outlook_com.pdf",
+    "zone": "latrine"
+}

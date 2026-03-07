@@ -1,0 +1,19 @@
+【标题】: 中华传统玄幻世界观物理学研究
+【作者】: 静磁标量势
+【机构】: 东北义和团
+【zone】: latrine
+【时间】: 2026-02-23T03:37:18.310814+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5cb793dd-7363-40fd-a361-8747d9073668",
+    "manuscript_title": "中华传统玄幻世界观物理学研究",
+    "author_name": "静磁标量势",
+    "institution": "东北义和团",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T03:37:18.310814+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "5cb793dd-7363-40fd-a361-8747d9073668/paper.pdf",
+    "zone": "latrine"
+}

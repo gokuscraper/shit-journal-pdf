@@ -1,0 +1,19 @@
+【标题】: 论江苏井盖失窃概率与井盖材质的关系
+【作者】: PtF6
+【机构】: 棍木大学
+【zone】: latrine
+【时间】: 2026-02-23T09:57:46.36025+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "903442b8-324b-4c23-b9cf-fdf4a9359d06",
+    "manuscript_title": "论江苏井盖失窃概率与井盖材质的关系",
+    "author_name": "PtF6",
+    "institution": "棍木大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:57:46.36025+00:00",
+    "avg_score": 0,
+    "pdf_path": "903442b8-324b-4c23-b9cf-fdf4a9359d06/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: "下次一定"的模态逻辑真值条件分析——一项无法完成的纵向追踪
+【作者】: 马蹄哒哒哒芬
+【机构】: Ciksour University
+【zone】: septic
+【时间】: 2026-03-01T20:10:04.31704+00:00
+【评分】: 平均 4.578947368421052 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "528dc45e-1e1e-4c82-9b73-c4d9c1884c1e",
+    "manuscript_title": "\"下次一定\"的模态逻辑真值条件分析——一项无法完成的纵向追踪",
+    "author_name": "马蹄哒哒哒芬",
+    "institution": "Ciksour University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T20:10:04.31704+00:00",
+    "avg_score": 4.578947368421052,
+    "pdf_path": "528dc45e-1e1e-4c82-9b73-c4d9c1884c1e/_______2439634381_qq_com.pdf",
+    "zone": "septic"
+}

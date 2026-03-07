@@ -1,0 +1,19 @@
+【标题】: 假期长短对学生开学欲望的影响  ——基于枣庄地区学生的分析
+【作者】: Dr.Alexander
+【机构】: Stay at Home University
+【zone】: latrine
+【时间】: 2026-03-01T06:10:01.545043+00:00
+【评分】: 平均 4.333333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a6dbaef3-03b3-4ef1-a7ca-2df524e39207",
+    "manuscript_title": "假期长短对学生开学欲望的影响  ——基于枣庄地区学生的分析",
+    "author_name": "Dr.Alexander",
+    "institution": "Stay at Home University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T06:10:01.545043+00:00",
+    "avg_score": 4.333333333333333,
+    "pdf_path": "a6dbaef3-03b3-4ef1-a7ca-2df524e39207/Dr_Alexander_2974996465_qq_com.pdf",
+    "zone": "latrine"
+}

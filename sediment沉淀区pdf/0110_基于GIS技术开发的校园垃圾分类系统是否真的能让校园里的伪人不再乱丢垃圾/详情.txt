@@ -1,0 +1,19 @@
+【标题】: 基于GIS技术开发的校园垃圾分类系统是否真的能让校园里的伪人不再乱丢垃圾
+【作者】: 拉完了
+【机构】: 抖音大学
+【zone】: sediment
+【时间】: 2026-03-01T11:25:48.713075+00:00
+【评分】: 平均 2.878787878787879 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d332bebb-f023-4ae2-bcd4-4c8641612a2a",
+    "manuscript_title": "基于GIS技术开发的校园垃圾分类系统是否真的能让校园里的伪人不再乱丢垃圾",
+    "author_name": "拉完了",
+    "institution": "抖音大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T11:25:48.713075+00:00",
+    "avg_score": 2.878787878787879,
+    "pdf_path": "d332bebb-f023-4ae2-bcd4-4c8641612a2a/____399130470_qq_com.pdf",
+    "zone": "sediment"
+}

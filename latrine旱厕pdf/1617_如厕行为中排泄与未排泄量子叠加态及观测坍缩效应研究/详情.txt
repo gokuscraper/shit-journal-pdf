@@ -1,0 +1,19 @@
+【标题】: 如厕行为中排泄与未排泄量子叠加态及观测坍缩效应研究
+【作者】: Shabo Cheng
+【机构】: 量子如厕学研究所
+【zone】: latrine
+【时间】: 2026-02-22T14:26:55.556517+00:00
+【评分】: 平均 4.55 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e4b4fc7a-a205-4e06-9a55-6f33516b3de5",
+    "manuscript_title": "如厕行为中排泄与未排泄量子叠加态及观测坍缩效应研究",
+    "author_name": "Shabo Cheng",
+    "institution": "量子如厕学研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T14:26:55.556517+00:00",
+    "avg_score": 4.55,
+    "pdf_path": "e4b4fc7a-a205-4e06-9a55-6f33516b3de5/paper.pdf",
+    "zone": "latrine"
+}

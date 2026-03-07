@@ -1,0 +1,19 @@
+【标题】: 《从喂屎到排泄：人工智能代理在短视频平台的阴间化生产研究》
+【作者】: 我本是我沐
+【机构】: 星炬学院数字生命研究部
+【zone】: septic
+【时间】: 2026-03-01T14:33:21.853568+00:00
+【评分】: 平均 4.708333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "22c9d030-e044-4dbd-a07d-e3a01aede0c9",
+    "manuscript_title": "《从喂屎到排泄：人工智能代理在短视频平台的阴间化生产研究》",
+    "author_name": "我本是我沐",
+    "institution": "星炬学院数字生命研究部",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:33:21.853568+00:00",
+    "avg_score": 4.708333333333333,
+    "pdf_path": "22c9d030-e044-4dbd-a07d-e3a01aede0c9/______qprrpqui_petalmail_com.pdf",
+    "zone": "septic"
+}

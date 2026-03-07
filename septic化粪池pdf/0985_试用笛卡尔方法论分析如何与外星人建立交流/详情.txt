@@ -1,0 +1,19 @@
+【标题】: 试用笛卡尔方法论分析如何与外星人建立交流
+【作者】: 下北泽水管工
+【机构】: 国立下北泽大学
+【zone】: septic
+【时间】: 2026-03-02T15:44:48.149188+00:00
+【评分】: 平均 3.823529411764706 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "539b58f8-207b-4ddf-a4f5-f6b9b27d2acd",
+    "manuscript_title": "试用笛卡尔方法论分析如何与外星人建立交流",
+    "author_name": "下北泽水管工",
+    "institution": "国立下北泽大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T15:44:48.149188+00:00",
+    "avg_score": 3.823529411764706,
+    "pdf_path": "539b58f8-207b-4ddf-a4f5-f6b9b27d2acd/_______crescentiuschen_outlook_com.pdf",
+    "zone": "septic"
+}

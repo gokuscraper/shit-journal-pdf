@@ -1,0 +1,19 @@
+【标题】: 试图理解ばかやるう（八嘎牙路），结果理解了半天
+【作者】: 辰景
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-28T13:39:06.455122+00:00
+【评分】: 平均 4.3 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "2bbd510b-f9f1-4a49-848b-87c56baa4c77",
+    "manuscript_title": "试图理解ばかやるう（八嘎牙路），结果理解了半天",
+    "author_name": "辰景",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T13:39:06.455122+00:00",
+    "avg_score": 4.3,
+    "pdf_path": "2bbd510b-f9f1-4a49-848b-87c56baa4c77/___chenjing1258_gmail_com.pdf",
+    "zone": "latrine"
+}

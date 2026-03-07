@@ -1,0 +1,19 @@
+【标题】: 论女性的崛起，从小红书开始——基于符号互动论与算法民族志的混合研究
+【作者】: 两直线
+【机构】: League of Legends Black Rose (Server)
+【zone】: septic
+【时间】: 2026-03-02T10:29:51.912175+00:00
+【评分】: 平均 4.555555555555555 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9745d079-1454-49a7-9f2b-c8e292511559",
+    "manuscript_title": "论女性的崛起，从小红书开始——基于符号互动论与算法民族志的混合研究",
+    "author_name": "两直线",
+    "institution": "League of Legends Black Rose (Server)",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:29:51.912175+00:00",
+    "avg_score": 4.555555555555555,
+    "pdf_path": "9745d079-1454-49a7-9f2b-c8e292511559/____2075866972_qq_com.pdf",
+    "zone": "septic"
+}

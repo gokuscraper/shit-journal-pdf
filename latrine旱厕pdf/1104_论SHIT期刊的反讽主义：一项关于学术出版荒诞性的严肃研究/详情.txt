@@ -1,0 +1,19 @@
+【标题】: 论SHIT期刊的反讽主义：一项关于学术出版荒诞性的严肃研究
+【作者】: 云梦雨
+【机构】: STAY AT HOME University
+【zone】: latrine
+【时间】: 2026-03-03T05:11:57.643945+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "423f44bd-6a31-4825-9ede-928d29f2d803",
+    "manuscript_title": "论SHIT期刊的反讽主义：一项关于学术出版荒诞性的严肃研究",
+    "author_name": "云梦雨",
+    "institution": "STAY AT HOME University",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T05:11:57.643945+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "423f44bd-6a31-4825-9ede-928d29f2d803/____wyf856136_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 《肠道菌群多样性与学术论文引用量的非线性耦合关系研究》
+【作者】: Isahndwans
+【机构】: 网友
+【zone】: latrine
+【时间】: 2026-02-23T14:30:08.168804+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e667abb4-d180-447b-b2f8-f19c10a86eb8",
+    "manuscript_title": "《肠道菌群多样性与学术论文引用量的非线性耦合关系研究》",
+    "author_name": "Isahndwans",
+    "institution": "网友",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:30:08.168804+00:00",
+    "avg_score": 0,
+    "pdf_path": "e667abb4-d180-447b-b2f8-f19c10a86eb8/paper.pdf",
+    "zone": "latrine"
+}

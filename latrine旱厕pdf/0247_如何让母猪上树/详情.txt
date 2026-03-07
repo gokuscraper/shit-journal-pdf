@@ -1,0 +1,19 @@
+【标题】: 如何让母猪上树
+【作者】: 爱神之矢
+【机构】: 极东支部
+【zone】: latrine
+【时间】: 2026-02-22T11:11:58.215338+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bed60fd8-795a-4eff-a718-1c499bb388b7",
+    "manuscript_title": "如何让母猪上树",
+    "author_name": "爱神之矢",
+    "institution": "极东支部",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T11:11:58.215338+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "bed60fd8-795a-4eff-a718-1c499bb388b7/paper.pdf",
+    "zone": "latrine"
+}

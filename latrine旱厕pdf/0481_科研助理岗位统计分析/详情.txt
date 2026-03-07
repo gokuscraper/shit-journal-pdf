@@ -1,0 +1,19 @@
+【标题】: 科研助理岗位统计分析
+【作者】: Jiaxin Luo
+【机构】: Community university
+【zone】: latrine
+【时间】: 2026-02-28T09:02:10.977699+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "9c5fe0bf-738e-40a7-b225-196741e5a7c7",
+    "manuscript_title": "科研助理岗位统计分析",
+    "author_name": "Jiaxin Luo",
+    "institution": "Community university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:02:10.977699+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "9c5fe0bf-738e-40a7-b225-196741e5a7c7/Jiaxin_Luo_ljx2329ljx_yeah_net.pdf",
+    "zone": "latrine"
+}

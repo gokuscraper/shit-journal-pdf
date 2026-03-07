@@ -1,0 +1,19 @@
+【标题】: 恶意动机对疲劳感知的影响：以游戏埋伏行为为例
+【作者】: Liubiger
+【机构】: Southern Continental School of Excretory Arts
+【zone】: stone
+【时间】: 2026-02-28T22:45:02.600095+00:00
+【评分】: 平均 4.761904761904762 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e62b70f7-d306-48d2-9a19-911df6641a0a",
+    "manuscript_title": "恶意动机对疲劳感知的影响：以游戏埋伏行为为例",
+    "author_name": "Liubiger",
+    "institution": "Southern Continental School of Excretory Arts",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T22:45:02.600095+00:00",
+    "avg_score": 4.761904761904762,
+    "pdf_path": "e62b70f7-d306-48d2-9a19-911df6641a0a/Liubiger_wtxu108_163_com.pdf",
+    "zone": "stone"
+}

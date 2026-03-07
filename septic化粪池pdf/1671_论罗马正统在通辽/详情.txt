@@ -1,0 +1,19 @@
+【标题】: 论罗马正统在通辽
+【作者】: 元老院普通群众
+【机构】: 罗马正统研究所
+【zone】: septic
+【时间】: 2026-03-02T14:38:29.896902+00:00
+【评分】: 平均 4.708333333333333 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ec94ccf2-7e98-44f5-85af-6ff8e75122cc",
+    "manuscript_title": "论罗马正统在通辽",
+    "author_name": "元老院普通群众",
+    "institution": "罗马正统研究所",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T14:38:29.896902+00:00",
+    "avg_score": 4.708333333333333,
+    "pdf_path": "ec94ccf2-7e98-44f5-85af-6ff8e75122cc/________zndm_roma_com.pdf",
+    "zone": "septic"
+}

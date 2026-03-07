@@ -1,0 +1,19 @@
+【标题】: 基于梦境分析的人物性别假设：心理与生物学视角
+【作者】: Hermit
+【机构】: Dream Research Institute, Stay-at-Home University 
+【zone】: septic
+【时间】: 2026-02-28T17:05:53.438778+00:00
+【评分】: 平均 4.15 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "32959df3-d906-42f3-9809-913517ac600a",
+    "manuscript_title": "基于梦境分析的人物性别假设：心理与生物学视角",
+    "author_name": "Hermit",
+    "institution": "Dream Research Institute, Stay-at-Home University ",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-28T17:05:53.438778+00:00",
+    "avg_score": 4.15,
+    "pdf_path": "32959df3-d906-42f3-9809-913517ac600a/Hermit_1320948069_qq_com.pdf",
+    "zone": "septic"
+}

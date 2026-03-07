@@ -1,0 +1,19 @@
+【标题】: 当下男娘文化对医学影像检查技术影响的浅论
+【作者】: Super Gorgeous Pig（苏博·高洁丝·培格）
+【机构】: 西安医学院（Xi'an Medical University）
+【zone】: latrine
+【时间】: 2026-02-23T08:54:03.674883+00:00
+【评分】: 平均 4.428571428571429 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "686a99d0-c61a-4c5f-8afc-f9348d63a7d9",
+    "manuscript_title": "当下男娘文化对医学影像检查技术影响的浅论",
+    "author_name": "Super Gorgeous Pig（苏博·高洁丝·培格）",
+    "institution": "西安医学院（Xi'an Medical University）",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:54:03.674883+00:00",
+    "avg_score": 4.428571428571429,
+    "pdf_path": "686a99d0-c61a-4c5f-8afc-f9348d63a7d9/paper.pdf",
+    "zone": "latrine"
+}

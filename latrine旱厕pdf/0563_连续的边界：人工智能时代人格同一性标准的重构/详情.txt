@@ -1,0 +1,19 @@
+【标题】: 连续的边界：人工智能时代人格同一性标准的重构
+【作者】: 艾因（火木皆玄
+【机构】: 卡门研究所
+【zone】: latrine
+【时间】: 2026-02-25T11:37:52.19535+00:00
+【评分】: 平均 2.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8fb5a5bc-6299-45b0-8650-b5a6d6f7353c",
+    "manuscript_title": "连续的边界：人工智能时代人格同一性标准的重构",
+    "author_name": "艾因（火木皆玄",
+    "institution": "卡门研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:37:52.19535+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "8fb5a5bc-6299-45b0-8650-b5a6d6f7353c/________13100641846a_sina_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 嗅觉受体中的量子动力学调制：从“久闻不知其臭”到“久闻不绝其臭”
+【作者】: Smelly
+【机构】: 越南越捷航空
+【zone】: latrine
+【时间】: 2026-02-25T16:43:41.044484+00:00
+【评分】: 平均 4.25 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "bff40652-ed36-4774-a3ef-fe8d07c5a796",
+    "manuscript_title": "嗅觉受体中的量子动力学调制：从“久闻不知其臭”到“久闻不绝其臭”",
+    "author_name": "Smelly",
+    "institution": "越南越捷航空",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-02-25T16:43:41.044484+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "bff40652-ed36-4774-a3ef-fe8d07c5a796/Smelly_gvbvjotaq947_outlook_com.pdf",
+    "zone": "latrine"
+}

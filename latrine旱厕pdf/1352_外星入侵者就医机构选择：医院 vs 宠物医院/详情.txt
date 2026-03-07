@@ -1,0 +1,19 @@
+【标题】: 外星入侵者就医机构选择：医院 vs 宠物医院
+【作者】: 坨坨
+【机构】: 深空生物研究所
+【zone】: latrine
+【时间】: 2026-02-25T07:51:12.682387+00:00
+【评分】: 平均 3.3333333333333335 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "20269e1e-bcb3-40fd-8a1d-db6aa5b6545a",
+    "manuscript_title": "外星入侵者就医机构选择：医院 vs 宠物医院",
+    "author_name": "坨坨",
+    "institution": "深空生物研究所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:51:12.682387+00:00",
+    "avg_score": 3.3333333333333335,
+    "pdf_path": "20269e1e-bcb3-40fd-8a1d-db6aa5b6545a/___2106333947_qq_com.pdf",
+    "zone": "latrine"
+}

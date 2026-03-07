@@ -1,0 +1,19 @@
+【标题】: 中学厕所与学生成绩的关系：中国教育视角下关于厕所的哲学
+【作者】: 屎壳郎007
+【机构】: 上海市宛平路700号
+【zone】: latrine
+【时间】: 2026-02-22T15:25:16.564411+00:00
+【评分】: 平均 1.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b6fade04-bbe7-49fe-91bb-edcee212cfe8",
+    "manuscript_title": "中学厕所与学生成绩的关系：中国教育视角下关于厕所的哲学",
+    "author_name": "屎壳郎007",
+    "institution": "上海市宛平路700号",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T15:25:16.564411+00:00",
+    "avg_score": 1.5,
+    "pdf_path": "b6fade04-bbe7-49fe-91bb-edcee212cfe8/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 当代年轻人性压抑与投资的量子纠缠假说
+【作者】: 遇到困难睡大觉
+【机构】: STAY AT HOME UNIVERSITY
+【zone】: latrine
+【时间】: 2026-02-28T13:40:50.419689+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "0f8d161b-a7c9-470a-b05d-73962fdad2b2",
+    "manuscript_title": "当代年轻人性压抑与投资的量子纠缠假说",
+    "author_name": "遇到困难睡大觉",
+    "institution": "STAY AT HOME UNIVERSITY",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T13:40:50.419689+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "0f8d161b-a7c9-470a-b05d-73962fdad2b2/________joker_outlook_com.pdf",
+    "zone": "latrine"
+}

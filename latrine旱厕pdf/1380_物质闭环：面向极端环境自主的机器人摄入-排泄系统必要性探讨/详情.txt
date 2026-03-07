@@ -1,0 +1,19 @@
+【标题】: 物质闭环：面向极端环境自主的机器人摄入-排泄系统必要性探讨
+【作者】: atticussong
+【机构】: SEU(Shit Everywhere University)
+【zone】: latrine
+【时间】: 2026-02-28T13:41:20.306421+00:00
+【评分】: 平均 3.7777777777777777 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "1c55e145-4a0b-4a43-afe8-fec70e3d252b",
+    "manuscript_title": "物质闭环：面向极端环境自主的机器人摄入-排泄系统必要性探讨",
+    "author_name": "atticussong",
+    "institution": "SEU(Shit Everywhere University)",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-02-28T13:41:20.306421+00:00",
+    "avg_score": 3.7777777777777777,
+    "pdf_path": "1c55e145-4a0b-4a43-afe8-fec70e3d252b/atticussong_2462744542_qq_com.pdf",
+    "zone": "latrine"
+}

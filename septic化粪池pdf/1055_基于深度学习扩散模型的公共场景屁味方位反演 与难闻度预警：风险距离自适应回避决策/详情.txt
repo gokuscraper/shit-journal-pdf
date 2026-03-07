@@ -1,0 +1,19 @@
+【标题】: 基于深度学习扩散模型的公共场景屁味方位反演 与难闻度预警：风险距离自适应回避决策
+【作者】: Shiting·Chicken
+【机构】: International Institute of Excreta and Flatulence Studies (IIEFS)
+【zone】: septic
+【时间】: 2026-03-01T15:50:33.097416+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4ae89654-5346-44a6-b9d7-434d77f9116c",
+    "manuscript_title": "基于深度学习扩散模型的公共场景屁味方位反演 与难闻度预警：风险距离自适应回避决策",
+    "author_name": "Shiting·Chicken",
+    "institution": "International Institute of Excreta and Flatulence Studies (IIEFS)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T15:50:33.097416+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "4ae89654-5346-44a6-b9d7-434d77f9116c/Shiting_Chicken_3509417485_qq_com.pdf",
+    "zone": "septic"
+}

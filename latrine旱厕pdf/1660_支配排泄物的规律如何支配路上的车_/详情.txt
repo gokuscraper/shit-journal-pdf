@@ -1,0 +1,19 @@
+【标题】: 支配排泄物的规律如何支配路上的车?
+【作者】: 拉马舍金
+【机构】: Universidad de Merdia
+【zone】: latrine
+【时间】: 2026-02-28T16:01:50.460301+00:00
+【评分】: 平均 3.6 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "eafa9b33-15c6-48eb-b77a-4c04ce8e0acc",
+    "manuscript_title": "支配排泄物的规律如何支配路上的车?",
+    "author_name": "拉马舍金",
+    "institution": "Universidad de Merdia",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-02-28T16:01:50.460301+00:00",
+    "avg_score": 3.6,
+    "pdf_path": "eafa9b33-15c6-48eb-b77a-4c04ce8e0acc/_____esdongmufeng_gmail_com.pdf",
+    "zone": "latrine"
+}

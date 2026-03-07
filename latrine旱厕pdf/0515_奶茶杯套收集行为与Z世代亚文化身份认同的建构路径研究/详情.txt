@@ -1,0 +1,19 @@
+【标题】: 奶茶杯套收集行为与Z世代亚文化身份认同的建构路径研究
+【作者】: 鸽浅
+【机构】: 家里蹲大学
+【zone】: latrine
+【时间】: 2026-02-22T11:14:34.684941+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "974580e1-0be7-41de-8a24-e9141b463351",
+    "manuscript_title": "奶茶杯套收集行为与Z世代亚文化身份认同的建构路径研究",
+    "author_name": "鸽浅",
+    "institution": "家里蹲大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T11:14:34.684941+00:00",
+    "avg_score": 0,
+    "pdf_path": "974580e1-0be7-41de-8a24-e9141b463351/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 狗屎卫星：发射一颗生物质降解卫星的技术、经济及伦理可行性分析
+【作者】: 奥
+【机构】: 句米研究院
+【zone】: latrine
+【时间】: 2026-02-28T09:52:02.815479+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "da875b24-ecb8-44a7-9bb9-be67293d0a66",
+    "manuscript_title": "狗屎卫星：发射一颗生物质降解卫星的技术、经济及伦理可行性分析",
+    "author_name": "奥",
+    "institution": "句米研究院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T09:52:02.815479+00:00",
+    "avg_score": 0,
+    "pdf_path": "da875b24-ecb8-44a7-9bb9-be67293d0a66/__oeve44_gmail_com.pdf",
+    "zone": "latrine"
+}

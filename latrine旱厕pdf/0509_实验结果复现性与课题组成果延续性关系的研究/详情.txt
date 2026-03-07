@@ -1,0 +1,19 @@
+【标题】: 实验结果复现性与课题组成果延续性关系的研究
+【作者】: debengt
+【机构】: 曼波大学
+【zone】: latrine
+【时间】: 2026-02-27T03:08:46.584758+00:00
+【评分】: 平均 4.714285714285714 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "97dcf393-7cd1-4352-851e-67943dcb175b",
+    "manuscript_title": "实验结果复现性与课题组成果延续性关系的研究",
+    "author_name": "debengt",
+    "institution": "曼波大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T03:08:46.584758+00:00",
+    "avg_score": 4.714285714285714,
+    "pdf_path": "97dcf393-7cd1-4352-851e-67943dcb175b/debengt_627028696_qq_com.pdf",
+    "zone": "latrine"
+}

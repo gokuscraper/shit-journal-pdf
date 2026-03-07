@@ -1,0 +1,19 @@
+【标题】: 群聊沉默传播模型：已读不回的 SIR 动力学与再感染率
+【作者】: shithead
+【机构】: 数字交互与注意力耗散研究组
+【zone】: latrine
+【时间】: 2026-03-03T03:50:14.556191+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "46175d6c-7dc0-4b56-869f-6aed97b5781c",
+    "manuscript_title": "群聊沉默传播模型：已读不回的 SIR 动力学与再感染率",
+    "author_name": "shithead",
+    "institution": "数字交互与注意力耗散研究组",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T03:50:14.556191+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "46175d6c-7dc0-4b56-869f-6aed97b5781c/shithead_zhaojc0701_163_com.pdf",
+    "zone": "latrine"
+}

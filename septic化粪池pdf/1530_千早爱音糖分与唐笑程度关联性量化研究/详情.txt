@@ -1,0 +1,19 @@
+【标题】: 千早爱音糖分与唐笑程度关联性量化研究
+【作者】: cray 小乘
+【机构】: 二次元文化量化研究所
+【zone】: septic
+【时间】: 2026-03-02T19:33:13.087923+00:00
+【评分】: 平均 4.303030303030303 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "0632aeef-76c8-4a5d-8ed6-67ddd134f5a9",
+    "manuscript_title": "千早爱音糖分与唐笑程度关联性量化研究",
+    "author_name": "cray 小乘",
+    "institution": "二次元文化量化研究所",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T19:33:13.087923+00:00",
+    "avg_score": 4.303030303030303,
+    "pdf_path": "0632aeef-76c8-4a5d-8ed6-67ddd134f5a9/cray____crayxiaocheng_gmail_com.pdf",
+    "zone": "septic"
+}

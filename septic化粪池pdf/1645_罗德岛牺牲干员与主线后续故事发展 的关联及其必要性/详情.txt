@@ -1,0 +1,19 @@
+【标题】: 罗德岛牺牲干员与主线后续故事发展 的关联及其必要性
+【作者】: Dr.Yunya
+【机构】: 罗德岛精英干员休息室
+【zone】: septic
+【时间】: 2026-02-28T16:40:20.489109+00:00
+【评分】: 平均 3.8333333333333335 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e81031ae-33e6-4964-9363-44cb0273b2af",
+    "manuscript_title": "罗德岛牺牲干员与主线后续故事发展 的关联及其必要性",
+    "author_name": "Dr.Yunya",
+    "institution": "罗德岛精英干员休息室",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T16:40:20.489109+00:00",
+    "avg_score": 3.8333333333333335,
+    "pdf_path": "e81031ae-33e6-4964-9363-44cb0273b2af/Dr_Yunya_yym77881166_qq_com.pdf",
+    "zone": "septic"
+}

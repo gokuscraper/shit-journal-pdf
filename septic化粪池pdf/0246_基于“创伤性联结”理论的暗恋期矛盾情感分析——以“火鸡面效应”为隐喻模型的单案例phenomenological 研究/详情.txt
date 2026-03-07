@@ -1,0 +1,19 @@
+【标题】: 基于“创伤性联结”理论的暗恋期矛盾情感分析——以“火鸡面效应”为隐喻模型的单案例phenomenological 研究
+【作者】: 汐見螢
+【机构】: 家里蹲大学
+【zone】: septic
+【时间】: 2026-03-03T22:26:52.392722+00:00
+【评分】: 平均 4.675 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "bee4d62e-14c9-4663-a8fc-a87215094320",
+    "manuscript_title": "基于“创伤性联结”理论的暗恋期矛盾情感分析——以“火鸡面效应”为隐喻模型的单案例phenomenological 研究",
+    "author_name": "汐見螢",
+    "institution": "家里蹲大学",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-03T22:26:52.392722+00:00",
+    "avg_score": 4.675,
+    "pdf_path": "bee4d62e-14c9-4663-a8fc-a87215094320/____x13732217557_163_com.pdf",
+    "zone": "septic"
+}

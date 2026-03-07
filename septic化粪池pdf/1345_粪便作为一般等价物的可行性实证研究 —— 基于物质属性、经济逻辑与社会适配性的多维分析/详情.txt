@@ -1,0 +1,19 @@
+【标题】: 粪便作为一般等价物的可行性实证研究 —— 基于物质属性、经济逻辑与社会适配性的多维分析
+【作者】: 排泄する人
+【机构】: 排泄工程大学University of Excrement Engineering (UEE)
+【zone】: septic
+【时间】: 2026-03-01T10:57:03.920137+00:00
+【评分】: 平均 4.03125 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "210fe8b6-50aa-41e4-9bfc-c736e649c24e",
+    "manuscript_title": "粪便作为一般等价物的可行性实证研究 —— 基于物质属性、经济逻辑与社会适配性的多维分析",
+    "author_name": "排泄する人",
+    "institution": "排泄工程大学University of Excrement Engineering (UEE)",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T10:57:03.920137+00:00",
+    "avg_score": 4.03125,
+    "pdf_path": "210fe8b6-50aa-41e4-9bfc-c736e649c24e/______1977930414_qq_com.pdf",
+    "zone": "septic"
+}

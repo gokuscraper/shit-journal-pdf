@@ -1,0 +1,19 @@
+【标题】: 春节回家相亲成功率与排便时间及次数的相关性
+【作者】: Dr. 喜羊羊
+【机构】:  University of Yang Cun
+【zone】: latrine
+【时间】: 2026-02-27T10:45:59.586655+00:00
+【评分】: 平均 4.428571428571429 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "4dd54cb9-c0df-4f0a-a5f7-603b64348d6f",
+    "manuscript_title": "春节回家相亲成功率与排便时间及次数的相关性",
+    "author_name": "Dr. 喜羊羊",
+    "institution": " University of Yang Cun",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T10:45:59.586655+00:00",
+    "avg_score": 4.428571428571429,
+    "pdf_path": "4dd54cb9-c0df-4f0a-a5f7-603b64348d6f/Dr______supercelltari_gmail_com.pdf",
+    "zone": "latrine"
+}

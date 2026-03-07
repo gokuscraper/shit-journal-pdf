@@ -1,0 +1,19 @@
+【标题】: 武陵城郊动态侵蚀没有扩大—— 基于观测站定点摄影的对比分析
+【作者】: 蠢才没有
+【机构】: 帝江号
+【zone】: latrine
+【时间】: 2026-03-03T08:08:12.06038+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3d849535-6a5b-4bed-b94a-33cbad555da8",
+    "manuscript_title": "武陵城郊动态侵蚀没有扩大—— 基于观测站定点摄影的对比分析",
+    "author_name": "蠢才没有",
+    "institution": "帝江号",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:08:12.06038+00:00",
+    "avg_score": 0,
+    "pdf_path": "3d849535-6a5b-4bed-b94a-33cbad555da8/_____biolaya_163_com.pdf",
+    "zone": "latrine"
+}

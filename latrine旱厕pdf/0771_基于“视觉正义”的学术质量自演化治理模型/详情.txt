@@ -1,0 +1,19 @@
+【标题】: 基于“视觉正义”的学术质量自演化治理模型
+【作者】: Golden Shit
+【机构】: 克莱登大学屎学研究所排版实验室
+【zone】: latrine
+【时间】: 2026-02-28T08:21:48.672301+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "71280792-5568-4d84-a447-7bb887e3c286",
+    "manuscript_title": "基于“视觉正义”的学术质量自演化治理模型",
+    "author_name": "Golden Shit",
+    "institution": "克莱登大学屎学研究所排版实验室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T08:21:48.672301+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "71280792-5568-4d84-a447-7bb887e3c286/Golden_Shit_fram_herel_gmail_com.pdf",
+    "zone": "latrine"
+}

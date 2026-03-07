@@ -1,0 +1,19 @@
+【标题】: 印象管理与任务分配机制——研究生假装忙碌程度与导师任务分配的量化分析
+【作者】: Doctor Park
+【机构】: 拖延行为高级研究中心
+【zone】: septic
+【时间】: 2026-03-02T14:35:37.099782+00:00
+【评分】: 平均 4.285714285714286 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e5ce28fb-4ece-4d39-ab15-275ec67144a7",
+    "manuscript_title": "印象管理与任务分配机制——研究生假装忙碌程度与导师任务分配的量化分析",
+    "author_name": "Doctor Park",
+    "institution": "拖延行为高级研究中心",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T14:35:37.099782+00:00",
+    "avg_score": 4.285714285714286,
+    "pdf_path": "e5ce28fb-4ece-4d39-ab15-275ec67144a7/Doctor_Park_544762743_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 乳脂包覆还是酸性软化？ ——基于东北洗浴动力学的奶浴与醋浴下皴效率实证对比研究
+【作者】: 阴伟达
+【机构】: University of Pennsylvania
+【zone】: latrine
+【时间】: 2026-02-28T07:38:34.632271+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "343f63d8-3667-40c0-a7dd-262c52a23bd5",
+    "manuscript_title": "乳脂包覆还是酸性软化？ ——基于东北洗浴动力学的奶浴与醋浴下皴效率实证对比研究",
+    "author_name": "阴伟达",
+    "institution": "University of Pennsylvania",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:38:34.632271+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "343f63d8-3667-40c0-a7dd-262c52a23bd5/____chencynthia579_gmail_com.pdf",
+    "zone": "latrine"
+}

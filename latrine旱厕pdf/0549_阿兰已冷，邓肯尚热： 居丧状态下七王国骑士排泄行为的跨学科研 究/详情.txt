@@ -1,0 +1,19 @@
+【标题】: 阿兰已冷，邓肯尚热： 居丧状态下七王国骑士排泄行为的跨学科研 究
+【作者】: 伊蒙·坦格利安
+【机构】: 维斯特洛君临理工大学
+【zone】: latrine
+【时间】: 2026-03-03T10:15:13.329268+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "91c2c3d4-48e1-40e2-b715-e11c602de157",
+    "manuscript_title": "阿兰已冷，邓肯尚热： 居丧状态下七王国骑士排泄行为的跨学科研 究",
+    "author_name": "伊蒙·坦格利安",
+    "institution": "维斯特洛君临理工大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:15:13.329268+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "91c2c3d4-48e1-40e2-b715-e11c602de157/________yimengtangliyan_kit_westeros_edu.pdf",
+    "zone": "latrine"
+}

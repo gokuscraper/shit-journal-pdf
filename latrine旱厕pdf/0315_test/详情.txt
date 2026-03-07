@@ -1,0 +1,19 @@
+【标题】: test
+【作者】: test
+【机构】: test
+【zone】: latrine
+【时间】: 2026-02-23T08:44:42.030048+00:00
+【评分】: 平均 1.5714285714285714 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b550b8a5-c5a5-4a7b-8161-6b783a2faabc",
+    "manuscript_title": "test",
+    "author_name": "test",
+    "institution": "test",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T08:44:42.030048+00:00",
+    "avg_score": 1.5714285714285714,
+    "pdf_path": "b550b8a5-c5a5-4a7b-8161-6b783a2faabc/paper.pdf",
+    "zone": "latrine"
+}

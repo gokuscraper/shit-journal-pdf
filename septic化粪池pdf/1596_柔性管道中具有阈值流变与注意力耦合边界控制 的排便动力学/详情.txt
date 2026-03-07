@@ -1,0 +1,19 @@
+【标题】: 柔性管道中具有阈值流变与注意力耦合边界控制 的排便动力学
+【作者】: Origami
+【机构】: American Shit Research Association
+【zone】: septic
+【时间】: 2026-03-02T05:17:34.440082+00:00
+【评分】: 平均 4.083333333333333 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e2748af7-e1c6-4390-aa0f-dc5c10973a0a",
+    "manuscript_title": "柔性管道中具有阈值流变与注意力耦合边界控制 的排便动力学",
+    "author_name": "Origami",
+    "institution": "American Shit Research Association",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T05:17:34.440082+00:00",
+    "avg_score": 4.083333333333333,
+    "pdf_path": "e2748af7-e1c6-4390-aa0f-dc5c10973a0a/Origami_xiaomogu2002com_163_com.pdf",
+    "zone": "septic"
+}

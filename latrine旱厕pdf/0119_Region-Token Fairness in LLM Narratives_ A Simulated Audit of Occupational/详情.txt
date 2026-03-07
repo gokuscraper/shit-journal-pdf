@@ -1,0 +1,19 @@
+【标题】: Region-Token Fairness in LLM Narratives: A Simulated Audit of Occupational Priors
+【作者】: Autumnstar
+【机构】: University of BiliBili
+【zone】: latrine
+【时间】: 2026-02-24T02:32:04.916969+00:00
+【评分】: 平均 2.6666666666666665 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d1468de8-0642-4763-aec1-6f6d70f31e8e",
+    "manuscript_title": "Region-Token Fairness in LLM Narratives: A Simulated Audit of Occupational Priors",
+    "author_name": "Autumnstar",
+    "institution": "University of BiliBili",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-24T02:32:04.916969+00:00",
+    "avg_score": 2.6666666666666665,
+    "pdf_path": "d1468de8-0642-4763-aec1-6f6d70f31e8e/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于多维度形态学参数的大便美学性数学评价模型研究
+【作者】: PandA
+【机构】: 不正经的美学工作室
+【zone】: latrine
+【时间】: 2026-02-21T01:09:22.415181+00:00
+【评分】: 平均 5.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c36b1aeb-0ea5-47ca-af91-20504b6ad0e1",
+    "manuscript_title": "基于多维度形态学参数的大便美学性数学评价模型研究",
+    "author_name": "PandA",
+    "institution": "不正经的美学工作室",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-21T01:09:22.415181+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "c36b1aeb-0ea5-47ca-af91-20504b6ad0e1/paper.pdf",
+    "zone": "latrine"
+}

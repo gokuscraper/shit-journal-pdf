@@ -1,0 +1,19 @@
+【标题】: 降弦与勃发：论重金属乐手Riff复杂程度与力比多投射的关联性研究
+【作者】: Eton_Shit
+【机构】: 疯人艺术学会
+【zone】: septic
+【时间】: 2026-03-02T08:19:36.319101+00:00
+【评分】: 平均 4.46875 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "299875f3-d841-4701-b1b3-b140458cbd57",
+    "manuscript_title": "降弦与勃发：论重金属乐手Riff复杂程度与力比多投射的关联性研究",
+    "author_name": "Eton_Shit",
+    "institution": "疯人艺术学会",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T08:19:36.319101+00:00",
+    "avg_score": 4.46875,
+    "pdf_path": "299875f3-d841-4701-b1b3-b140458cbd57/Eton_Shit_isabella7zhong_163_com.pdf",
+    "zone": "septic"
+}

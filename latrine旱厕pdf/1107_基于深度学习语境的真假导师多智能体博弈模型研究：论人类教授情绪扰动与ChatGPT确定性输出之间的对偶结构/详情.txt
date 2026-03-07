@@ -1,0 +1,19 @@
+【标题】: 基于深度学习语境的真假导师多智能体博弈模型研究：论人类教授情绪扰动与ChatGPT确定性输出之间的对偶结构
+【作者】: 哈士奇
+【机构】: 虚空大学
+【zone】: latrine
+【时间】: 2026-03-03T10:33:59.371757+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "41c38338-ff0c-4e2d-9c0c-478faefe3d5f",
+    "manuscript_title": "基于深度学习语境的真假导师多智能体博弈模型研究：论人类教授情绪扰动与ChatGPT确定性输出之间的对偶结构",
+    "author_name": "哈士奇",
+    "institution": "虚空大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T10:33:59.371757+00:00",
+    "avg_score": 0,
+    "pdf_path": "41c38338-ff0c-4e2d-9c0c-478faefe3d5f/____3330199669_qq_com.pdf",
+    "zone": "latrine"
+}

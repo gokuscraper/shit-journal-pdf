@@ -1,0 +1,19 @@
+【标题】: 浅析如厕方式对中国古代经济发展的影响
+【作者】: 屎史氏
+【机构】: SNP University
+【zone】: septic
+【时间】: 2026-02-25T13:20:54.953355+00:00
+【评分】: 平均 4.424242424242424 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d032a903-276d-4976-9a7a-57ddac49dd69",
+    "manuscript_title": "浅析如厕方式对中国古代经济发展的影响",
+    "author_name": "屎史氏",
+    "institution": "SNP University",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-02-25T13:20:54.953355+00:00",
+    "avg_score": 4.424242424242424,
+    "pdf_path": "d032a903-276d-4976-9a7a-57ddac49dd69/____yyxc_nasd_qq_com.pdf",
+    "zone": "septic"
+}

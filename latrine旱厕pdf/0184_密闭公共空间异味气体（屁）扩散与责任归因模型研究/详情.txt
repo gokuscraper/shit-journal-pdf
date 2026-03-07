@@ -1,0 +1,19 @@
+【标题】: 密闭公共空间异味气体（屁）扩散与责任归因模型研究
+【作者】: Dr. Jing
+【机构】: Caliton University
+【zone】: latrine
+【时间】: 2026-02-28T11:50:56.602673+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c85c5c91-2950-4744-a879-efa17466a7df",
+    "manuscript_title": "密闭公共空间异味气体（屁）扩散与责任归因模型研究",
+    "author_name": "Dr. Jing",
+    "institution": "Caliton University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T11:50:56.602673+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "c85c5c91-2950-4744-a879-efa17466a7df/Dr__Jing_wangkarroy31_gmail_com.pdf",
+    "zone": "latrine"
+}

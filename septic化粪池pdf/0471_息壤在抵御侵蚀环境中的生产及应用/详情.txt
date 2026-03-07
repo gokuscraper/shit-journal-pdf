@@ -1,0 +1,19 @@
+【标题】: 息壤在抵御侵蚀环境中的生产及应用
+【作者】: soraincloud
+【机构】: 洪山科学院息壤科学研究所
+【zone】: septic
+【时间】: 2026-03-04T03:39:48.443289+00:00
+【评分】: 平均 4.468085106382978 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "9e29c54a-cbe6-4f28-a279-bd1488064997",
+    "manuscript_title": "息壤在抵御侵蚀环境中的生产及应用",
+    "author_name": "soraincloud",
+    "institution": "洪山科学院息壤科学研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-04T03:39:48.443289+00:00",
+    "avg_score": 4.468085106382978,
+    "pdf_path": "9e29c54a-cbe6-4f28-a279-bd1488064997/soraincloud_soraincloud_foxmail_com.pdf",
+    "zone": "septic"
+}

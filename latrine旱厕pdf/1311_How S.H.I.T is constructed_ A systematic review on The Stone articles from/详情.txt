@@ -1,0 +1,19 @@
+【标题】: How S.H.I.T is constructed: A systematic review on The Stone articles from S.H.I.T Journal
+【作者】: F91fan
+【机构】: Huazhong SHIT University
+【zone】: latrine
+【时间】: 2026-03-03T05:07:32.935067+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "24ca3bb3-74bd-4ce8-ae0b-70b83a119d64",
+    "manuscript_title": "How S.H.I.T is constructed: A systematic review on The Stone articles from S.H.I.T Journal",
+    "author_name": "F91fan",
+    "institution": "Huazhong SHIT University",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T05:07:32.935067+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "24ca3bb3-74bd-4ce8-ae0b-70b83a119d64/F91fan_1535320455_qq_com.pdf",
+    "zone": "latrine"
+}

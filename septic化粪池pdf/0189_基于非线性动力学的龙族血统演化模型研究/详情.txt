@@ -1,0 +1,19 @@
+【标题】: 基于非线性动力学的龙族血统演化模型研究
+【作者】: joker
+【机构】: 凯塞尔学院龙族研究院
+【zone】: septic
+【时间】: 2026-03-02T10:02:22.885106+00:00
+【评分】: 平均 4.088235294117647 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c7ae0a37-e51f-4a71-8458-be67dc2bed02",
+    "manuscript_title": "基于非线性动力学的龙族血统演化模型研究",
+    "author_name": "joker",
+    "institution": "凯塞尔学院龙族研究院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:02:22.885106+00:00",
+    "avg_score": 4.088235294117647,
+    "pdf_path": "c7ae0a37-e51f-4a71-8458-be67dc2bed02/joker_2938211141_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 本命年红色内裤对人体运势场屏蔽效能的跨学科 研究：基于纺织光子学、经皮传导
+【作者】: 史珍香
+【机构】: 伪科学与行为玄学研究所
+【zone】: latrine
+【时间】: 2026-03-03T12:29:06.622537+00:00
+【评分】: 平均 4.5625 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "ae17f337-a3d9-48ff-83d1-2e1cc4c24847",
+    "manuscript_title": "本命年红色内裤对人体运势场屏蔽效能的跨学科 研究：基于纺织光子学、经皮传导",
+    "author_name": "史珍香",
+    "institution": "伪科学与行为玄学研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T12:29:06.622537+00:00",
+    "avg_score": 4.5625,
+    "pdf_path": "ae17f337-a3d9-48ff-83d1-2e1cc4c24847/____pan_terry_outlook_com.pdf",
+    "zone": "latrine"
+}

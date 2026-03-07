@@ -1,0 +1,19 @@
+【标题】: 基于盘古方程的高中生生活统一粒子力学场论
+【作者】: Fr.SkyfA1Lin
+【机构】: 盅壳院渊士团队
+【zone】: latrine
+【时间】: 2026-02-25T13:41:14.390002+00:00
+【评分】: 平均 4.6 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "24899309-872a-4a4d-8739-d3fb833cc137",
+    "manuscript_title": "基于盘古方程的高中生生活统一粒子力学场论",
+    "author_name": "Fr.SkyfA1Lin",
+    "institution": "盅壳院渊士团队",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-25T13:41:14.390002+00:00",
+    "avg_score": 4.6,
+    "pdf_path": "24899309-872a-4a4d-8739-d3fb833cc137/Fr_SkyfA1Lin_3042296839_qq_com.pdf",
+    "zone": "latrine"
+}

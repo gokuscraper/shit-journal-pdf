@@ -1,0 +1,19 @@
+【标题】: 猫娘的“诞生”与人权伦理的范式转移
+【作者】: JESSICA-蜜饼
+【机构】: 罗德岛办事处
+【zone】: septic
+【时间】: 2026-02-27T11:47:41.246508+00:00
+【评分】: 平均 4.588235294117647 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "01eec557-e0c7-459d-ac23-a87531325298",
+    "manuscript_title": "猫娘的“诞生”与人权伦理的范式转移",
+    "author_name": "JESSICA-蜜饼",
+    "institution": "罗德岛办事处",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-27T11:47:41.246508+00:00",
+    "avg_score": 4.588235294117647,
+    "pdf_path": "01eec557-e0c7-459d-ac23-a87531325298/JESSICA____3525181311_qq_com.pdf",
+    "zone": "septic"
+}

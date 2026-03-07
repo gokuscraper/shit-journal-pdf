@@ -1,0 +1,19 @@
+【标题】: Cross-Cultural Comparative Study of Sexual Intercourse Scenes in European, American, Japanese and South Korean Film and Television Works
+【作者】: JQK
+【机构】: 黑龙江中医药大学
+【zone】: latrine
+【时间】: 2026-02-23T02:56:12.556042+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bf85602a-ab16-47ff-8a7c-698fa443a868",
+    "manuscript_title": "Cross-Cultural Comparative Study of Sexual Intercourse Scenes in European, American, Japanese and South Korean Film and Television Works",
+    "author_name": "JQK",
+    "institution": "黑龙江中医药大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T02:56:12.556042+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "bf85602a-ab16-47ff-8a7c-698fa443a868/paper.pdf",
+    "zone": "latrine"
+}

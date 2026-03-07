@@ -1,0 +1,19 @@
+【标题】: Shit时看《SHIT》的Shit文章对辅助Shit毫无Shit作用研究
+【作者】: 吃粑粑绝对可以减肥
+【机构】: 牛因斯坦豆包研究院
+【zone】: septic
+【时间】: 2026-03-02T11:52:22.380067+00:00
+【评分】: 平均 4.211538461538462 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "eba3a920-42a6-45e3-9a8c-b4707e823e55",
+    "manuscript_title": "Shit时看《SHIT》的Shit文章对辅助Shit毫无Shit作用研究",
+    "author_name": "吃粑粑绝对可以减肥",
+    "institution": "牛因斯坦豆包研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T11:52:22.380067+00:00",
+    "avg_score": 4.211538461538462,
+    "pdf_path": "eba3a920-42a6-45e3-9a8c-b4707e823e55/__________1478174657_qq_com.pdf",
+    "zone": "septic"
+}

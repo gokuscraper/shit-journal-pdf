@@ -1,0 +1,19 @@
+【标题】: 从影像特征到食疗菜谱的端到端生成：基于生成式AI的“厨房级”医学报告研究
+【作者】: Ch0uHuaZ1
+【机构】: 技术大学
+【zone】: latrine
+【时间】: 2026-02-23T10:18:25.015282+00:00
+【评分】: 平均 5.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f8e79d1e-20ab-41ce-bb36-bc2f43548416",
+    "manuscript_title": "从影像特征到食疗菜谱的端到端生成：基于生成式AI的“厨房级”医学报告研究",
+    "author_name": "Ch0uHuaZ1",
+    "institution": "技术大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:18:25.015282+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "f8e79d1e-20ab-41ce-bb36-bc2f43548416/paper.pdf",
+    "zone": "latrine"
+}

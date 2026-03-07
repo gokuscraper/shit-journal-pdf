@@ -1,0 +1,19 @@
+【标题】: 假期最后几天与厕纸最后几张的珍贵性同比研究
+【作者】: 焚化工
+【机构】: 有妖气散修
+【zone】: latrine
+【时间】: 2026-02-28T07:55:18.954554+00:00
+【评分】: 平均 4.6 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "9965eef5-fde9-4407-808f-2759f9ac3191",
+    "manuscript_title": "假期最后几天与厕纸最后几张的珍贵性同比研究",
+    "author_name": "焚化工",
+    "institution": "有妖气散修",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:55:18.954554+00:00",
+    "avg_score": 4.6,
+    "pdf_path": "9965eef5-fde9-4407-808f-2759f9ac3191/____snaokew_163_com.pdf",
+    "zone": "latrine"
+}

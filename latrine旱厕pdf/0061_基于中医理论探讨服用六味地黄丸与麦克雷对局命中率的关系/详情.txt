@@ -1,0 +1,19 @@
+【标题】: 基于中医理论探讨服用六味地黄丸与麦克雷对局命中率的关系 
+【作者】: liquid shit 
+【机构】: NO.1 High School of Shitter 
+【zone】: latrine
+【时间】: 2026-03-01T15:11:51.67334+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d893be52-f484-4a82-a1c2-7671903fdb58",
+    "manuscript_title": "基于中医理论探讨服用六味地黄丸与麦克雷对局命中率的关系 ",
+    "author_name": "liquid shit ",
+    "institution": "NO.1 High School of Shitter ",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T15:11:51.67334+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "d893be52-f484-4a82-a1c2-7671903fdb58/liquid_shit__19932635872_163_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: SHIT作为新型环保补充胶凝材料对PI42.5 水泥材料性能影响的理论研究
+【作者】: 大恶人
+【机构】: 排泄物水泥研究中心
+【zone】: septic
+【时间】: 2026-03-02T12:38:13.243716+00:00
+【评分】: 平均 4.323529411764706 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "8965e0f8-761f-4eb2-8435-1df14bbf1a2d",
+    "manuscript_title": "SHIT作为新型环保补充胶凝材料对PI42.5 水泥材料性能影响的理论研究",
+    "author_name": "大恶人",
+    "institution": "排泄物水泥研究中心",
+    "viscosity": "stringy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T12:38:13.243716+00:00",
+    "avg_score": 4.323529411764706,
+    "pdf_path": "8965e0f8-761f-4eb2-8435-1df14bbf1a2d/____daeren_shit_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: AI论文对学术界的弊端和危害
+【作者】: 厚礼shit
+【机构】: 家里蹲大学
+【zone】: sediment
+【时间】: 2026-02-25T18:19:09.021022+00:00
+【评分】: 平均 1.7 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b4398512-73cb-4984-9d2d-934ff17cae62",
+    "manuscript_title": "AI论文对学术界的弊端和危害",
+    "author_name": "厚礼shit",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T18:19:09.021022+00:00",
+    "avg_score": 1.7,
+    "pdf_path": "b4398512-73cb-4984-9d2d-934ff17cae62/__shit_2316386510_qq_com.pdf",
+    "zone": "sediment"
+}

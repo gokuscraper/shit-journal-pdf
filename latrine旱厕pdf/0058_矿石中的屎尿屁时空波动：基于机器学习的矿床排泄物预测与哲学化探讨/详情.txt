@@ -1,0 +1,19 @@
+【标题】: 矿石中的屎尿屁时空波动：基于机器学习的矿床排泄物预测与哲学化探讨
+【作者】: Shit·Einstein
+【机构】: 内蒙古新能源大学 屎尿屁混合动力学院
+【zone】: latrine
+【时间】: 2026-03-03T07:44:54.723925+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d8e8414f-5c82-4fc8-a965-ce5bd40c4822",
+    "manuscript_title": "矿石中的屎尿屁时空波动：基于机器学习的矿床排泄物预测与哲学化探讨",
+    "author_name": "Shit·Einstein",
+    "institution": "内蒙古新能源大学 屎尿屁混合动力学院",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:44:54.723925+00:00",
+    "avg_score": 0,
+    "pdf_path": "d8e8414f-5c82-4fc8-a965-ce5bd40c4822/Shit_Einstein_898492504_qq_com.pdf",
+    "zone": "latrine"
+}

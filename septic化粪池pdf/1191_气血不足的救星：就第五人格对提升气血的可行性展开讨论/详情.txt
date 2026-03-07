@@ -1,0 +1,19 @@
+【标题】: 气血不足的救星：就第五人格对提升气血的可行性展开讨论
+【作者】: super shitman
+【机构】: 拉了一地大学
+【zone】: septic
+【时间】: 2026-03-02T03:28:51.22554+00:00
+【评分】: 平均 3.909090909090909 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "357b8ef8-ce7d-48b4-8b5d-b710740ec6c1",
+    "manuscript_title": "气血不足的救星：就第五人格对提升气血的可行性展开讨论",
+    "author_name": "super shitman",
+    "institution": "拉了一地大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T03:28:51.22554+00:00",
+    "avg_score": 3.909090909090909,
+    "pdf_path": "357b8ef8-ce7d-48b4-8b5d-b710740ec6c1/super_shitman_2409778596_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 温压弹对便秘的改善研究
+【作者】: zyzysu
+【机构】: 第四旱厕
+【zone】: latrine
+【时间】: 2026-03-03T10:29:56.626806+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3f42b335-e8bb-4a0b-918a-dee2f4581517",
+    "manuscript_title": "温压弹对便秘的改善研究",
+    "author_name": "zyzysu",
+    "institution": "第四旱厕",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T10:29:56.626806+00:00",
+    "avg_score": 0,
+    "pdf_path": "3f42b335-e8bb-4a0b-918a-dee2f4581517/zyzysu_admin_zysu_top.pdf",
+    "zone": "latrine"
+}

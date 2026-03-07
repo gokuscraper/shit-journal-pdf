@@ -1,0 +1,19 @@
+【标题】: Determining One's Gender Based on a Variety of Methods
+【作者】: Yong-Le Li
+【机构】: Key Laboratory for Gender Studies No. 407
+【zone】: latrine
+【时间】: 2026-02-23T10:20:34.175799+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "234130e3-70b5-451e-9338-ee03757c922b",
+    "manuscript_title": "Determining One's Gender Based on a Variety of Methods",
+    "author_name": "Yong-Le Li",
+    "institution": "Key Laboratory for Gender Studies No. 407",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:20:34.175799+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "234130e3-70b5-451e-9338-ee03757c922b/paper.pdf",
+    "zone": "latrine"
+}

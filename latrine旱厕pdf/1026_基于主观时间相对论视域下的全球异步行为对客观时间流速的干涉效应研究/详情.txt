@@ -1,0 +1,19 @@
+【标题】: 基于主观时间相对论视域下的全球异步行为对客观时间流速的干涉效应研究
+【作者】: Lexxa
+【机构】: International Time-Averaging Collaboration （ITAC）
+【zone】: latrine
+【时间】: 2026-02-25T14:08:12.979775+00:00
+【评分】: 平均 3.5714285714285716 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "4ed60d52-51a9-4207-9fc8-78cf7d42a523",
+    "manuscript_title": "基于主观时间相对论视域下的全球异步行为对客观时间流速的干涉效应研究",
+    "author_name": "Lexxa",
+    "institution": "International Time-Averaging Collaboration （ITAC）",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T14:08:12.979775+00:00",
+    "avg_score": 3.5714285714285716,
+    "pdf_path": "4ed60d52-51a9-4207-9fc8-78cf7d42a523/Lexxa_1269640807_qq_com.pdf",
+    "zone": "latrine"
+}

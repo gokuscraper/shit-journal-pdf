@@ -1,0 +1,19 @@
+【标题】: 浓缩的代价：寒假作业量与青少年咖啡摄入量的相关性研究
+【作者】: Chen
+【机构】: 高级大学附属初级小学
+【zone】: latrine
+【时间】: 2026-02-27T16:05:14.256594+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cd761ee5-c516-4d17-ac4d-f7b9988e10f5",
+    "manuscript_title": "浓缩的代价：寒假作业量与青少年咖啡摄入量的相关性研究",
+    "author_name": "Chen",
+    "institution": "高级大学附属初级小学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T16:05:14.256594+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "cd761ee5-c516-4d17-ac4d-f7b9988e10f5/Chen_moni_1005_qq_com.pdf",
+    "zone": "latrine"
+}

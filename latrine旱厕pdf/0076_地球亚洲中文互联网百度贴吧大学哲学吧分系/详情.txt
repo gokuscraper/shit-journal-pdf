@@ -1,0 +1,19 @@
+【标题】: 地球亚洲中文互联网百度贴吧大学哲学吧分系
+【作者】: 万春
+【机构】: 地球亚洲中文互联网百度贴吧大学哲学吧分系
+【zone】: latrine
+【时间】: 2026-02-27T18:36:10.220831+00:00
+【评分】: 平均 2.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d6e26aa5-d4d2-4ee3-8e67-d6339c3311e1",
+    "manuscript_title": "地球亚洲中文互联网百度贴吧大学哲学吧分系",
+    "author_name": "万春",
+    "institution": "地球亚洲中文互联网百度贴吧大学哲学吧分系",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T18:36:10.220831+00:00",
+    "avg_score": 2.75,
+    "pdf_path": "d6e26aa5-d4d2-4ee3-8e67-d6339c3311e1/___zsskzshx1026_qq_com.pdf",
+    "zone": "latrine"
+}

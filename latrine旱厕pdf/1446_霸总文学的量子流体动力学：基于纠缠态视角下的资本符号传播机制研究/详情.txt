@@ -1,0 +1,19 @@
+【标题】: 霸总文学的量子流体动力学：基于纠缠态视角下的资本符号传播机制研究
+【作者】: 侯亮平
+【机构】: SU
+【zone】: latrine
+【时间】: 2026-02-28T00:48:29.017677+00:00
+【评分】: 平均 3.75 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "13d3609f-c22c-4d4a-a98f-e18477ede9ce",
+    "manuscript_title": "霸总文学的量子流体动力学：基于纠缠态视角下的资本符号传播机制研究",
+    "author_name": "侯亮平",
+    "institution": "SU",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T00:48:29.017677+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "13d3609f-c22c-4d4a-a98f-e18477ede9ce/____laozhanglesson_outlook_com.pdf",
+    "zone": "latrine"
+}

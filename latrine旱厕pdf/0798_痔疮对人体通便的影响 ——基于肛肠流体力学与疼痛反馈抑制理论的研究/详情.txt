@@ -1,0 +1,19 @@
+【标题】: 痔疮对人体通便的影响 ——基于肛肠流体力学与疼痛反馈抑制理论的研究
+【作者】: BiBi Yin
+【机构】: Department of Huafen University
+【zone】: latrine
+【时间】: 2026-03-01T01:53:44.621977+00:00
+【评分】: 平均 4.6 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "6d9c296e-4058-467c-a930-fe1e9cf3d021",
+    "manuscript_title": "痔疮对人体通便的影响 ——基于肛肠流体力学与疼痛反馈抑制理论的研究",
+    "author_name": "BiBi Yin",
+    "institution": "Department of Huafen University",
+    "viscosity": "semi",
+    "discipline": "science",
+    "created_at": "2026-03-01T01:53:44.621977+00:00",
+    "avg_score": 4.6,
+    "pdf_path": "6d9c296e-4058-467c-a930-fe1e9cf3d021/BiBi_Yin_golden_shit_edu_com.pdf",
+    "zone": "latrine"
+}

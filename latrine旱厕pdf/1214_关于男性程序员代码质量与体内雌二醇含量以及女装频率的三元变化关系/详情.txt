@@ -1,0 +1,19 @@
+【标题】: 关于男性程序员代码质量与体内雌二醇含量以及女装频率的三元变化关系
+【作者】: ShitMaker EAlivn
+【机构】: 我藏石你得蒙 大雪
+【zone】: latrine
+【时间】: 2026-02-23T22:29:03.283231+00:00
+【评分】: 平均 4.2 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "31f3ff3e-4476-4158-8ea4-55f54b360860",
+    "manuscript_title": "关于男性程序员代码质量与体内雌二醇含量以及女装频率的三元变化关系",
+    "author_name": "ShitMaker EAlivn",
+    "institution": "我藏石你得蒙 大雪",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T22:29:03.283231+00:00",
+    "avg_score": 4.2,
+    "pdf_path": "31f3ff3e-4476-4158-8ea4-55f54b360860/paper.pdf",
+    "zone": "latrine"
+}

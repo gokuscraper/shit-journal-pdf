@@ -1,0 +1,19 @@
+【标题】: 基于形式化逻辑与矢量分析的自我双层构理论:兼论过往经历对爱情矢量性的底层影响
+【作者】: 贾文伟
+【机构】: S.C.Domestic University
+【zone】: septic
+【时间】: 2026-03-02T11:42:04.799356+00:00
+【评分】: 平均 3.838709677419355 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e4de5d2b-8f49-4435-865a-a3f9bf3214a0",
+    "manuscript_title": "基于形式化逻辑与矢量分析的自我双层构理论:兼论过往经历对爱情矢量性的底层影响",
+    "author_name": "贾文伟",
+    "institution": "S.C.Domestic University",
+    "viscosity": "semi",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T11:42:04.799356+00:00",
+    "avg_score": 3.838709677419355,
+    "pdf_path": "e4de5d2b-8f49-4435-865a-a3f9bf3214a0/____justview1995_163_com.pdf",
+    "zone": "septic"
+}

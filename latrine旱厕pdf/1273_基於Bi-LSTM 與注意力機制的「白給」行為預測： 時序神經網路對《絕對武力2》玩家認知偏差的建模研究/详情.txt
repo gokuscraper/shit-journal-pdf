@@ -1,0 +1,19 @@
+【标题】: 基於Bi-LSTM 與注意力機制的「白給」行為預測： 時序神經網路對《絕對武力2》玩家認知偏差的建模研究
+【作者】: 一坨大的
+【机构】: 香港野雞大學
+【zone】: latrine
+【时间】: 2026-03-01T06:42:59.041811+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2a22798f-053f-4df8-b225-e48c62bc2ae6",
+    "manuscript_title": "基於Bi-LSTM 與注意力機制的「白給」行為預測： 時序神經網路對《絕對武力2》玩家認知偏差的建模研究",
+    "author_name": "一坨大的",
+    "institution": "香港野雞大學",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T06:42:59.041811+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "2a22798f-053f-4df8-b225-e48c62bc2ae6/_____zbc2385505079_gmail_com.pdf",
+    "zone": "latrine"
+}

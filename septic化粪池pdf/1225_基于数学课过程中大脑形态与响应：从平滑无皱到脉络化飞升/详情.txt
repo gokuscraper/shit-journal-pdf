@@ -1,0 +1,19 @@
+【标题】: 基于数学课过程中大脑形态与响应：从平滑无皱到脉络化飞升
+【作者】: 抚抚
+【机构】: 汉东理工大学
+【zone】: septic
+【时间】: 2026-03-01T13:59:18.766368+00:00
+【评分】: 平均 4.3428571428571425 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "307552c6-f2ab-4ba1-a25d-7d06b4cc9bbf",
+    "manuscript_title": "基于数学课过程中大脑形态与响应：从平滑无皱到脉络化飞升",
+    "author_name": "抚抚",
+    "institution": "汉东理工大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:59:18.766368+00:00",
+    "avg_score": 4.3428571428571425,
+    "pdf_path": "307552c6-f2ab-4ba1-a25d-7d06b4cc9bbf/___1327175227_qq_com.pdf",
+    "zone": "septic"
+}

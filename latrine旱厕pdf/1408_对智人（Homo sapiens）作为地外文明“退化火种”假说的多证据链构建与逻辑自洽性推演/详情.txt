@@ -1,0 +1,19 @@
+【标题】: 对智人（Homo sapiens）作为地外文明“退化火种”假说的多证据链构建与逻辑自洽性推演
+【作者】: 跑得慢
+【机构】: 边缘求知者
+【zone】: latrine
+【时间】: 2026-03-03T07:49:06.513472+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "18d9931d-9e7e-42c5-b750-a1120f83b795",
+    "manuscript_title": "对智人（Homo sapiens）作为地外文明“退化火种”假说的多证据链构建与逻辑自洽性推演",
+    "author_name": "跑得慢",
+    "institution": "边缘求知者",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:49:06.513472+00:00",
+    "avg_score": 0,
+    "pdf_path": "18d9931d-9e7e-42c5-b750-a1120f83b795/____1006097986_qq_com.pdf",
+    "zone": "latrine"
+}

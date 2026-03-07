@@ -1,0 +1,19 @@
+【标题】: 关于极端学术压力下肠道应激反应的量子隧穿效应与“带薪蹲坑”社会契约论研究
+【作者】: Dr.Youke27890
+【机构】: 废料科学与高等蹲坑研究所 (Institute of Crap Science & Advanced Squatting)  
+【zone】: latrine
+【时间】: 2026-02-23T12:43:47.835999+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "e63b855e-cd4f-45a9-b88f-7f5091c6019e",
+    "manuscript_title": "关于极端学术压力下肠道应激反应的量子隧穿效应与“带薪蹲坑”社会契约论研究",
+    "author_name": "Dr.Youke27890",
+    "institution": "废料科学与高等蹲坑研究所 (Institute of Crap Science & Advanced Squatting)  ",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T12:43:47.835999+00:00",
+    "avg_score": 0,
+    "pdf_path": "e63b855e-cd4f-45a9-b88f-7f5091c6019e/paper.pdf",
+    "zone": "latrine"
+}

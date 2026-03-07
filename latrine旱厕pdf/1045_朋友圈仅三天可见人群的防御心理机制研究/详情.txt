@@ -1,0 +1,19 @@
+【标题】: 朋友圈仅三天可见人群的防御心理机制研究
+【作者】: 12123
+【机构】: 咸的么事干协会
+【zone】: latrine
+【时间】: 2026-03-03T03:57:01.6521+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4c022dd6-7a62-40fa-8d0f-a5b0c3ef369c",
+    "manuscript_title": "朋友圈仅三天可见人群的防御心理机制研究",
+    "author_name": "12123",
+    "institution": "咸的么事干协会",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T03:57:01.6521+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "4c022dd6-7a62-40fa-8d0f-a5b0c3ef369c/12123_2685707440_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: “凡涉毒，零容忍”的钱从哪里来？
+【作者】: 二十五岁热爱装逼
+【机构】: 克莱登大学
+【zone】: latrine
+【时间】: 2026-02-23T14:50:52.403005+00:00
+【评分】: 平均 2.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "4475a646-8bfc-4822-841f-49245d2ef8b1",
+    "manuscript_title": "“凡涉毒，零容忍”的钱从哪里来？",
+    "author_name": "二十五岁热爱装逼",
+    "institution": "克莱登大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:50:52.403005+00:00",
+    "avg_score": 2.75,
+    "pdf_path": "4475a646-8bfc-4822-841f-49245d2ef8b1/paper.pdf",
+    "zone": "latrine"
+}

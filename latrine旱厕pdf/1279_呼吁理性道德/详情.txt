@@ -1,0 +1,19 @@
+【标题】: 呼吁理性道德
+【作者】: wfbk
+【机构】: 德国克莱登大学
+【zone】: latrine
+【时间】: 2026-02-27T05:43:35.99637+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "294afe65-76fd-45c3-b3af-b1254fea0f81",
+    "manuscript_title": "呼吁理性道德",
+    "author_name": "wfbk",
+    "institution": "德国克莱登大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T05:43:35.99637+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "294afe65-76fd-45c3-b3af-b1254fea0f81/wfbk_llc200196_outlook_com.pdf",
+    "zone": "latrine"
+}

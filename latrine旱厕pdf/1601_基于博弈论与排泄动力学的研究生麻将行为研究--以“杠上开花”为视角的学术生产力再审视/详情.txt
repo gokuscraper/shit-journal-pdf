@@ -1,0 +1,19 @@
+【标题】: 基于博弈论与排泄动力学的研究生麻将行为研究--以“杠上开花”为视角的学术生产力再审视
+【作者】: 屎王拉通地铁线
+【机构】: 川渝麻将研究所
+【zone】: latrine
+【时间】: 2026-03-03T08:18:27.961591+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e3011de5-59d7-4f86-a79c-2e963acb2023",
+    "manuscript_title": "基于博弈论与排泄动力学的研究生麻将行为研究--以“杠上开花”为视角的学术生产力再审视",
+    "author_name": "屎王拉通地铁线",
+    "institution": "川渝麻将研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T08:18:27.961591+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "e3011de5-59d7-4f86-a79c-2e963acb2023/________gangshangkaihua_majiang_com.pdf",
+    "zone": "latrine"
+}

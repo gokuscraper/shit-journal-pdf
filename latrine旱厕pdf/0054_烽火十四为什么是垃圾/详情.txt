@@ -1,0 +1,19 @@
+【标题】: 烽火十四为什么是垃圾
+【作者】: Eurus
+【机构】: 牛马集团
+【zone】: latrine
+【时间】: 2026-02-20T11:04:55.448395+00:00
+【评分】: 平均 3.25 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d9ea61a7-c3ac-4ad6-82df-c609d5311511",
+    "manuscript_title": "烽火十四为什么是垃圾",
+    "author_name": "Eurus",
+    "institution": "牛马集团",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T11:04:55.448395+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "d9ea61a7-c3ac-4ad6-82df-c609d5311511/paper.pdf",
+    "zone": "latrine"
+}

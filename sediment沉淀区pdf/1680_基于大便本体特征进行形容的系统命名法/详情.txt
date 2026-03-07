@@ -1,0 +1,19 @@
+【标题】: 基于大便本体特征进行形容的系统命名法
+【作者】: JASL首席shiter
+【机构】: Jumbo Astroshit Lab
+【zone】: sediment
+【时间】: 2026-03-01T09:25:48.863012+00:00
+【评分】: 平均 3.35 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ed225985-e266-496d-a178-79b7ca54be30",
+    "manuscript_title": "基于大便本体特征进行形容的系统命名法",
+    "author_name": "JASL首席shiter",
+    "institution": "Jumbo Astroshit Lab",
+    "viscosity": "semi",
+    "discipline": "humanities",
+    "created_at": "2026-03-01T09:25:48.863012+00:00",
+    "avg_score": 3.35,
+    "pdf_path": "ed225985-e266-496d-a178-79b7ca54be30/JASL__shiter_m18617033469_163_com.pdf",
+    "zone": "sediment"
+}

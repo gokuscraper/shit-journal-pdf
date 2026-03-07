@@ -1,0 +1,19 @@
+【标题】: 关于男性程序员代码质量与体内睾酮含量以及女装频率的三元变化关系研究
+【作者】: 艾文史
+【机构】: 清北大学
+【zone】: latrine
+【时间】: 2026-02-23T13:49:12.219107+00:00
+【评分】: 平均 3.6 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a0ed8d8b-1f6e-4618-99a9-e1f524e8ffdd",
+    "manuscript_title": "关于男性程序员代码质量与体内睾酮含量以及女装频率的三元变化关系研究",
+    "author_name": "艾文史",
+    "institution": "清北大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T13:49:12.219107+00:00",
+    "avg_score": 3.6,
+    "pdf_path": "a0ed8d8b-1f6e-4618-99a9-e1f524e8ffdd/paper.pdf",
+    "zone": "latrine"
+}

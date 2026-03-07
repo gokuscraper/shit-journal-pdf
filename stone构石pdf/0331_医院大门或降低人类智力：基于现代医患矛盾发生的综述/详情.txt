@@ -1,0 +1,19 @@
+【标题】: 医院大门或降低人类智力：基于现代医患矛盾发生的综述
+【作者】: 聆春意
+【机构】: North Market Slope Medical College 
+【zone】: stone
+【时间】: 2026-03-02T15:35:58.337566+00:00
+【评分】: 平均 4.839160839160839 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b2b12863-2415-4c3f-bc98-046ebd6ecde5",
+    "manuscript_title": "医院大门或降低人类智力：基于现代医患矛盾发生的综述",
+    "author_name": "聆春意",
+    "institution": "North Market Slope Medical College ",
+    "viscosity": "stringy",
+    "discipline": "medical",
+    "created_at": "2026-03-02T15:35:58.337566+00:00",
+    "avg_score": 4.839160839160839,
+    "pdf_path": "b2b12863-2415-4c3f-bc98-046ebd6ecde5/____3077126458_qq_com.pdf",
+    "zone": "stone"
+}

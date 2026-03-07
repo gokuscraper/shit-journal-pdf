@@ -1,0 +1,19 @@
+【标题】: 硕博英语课程开设的必要性研究
+【作者】: Ovo厕所监控ovO
+【机构】: 素社里躺大学
+【zone】: latrine
+【时间】: 2026-03-03T08:52:02.812636+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "087ecf46-6682-4715-aaad-06eeab1b1e72",
+    "manuscript_title": "硕博英语课程开设的必要性研究",
+    "author_name": "Ovo厕所监控ovO",
+    "institution": "素社里躺大学",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T08:52:02.812636+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "087ecf46-6682-4715-aaad-06eeab1b1e72/Ovo____ovO_2074846524_qq_com.pdf",
+    "zone": "latrine"
+}

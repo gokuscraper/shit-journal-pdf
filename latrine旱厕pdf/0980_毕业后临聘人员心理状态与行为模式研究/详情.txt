@@ -1,0 +1,19 @@
+【标题】: 毕业后临聘人员心理状态与行为模式研究
+【作者】: Ai Desek
+【机构】: Fools' League
+【zone】: latrine
+【时间】: 2026-02-25T15:08:23.234165+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "548a30d9-318f-43a5-b388-8af7adb238eb",
+    "manuscript_title": "毕业后临聘人员心理状态与行为模式研究",
+    "author_name": "Ai Desek",
+    "institution": "Fools' League",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T15:08:23.234165+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "548a30d9-318f-43a5-b388-8af7adb238eb/Ai_Desek_keyc0830_gmail_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 论《达尔文事变》的出现是否会推动人类联邦（Human federation）诞生
+【作者】: 构石大王
+【机构】: 欢愉酒馆高等大学
+【zone】: latrine
+【时间】: 2026-03-03T04:17:34.206308+00:00
+【评分】: 平均 0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "b4f13080-c872-49b1-81d7-24b15426502d",
+    "manuscript_title": "论《达尔文事变》的出现是否会推动人类联邦（Human federation）诞生",
+    "author_name": "构石大王",
+    "institution": "欢愉酒馆高等大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T04:17:34.206308+00:00",
+    "avg_score": 0,
+    "pdf_path": "b4f13080-c872-49b1-81d7-24b15426502d/_____15588127723_163_com.pdf",
+    "zone": "latrine"
+}

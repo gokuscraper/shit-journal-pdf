@@ -1,0 +1,19 @@
+【标题】: 《关于东北雨姐大汗脚有多带派》
+【作者】: 蜂蜜
+【机构】: 守音大学
+【zone】: latrine
+【时间】: 2026-02-23T09:58:52.0347+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "70cfcc02-9fea-4a5a-83cb-3f5030c9819c",
+    "manuscript_title": "《关于东北雨姐大汗脚有多带派》",
+    "author_name": "蜂蜜",
+    "institution": "守音大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T09:58:52.0347+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "70cfcc02-9fea-4a5a-83cb-3f5030c9819c/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: “把大炮搬到医院去吧！” ：论 152 毫米高爆破甲弹对癌细胞的灭杀作用
+【作者】: 十五的月亮十六圆
+【机构】: 排泄理工大学University of Excretion Technology(UET)
+【zone】: stone
+【时间】: 2026-03-02T14:01:57.256541+00:00
+【评分】: 平均 4.86936936936937 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "776f5acb-adfd-41df-8b58-c1105975e4e0",
+    "manuscript_title": "“把大炮搬到医院去吧！” ：论 152 毫米高爆破甲弹对癌细胞的灭杀作用",
+    "author_name": "十五的月亮十六圆",
+    "institution": "排泄理工大学University of Excretion Technology(UET)",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-02T14:01:57.256541+00:00",
+    "avg_score": 4.86936936936937,
+    "pdf_path": "776f5acb-adfd-41df-8b58-c1105975e4e0/_________yh20120221_163_com.pdf",
+    "zone": "stone"
+}

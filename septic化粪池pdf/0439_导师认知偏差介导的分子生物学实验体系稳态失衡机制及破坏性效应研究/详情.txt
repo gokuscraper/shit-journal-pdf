@@ -1,0 +1,19 @@
+【标题】: 导师认知偏差介导的分子生物学实验体系稳态失衡机制及破坏性效应研究
+【作者】: Dr.lee
+【机构】: shidake university
+【zone】: septic
+【时间】: 2026-03-01T16:08:05.630058+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a306eca3-68b5-4e9d-a8f1-72cdfd12ae2c",
+    "manuscript_title": "导师认知偏差介导的分子生物学实验体系稳态失衡机制及破坏性效应研究",
+    "author_name": "Dr.lee",
+    "institution": "shidake university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T16:08:05.630058+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "a306eca3-68b5-4e9d-a8f1-72cdfd12ae2c/Dr_lee_1910976559_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: SSUM-TF：马桶粪便图像分割神经网络模型
+【作者】: 夙愿¹
+【机构】: 宏山科学院计算机学院
+【zone】: latrine
+【时间】: 2026-02-25T08:22:14.352738+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "16711ec9-23a2-4f02-bcf6-4bbb74c5bcc0",
+    "manuscript_title": "SSUM-TF：马桶粪便图像分割神经网络模型",
+    "author_name": "夙愿¹",
+    "institution": "宏山科学院计算机学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:22:14.352738+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "16711ec9-23a2-4f02-bcf6-4bbb74c5bcc0/____3067125803_qq_com.pdf",
+    "zone": "latrine"
+}

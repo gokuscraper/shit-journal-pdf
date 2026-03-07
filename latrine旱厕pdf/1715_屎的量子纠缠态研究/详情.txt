@@ -1,0 +1,19 @@
+【标题】: 屎的量子纠缠态研究
+【作者】: 擒屎皇
+【机构】: jialidun University
+【zone】: latrine
+【时间】: 2026-02-26T04:27:30.227178+00:00
+【评分】: 平均 4.538461538461538 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f48b4e54-050b-400d-b30f-0a009396bc58",
+    "manuscript_title": "屎的量子纠缠态研究",
+    "author_name": "擒屎皇",
+    "institution": "jialidun University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T04:27:30.227178+00:00",
+    "avg_score": 4.538461538461538,
+    "pdf_path": "f48b4e54-050b-400d-b30f-0a009396bc58/____zqq13974664652_163_com.pdf",
+    "zone": "latrine"
+}

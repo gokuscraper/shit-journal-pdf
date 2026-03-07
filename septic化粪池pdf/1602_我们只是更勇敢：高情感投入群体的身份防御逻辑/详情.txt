@@ -1,0 +1,19 @@
+【标题】: 我们只是更勇敢：高情感投入群体的身份防御逻辑
+【作者】: Pateick Stayreal
+【机构】: Jalidun University
+【zone】: septic
+【时间】: 2026-03-02T07:07:42.687382+00:00
+【评分】: 平均 4.323943661971831 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "e30e278d-bdad-4345-af5f-9c731dc0e761",
+    "manuscript_title": "我们只是更勇敢：高情感投入群体的身份防御逻辑",
+    "author_name": "Pateick Stayreal",
+    "institution": "Jalidun University",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-02T07:07:42.687382+00:00",
+    "avg_score": 4.323943661971831,
+    "pdf_path": "e30e278d-bdad-4345-af5f-9c731dc0e761/Pateick_Stayreal_patricksoung_68_163_com.pdf",
+    "zone": "septic"
+}

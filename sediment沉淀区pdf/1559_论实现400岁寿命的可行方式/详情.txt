@@ -1,0 +1,19 @@
+【标题】: 论实现400岁寿命的可行方式
+【作者】: Scheiße Held
+【机构】: Jalidun university
+【zone】: sediment
+【时间】: 2026-02-28T23:10:26.138891+00:00
+【评分】: 平均 3.235294117647059 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "0361eae7-c361-4af7-b7c5-e9f3bc49460d",
+    "manuscript_title": "论实现400岁寿命的可行方式",
+    "author_name": "Scheiße Held",
+    "institution": "Jalidun university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T23:10:26.138891+00:00",
+    "avg_score": 3.235294117647059,
+    "pdf_path": "0361eae7-c361-4af7-b7c5-e9f3bc49460d/Schei_e_Held_1491075019_qq_com.pdf",
+    "zone": "sediment"
+}

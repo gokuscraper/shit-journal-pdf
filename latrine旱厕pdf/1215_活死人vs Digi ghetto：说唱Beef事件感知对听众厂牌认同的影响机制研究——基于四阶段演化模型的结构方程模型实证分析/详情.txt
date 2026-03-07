@@ -1,0 +1,19 @@
+【标题】: 活死人vs Digi ghetto：说唱Beef事件感知对听众厂牌认同的影响机制研究——基于四阶段演化模型的结构方程模型实证分析
+【作者】: 特级家具工
+【机构】: Beef Research Center
+【zone】: latrine
+【时间】: 2026-02-27T17:46:30.402191+00:00
+【评分】: 平均 4.8125 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "31ea70b2-f833-46ca-b9a7-2d72da9927f9",
+    "manuscript_title": "活死人vs Digi ghetto：说唱Beef事件感知对听众厂牌认同的影响机制研究——基于四阶段演化模型的结构方程模型实证分析",
+    "author_name": "特级家具工",
+    "institution": "Beef Research Center",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T17:46:30.402191+00:00",
+    "avg_score": 4.8125,
+    "pdf_path": "31ea70b2-f833-46ca-b9a7-2d72da9927f9/______zjx_2020_126_com.pdf",
+    "zone": "latrine"
+}

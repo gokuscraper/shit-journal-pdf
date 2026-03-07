@@ -1,0 +1,19 @@
+【标题】: 论药物与运动状态的本体论关联
+【作者】: |=D|
+【机构】: 123
+【zone】: latrine
+【时间】: 2026-02-23T02:03:18.217534+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6f3eb26f-5d7c-44f6-a059-1044e7ec32fa",
+    "manuscript_title": "论药物与运动状态的本体论关联",
+    "author_name": "|=D|",
+    "institution": "123",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T02:03:18.217534+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "6f3eb26f-5d7c-44f6-a059-1044e7ec32fa/paper.pdf",
+    "zone": "latrine"
+}

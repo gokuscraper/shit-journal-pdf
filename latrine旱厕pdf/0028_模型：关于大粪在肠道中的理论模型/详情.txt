@@ -1,0 +1,19 @@
+【标题】: 模型：关于大粪在肠道中的理论模型
+【作者】: Dr.godshit
+【机构】: shit软化与硬化工程部
+【zone】: latrine
+【时间】: 2026-02-25T07:00:14.461206+00:00
+【评分】: 平均 1.8 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "ddcc2002-8a93-46a7-9214-a833dd277a1e",
+    "manuscript_title": "模型：关于大粪在肠道中的理论模型",
+    "author_name": "Dr.godshit",
+    "institution": "shit软化与硬化工程部",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T07:00:14.461206+00:00",
+    "avg_score": 1.8,
+    "pdf_path": "ddcc2002-8a93-46a7-9214-a833dd277a1e/Dr_godshit_adew12345_2023_qq_com.pdf",
+    "zone": "latrine"
+}

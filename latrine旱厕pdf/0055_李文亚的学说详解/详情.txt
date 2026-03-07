@@ -1,0 +1,19 @@
+【标题】: 李文亚的学说详解
+【作者】: 卢本微
+【机构】: 卢管中学
+【zone】: latrine
+【时间】: 2026-02-23T07:35:16.682283+00:00
+【评分】: 平均 1.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "d9b9ca11-ba87-4d3f-b24c-59da5b1249f0",
+    "manuscript_title": "李文亚的学说详解",
+    "author_name": "卢本微",
+    "institution": "卢管中学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:35:16.682283+00:00",
+    "avg_score": 1.0,
+    "pdf_path": "d9b9ca11-ba87-4d3f-b24c-59da5b1249f0/paper.pdf",
+    "zone": "latrine"
+}

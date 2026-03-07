@@ -1,0 +1,19 @@
+【标题】: 从“味觉地层学”到“时空剩余”：基于舌尖感知的沉积物成熟度与研究者创伤后应激障碍（PTSD）相关性初探
+【作者】: 蓝予辞
+【机构】: 私人研究
+【zone】: latrine
+【时间】: 2026-03-03T10:32:31.362137+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "23d2bfb3-e2cd-44b4-9c90-ce22e4bedcd1",
+    "manuscript_title": "从“味觉地层学”到“时空剩余”：基于舌尖感知的沉积物成熟度与研究者创伤后应激障碍（PTSD）相关性初探",
+    "author_name": "蓝予辞",
+    "institution": "私人研究",
+    "viscosity": "semi",
+    "discipline": "engineering",
+    "created_at": "2026-03-03T10:32:31.362137+00:00",
+    "avg_score": 0,
+    "pdf_path": "23d2bfb3-e2cd-44b4-9c90-ce22e4bedcd1/____lyc050401_163_com.pdf",
+    "zone": "latrine"
+}

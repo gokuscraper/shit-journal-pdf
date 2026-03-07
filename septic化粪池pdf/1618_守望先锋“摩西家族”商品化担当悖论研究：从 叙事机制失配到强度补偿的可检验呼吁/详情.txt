@@ -1,0 +1,19 @@
+【标题】: 守望先锋“摩西家族”商品化担当悖论研究：从 叙事机制失配到强度补偿的可检验呼吁
+【作者】: Ozymandias
+【机构】: NWU
+【zone】: septic
+【时间】: 2026-03-02T07:09:34.899862+00:00
+【评分】: 平均 4.512195121951219 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e4c170f1-7611-4bd1-8a14-f04e69856633",
+    "manuscript_title": "守望先锋“摩西家族”商品化担当悖论研究：从 叙事机制失配到强度补偿的可检验呼吁",
+    "author_name": "Ozymandias",
+    "institution": "NWU",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:09:34.899862+00:00",
+    "avg_score": 4.512195121951219,
+    "pdf_path": "e4c170f1-7611-4bd1-8a14-f04e69856633/Ozymandias_ozymandiasxj_gmail_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 混沌的余烬：论“无用”之用的蝴蝶效应与“Holy Shit”十佳的科学编年屎学意义
+【作者】: 无能的丈夫
+【机构】: 社会人
+【zone】: septic
+【时间】: 2026-03-02T08:17:04.52609+00:00
+【评分】: 平均 4.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d6fd2b7e-a805-48cc-ad07-33f522c1a820",
+    "manuscript_title": "混沌的余烬：论“无用”之用的蝴蝶效应与“Holy Shit”十佳的科学编年屎学意义",
+    "author_name": "无能的丈夫",
+    "institution": "社会人",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T08:17:04.52609+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "d6fd2b7e-a805-48cc-ad07-33f522c1a820/______297100272_qq_com.pdf",
+    "zone": "septic"
+}

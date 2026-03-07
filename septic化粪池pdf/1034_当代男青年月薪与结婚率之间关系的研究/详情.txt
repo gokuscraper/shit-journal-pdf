@@ -1,0 +1,19 @@
+【标题】: 当代男青年月薪与结婚率之间关系的研究
+【作者】: w.w.shit
+【机构】: 中国矿业大学
+【zone】: septic
+【时间】: 2026-03-04T01:17:43.441775+00:00
+【评分】: 平均 4.068181818181818 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "4def9e66-481c-434d-9138-9e66c2eb865f",
+    "manuscript_title": "当代男青年月薪与结婚率之间关系的研究",
+    "author_name": "w.w.shit",
+    "institution": "中国矿业大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-04T01:17:43.441775+00:00",
+    "avg_score": 4.068181818181818,
+    "pdf_path": "4def9e66-481c-434d-9138-9e66c2eb865f/w_w_shit_3238896167_qq_com.pdf",
+    "zone": "septic"
+}

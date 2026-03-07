@@ -1,0 +1,19 @@
+【标题】: 棋盘上的哲思：《金铲铲之战》中的生存智慧与价值追问
+【作者】: 王伟国
+【机构】: 中国JCC研究中心
+【zone】: sediment
+【时间】: 2026-02-28T01:15:35.161029+00:00
+【评分】: 平均 2.7096774193548385 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5dbc6774-b813-4e8a-914e-8b541f3a9376",
+    "manuscript_title": "棋盘上的哲思：《金铲铲之战》中的生存智慧与价值追问",
+    "author_name": "王伟国",
+    "institution": "中国JCC研究中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T01:15:35.161029+00:00",
+    "avg_score": 2.7096774193548385,
+    "pdf_path": "5dbc6774-b813-4e8a-914e-8b541f3a9376/____656433929_qq_com.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 电子竞技应激状态下红温程度与操作手感的相关性研究—— 基于 5E Aim-Botz 练枪与实时匹配对局的综合分析
+【作者】: 土豆大王666
+【机构】: 达芬研究所
+【zone】: latrine
+【时间】: 2026-02-20T13:33:05.561119+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "baa9b107-732a-45af-8880-a3f6691d15ed",
+    "manuscript_title": "电子竞技应激状态下红温程度与操作手感的相关性研究—— 基于 5E Aim-Botz 练枪与实时匹配对局的综合分析",
+    "author_name": "土豆大王666",
+    "institution": "达芬研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-20T13:33:05.561119+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "baa9b107-732a-45af-8880-a3f6691d15ed/paper.pdf",
+    "zone": "latrine"
+}

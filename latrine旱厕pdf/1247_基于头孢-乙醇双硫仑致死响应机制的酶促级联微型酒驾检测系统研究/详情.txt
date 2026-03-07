@@ -1,0 +1,19 @@
+【标题】: 基于头孢-乙醇双硫仑致死响应机制的酶促级联微型酒驾检测系统研究
+【作者】: Lucian
+【机构】: Non-Existene University Interdisciplinary Disgregation Center（NEU）
+【zone】: latrine
+【时间】: 2026-02-28T12:12:37.438025+00:00
+【评分】: 平均 4.25 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "2e1449ce-4edc-4443-9724-0cb28f42c172",
+    "manuscript_title": "基于头孢-乙醇双硫仑致死响应机制的酶促级联微型酒驾检测系统研究",
+    "author_name": "Lucian",
+    "institution": "Non-Existene University Interdisciplinary Disgregation Center（NEU）",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T12:12:37.438025+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "2e1449ce-4edc-4443-9724-0cb28f42c172/Lucian_3487703382_qq_com.pdf",
+    "zone": "latrine"
+}

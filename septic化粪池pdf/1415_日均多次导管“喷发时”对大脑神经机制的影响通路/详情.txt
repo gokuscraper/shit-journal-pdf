@@ -1,0 +1,19 @@
+【标题】: 日均多次导管“喷发时”对大脑神经机制的影响通路
+【作者】: Dao Ziku
+【机构】: 导管第一大学多导专业
+【zone】: septic
+【时间】: 2026-02-26T04:52:43.16283+00:00
+【评分】: 平均 4.337078651685394 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "182b66b6-1e61-4867-9e30-844163a59291",
+    "manuscript_title": "日均多次导管“喷发时”对大脑神经机制的影响通路",
+    "author_name": "Dao Ziku",
+    "institution": "导管第一大学多导专业",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-26T04:52:43.16283+00:00",
+    "avg_score": 4.337078651685394,
+    "pdf_path": "182b66b6-1e61-4867-9e30-844163a59291/Dao_Ziku_zhaoweishabi_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 论当代大学生早八课睡眠姿势与梦境叙事结构的耦合关系——一项基于梦境模型的实证研究
+【作者】: 龍瑶
+【机构】: shit职业技术学院
+【zone】: latrine
+【时间】: 2026-03-01T08:40:57.875082+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "e4911ac3-65fb-4f63-9367-e6d924dbd737",
+    "manuscript_title": "论当代大学生早八课睡眠姿势与梦境叙事结构的耦合关系——一项基于梦境模型的实证研究",
+    "author_name": "龍瑶",
+    "institution": "shit职业技术学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T08:40:57.875082+00:00",
+    "avg_score": 0,
+    "pdf_path": "e4911ac3-65fb-4f63-9367-e6d924dbd737/___1530950784_qq_com.pdf",
+    "zone": "latrine"
+}

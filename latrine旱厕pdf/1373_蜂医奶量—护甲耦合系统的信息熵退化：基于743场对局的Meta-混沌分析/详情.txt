@@ -1,0 +1,19 @@
+【标题】: 蜂医奶量—护甲耦合系统的信息熵退化：基于743场对局的Meta-混沌分析
+【作者】: 小小声牵手
+【机构】: SANJIAOZHOU UNIVERSITY 
+【zone】: latrine
+【时间】: 2026-03-02T08:05:40.10409+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "1d780521-194d-4a9c-9dca-3578f49d1cfe",
+    "manuscript_title": "蜂医奶量—护甲耦合系统的信息熵退化：基于743场对局的Meta-混沌分析",
+    "author_name": "小小声牵手",
+    "institution": "SANJIAOZHOU UNIVERSITY ",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T08:05:40.10409+00:00",
+    "avg_score": 0,
+    "pdf_path": "1d780521-194d-4a9c-9dca-3578f49d1cfe/______15116900603_163_com.pdf",
+    "zone": "latrine"
+}

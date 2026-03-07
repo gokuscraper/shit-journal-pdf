@@ -1,0 +1,19 @@
+【标题】: The Love Between Helzog And Jiang Nan Is Gei Or Furry（论白王赫尔佐格与作家江南恋爱究竟是南通还是福瑞
+【作者】: Rosen
+【机构】: 卡塞尔学院
+【zone】: septic
+【时间】: 2026-03-02T18:03:40.58026+00:00
+【评分】: 平均 3.918918918918919 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cb9dbd4e-49bc-4671-a188-037256109351",
+    "manuscript_title": "The Love Between Helzog And Jiang Nan Is Gei Or Furry（论白王赫尔佐格与作家江南恋爱究竟是南通还是福瑞",
+    "author_name": "Rosen",
+    "institution": "卡塞尔学院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T18:03:40.58026+00:00",
+    "avg_score": 3.918918918918919,
+    "pdf_path": "cb9dbd4e-49bc-4671-a188-037256109351/Rosen_3147707028_qq_com.pdf",
+    "zone": "septic"
+}

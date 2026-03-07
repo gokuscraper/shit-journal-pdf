@@ -1,0 +1,19 @@
+【标题】: “移动式便盆：一种利用计算机视觉技术在维多利亚时代机械装置中实现自主如厕导航的嵌入式系统”
+【作者】: QJHWC
+【机构】: 水刊大学
+【zone】: latrine
+【时间】: 2026-03-01T04:02:27.173454+00:00
+【评分】: 平均 4.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a3b147af-005e-4c11-9057-0214860bd11d",
+    "manuscript_title": "“移动式便盆：一种利用计算机视觉技术在维多利亚时代机械装置中实现自主如厕导航的嵌入式系统”",
+    "author_name": "QJHWC",
+    "institution": "水刊大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-01T04:02:27.173454+00:00",
+    "avg_score": 4.75,
+    "pdf_path": "a3b147af-005e-4c11-9057-0214860bd11d/QJHWC_jqin41749_gmail_com.pdf",
+    "zone": "latrine"
+}

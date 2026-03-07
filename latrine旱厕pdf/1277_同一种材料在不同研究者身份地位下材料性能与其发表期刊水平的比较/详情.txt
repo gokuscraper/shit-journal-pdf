@@ -1,0 +1,19 @@
+【标题】: 同一种材料在不同研究者身份地位下材料性能与其发表期刊水平的比较
+【作者】: Shit 加币
+【机构】: 化粪池大学
+【zone】: latrine
+【时间】: 2026-02-23T04:34:05.105385+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "296c0400-781c-4f68-9739-c70061d3505c",
+    "manuscript_title": "同一种材料在不同研究者身份地位下材料性能与其发表期刊水平的比较",
+    "author_name": "Shit 加币",
+    "institution": "化粪池大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T04:34:05.105385+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "296c0400-781c-4f68-9739-c70061d3505c/paper.pdf",
+    "zone": "latrine"
+}

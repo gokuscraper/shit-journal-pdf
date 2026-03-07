@@ -1,0 +1,19 @@
+【标题】: 肠道菌群与计算机集群的相似性研究——肠道菌群编织计算机网络的可行性探讨
+【作者】: Jerry_tu
+【机构】: D1ck University(Shenzhen)
+【zone】: latrine
+【时间】: 2026-02-27T10:44:57.663909+00:00
+【评分】: 平均 3.6 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3baf4eb5-ec8d-4e51-956f-c07bbc7f048a",
+    "manuscript_title": "肠道菌群与计算机集群的相似性研究——肠道菌群编织计算机网络的可行性探讨",
+    "author_name": "Jerry_tu",
+    "institution": "D1ck University(Shenzhen)",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-02-27T10:44:57.663909+00:00",
+    "avg_score": 3.6,
+    "pdf_path": "3baf4eb5-ec8d-4e51-956f-c07bbc7f048a/Jerry_tu_tybox_2023_qq_com.pdf",
+    "zone": "latrine"
+}

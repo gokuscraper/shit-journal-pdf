@@ -1,0 +1,19 @@
+【标题】: 当代社交语境下“海王” 多线程情感维护极限的量化研究
+【作者】: Dr.ShitLI
+【机构】: College of Shit,Shit University
+【zone】: septic
+【时间】: 2026-03-01T13:55:46.785858+00:00
+【评分】: 平均 4.235294117647059 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3df27c72-484e-4177-a69c-7e8701309274",
+    "manuscript_title": "当代社交语境下“海王” 多线程情感维护极限的量化研究",
+    "author_name": "Dr.ShitLI",
+    "institution": "College of Shit,Shit University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:55:46.785858+00:00",
+    "avg_score": 4.235294117647059,
+    "pdf_path": "3df27c72-484e-4177-a69c-7e8701309274/Dr_ShitLI_liyingboybl_126_com.pdf",
+    "zone": "septic"
+}

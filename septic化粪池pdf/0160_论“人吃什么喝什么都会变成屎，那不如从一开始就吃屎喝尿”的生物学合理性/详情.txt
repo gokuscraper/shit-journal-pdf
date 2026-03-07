@@ -1,0 +1,19 @@
+【标题】: 论“人吃什么喝什么都会变成屎，那不如从一开始就吃屎喝尿”的生物学合理性
+【作者】: Dr.雪特
+【机构】: 老废物研究院
+【zone】: septic
+【时间】: 2026-02-25T18:43:36.48761+00:00
+【评分】: 平均 4.15625 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cc238cc0-9a00-4b8e-96d8-8a94b0077768",
+    "manuscript_title": "论“人吃什么喝什么都会变成屎，那不如从一开始就吃屎喝尿”的生物学合理性",
+    "author_name": "Dr.雪特",
+    "institution": "老废物研究院",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T18:43:36.48761+00:00",
+    "avg_score": 4.15625,
+    "pdf_path": "cc238cc0-9a00-4b8e-96d8-8a94b0077768/Dr____bandeng61_outlook_com.pdf",
+    "zone": "septic"
+}

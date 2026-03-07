@@ -1,0 +1,19 @@
+【标题】: 论东北雨姐对地球自转的影响
+【作者】: Morin
+【机构】: 阿拜多斯高等学院
+【zone】: latrine
+【时间】: 2026-02-23T16:40:45.279334+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "3819c9af-c37b-4013-8834-ad741dcba9f0",
+    "manuscript_title": "论东北雨姐对地球自转的影响",
+    "author_name": "Morin",
+    "institution": "阿拜多斯高等学院",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T16:40:45.279334+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "3819c9af-c37b-4013-8834-ad741dcba9f0/paper.pdf",
+    "zone": "latrine"
+}

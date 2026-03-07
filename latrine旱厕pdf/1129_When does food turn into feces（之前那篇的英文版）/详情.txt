@@ -1,0 +1,19 @@
+【标题】: When does food turn into feces（之前那篇的英文版）
+【作者】: Jay Chong
+【机构】: 国立首尔大学
+【zone】: latrine
+【时间】: 2026-02-23T10:19:09.349791+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "3e8ae179-7e2c-4321-824f-839d269685f2",
+    "manuscript_title": "When does food turn into feces（之前那篇的英文版）",
+    "author_name": "Jay Chong",
+    "institution": "国立首尔大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T10:19:09.349791+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "3e8ae179-7e2c-4321-824f-839d269685f2/paper.pdf",
+    "zone": "latrine"
+}

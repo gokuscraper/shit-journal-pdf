@@ -1,0 +1,19 @@
+【标题】: Spatial Behavior and Academic Productivity in Night-Owl Researchers
+【作者】: Dr.Waterbear
+【机构】: Department of PUA, Multiverse University
+【zone】: latrine
+【时间】: 2026-02-25T08:58:39.125298+00:00
+【评分】: 平均 3.6153846153846154 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a8105b0a-e4cc-4eb6-a816-95dc785ca50b",
+    "manuscript_title": "Spatial Behavior and Academic Productivity in Night-Owl Researchers",
+    "author_name": "Dr.Waterbear",
+    "institution": "Department of PUA, Multiverse University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:58:39.125298+00:00",
+    "avg_score": 3.6153846153846154,
+    "pdf_path": "a8105b0a-e4cc-4eb6-a816-95dc785ca50b/Dr_Waterbear_waterbear_pua_163_com.pdf",
+    "zone": "latrine"
+}

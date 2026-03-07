@@ -1,0 +1,19 @@
+【标题】: 长期无性接触对恋爱脑阈值——性压抑的影响
+【作者】: Antonoff Petnowsky
+【机构】: 哈夫科精神研究所
+【zone】: latrine
+【时间】: 2026-03-03T04:56:34.209968+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "305044fd-7f89-4cf4-a415-623fcdd6186d",
+    "manuscript_title": "长期无性接触对恋爱脑阈值——性压抑的影响",
+    "author_name": "Antonoff Petnowsky",
+    "institution": "哈夫科精神研究所",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-03T04:56:34.209968+00:00",
+    "avg_score": 0,
+    "pdf_path": "305044fd-7f89-4cf4-a415-623fcdd6186d/Antonoff_Petnowsky_2236465414_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 强奸猥亵诬告犯与“知心大姐姐”法官的生态关系：基于司法性别偏袒的恶性循环研究
+【作者】: Dr.Jing
+【机构】: Caliton University
+【zone】: septic
+【时间】: 2026-02-25T07:56:34.70505+00:00
+【评分】: 平均 4.237704918032787 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "0db64cf0-f4f3-45dc-9ef8-d4a1b2cb472b",
+    "manuscript_title": "强奸猥亵诬告犯与“知心大姐姐”法官的生态关系：基于司法性别偏袒的恶性循环研究",
+    "author_name": "Dr.Jing",
+    "institution": "Caliton University",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-02-25T07:56:34.70505+00:00",
+    "avg_score": 4.237704918032787,
+    "pdf_path": "0db64cf0-f4f3-45dc-9ef8-d4a1b2cb472b/Dr_Jing_wangkarroy31_gmail_com.pdf",
+    "zone": "septic"
+}

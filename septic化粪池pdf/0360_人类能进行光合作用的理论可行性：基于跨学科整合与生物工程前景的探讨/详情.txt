@@ -1,0 +1,19 @@
+【标题】: 人类能进行光合作用的理论可行性：基于跨学科整合与生物工程前景的探讨
+【作者】: 虹雨然然
+【机构】: GPNU
+【zone】: septic
+【时间】: 2026-02-28T13:15:46.08443+00:00
+【评分】: 平均 4.454545454545454 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "adcf16ee-7930-4dbd-b854-df50a70294ce",
+    "manuscript_title": "人类能进行光合作用的理论可行性：基于跨学科整合与生物工程前景的探讨",
+    "author_name": "虹雨然然",
+    "institution": "GPNU",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-02-28T13:15:46.08443+00:00",
+    "avg_score": 4.454545454545454,
+    "pdf_path": "adcf16ee-7930-4dbd-b854-df50a70294ce/_____1423163027_qq_com.pdf",
+    "zone": "septic"
+}

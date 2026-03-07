@@ -1,0 +1,19 @@
+【标题】: 不同排泄物处理对豌豆口感品质的影响
+【作者】: 曹孟德的豌豆
+【机构】: 新枫丹科学院自然科学实验室
+【zone】: septic
+【时间】: 2026-03-01T14:05:20.103624+00:00
+【评分】: 平均 3.806451612903226 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cff5fdd1-fab7-4bc7-9519-80a322d61855",
+    "manuscript_title": "不同排泄物处理对豌豆口感品质的影响",
+    "author_name": "曹孟德的豌豆",
+    "institution": "新枫丹科学院自然科学实验室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T14:05:20.103624+00:00",
+    "avg_score": 3.806451612903226,
+    "pdf_path": "cff5fdd1-fab7-4bc7-9519-80a322d61855/_______RobertMills4495_outlook_com.pdf",
+    "zone": "septic"
+}

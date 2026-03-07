@@ -1,0 +1,19 @@
+【标题】: 大便时起飞与痔疮的潜在紧密联系：基于解剖生理与血流动力学的理论探析
+【作者】: shiteer
+【机构】: 尸米医学院
+【zone】: latrine
+【时间】: 2026-02-28T15:45:49.826575+00:00
+【评分】: 平均 4.0625 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "c3fbda9e-1204-4b4a-8be7-c95985909244",
+    "manuscript_title": "大便时起飞与痔疮的潜在紧密联系：基于解剖生理与血流动力学的理论探析",
+    "author_name": "shiteer",
+    "institution": "尸米医学院",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-02-28T15:45:49.826575+00:00",
+    "avg_score": 4.0625,
+    "pdf_path": "c3fbda9e-1204-4b4a-8be7-c95985909244/shiteer_1842326431_qq_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 黄金坑位：拉野屎爽感机制分析与野外排泄选坑模型研究
+【作者】: 屎King
+【机构】: 野外排泄合作社
+【zone】: latrine
+【时间】: 2026-03-03T07:43:34.493548+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b6aa40fe-8518-4400-8de1-4e8158873d54",
+    "manuscript_title": "黄金坑位：拉野屎爽感机制分析与野外排泄选坑模型研究",
+    "author_name": "屎King",
+    "institution": "野外排泄合作社",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T07:43:34.493548+00:00",
+    "avg_score": 0,
+    "pdf_path": "b6aa40fe-8518-4400-8de1-4e8158873d54/_King_2780807192_qq_com.pdf",
+    "zone": "latrine"
+}

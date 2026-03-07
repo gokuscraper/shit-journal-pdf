@@ -1,0 +1,19 @@
+【标题】: 性压抑情境下男性异性互动中社交迫切性焦虑的抑制策略研究
+【作者】: shit hero
+【机构】: 989 univercity
+【zone】: sediment
+【时间】: 2026-02-28T07:52:13.865191+00:00
+【评分】: 平均 3.7333333333333334 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "cf349b1e-098a-4512-9569-0ade5160e8a8",
+    "manuscript_title": "性压抑情境下男性异性互动中社交迫切性焦虑的抑制策略研究",
+    "author_name": "shit hero",
+    "institution": "989 univercity",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-28T07:52:13.865191+00:00",
+    "avg_score": 3.7333333333333334,
+    "pdf_path": "cf349b1e-098a-4512-9569-0ade5160e8a8/shit_hero_1359486941_qq_com.pdf",
+    "zone": "sediment"
+}

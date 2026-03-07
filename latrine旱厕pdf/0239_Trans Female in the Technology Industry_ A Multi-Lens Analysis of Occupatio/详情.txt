@@ -1,0 +1,19 @@
+【标题】: Trans Female in the Technology Industry: A Multi-Lens Analysis of Occupational Concentration Through Push, Pull, and Pathway Frameworks
+【作者】: Humming
+【机构】: The Hai Kou Polytechnic University
+【zone】: latrine
+【时间】: 2026-02-25T14:51:05.440924+00:00
+【评分】: 平均 2.411764705882353 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "bffbff8a-4499-4296-b723-8d3af7e83cf0",
+    "manuscript_title": "Trans Female in the Technology Industry: A Multi-Lens Analysis of Occupational Concentration Through Push, Pull, and Pathway Frameworks",
+    "author_name": "Humming",
+    "institution": "The Hai Kou Polytechnic University",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-02-25T14:51:05.440924+00:00",
+    "avg_score": 2.411764705882353,
+    "pdf_path": "bffbff8a-4499-4296-b723-8d3af7e83cf0/Humming_hu*****_*******san_moe.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: Neurosurgeon Survival Strategy on Socialist Saturn during Healthcare Reform
+【作者】: fish
+【机构】: 渔村医院神经外科
+【zone】: sediment
+【时间】: 2026-03-01T12:43:05.859573+00:00
+【评分】: 平均 3.4722222222222223 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2d5c1673-8455-4ca8-ba66-c2f6215ed463",
+    "manuscript_title": "Neurosurgeon Survival Strategy on Socialist Saturn during Healthcare Reform",
+    "author_name": "fish",
+    "institution": "渔村医院神经外科",
+    "viscosity": "high-entropy",
+    "discipline": "medical",
+    "created_at": "2026-03-01T12:43:05.859573+00:00",
+    "avg_score": 3.4722222222222223,
+    "pdf_path": "2d5c1673-8455-4ca8-ba66-c2f6215ed463/fish_fish2251_outlook_com.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 为什么蚊子总咬我不咬别人：一种微观歧视现象学分析
+【作者】: Yolo
+【机构】: 人蚊关系协调大学
+【zone】: septic
+【时间】: 2026-03-03T13:07:33.099464+00:00
+【评分】: 平均 3.871794871794872 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "fea41d74-be47-4691-baf6-6a0aebea32ec",
+    "manuscript_title": "为什么蚊子总咬我不咬别人：一种微观歧视现象学分析",
+    "author_name": "Yolo",
+    "institution": "人蚊关系协调大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T13:07:33.099464+00:00",
+    "avg_score": 3.871794871794872,
+    "pdf_path": "fea41d74-be47-4691-baf6-6a0aebea32ec/Yolo_13690149828_163_com.pdf",
+    "zone": "septic"
+}

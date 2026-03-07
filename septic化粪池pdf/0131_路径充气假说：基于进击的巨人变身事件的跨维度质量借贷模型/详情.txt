@@ -1,0 +1,19 @@
+【标题】: 路径充气假说：基于进击的巨人变身事件的跨维度质量借贷模型
+【作者】: Ozymandias
+【机构】: Northwest University
+【zone】: septic
+【时间】: 2026-03-03T02:25:38.550136+00:00
+【评分】: 平均 4.166666666666667 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cf6a9b6f-472b-440c-aa9d-2ef0102a11b3",
+    "manuscript_title": "路径充气假说：基于进击的巨人变身事件的跨维度质量借贷模型",
+    "author_name": "Ozymandias",
+    "institution": "Northwest University",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-03T02:25:38.550136+00:00",
+    "avg_score": 4.166666666666667,
+    "pdf_path": "cf6a9b6f-472b-440c-aa9d-2ef0102a11b3/Ozymandias_ozymandiasxj_gmail_com.pdf",
+    "zone": "septic"
+}

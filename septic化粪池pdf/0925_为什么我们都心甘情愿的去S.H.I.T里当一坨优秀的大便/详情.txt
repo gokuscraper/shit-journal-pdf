@@ -1,0 +1,19 @@
+【标题】: 为什么我们都心甘情愿的去S.H.I.T里当一坨优秀的大便
+【作者】: 胞肛排出物
+【机构】: 没上过大学
+【zone】: septic
+【时间】: 2026-02-27T18:21:36.174714+00:00
+【评分】: 平均 4.371428571428571 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "5be8497d-102a-47c7-950f-84045138b411",
+    "manuscript_title": "为什么我们都心甘情愿的去S.H.I.T里当一坨优秀的大便",
+    "author_name": "胞肛排出物",
+    "institution": "没上过大学",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-02-27T18:21:36.174714+00:00",
+    "avg_score": 4.371428571428571,
+    "pdf_path": "5be8497d-102a-47c7-950f-84045138b411/______zhengyuxuan001_gmail_com.pdf",
+    "zone": "septic"
+}

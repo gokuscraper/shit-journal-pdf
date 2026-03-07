@@ -1,0 +1,19 @@
+【标题】: 修仙界底层散修的阶层跃升路径分析——外物赋能（仙器）对境界晋升周期的压缩效应
+【作者】: Dr. 谢不柔
+【机构】: Luoyun Comprehensive University of Immortal Arts and Tech-Metaphysics (LCIAM)
+【zone】: latrine
+【时间】: 2026-02-25T11:23:45.970977+00:00
+【评分】: 平均 4.2727272727272725 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "68b01d3d-6602-4d20-9901-fa09701fc637",
+    "manuscript_title": "修仙界底层散修的阶层跃升路径分析——外物赋能（仙器）对境界晋升周期的压缩效应",
+    "author_name": "Dr. 谢不柔",
+    "institution": "Luoyun Comprehensive University of Immortal Arts and Tech-Metaphysics (LCIAM)",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T11:23:45.970977+00:00",
+    "avg_score": 4.2727272727272725,
+    "pdf_path": "68b01d3d-6602-4d20-9901-fa09701fc637/Dr______lny872190857_gmail_com.pdf",
+    "zone": "latrine"
+}

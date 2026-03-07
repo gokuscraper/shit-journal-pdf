@@ -1,0 +1,19 @@
+【标题】: 高压架空输电线路下人体排尿电击风险的暂态物理模型与机理研究
+【作者】: PiGun NiaoLiu
+【机构】: 家里蹲大学
+【zone】: septic
+【时间】: 2026-03-02T10:25:44.321277+00:00
+【评分】: 平均 4.515151515151516 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "75152881-9254-419d-9ac5-2da07ee68f2e",
+    "manuscript_title": "高压架空输电线路下人体排尿电击风险的暂态物理模型与机理研究",
+    "author_name": "PiGun NiaoLiu",
+    "institution": "家里蹲大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T10:25:44.321277+00:00",
+    "avg_score": 4.515151515151516,
+    "pdf_path": "75152881-9254-419d-9ac5-2da07ee68f2e/PiGun_NiaoLiu_yxyyjfyje_gmail_com.pdf",
+    "zone": "septic"
+}

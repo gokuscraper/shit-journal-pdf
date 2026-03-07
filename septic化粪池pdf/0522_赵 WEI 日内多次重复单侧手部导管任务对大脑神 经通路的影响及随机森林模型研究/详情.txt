@@ -1,0 +1,19 @@
+【标题】: 赵 WEI 日内多次重复单侧手部导管任务对大脑神 经通路的影响及随机森林模型研究
+【作者】: Dao Zai Ku
+【机构】: 导管大学多导专业
+【zone】: septic
+【时间】: 2026-02-27T03:01:39.356625+00:00
+【评分】: 平均 4.551020408163265 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "95a3c5df-aede-44f2-88bd-39d0b0da55e6",
+    "manuscript_title": "赵 WEI 日内多次重复单侧手部导管任务对大脑神 经通路的影响及随机森林模型研究",
+    "author_name": "Dao Zai Ku",
+    "institution": "导管大学多导专业",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T03:01:39.356625+00:00",
+    "avg_score": 4.551020408163265,
+    "pdf_path": "95a3c5df-aede-44f2-88bd-39d0b0da55e6/Dao_Zai_Ku_sherlockzg125_gmail_com.pdf",
+    "zone": "septic"
+}

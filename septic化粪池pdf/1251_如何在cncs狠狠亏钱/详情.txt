@@ -1,0 +1,19 @@
+【标题】: 如何在cncs狠狠亏钱
+【作者】: 一个天天亏钱的人
+【机构】: 亏钱大学
+【zone】: septic
+【时间】: 2026-03-03T13:26:15.363656+00:00
+【评分】: 平均 3.857142857142857 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "2d45ebd6-2703-4bfd-b27b-671182d860d3",
+    "manuscript_title": "如何在cncs狠狠亏钱",
+    "author_name": "一个天天亏钱的人",
+    "institution": "亏钱大学",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T13:26:15.363656+00:00",
+    "avg_score": 3.857142857142857,
+    "pdf_path": "2d45ebd6-2703-4bfd-b27b-671182d860d3/_________799226475_qq_com.pdf",
+    "zone": "septic"
+}

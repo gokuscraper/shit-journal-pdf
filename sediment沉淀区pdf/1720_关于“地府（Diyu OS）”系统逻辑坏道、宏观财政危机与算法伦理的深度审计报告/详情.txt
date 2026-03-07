@@ -1,0 +1,19 @@
+【标题】: 关于“地府（Diyu OS）”系统逻辑坏道、宏观财政危机与算法伦理的深度审计报告
+【作者】: 猫猫头
+【机构】: e.g.阴间研究所
+【zone】: sediment
+【时间】: 2026-03-01T13:21:25.040592+00:00
+【评分】: 平均 3.75 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "f594f1b5-40a6-49d5-b138-e8cf36a5e99a",
+    "manuscript_title": "关于“地府（Diyu OS）”系统逻辑坏道、宏观财政危机与算法伦理的深度审计报告",
+    "author_name": "猫猫头",
+    "institution": "e.g.阴间研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T13:21:25.040592+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "f594f1b5-40a6-49d5-b138-e8cf36a5e99a/____kanyi200152_gmail_com.pdf",
+    "zone": "sediment"
+}

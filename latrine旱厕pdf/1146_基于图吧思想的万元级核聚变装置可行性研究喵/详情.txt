@@ -1,0 +1,19 @@
+【标题】: 基于图吧思想的万元级核聚变装置可行性研究喵
+【作者】: 洛俚
+【机构】: 哈尔滨某大学
+【zone】: latrine
+【时间】: 2026-02-23T14:17:10.204767+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "3ca41c0a-b9f2-40b2-99a7-cee81b91e426",
+    "manuscript_title": "基于图吧思想的万元级核聚变装置可行性研究喵",
+    "author_name": "洛俚",
+    "institution": "哈尔滨某大学",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T14:17:10.204767+00:00",
+    "avg_score": 0,
+    "pdf_path": "3ca41c0a-b9f2-40b2-99a7-cee81b91e426/paper.pdf",
+    "zone": "latrine"
+}

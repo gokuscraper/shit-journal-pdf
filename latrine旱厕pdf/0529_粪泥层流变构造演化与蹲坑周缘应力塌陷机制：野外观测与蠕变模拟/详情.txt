@@ -1,0 +1,19 @@
+【标题】: 粪泥层流变构造演化与蹲坑周缘应力塌陷机制：野外观测与蠕变模拟
+【作者】: Nick
+【机构】: 构石科技大学地球与行星粪坑科学学院
+【zone】: latrine
+【时间】: 2026-03-03T08:10:11.339385+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "94b7dc49-0d53-40d0-8c08-4206ad01817e",
+    "manuscript_title": "粪泥层流变构造演化与蹲坑周缘应力塌陷机制：野外观测与蠕变模拟",
+    "author_name": "Nick",
+    "institution": "构石科技大学地球与行星粪坑科学学院",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T08:10:11.339385+00:00",
+    "avg_score": 0,
+    "pdf_path": "94b7dc49-0d53-40d0-8c08-4206ad01817e/Nick_Nick_edu_cn.pdf",
+    "zone": "latrine"
+}

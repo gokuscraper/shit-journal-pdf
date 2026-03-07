@@ -1,0 +1,19 @@
+【标题】: 分离性身份障碍对皮肤微生态及其丝袜化学特征的影响——以《BanG Dream! Ave Mujica》若叶睦为例的机制推演
+【作者】: 山高县松灯
+【机构】: 羽丘女子学园
+【zone】: latrine
+【时间】: 2026-02-22T17:18:56.318595+00:00
+【评分】: 平均 4.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "6e583b98-a483-4166-8340-53a362856216",
+    "manuscript_title": "分离性身份障碍对皮肤微生态及其丝袜化学特征的影响——以《BanG Dream! Ave Mujica》若叶睦为例的机制推演",
+    "author_name": "山高县松灯",
+    "institution": "羽丘女子学园",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-22T17:18:56.318595+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "6e583b98-a483-4166-8340-53a362856216/paper.pdf",
+    "zone": "latrine"
+}

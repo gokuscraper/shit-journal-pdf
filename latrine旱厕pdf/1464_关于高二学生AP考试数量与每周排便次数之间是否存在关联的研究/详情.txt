@@ -1,0 +1,19 @@
+【标题】: 关于高二学生AP考试数量与每周排便次数之间是否存在关联的研究
+【作者】: 昴栩名人
+【机构】: 913.5 Restrooms High School
+【zone】: latrine
+【时间】: 2026-03-03T06:35:18.953446+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "10de671f-2779-4502-b24b-c4df8a320766",
+    "manuscript_title": "关于高二学生AP考试数量与每周排便次数之间是否存在关联的研究",
+    "author_name": "昴栩名人",
+    "institution": "913.5 Restrooms High School",
+    "viscosity": "stringy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T06:35:18.953446+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "10de671f-2779-4502-b24b-c4df8a320766/_____liumaiqi436_gmail_com.pdf",
+    "zone": "latrine"
+}

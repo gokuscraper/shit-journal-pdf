@@ -1,0 +1,19 @@
+【标题】: 创伤、规训与阶级再生产：Ave Mujica 人物家境、关系网络与行为逻辑的社会学 - 心理学双维解析
+【作者】: 少女乐队观察家
+【机构】: 羽丘女子中学
+【zone】: latrine
+【时间】: 2026-02-23T07:44:31.962341+00:00
+【评分】: 平均 3.888888888888889 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8d48dc29-d90d-4e35-9885-732e7c7e3c90",
+    "manuscript_title": "创伤、规训与阶级再生产：Ave Mujica 人物家境、关系网络与行为逻辑的社会学 - 心理学双维解析",
+    "author_name": "少女乐队观察家",
+    "institution": "羽丘女子中学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T07:44:31.962341+00:00",
+    "avg_score": 3.888888888888889,
+    "pdf_path": "8d48dc29-d90d-4e35-9885-732e7c7e3c90/paper.pdf",
+    "zone": "latrine"
+}

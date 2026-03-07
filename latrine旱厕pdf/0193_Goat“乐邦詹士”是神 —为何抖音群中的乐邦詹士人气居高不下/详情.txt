@@ -1,0 +1,19 @@
+【标题】: Goat“乐邦詹士”是神 —为何抖音群中的乐邦詹士人气居高不下
+【作者】: AKA我是乌龙
+【机构】: Hong Han 倒模维权群
+【zone】: latrine
+【时间】: 2026-03-03T10:07:00.599796+00:00
+【评分】: 平均 3.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c67569d8-1d36-4551-ac7d-8777a967e07c",
+    "manuscript_title": "Goat“乐邦詹士”是神 —为何抖音群中的乐邦詹士人气居高不下",
+    "author_name": "AKA我是乌龙",
+    "institution": "Hong Han 倒模维权群",
+    "viscosity": "stringy",
+    "discipline": "humanities",
+    "created_at": "2026-03-03T10:07:00.599796+00:00",
+    "avg_score": 3.25,
+    "pdf_path": "c67569d8-1d36-4551-ac7d-8777a967e07c/AKA_____17615016315_163_com.pdf",
+    "zone": "latrine"
+}

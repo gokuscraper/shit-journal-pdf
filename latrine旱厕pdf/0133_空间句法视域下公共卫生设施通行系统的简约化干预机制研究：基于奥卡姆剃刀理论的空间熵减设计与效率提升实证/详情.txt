@@ -1,0 +1,19 @@
+【标题】: 空间句法视域下公共卫生设施通行系统的简约化干预机制研究：基于奥卡姆剃刀理论的空间熵减设计与效率提升实证
+【作者】: 如是观
+【机构】: 如是观
+【zone】: latrine
+【时间】: 2026-03-03T10:20:34.572788+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cefcf666-a0ae-4421-ad77-28e256db8888",
+    "manuscript_title": "空间句法视域下公共卫生设施通行系统的简约化干预机制研究：基于奥卡姆剃刀理论的空间熵减设计与效率提升实证",
+    "author_name": "如是观",
+    "institution": "如是观",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-03T10:20:34.572788+00:00",
+    "avg_score": 0,
+    "pdf_path": "cefcf666-a0ae-4421-ad77-28e256db8888/____rushi_shit_edu_com.pdf",
+    "zone": "latrine"
+}

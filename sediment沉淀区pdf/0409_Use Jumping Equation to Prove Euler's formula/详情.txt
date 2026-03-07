@@ -1,0 +1,19 @@
+【标题】: Use Jumping Equation to Prove Euler's formula
+【作者】: Z.H.Allen
+【机构】: 世界原神中学
+【zone】: sediment
+【时间】: 2026-03-02T09:48:21.125043+00:00
+【评分】: 平均 3.606060606060606 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "a6fea8a5-9eee-49cd-9aba-b9f71003dd35",
+    "manuscript_title": "Use Jumping Equation to Prove Euler's formula",
+    "author_name": "Z.H.Allen",
+    "institution": "世界原神中学",
+    "viscosity": "stringy",
+    "discipline": "science",
+    "created_at": "2026-03-02T09:48:21.125043+00:00",
+    "avg_score": 3.606060606060606,
+    "pdf_path": "a6fea8a5-9eee-49cd-9aba-b9f71003dd35/Z_H_Allen_zhangzh_allen_126_com.pdf",
+    "zone": "sediment"
+}

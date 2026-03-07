@@ -1,0 +1,19 @@
+【标题】: 基于多层复杂适应系统、用户黏性与话语权体系摩擦的学术“底刊”消亡时间预测研究
+【作者】: Prof. Ctrl+Z
+【机构】: MIT (Massachusetts Institute of Trash)
+【zone】: latrine
+【时间】: 2026-02-25T13:51:29.121323+00:00
+【评分】: 平均 4.5 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "5cc2549d-6880-4fb2-b0b9-d20f04ee7c96",
+    "manuscript_title": "基于多层复杂适应系统、用户黏性与话语权体系摩擦的学术“底刊”消亡时间预测研究",
+    "author_name": "Prof. Ctrl+Z",
+    "institution": "MIT (Massachusetts Institute of Trash)",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T13:51:29.121323+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "5cc2549d-6880-4fb2-b0b9-d20f04ee7c96/Prof__Ctrl_Z_1469830884_qq_com.pdf",
+    "zone": "latrine"
+}

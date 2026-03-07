@@ -1,0 +1,19 @@
+【标题】: 鼻毛掺杂固态鼻屎诱导打喷嚏促进排便的微观耦合机制：基于量子纠缠理论的跨腔道动力学研究
+【作者】: Shit-Chemistry
+【机构】: 中国屎化研究所
+【zone】: latrine
+【时间】: 2026-02-25T08:56:06.324199+00:00
+【评分】: 平均 4.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "41cd5933-bd9d-4856-ae52-a00df909cd3c",
+    "manuscript_title": "鼻毛掺杂固态鼻屎诱导打喷嚏促进排便的微观耦合机制：基于量子纠缠理论的跨腔道动力学研究",
+    "author_name": "Shit-Chemistry",
+    "institution": "中国屎化研究所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T08:56:06.324199+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "41cd5933-bd9d-4856-ae52-a00df909cd3c/Shit_Chemistry_mwfang_foxmail_com.pdf",
+    "zone": "latrine"
+}

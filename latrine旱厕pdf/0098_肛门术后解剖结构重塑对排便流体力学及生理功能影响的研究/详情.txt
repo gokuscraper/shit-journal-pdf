@@ -1,0 +1,19 @@
+【标题】: 肛门术后解剖结构重塑对排便流体力学及生理功能影响的研究
+【作者】: 缸太玛卡
+【机构】: 猪肚鸡大学
+【zone】: latrine
+【时间】: 2026-03-03T07:50:18.048187+00:00
+【评分】: 平均 0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "d4c7c529-a8d9-4ece-94fa-d32d3dca85ba",
+    "manuscript_title": "肛门术后解剖结构重塑对排便流体力学及生理功能影响的研究",
+    "author_name": "缸太玛卡",
+    "institution": "猪肚鸡大学",
+    "viscosity": "semi",
+    "discipline": "medical",
+    "created_at": "2026-03-03T07:50:18.048187+00:00",
+    "avg_score": 0,
+    "pdf_path": "d4c7c529-a8d9-4ece-94fa-d32d3dca85ba/_____1918992402_qq_com.pdf",
+    "zone": "latrine"
+}

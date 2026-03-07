@@ -1,0 +1,19 @@
+【标题】: 西红柿炒鸡蛋与隔夜炒蒜苔权威性之比较：一项基于营养、文化与食品安全的多维度实证分析
+【作者】: alonzo
+【机构】: 国际大饭店
+【zone】: sediment
+【时间】: 2026-02-27T15:14:58.341247+00:00
+【评分】: 平均 2.3823529411764706 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "c4b39c3a-9bdc-4695-9756-adc43f9177be",
+    "manuscript_title": "西红柿炒鸡蛋与隔夜炒蒜苔权威性之比较：一项基于营养、文化与食品安全的多维度实证分析",
+    "author_name": "alonzo",
+    "institution": "国际大饭店",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-27T15:14:58.341247+00:00",
+    "avg_score": 2.3823529411764706,
+    "pdf_path": "c4b39c3a-9bdc-4695-9756-adc43f9177be/alonzo_bugaoxingxx7_gmail_com.pdf",
+    "zone": "sediment"
+}

@@ -1,0 +1,19 @@
+【标题】: 从文化的角度分析传统人工编程 “守旧派编程” 与 AI 编程 “维新派编程”
+【作者】: 史特·香浓
+【机构】: Goest University
+【zone】: latrine
+【时间】: 2026-03-01T12:53:13.108042+00:00
+【评分】: 平均 4.0 / 粘度 semi
+--------------------------------------------------
+{
+    "id": "fa99d590-2915-47d0-bcee-23e73bf345b2",
+    "manuscript_title": "从文化的角度分析传统人工编程 “守旧派编程” 与 AI 编程 “维新派编程”",
+    "author_name": "史特·香浓",
+    "institution": "Goest University",
+    "viscosity": "semi",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T12:53:13.108042+00:00",
+    "avg_score": 4.0,
+    "pdf_path": "fa99d590-2915-47d0-bcee-23e73bf345b2/______mrlck97_126_com.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: crush 给自己社交软件点赞引发的局部宇宙情 绪暴涨理论：基于刷新强迫、算法暴露与自 指反馈的非线性瞬态模型
+【作者】: bugmaker
+【机构】: bugmaker研究所
+【zone】: septic
+【时间】: 2026-03-02T07:36:35.476472+00:00
+【评分】: 平均 4.2894736842105265 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "8d84190a-ebd2-480c-a595-c47b41ace4d9",
+    "manuscript_title": "crush 给自己社交软件点赞引发的局部宇宙情 绪暴涨理论：基于刷新强迫、算法暴露与自 指反馈的非线性瞬态模型",
+    "author_name": "bugmaker",
+    "institution": "bugmaker研究所",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T07:36:35.476472+00:00",
+    "avg_score": 4.2894736842105265,
+    "pdf_path": "8d84190a-ebd2-480c-a595-c47b41ace4d9/bugmaker_862243186_qq_com.pdf",
+    "zone": "septic"
+}

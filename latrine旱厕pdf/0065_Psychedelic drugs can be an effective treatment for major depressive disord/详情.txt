@@ -1,0 +1,19 @@
+【标题】: Psychedelic drugs can be an effective treatment for major depressive disorder in both the short and long term
+【作者】: shit producer
+【机构】: University of British Columbia
+【zone】: latrine
+【时间】: 2026-03-01T05:52:26.492566+00:00
+【评分】: 平均 3.0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "d8382e82-0adc-4e3b-868d-71af7f144902",
+    "manuscript_title": "Psychedelic drugs can be an effective treatment for major depressive disorder in both the short and long term",
+    "author_name": "shit producer",
+    "institution": "University of British Columbia",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-01T05:52:26.492566+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "d8382e82-0adc-4e3b-868d-71af7f144902/shit_producer_zheng070125_outlook_com.pdf",
+    "zone": "latrine"
+}

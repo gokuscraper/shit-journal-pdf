@@ -1,0 +1,19 @@
+【标题】: 经纬度与地形对如厕时间和排泄物黏度的影响研究
+【作者】: 莉莉丝
+【机构】: 扎扎师大学
+【zone】: latrine
+【时间】: 2026-02-23T03:26:51.254811+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "692e8bf7-7e54-498c-b402-c256d35194b5",
+    "manuscript_title": "经纬度与地形对如厕时间和排泄物黏度的影响研究",
+    "author_name": "莉莉丝",
+    "institution": "扎扎师大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T03:26:51.254811+00:00",
+    "avg_score": 0,
+    "pdf_path": "692e8bf7-7e54-498c-b402-c256d35194b5/paper.pdf",
+    "zone": "latrine"
+}

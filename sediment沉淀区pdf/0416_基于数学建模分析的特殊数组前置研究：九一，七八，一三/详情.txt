@@ -1,0 +1,19 @@
+【标题】: 基于数学建模分析的特殊数组前置研究：九一，七八，一三
+【作者】: Silas
+【机构】: 南疆电力大学
+【zone】: sediment
+【时间】: 2026-03-02T10:10:34.937602+00:00
+【评分】: 平均 3.3125 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "a62abb13-04c8-474e-b82b-735ed7096029",
+    "manuscript_title": "基于数学建模分析的特殊数组前置研究：九一，七八，一三",
+    "author_name": "Silas",
+    "institution": "南疆电力大学",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-02T10:10:34.937602+00:00",
+    "avg_score": 3.3125,
+    "pdf_path": "a62abb13-04c8-474e-b82b-735ed7096029/Silas_17274795476_163_com.pdf",
+    "zone": "sediment"
+}

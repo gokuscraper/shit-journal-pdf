@@ -1,0 +1,19 @@
+【标题】: RESEARCH ON THE APPLICATION OF Q-LEARNING ALGORITHM OPTIMIZED BY DQN IN PATH PLANNING
+【作者】: Zhang Bogang
+【机构】: Nanjing Erb university
+【zone】: latrine
+【时间】: 2026-02-23T13:05:22.417427+00:00
+【评分】: 平均 3.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "debd87dc-3eb5-4bd4-b33f-6829bafd2d46",
+    "manuscript_title": "RESEARCH ON THE APPLICATION OF Q-LEARNING ALGORITHM OPTIMIZED BY DQN IN PATH PLANNING",
+    "author_name": "Zhang Bogang",
+    "institution": "Nanjing Erb university",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T13:05:22.417427+00:00",
+    "avg_score": 3.0,
+    "pdf_path": "debd87dc-3eb5-4bd4-b33f-6829bafd2d46/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 关于排便“便意—粪便量—排便速度”三者相关性的研究综述
+【作者】: 小屎屎
+【机构】: shift管理大学
+【zone】: latrine
+【时间】: 2026-02-28T12:17:50.561763+00:00
+【评分】: 平均 5.0 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5af195e0-e3d9-49fe-be6c-a69524a24009",
+    "manuscript_title": "关于排便“便意—粪便量—排便速度”三者相关性的研究综述",
+    "author_name": "小屎屎",
+    "institution": "shift管理大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T12:17:50.561763+00:00",
+    "avg_score": 5.0,
+    "pdf_path": "5af195e0-e3d9-49fe-be6c-a69524a24009/____2033527317_qq_com.pdf",
+    "zone": "latrine"
+}

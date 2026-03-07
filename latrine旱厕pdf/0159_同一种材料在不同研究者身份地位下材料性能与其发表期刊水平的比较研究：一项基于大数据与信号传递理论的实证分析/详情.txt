@@ -1,0 +1,19 @@
+【标题】: 同一种材料在不同研究者身份地位下材料性能与其发表期刊水平的比较研究：一项基于大数据与信号传递理论的实证分析
+【作者】: 鸡脖
+【机构】: 石头shit办公室
+【zone】: latrine
+【时间】: 2026-02-23T05:21:44.786018+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "cc374d16-111e-403e-9dab-d75dea7c99c8",
+    "manuscript_title": "同一种材料在不同研究者身份地位下材料性能与其发表期刊水平的比较研究：一项基于大数据与信号传递理论的实证分析",
+    "author_name": "鸡脖",
+    "institution": "石头shit办公室",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T05:21:44.786018+00:00",
+    "avg_score": 0,
+    "pdf_path": "cc374d16-111e-403e-9dab-d75dea7c99c8/paper.pdf",
+    "zone": "latrine"
+}

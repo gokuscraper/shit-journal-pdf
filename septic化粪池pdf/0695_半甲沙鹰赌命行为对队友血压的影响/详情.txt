@@ -1,0 +1,19 @@
+【标题】: 半甲沙鹰赌命行为对队友血压的影响
+【作者】: wave
+【机构】: CSGO研究院沙鹰所
+【zone】: septic
+【时间】: 2026-03-02T05:36:03.611851+00:00
+【评分】: 平均 4.734375 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "7c31533f-7552-4936-9ecc-20bc5343683b",
+    "manuscript_title": "半甲沙鹰赌命行为对队友血压的影响",
+    "author_name": "wave",
+    "institution": "CSGO研究院沙鹰所",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-03-02T05:36:03.611851+00:00",
+    "avg_score": 4.734375,
+    "pdf_path": "7c31533f-7552-4936-9ecc-20bc5343683b/wave_1946056285_qq_com.pdf",
+    "zone": "septic"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于榴莲枕头化可行性及睡眠诱导机制研究
+【作者】: WPZW
+【机构】: Donghai City Haiwan University
+【zone】: latrine
+【时间】: 2026-02-28T07:23:09.554022+00:00
+【评分】: 平均 4.25 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "57faf453-8b86-4e4f-bd88-1925f39a06d4",
+    "manuscript_title": "基于榴莲枕头化可行性及睡眠诱导机制研究",
+    "author_name": "WPZW",
+    "institution": "Donghai City Haiwan University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T07:23:09.554022+00:00",
+    "avg_score": 4.25,
+    "pdf_path": "57faf453-8b86-4e4f-bd88-1925f39a06d4/WPZW_fu_bovie_163_com.pdf",
+    "zone": "latrine"
+}

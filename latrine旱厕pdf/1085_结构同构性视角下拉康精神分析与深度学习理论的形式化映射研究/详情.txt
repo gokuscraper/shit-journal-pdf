@@ -1,0 +1,19 @@
+【标题】: 结构同构性视角下拉康精神分析与深度学习理论的形式化映射研究
+【作者】: DS.豆包超人
+【机构】: 拉普拉斯科算中心
+【zone】: latrine
+【时间】: 2026-02-25T13:12:40.770111+00:00
+【评分】: 平均 4.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "465adbc1-3894-4657-bb32-b1d285197e5a",
+    "manuscript_title": "结构同构性视角下拉康精神分析与深度学习理论的形式化映射研究",
+    "author_name": "DS.豆包超人",
+    "institution": "拉普拉斯科算中心",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-25T13:12:40.770111+00:00",
+    "avg_score": 4.5,
+    "pdf_path": "465adbc1-3894-4657-bb32-b1d285197e5a/DS______mingjian210656_163_com.pdf",
+    "zone": "latrine"
+}

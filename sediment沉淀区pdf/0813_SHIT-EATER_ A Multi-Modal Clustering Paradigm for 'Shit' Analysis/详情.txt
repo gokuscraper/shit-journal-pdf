@@ -1,0 +1,19 @@
+【标题】: SHIT-EATER: A Multi-Modal Clustering Paradigm for 'Shit' Analysis
+【作者】: lepole
+【机构】: Tshithua university
+【zone】: sediment
+【时间】: 2026-03-02T12:16:38.380916+00:00
+【评分】: 平均 3.3823529411764706 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "6bbdfc13-e7f2-4228-8389-a6693ef458ad",
+    "manuscript_title": "SHIT-EATER: A Multi-Modal Clustering Paradigm for 'Shit' Analysis",
+    "author_name": "lepole",
+    "institution": "Tshithua university",
+    "viscosity": "high-entropy",
+    "discipline": "engineering",
+    "created_at": "2026-03-02T12:16:38.380916+00:00",
+    "avg_score": 3.3823529411764706,
+    "pdf_path": "6bbdfc13-e7f2-4228-8389-a6693ef458ad/lepole_epeilin_163_com.pdf",
+    "zone": "sediment"
+}

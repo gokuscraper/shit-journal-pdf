@@ -1,0 +1,19 @@
+【标题】: Study on the Positive Correlation Between Fish Culture Duration and the Quantity of Edible Parts
+【作者】: Capenelest Lavret
+【机构】: Saint Lester State University
+【zone】: latrine
+【时间】: 2026-02-23T05:13:11.260388+00:00
+【评分】: 平均 2.5 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "5db712c7-c743-4bdf-963a-5624d93af07c",
+    "manuscript_title": "Study on the Positive Correlation Between Fish Culture Duration and the Quantity of Edible Parts",
+    "author_name": "Capenelest Lavret",
+    "institution": "Saint Lester State University",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T05:13:11.260388+00:00",
+    "avg_score": 2.5,
+    "pdf_path": "5db712c7-c743-4bdf-963a-5624d93af07c/paper.pdf",
+    "zone": "latrine"
+}

@@ -1,0 +1,19 @@
+【标题】: 基于热力学第二定律的“恢复如初咒”魔法机 制研究：熵减现象的实证分析与理论悖论
+【作者】: MelonSeed
+【机构】: 真才实学研究所
+【zone】: latrine
+【时间】: 2026-03-03T10:48:42.960371+00:00
+【评分】: 平均 0 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "fd9bac9c-6e36-4f61-850f-be457d9ef637",
+    "manuscript_title": "基于热力学第二定律的“恢复如初咒”魔法机 制研究：熵减现象的实证分析与理论悖论",
+    "author_name": "MelonSeed",
+    "institution": "真才实学研究所",
+    "viscosity": "high-entropy",
+    "discipline": "science",
+    "created_at": "2026-03-03T10:48:42.960371+00:00",
+    "avg_score": 0,
+    "pdf_path": "fd9bac9c-6e36-4f61-850f-be457d9ef637/MelonSeed_yuxuan_latex_outlook_com.pdf",
+    "zone": "latrine"
+}

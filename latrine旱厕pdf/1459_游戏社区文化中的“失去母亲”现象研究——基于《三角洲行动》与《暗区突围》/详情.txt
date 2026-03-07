@@ -1,0 +1,19 @@
+【标题】: 游戏社区文化中的“失去母亲”现象研究——基于《三角洲行动》与《暗区突围》
+【作者】: YunWu
+【机构】: 猩吸汪大学
+【zone】: latrine
+【时间】: 2026-02-23T04:53:51.53421+00:00
+【评分】: 平均 3.75 / 粘度 stringy
+--------------------------------------------------
+{
+    "id": "117c67ad-d42a-4108-a158-7964385c383c",
+    "manuscript_title": "游戏社区文化中的“失去母亲”现象研究——基于《三角洲行动》与《暗区突围》",
+    "author_name": "YunWu",
+    "institution": "猩吸汪大学",
+    "viscosity": "stringy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-23T04:53:51.53421+00:00",
+    "avg_score": 3.75,
+    "pdf_path": "117c67ad-d42a-4108-a158-7964385c383c/paper.pdf",
+    "zone": "latrine"
+}

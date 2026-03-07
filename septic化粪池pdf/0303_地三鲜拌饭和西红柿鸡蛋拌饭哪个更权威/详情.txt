@@ -1,0 +1,19 @@
+【标题】: 地三鲜拌饭和西红柿鸡蛋拌饭哪个更权威
+【作者】: 指北
+【机构】: 地外吃饭学院人类探索研究院
+【zone】: septic
+【时间】: 2026-03-02T15:10:00.544284+00:00
+【评分】: 平均 4.361702127659575 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b66db70b-7084-4711-afdc-aff3cbf66d25",
+    "manuscript_title": "地三鲜拌饭和西红柿鸡蛋拌饭哪个更权威",
+    "author_name": "指北",
+    "institution": "地外吃饭学院人类探索研究院",
+    "viscosity": "high-entropy",
+    "discipline": "humanities",
+    "created_at": "2026-03-02T15:10:00.544284+00:00",
+    "avg_score": 4.361702127659575,
+    "pdf_path": "b66db70b-7084-4711-afdc-aff3cbf66d25/___2954547156_qq_com.pdf",
+    "zone": "septic"
+}

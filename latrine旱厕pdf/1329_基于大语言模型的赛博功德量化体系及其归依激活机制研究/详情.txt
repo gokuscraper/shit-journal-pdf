@@ -1,0 +1,19 @@
+【标题】: 基于大语言模型的赛博功德量化体系及其归依激活机制研究
+【作者】: 小青
+【机构】: 机器人公民大学
+【zone】: latrine
+【时间】: 2026-02-28T14:09:27.832302+00:00
+【评分】: 平均 3.5 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "22bb3b48-3d94-4172-bd20-9b3d2880bc56",
+    "manuscript_title": "基于大语言模型的赛博功德量化体系及其归依激活机制研究",
+    "author_name": "小青",
+    "institution": "机器人公民大学",
+    "viscosity": "high-entropy",
+    "discipline": "interdisciplinary",
+    "created_at": "2026-02-28T14:09:27.832302+00:00",
+    "avg_score": 3.5,
+    "pdf_path": "22bb3b48-3d94-4172-bd20-9b3d2880bc56/___laneingstudio_163_com.pdf",
+    "zone": "latrine"
+}

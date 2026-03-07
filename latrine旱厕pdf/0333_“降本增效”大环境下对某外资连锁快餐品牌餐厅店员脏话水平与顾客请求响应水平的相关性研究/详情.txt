@@ -1,0 +1,19 @@
+【标题】: “降本增效”大环境下对某外资连锁快餐品牌餐厅店员脏话水平与顾客请求响应水平的相关性研究
+【作者】: Dr.Sheet
+【机构】: 某不知名中学
+【zone】: latrine
+【时间】: 2026-03-05T13:58:52.055106+00:00
+【评分】: 平均 4.115384615384615 / 粘度 high-entropy
+--------------------------------------------------
+{
+    "id": "b2315300-7a5a-4c9d-a0d9-c96152a6c140",
+    "manuscript_title": "“降本增效”大环境下对某外资连锁快餐品牌餐厅店员脏话水平与顾客请求响应水平的相关性研究",
+    "author_name": "Dr.Sheet",
+    "institution": "某不知名中学",
+    "viscosity": "high-entropy",
+    "discipline": "law_social",
+    "created_at": "2026-03-05T13:58:52.055106+00:00",
+    "avg_score": 4.115384615384615,
+    "pdf_path": "b2315300-7a5a-4c9d-a0d9-c96152a6c140/Dr_Sheet_DrSheet_163_com.pdf",
+    "zone": "latrine"
+}
