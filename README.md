@@ -30,14 +30,8 @@ shit 期刊官网：[shitjournal.org](https://shitjournal.org)
 
 
 
-# 联系方式
+# 交流群
 
-悟空爬虫提供专业的数据采集服务，
+欢迎进群聊聊天，吹吹水。
 
-如果您有合法合规的需求，欢迎联系我们。
-
-**官网** : [https://www.gokuscraper.com](https://www.gokuscraper.com)
-
-
-
-![image-20260307013902058](https://assets.gokuscraper.com/images/2026/03/07/ed05c48e6f61b63d.webp)
+![交流群](https://asiaassets.gokuscraper.com/%E6%82%9F%E7%A9%BA%E7%88%AC%E8%99%AB.jpg)
