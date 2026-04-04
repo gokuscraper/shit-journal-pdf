@@ -8,12 +8,6 @@
 
 
 
-**学术终会落后，而shit永远是shit。**
-
-
-
-shit 期刊官网：[shitjournal.org](https://shitjournal.org)
-
 # 新手下载方法（数据比较多，也可以不下载直接看）
 
 ## 1.
@@ -32,6 +26,5 @@ shit 期刊官网：[shitjournal.org](https://shitjournal.org)
 
 # 交流群
 
-欢迎进群聊聊天，吹吹水。
 
 ![交流群](https://asiaassets.gokuscraper.com/%E6%82%9F%E7%A9%BA%E7%88%AC%E8%99%AB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
