@@ -1,0 +1,21 @@
+
+name: Goku-Cleanup
+on: workflow_dispatch
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install Tools
+        run: pip install git-filter-repo
+      - name: Surgery
+        run: |
+          git config user.name "Goku-Scraper"
+          git config user.email "contact@gokuscraper.com"
+          git filter-repo --email-callback '
+            return b"contact@gokuscraper.com" if email == b"2759866098@qq.com" else email
+          ' --force
+      - name: Force Push
+        run: git push origin --force --all
